@@ -7,9 +7,8 @@ nltk.download('stopwords')
 
 stopwords = set(stopwords.words('english'))
 
-def chatbot():
-    print("Hello! I am a chatbot. I can help you with your travel plans.")
-    print("Please enter your query: ")
+def filter():
+    print("Hello! I am a filter. Please specify the Country and State you want to visit.")
     user_input = input()
     return user_input
 
@@ -27,5 +26,5 @@ def operations(sentence):
             print("Days: " + i)
 
 while (True):
-    user_input = chatbot()
+    user_input = filter()
     operations(user_input)
