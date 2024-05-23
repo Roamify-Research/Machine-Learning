@@ -867,7 +867,6 @@ Sessa Orchid Sanctuary,7000,4.8,Arunachal Pradesh,India
 Daporijo,6000,4.7,Arunachal Pradesh,India
 Hayuliang,5000,4.6,Arunachal Pradesh,India
 
-name,visits,rating,state,country
 India Gate,5000000,4.9,Delhi,India
 Red Fort,4500000,4.8,Delhi,India
 Qutub Minar,4000000,4.7,Delhi,India
@@ -898,3 +897,34 @@ Mehrauli Archaeological Park,20000,4.6,Delhi,India
 Garden of Five Senses,15000,4.8,Delhi,India
 Teen Murti Bhavan,10000,4.7,Delhi,India
 Pragati Maidan,9000,4.6,Delhi,India
+
+Shimla,2000000,4.9,Himachal Pradesh,India
+Manali,1800000,4.8,Himachal Pradesh,India
+Dharamshala,1600000,4.7,Himachal Pradesh,India
+Dalhousie,1500000,4.8,Himachal Pradesh,India
+Kasauli,1400000,4.7,Himachal Pradesh,India
+Spiti Valley,1300000,4.9,Himachal Pradesh,India
+Kullu,1200000,4.8,Himachal Pradesh,India
+McLeod Ganj,1100000,4.7,Himachal Pradesh,India
+Chamba,1000000,4.6,Himachal Pradesh,India
+Kufri,900000,4.8,Himachal Pradesh,India
+Kasol,800000,4.7,Himachal Pradesh,India
+Palampur,700000,4.8,Himachal Pradesh,India
+Kinnaur,600000,4.7,Himachal Pradesh,India
+Solang Valley,500000,4.6,Himachal Pradesh,India
+Narkanda,400000,4.8,Himachal Pradesh,India
+Mashobra,300000,4.7,Himachal Pradesh,India
+Tirthan Valley,200000,4.8,Himachal Pradesh,India
+Barot,150000,4.7,Himachal Pradesh,India
+Jogini Waterfall,100000,4.8,Himachal Pradesh,India
+Kalpa,90000,4.6,Himachal Pradesh,India
+Hampta Pass,80000,4.7,Himachal Pradesh,India
+Rohtang Pass,70000,4.8,Himachal Pradesh,India
+Triund,60000,4.7,Himachal Pradesh,India
+Chitkul,50000,4.6,Himachal Pradesh,India
+Parashar Lake,40000,4.8,Himachal Pradesh,India
+Bir Billing,30000,4.7,Himachal Pradesh,India
+Malana,20000,4.6,Himachal Pradesh,India
+Khajjiar,15000,4.8,Himachal Pradesh,India
+Chandratal Lake,10000,4.7,Himachal Pradesh,India
+Great Himalayan National Park,9000,4.6,Himachal Pradesh,India
