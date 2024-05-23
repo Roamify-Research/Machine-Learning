@@ -36,11 +36,11 @@ def operations(sentence):
     for word in filtered_sentence:
         if word.lower() in states_lower:
             original_state = states[states_lower.index(word.lower())]
-            print("Location: " + original_state)
+            print(f"\nLocation identified: {original_state}\n")
             state_name = original_state
             location_found = True
         elif word.isdigit():
-            print("Days: " + word)
+            print(f"\nNumber of days: {word}\n")
             days_found = True
 
     if not location_found:
