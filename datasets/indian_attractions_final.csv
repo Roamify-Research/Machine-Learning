@@ -1,34 +1,34 @@
-Name,Visitors,Rating,State,Country,Historical,Natural,Amusement,Beach
-Tirumala Venkateswara Temple,30000000,4.8,Andhra Pradesh,India,5,4,2,0
-Araku Valley,2000000,4.5,Andhra Pradesh,India,2,5,3,0
-Borra Caves,1000000,4.4,Andhra Pradesh,India,3,5,3,0
-Ramakrishna Beach,2000000,4.3,Andhra Pradesh,India,2,3,4,5
-Srisailam,1500000,4.5,Andhra Pradesh,India,5,4,2,0
-Kanaka Durga Temple,1000000,4.5,Andhra Pradesh,India,5,3,2,0
-Undavalli Caves,500000,4.4,Andhra Pradesh,India,5,4,2,0
-Lepakshi,300000,4.5,Andhra Pradesh,India,5,3,2,0
-Ahobilam Temple,200000,4.6,Andhra Pradesh,India,5,4,2,0
-Kailasagiri,1000000,4.3,Andhra Pradesh,India,2,4,4,0
-Gandikota,400000,4.5,Andhra Pradesh,India,4,5,3,0
-Thotlakonda Buddhist Complex,300000,4.4,Andhra Pradesh,India,5,4,2,0
-Kolleru Lake,150000,4.2,Andhra Pradesh,India,2,5,2,0
-Manginapudi Beach,200000,4.1,Andhra Pradesh,India,2,3,3,5
-Sri Venkateswara National Park,500000,4.3,Andhra Pradesh,India,2,5,3,0
-Pavurallakonda,100000,4.2,Andhra Pradesh,India,4,4,2,0
-Yaganti Temple,200000,4.4,Andhra Pradesh,India,5,4,2,0
-Maredumilli,150000,4.5,Andhra Pradesh,India,2,5,3,0
-Rajahmundry Godavari Bridge,500000,4.4,Andhra Pradesh,India,3,4,3,0
-Draksharamam Temple,300000,4.5,Andhra Pradesh,India,5,3,2,0
-Suryalanka Beach,250000,4.3,Andhra Pradesh,India,2,3,3,5
-Sankaram,100000,4.2,Andhra Pradesh,India,4,3,2,0
-Simhachalam Temple,1000000,4.5,Andhra Pradesh,India,5,3,2,0
-VUDA Park,700000,4.2,Andhra Pradesh,India,2,3,4,0
-Dwaraka Tirumala,500000,4.4,Andhra Pradesh,India,5,3,2,0
-Sriharikota,200000,4.3,Andhra Pradesh,India,3,3,3,0
-Bavikonda,100000,4.2,Andhra Pradesh,India,4,3,2,0
-Belum Caves,250000,4.5,Andhra Pradesh,India,3,5,3,0
-Annavaram Temple,1000000,4.5,Andhra Pradesh,India,5,3,2,0
-Nagarjunakonda,150000,4.3,Andhra Pradesh,India,5,4,2,0
+Name,Visitors,Rating,State,Historical,Natural,Amusement,Beach,Opening Hours,Description
+Tirumala Venkateswara Temple,30000000,4.8,Andhra Pradesh,5,4,2,0,24 hours,A prominent Hindu temple dedicated to Lord Venkateswara.
+Araku Valley,2000000,4.5,Andhra Pradesh,2,5,3,0,6:00 AM - 6:00 PM,A scenic hill station known for its coffee plantations.
+Borra Caves,1000000,4.4,Andhra Pradesh,3,5,3,0,6:00 AM - 6:00 PM,Limestone caves known for their stalactites and stalagmites.
+Ramakrishna Beach,2000000,4.3,Andhra Pradesh,2,3,4,5,24 hours,A popular beach in Visakhapatnam.
+Srisailam,1500000,4.5,Andhra Pradesh,5,4,2,0,5:00 AM - 10:00 PM,A famous pilgrimage site with ancient temples.
+Kanaka Durga Temple,1000000,4.5,Andhra Pradesh,5,3,2,0,4:00 AM - 9:00 PM,A revered Hindu temple located in Vijayawada.
+Undavalli Caves,500000,4.4,Andhra Pradesh,5,4,2,0,9:00 AM - 5:00 PM,Ancient rock-cut caves near Vijayawada.
+Lepakshi,300000,4.5,Andhra Pradesh,5,3,2,0,6:00 AM - 8:00 PM,A village known for its rich history and architecture.
+Ahobilam Temple,200000,4.6,Andhra Pradesh,5,4,2,0,6:00 AM - 9:00 PM,A temple complex located in the Nallamala Hills.
+Kailasagiri,1000000,4.3,Andhra Pradesh,2,4,4,0,9:00 AM - 8:00 PM,A hilltop park with panoramic views of Visakhapatnam.
+Gandikota,400000,4.5,Andhra Pradesh,4,5,3,0,6:00 AM - 6:00 PM,A historic fort overlooking the Penna River.
+Thotlakonda Buddhist Complex,300000,4.4,Andhra Pradesh,5,4,2,0,9:00 AM - 5:00 PM,An ancient Buddhist site near Visakhapatnam.
+Kolleru Lake,150000,4.2,Andhra Pradesh,2,5,2,0,6:00 AM - 6:00 PM,A large freshwater lake and bird sanctuary.
+Manginapudi Beach,200000,4.1,Andhra Pradesh,2,3,3,5,24 hours,A scenic beach located near Machilipatnam.
+Sri Venkateswara National Park,500000,4.3,Andhra Pradesh,2,5,3,0,6:00 AM - 6:00 PM,A national park known for its biodiversity.
+Pavurallakonda,100000,4.2,Andhra Pradesh,4,4,2,0,9:00 AM - 5:00 PM,An ancient Buddhist site near Bheemunipatnam.
+Yaganti Temple,200000,4.4,Andhra Pradesh,5,4,2,0,6:00 AM - 9:00 PM,A temple dedicated to Lord Shiva.
+Maredumilli,150000,4.5,Andhra Pradesh,2,5,3,0,6:00 AM - 6:00 PM,A forest area known for its waterfalls and natural beauty.
+Rajahmundry Godavari Bridge,500000,4.4,Andhra Pradesh,3,4,3,0,24 hours,A bridge over the Godavari River.
+Draksharamam Temple,300000,4.5,Andhra Pradesh,5,3,2,0,5:00 AM - 8:00 PM,A historic temple dedicated to Lord Shiva.
+Suryalanka Beach,250000,4.3,Andhra Pradesh,2,3,3,5,24 hours,A beach known for its scenic beauty.
+Sankaram,100000,4.2,Andhra Pradesh,4,3,2,0,9:00 AM - 5:00 PM,An ancient Buddhist site in Anakapalle.
+Simhachalam Temple,1000000,4.5,Andhra Pradesh,5,3,2,0,6:00 AM - 9:00 PM,A famous temple dedicated to Lord Narasimha.
+VUDA Park,700000,4.2,Andhra Pradesh,2,3,4,0,9:00 AM - 8:00 PM,A park in Visakhapatnam with various attractions.
+Dwaraka Tirumala,500000,4.4,Andhra Pradesh,5,3,2,0,6:00 AM - 8:00 PM,A famous Hindu temple dedicated to Lord Venkateswara.
+Sriharikota,200000,4.3,Andhra Pradesh,3,3,3,0,9:00 AM - 5:00 PM,A spaceport operated by the Indian Space Research Organisation.
+Bavikonda,100000,4.2,Andhra Pradesh,4,3,2,0,9:00 AM - 5:00 PM,An ancient Buddhist site near Visakhapatnam.
+Belum Caves,250000,4.5,Andhra Pradesh,3,5,3,0,9:00 AM - 5:00 PM,A cave system known for its stalactites and stalagmites.
+Annavaram Temple,1000000,4.5,Andhra Pradesh,5,3,2,0,6:00 AM - 9:00 PM,A temple dedicated to Lord Satyanarayana.
+Nagarjunakonda,150000,4.3,Andhra Pradesh,5,4,2,0,9:00 AM - 5:00 PM,An archaeological site known for its Buddhist ruins.
 
 Mysore Palace,3000000,4.7,Karnataka,India,5,3,3,0
 Bangalore Palace,2000000,4.4,Karnataka,India,5,3,3,0
@@ -339,3 +339,34 @@ Lothal,60000,4.8,Gujarat,India,5,3,2,1
 Gopnath Beach,50000,4.7,Gujarat,India,1,5,3,5
 Sarkhej Roza,40000,4.6,Gujarat,India,5,2,2,1
 "Kirti Mandir, Porbandar",30000,4.8,Gujarat,India,5,2,1,1
+
+Amber Fort,2500000,4.8,Rajasthan,India,5,2,1,1,9:00 AM - 5:00 PM,"A historic fort located in Jaipur, known for its artistic Hindu style elements."
+"City Palace, Jaipur",2000000,4.7,Rajasthan,India,5,2,2,1,9:30 AM - 5:00 PM,A beautiful palace complex in Jaipur that includes the Chandra Mahal and Mubarak Mahal palaces.
+Hawa Mahal,2200000,4.6,Rajasthan,India,5,2,1,1,9:00 AM - 5:00 PM,"A palace in Jaipur, known for its distinctive pink facade and windows."
+"Jantar Mantar, Jaipur",1800000,4.8,Rajasthan,India,5,2,2,1,9:00 AM - 5:00 PM,A historic astronomical observatory in Jaipur built by Maharaja Jai Singh II.
+Mehrangarh Fort,1600000,4.7,Rajasthan,India,5,3,1,1,9:00 AM - 5:00 PM,"A massive fort located in Jodhpur, offering panoramic views of the city."
+Lake Pichola,1400000,4.8,Rajasthan,India,2,5,3,1,9:00 AM - 6:00 PM,"A picturesque lake in Udaipur, known for its boat rides and scenic views."
+"City Palace, Udaipur",1500000,4.6,Rajasthan,India,5,2,2,1,9:30 AM - 5:00 PM,"A grand palace in Udaipur, located on the banks of Lake Pichola."
+Jaisalmer Fort,1300000,4.8,Rajasthan,India,5,2,1,1,9:00 AM - 5:00 PM,"A large fort located in Jaisalmer, known for its yellow sandstone architecture."
+Ranthambore National Park,1200000,4.9,Rajasthan,India,1,5,3,1,6:00 AM - 6:00 PM,A renowned national park known for its population of Bengal tigers.
+Pushkar Lake,1100000,4.6,Rajasthan,India,3,4,1,1,24 hours,"A sacred lake in Pushkar, surrounded by temples and ghats."
+Chittorgarh Fort,1000000,4.7,Rajasthan,India,5,3,2,1,9:00 AM - 5:00 PM,"A historic fort in Chittorgarh, known for its massive structure and historical significance."
+Kumbhalgarh Fort,900000,4.8,Rajasthan,India,5,3,2,1,9:00 AM - 5:00 PM,"A Mewar fortress on the westerly range of Aravalli Hills, known for its large and thick walls."
+Mount Abu,800000,4.7,Rajasthan,India,2,5,2,1,24 hours,"A popular hill station in Rajasthan, known for its cool climate and scenic beauty."
+Ajmer Sharif Dargah,700000,4.6,Rajasthan,India,5,3,2,1,4:00 AM - 10:00 PM,A famous Islamic pilgrimage site in Ajmer.
+Umaid Bhawan Palace,600000,4.7,Rajasthan,India,5,2,2,1,9:00 AM - 5:00 PM,"A majestic palace in Jodhpur, now partly a hotel and museum."
+Saheliyon Ki Bari,500000,4.6,Rajasthan,India,3,4,2,1,8:00 AM - 8:00 PM,"A major garden in Udaipur, known for its fountains and lush greenery."
+Jal Mahal,400000,4.8,Rajasthan,India,5,3,2,1,9:00 AM - 5:00 PM,A palace located in the middle of Man Sagar Lake in Jaipur.
+Nahargarh Fort,300000,4.7,Rajasthan,India,5,3,2,1,10:00 AM - 5:30 PM,"A historic fort located on the edge of the Aravalli Hills, overlooking the city of Jaipur."
+Bikaner Fort,200000,4.8,Rajasthan,India,5,2,1,1,10:00 AM - 5:00 PM,"A historic fort located in Bikaner, known for its unique architecture."
+Mandawa,150000,4.6,Rajasthan,India,5,3,2,1,24 hours,"A town in Jhunjhunu district, known for its havelis and forts."
+Sariska Tiger Reserve,100000,4.7,Rajasthan,India,1,5,2,1,6:00 AM - 6:00 PM,"A renowned tiger reserve in Alwar, known for its population of tigers."
+Keoladeo National Park,500000,4.8,Rajasthan,India,2,5,2,1,6:00 AM - 6:00 PM,"A bird sanctuary in Bharatpur, known for its diverse avian species."
+Bagore Ki Haveli,600000,4.7,Rajasthan,India,5,2,2,1,10:00 AM - 5:30 PM,"A historic haveli in Udaipur, known for its cultural exhibits."
+Sheesh Mahal,700000,4.6,Rajasthan,India,5,2,2,1,9:00 AM - 5:00 PM,"A palace in Amber, known for its beautiful mirror work."
+Sikar,400000,4.7,Rajasthan,India,4,2,1,1,24 hours,"A town in Rajasthan, known for its historical significance and architecture."
+Alwar Fort,500000,4.8,Rajasthan,India,5,3,2,1,10:00 AM - 5:00 PM,"A historic fort in Alwar, known for its massive structure."
+Junagarh Fort,300000,4.7,Rajasthan,India,5,2,1,1,9:00 AM - 5:00 PM,"A historic fort in Bikaner, known for its intricate architecture."
+Panna Meena Ka Kund,200000,4.8,Rajasthan,India,5,2,1,1,24 hours,An ancient stepwell located near the Amer Fort.
+Jaigarh Fort,600000,4.7,Rajasthan,India,5,3,2,1,9:00 AM - 4:30 PM,"A historic fort located in Jaipur, offering panoramic views of the city."
+Neemrana Fort,300000,4.6,Rajasthan,India,5,2,1,1,9:00 AM - 5:00 PM,"A historic fort in Neemrana, now converted into a luxury hotel."
