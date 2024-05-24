@@ -92,7 +92,36 @@ Veli Tourist Village,Thiruvananthapuram,Kerala,40000,4.3,6:00 AM - 6:00 PM,2,3,2
 Kottayam,Kottayam,Kerala,30000,4.4,24 hours,3,5,2,0,A city known for its rubber plantations.
 Kuttanad,Kuttanad,Kerala,25000,4.5,24 hours,3,5,2,0,A region known for its backwaters and paddy fields.
 
-Tamil Nadu
+Madurai Meenakshi Amman Temple,Madurai,Tamil Nadu,15000000,4.5,"5:00 AM - 12:30 PM, 4:00 PM - 10:00 PM",5,2,2,0,A historic Hindu temple located in the city of Madurai.
+Kapaleeshwarar Temple,Chennai,Tamil Nadu,5000000,4.5,"5:00 AM - 12:00 PM, 4:00 PM - 9:00 PM",5,2,2,0,A temple dedicated to Lord Shiva located in Chennai.
+Marina Beach,Chennai,Tamil Nadu,20000000,4.0,24 hours,2,5,2,5,A natural urban beach in Chennai.
+Brihadeeswara Temple,Thanjavur,Tamil Nadu,1500000,5.0,"6:00 AM - 12:30 PM, 4:00 PM - 8:30 PM",5,2,2,0,A Hindu temple dedicated to Shiva located in Thanjavur.
+Besant Nagar Beach,Chennai,Tamil Nadu,5000000,4.0,24 hours,2,5,2,5,"A beach located in Besant Nagar, Chennai."
+Arulmigu Ramanatha Swamy Temple,Rameswaram,Tamil Nadu,2000000,4.5,"5:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",5,2,2,0,A famous temple dedicated to Lord Shiva located in Rameswaram.
+Snow Kingdom,Chennai,Tamil Nadu,500000,5.0,10:00 AM - 6:00 PM,2,2,5,0,An amusement park located in Chennai.
+Monuments at Mahabalipuram,Mahabalipuram,Tamil Nadu,1700000,4.5,6:00 AM - 6:00 PM,5,2,2,0,A UNESCO World Heritage site known for its rock-cut sculptures.
+Vivekananda Rock Memorial,Kanyakumari,Tamil Nadu,1500000,4.5,7:00 AM - 4:00 PM,5,2,2,0,A memorial dedicated to Swami Vivekananda located in Kanyakumari.
+Chettinad,Chettinad,Tamil Nadu,400000,5.0,24 hours,5,2,2,0,A region known for its palatial mansions and heritage.
+Kumbakonam,Kumbakonam,Tamil Nadu,1000000,4.6,"6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM",5,2,2,0,A town known for its temples and religious significance.
+Trichy (Tiruchirappalli),Tiruchirappalli,Tamil Nadu,2000000,4.1,"6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",5,2,2,0,A city known for its ancient temples and historical significance.
+Chidambaram,Chidambaram,Tamil Nadu,800000,4.6,"6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM",5,2,2,0,A town known for its temples and religious significance.
+Nagapattinam,Nagapattinam,Tamil Nadu,600000,5.0,"6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",5,2,2,0,A coastal town known for its temples and religious significance.
+Vedanthangal Bird Sanctuary,Vedanthangal,Tamil Nadu,200000,3.8,6:00 AM - 6:00 PM,2,5,2,0,A bird sanctuary located in Kancheepuram district.
+Tharangambadi (Tranquebar),Tharangambadi,Tamil Nadu,150000,5.0,6:00 AM - 6:00 PM,5,2,2,0,A coastal town known for its Danish colonial architecture.
+Courtallam (Kutralam),Courtallam,Tamil Nadu,1000000,4.2,6:00 AM - 6:00 PM,2,5,2,0,A town known for its waterfalls and natural beauty.
+Bellikkal,Bellikkal,Tamil Nadu,100000,4.5,24 hours,2,5,2,0,A hill station known for its natural beauty and tranquility.
+Vellore Fort,Vellore,Tamil Nadu,300000,3.5,9:00 AM - 5:00 PM,5,2,2,0,A historic fort located in the city of Vellore.
+Yercaud,Yercaud,Tamil Nadu,500000,4.3,24 hours,2,5,2,0,A hill station known for its coffee plantations and natural beauty.
+Kodaikanal Lake,Kodaikanal,Tamil Nadu,800000,4.4,6:00 AM - 6:00 PM,2,5,2,0,A man-made lake located in the hill station of Kodaikanal.
+Hogenakkal Falls,Dharmapuri,Tamil Nadu,700000,4.3,24 hours,2,5,2,0,A waterfall located in Dharmapuri district.
+Ooty Lake,Ooty,Tamil Nadu,1200000,4.2,6:00 AM - 6:00 PM,2,5,2,0,A man-made lake located in the hill station of Ooty.
+Mysore Palace,Mysore,Tamil Nadu,3000000,4.6,24 hours,5,2,2,0,A historic palace located in the city of Mysore.
+Nilgiri Mountain Railway,Ooty,Tamil Nadu,1500000,4.5,24 hours,5,2,2,0,A railway line connecting Mettupalayam and Ooty.
+Annamalaiyar Temple,Tiruvannamalai,Tamil Nadu,1000000,4.5,6:00 AM - 8:00 PM,5,2,2,0,A temple dedicated to Lord Shiva located in Tiruvannamalai.
+"Ranganathaswamy Temple, Srirangam",Srirangam,Tamil Nadu,2000000,4.5,6:00 AM - 8:00 PM,5,2,2,0,A temple dedicated to Lord Vishnu located in Srirangam.
+Pichavaram Mangrove Forest,Cuddalore,Tamil Nadu,150000,4.2,6:00 AM - 6:00 PM,2,5,2,0,A mangrove forest located in Cuddalore district.
+Pulicat Lake,Nellore,Tamil Nadu,200000,4.1,6:00 AM - 6:00 PM,2,5,2,0,A lagoon located in Nellore district.
+Gangaikonda Cholapuram,Gangaikonda Cholapuram,Tamil Nadu,250000,4.7,6:00 AM - 6:00 PM,5,2,2,0,A temple town known for its historical significance.
 
 Golconda Fort,Hyderabad,Telangana,3000000,4.5,9:00 AM - 5:30 PM,5,2,2,0,"A historic fort located in Hyderabad, known for its grandeur and architectural beauty."
 Charminar,Hyderabad,Telangana,2500000,4.4,9:30 AM - 5:30 PM,5,2,2,0,An iconic monument and mosque located in Hyderabad.
