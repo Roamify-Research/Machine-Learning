@@ -1,0 +1,37 @@
+# Machine-Learning
+
+## Datasets
+
+- **Official Tourism Websites**: Each state in India typically has an official tourism website that provides detailed information about popular tourist attractions, including their history, visiting hours, and other relevant details.
+
+    - [Incredible India](https://www.incredibleindia.org/)
+    - [Andhra Pradesh Tourism](https://aptourism.gov.in/)
+    - [Karnataka Tourism](https://www.karnatakatourism.org/)
+    - [Kerala Tourism](https://www.keralatourism.org/)
+    - [Tamil Nadu Tourism](https://www.tamilnadutourism.tn.gov.in/)
+    - [Telangana Tourism](https://www.telanganatourism.gov.in/)
+    - [Maharashtra Tourism](https://www.maharashtratourism.gov.in/)
+    - [Punjab Tourism](https://punjabtourism.punjab.gov.in/)
+    - [Haryana Tourism](https://haryanatourism.gov.in/)
+    - [Jammu & Kashmir Tourism](https://www.jktourism.jk.gov.in/)
+    - [Goa Tourism](http://www.goatourism.gov.in/)
+    - [Gujarat Tourism](https://www.gujarattourism.com/)
+    - [Rajasthan Tourism](https://www.tourism.rajasthan.gov.in/)
+    - [Assam Tourism](https://www.assamtourism.gov.in/)
+    - [Mizoram Tourism](https://tourism.mizoram.gov.in/)
+    - [Madhya Pradesh Tourism](https://www.mptourism.com/)
+    - [Jharkhand Tourism](https://tourism.jharkhand.gov.in/)
+    - [Odisha Tourism](https://odishatourism.gov.in/)
+    - [Uttarakhand Tourism](https://uttarakhandtourism.gov.in/)
+    - [Chhattisgarh Tourism](https://www.chhattisgarhtourism.in/)
+    - [Bihar Tourism](http://www.bihartourism.gov.in/)
+    - [Tripura Tourism](https://tripuratourism.gov.in/)
+    - [Meghalaya Tourism](https://www.meghalayatourism.in/)
+    - [Manipur Tourism](https://manipurtourism.gov.in/)
+    - [Nagaland Tourism](https://tourism.nagaland.gov.in/)
+    - [Arunachal Pradesh Tourism](https://tourism.arunachal.gov.in/)
+    - [Himachal Pradesh Tourism](https://www.himachalpradeshtourism.org/)
+    - [Delhi Tourism](http://www.delhitourism.gov.in/)
+    - [Sikkim Tourism](https://www.sikkimtourism.gov.in/)
+    - [Andaman and Nicobar Tourism](https://www.andamantourism.gov.in/)
+    - [Lakshadweep Tourism](https://www.lakshadweeptourism.com/)
