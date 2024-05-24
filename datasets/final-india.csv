@@ -248,3 +248,127 @@ Govardhan Hill,Mathura,Uttar Pradesh,100000,4.8,24 hours,5,3,2,0,"A hill located
 Ramnagar Fort,Varanasi,Uttar Pradesh,90000,4.6,6:00 AM - 6:00 PM,5,2,2,0,A historic fort located in Varanasi.
 Sikandra,Agra,Uttar Pradesh,80000,4.7,6:00 AM - 6:00 PM,5,2,2,0,"The tomb of Akbar the Great, located in Agra."
 Itmad-ud-Daula,Agra,Uttar Pradesh,70000,4.6,6:00 AM - 6:00 PM,5,2,2,0,"A historic tomb in Agra, known for its Mughal architecture."
+
+Gateway of India,Mumbai,Maharashtra,7000000,4.8,24 hours,5,2,2,0,An iconic monument built during the British Raj in Mumbai.
+Ajanta Caves,Aurangabad,Maharashtra,6000000,4.7,6:00 AM - 6:00 PM,5,4,2,0,A UNESCO World Heritage site known for its ancient Buddhist rock-cut caves.
+Ellora Caves,Aurangabad,Maharashtra,5000000,4.8,6:00 AM - 6:00 PM,5,4,2,0,A UNESCO World Heritage site known for its monumental caves.
+Elephanta Caves,Mumbai,Maharashtra,4000000,4.7,9:00 AM - 5:30 PM,5,3,2,0,A UNESCO World Heritage site with rock-cut sculptures and art.
+Chhatrapati Shivaji Terminus,Mumbai,Maharashtra,3000000,4.6,24 hours,5,2,2,0,A historic railway station and UNESCO World Heritage site in Mumbai.
+Marine Drive,Mumbai,Maharashtra,2000000,4.8,24 hours,2,4,3,5,A scenic promenade along the Arabian Sea in Mumbai.
+Shaniwar Wada,Pune,Maharashtra,1000000,4.7,9:30 AM - 5:00 PM,5,2,2,0,"A historic fort in Pune, known for its architecture."
+Mahabaleshwar,Mahabaleshwar,Maharashtra,900000,4.8,24 hours,2,5,3,0,A popular hill station known for its scenic beauty.
+Lonavala,Lonavala,Maharashtra,800000,4.7,24 hours,2,5,3,0,A popular hill station known for its lakes and waterfalls.
+Siddhivinayak Temple,Mumbai,Maharashtra,700000,4.6,4:30 AM - 9:00 PM,4,2,2,0,"A famous Hindu temple in Mumbai, dedicated to Lord Ganesha."
+Haji Ali Dargah,Mumbai,Maharashtra,600000,4.8,5:30 AM - 10:00 PM,4,3,2,0,A famous mosque and dargah located on an islet off the coast of Mumbai.
+Alibaug,Alibaug,Maharashtra,500000,4.7,24 hours,2,5,3,5,A coastal town known for its beaches.
+Sinhagad Fort,Pune,Maharashtra,400000,4.8,6:00 AM - 6:00 PM,5,4,2,0,A historic fort located near Pune.
+Bibi Ka Maqbara,Aurangabad,Maharashtra,300000,4.7,8:00 AM - 8:00 PM,5,3,2,0,"A historic mausoleum in Aurangabad, resembling the Taj Mahal."
+Kanheri Caves,Mumbai,Maharashtra,200000,4.8,7:30 AM - 5:30 PM,5,4,2,0,Ancient rock-cut caves located in Mumbai.
+Chikhaldara,Chikhaldara,Maharashtra,100000,4.7,24 hours,2,5,2,0,A hill station known for its wildlife and natural beauty.
+Panchgani,Panchgani,Maharashtra,90000,4.8,24 hours,2,5,2,0,A hill station known for its scenic beauty.
+Tadoba Andhari Tiger Reserve,Chandrapur,Maharashtra,80000,4.7,6:00 AM - 9:00 PM,3,5,2,0,A tiger reserve located in Chandrapur district.
+Rajmachi Fort,Lonavala,Maharashtra,70000,4.8,24 hours,5,4,2,0,A historic fort located in the Sahyadri mountains.
+Bhimashankar Temple,Pune,Maharashtra,60000,4.7,5:00 AM - 9:00 PM,5,4,2,0,A famous Hindu temple located in Pune district.
+Pratapgad Fort,Satara,Maharashtra,50000,4.8,10:00 AM - 5:30 PM,5,4,2,0,A historic fort located in Satara district.
+Aga Khan Palace,Pune,Maharashtra,40000,4.7,9:00 AM - 5:30 PM,5,3,2,0,A historic palace located in Pune.
+Elephanta Island,Mumbai,Maharashtra,30000,4.8,9:00 AM - 5:30 PM,5,3,2,5,An island known for its ancient rock-cut temples.
+Lavasa,Lavasa,Maharashtra,20000,4.7,24 hours,2,5,3,0,A planned city known for its lakes and hills.
+Nashik Vineyards,Nashik,Maharashtra,10000,4.8,9:30 AM - 6:00 PM,2,5,2,0,A region known for its vineyards and wine production.
+Aurangabad Caves,Aurangabad,Maharashtra,9000,4.7,6:00 AM - 6:00 PM,5,4,2,0,Ancient rock-cut caves located in Aurangabad.
+Karnala Bird Sanctuary,Raigad,Maharashtra,8000,4.8,7:00 AM - 5:00 PM,3,5,2,0,A bird sanctuary located in Raigad district.
+Hanging Gardens,Mumbai,Maharashtra,7000,4.7,5:00 AM - 9:00 PM,2,4,2,0,A terraced garden located in Mumbai.
+Worli Sea Face,Mumbai,Maharashtra,6000,4.8,24 hours,2,4,2,5,A popular promenade along the coast of Mumbai.
+EsselWorld,Mumbai,Maharashtra,5000,4.7,10:00 AM - 8:00 PM,3,2,5,0,A popular amusement park located in Mumbai.
+
+Statue of Unity,Kevadia,Gujarat,2500000,4.9,8:00 AM - 6:00 PM,3,2,3,0,A colossal statue of Sardar Vallabhbhai Patel located in Kevadia.
+Gir National Park,Gir,Gujarat,2000000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A wildlife sanctuary known for its Asiatic lions.
+Rann of Kutch,Kutch,Gujarat,1800000,4.7,24 hours,2,5,2,0,A salt marsh located in the Thar Desert.
+Somnath Temple,Somnath,Gujarat,2200000,4.8,5:00 AM - 10:00 PM,5,2,2,0,A famous Hindu temple located in Prabhas Patan.
+Dwarkadhish Temple,Dwarka,Gujarat,2100000,4.7,"6:00 AM - 1:00 PM, 5:00 PM - 9:30 PM",5,2,2,0,A famous Hindu temple located in Dwarka.
+Sabarmati Ashram,Ahmedabad,Gujarat,1900000,4.9,8:30 AM - 6:30 PM,5,3,2,0,A historic ashram located in Ahmedabad.
+Laxmi Vilas Palace,Vadodara,Gujarat,1700000,4.8,9:30 AM - 5:00 PM,5,3,2,0,A historic palace located in Vadodara.
+Sardar Patel Stadium,Ahmedabad,Gujarat,1600000,4.7,10:00 AM - 6:00 PM,2,2,4,0,A cricket stadium located in Ahmedabad.
+Kankaria Lake,Ahmedabad,Gujarat,1500000,4.6,9:00 AM - 10:00 PM,2,5,3,0,A man-made lake located in Ahmedabad.
+"Akshardham Temple, Gandhinagar",Gandhinagar,Gujarat,1400000,4.8,9:30 AM - 7:30 PM,5,3,2,0,A Hindu temple located in Gandhinagar.
+"Sun Temple, Modhera",Modhera,Gujarat,1300000,4.7,6:00 AM - 6:00 PM,5,3,2,0,A historic Hindu temple located in Modhera.
+Rani ki Vav,Patan,Gujarat,1200000,4.9,7:00 AM - 6:00 PM,5,2,2,0,A UNESCO World Heritage site located in Patan.
+Vijay Vilas Palace,Mandvi,Gujarat,1100000,4.8,9:00 AM - 6:00 PM,5,3,2,0,A historic palace located in Mandvi.
+Saputara,Saputara,Gujarat,1000000,4.7,24 hours,2,5,3,0,A hill station located in the Dang district.
+Shatrunjaya Hill Temples,Palitana,Gujarat,900000,4.8,6:00 AM - 6:00 PM,5,3,2,0,A group of Jain temples located in Palitana.
+Mandvi Beach,Mandvi,Gujarat,800000,4.7,24 hours,2,5,3,5,A popular beach located in Mandvi.
+Palitana,Palitana,Gujarat,700000,4.8,5:00 AM - 9:30 PM,5,2,2,0,A famous Jain pilgrimage site.
+Velavadar Blackbuck National Park,Bhavnagar,Gujarat,600000,4.7,6:00 AM - 6:00 PM,3,5,2,0,A wildlife sanctuary located in Bhavnagar.
+Marine National Park,Jamnagar,Gujarat,500000,4.8,6:00 AM - 6:00 PM,3,5,3,5,A marine park located in the Gulf of Kutch.
+Sidi Saiyyed Mosque,Ahmedabad,Gujarat,400000,4.6,6:00 AM - 8:00 PM,5,2,2,0,A historic mosque located in Ahmedabad.
+Bhuj,Bhuj,Gujarat,300000,4.7,24 hours,2,4,2,0,A historic city located in the Kutch district.
+Nal Sarovar Bird Sanctuary,Ahmedabad,Gujarat,200000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A bird sanctuary located in the Ahmedabad district.
+Baroda Museum and Picture Gallery,Vadodara,Gujarat,100000,4.7,10:30 AM - 5:30 PM,4,2,2,0,A museum and art gallery located in Vadodara.
+Gandhi Smriti,Bhavnagar,Gujarat,90000,4.6,10:00 AM - 5:00 PM,5,3,2,0,A museum located in Bhavnagar.
+Hutheesing Jain Temple,Ahmedabad,Gujarat,80000,4.8,5:00 AM - 9:00 PM,5,2,2,0,A historic Jain temple located in Ahmedabad.
+Champaner-Pavagadh Archaeological Park,Champaner,Gujarat,70000,4.7,8:30 AM - 5:00 PM,5,5,2,0,A UNESCO World Heritage site located in Champaner.
+Lothal,Bhavnagar,Gujarat,60000,4.8,9:00 AM - 5:00 PM,5,5,2,0,A historic city located in the Bhavnagar district.
+Gopnath Beach,Bhavnagar,Gujarat,50000,4.7,24 hours,2,5,2,5,A beach located in the Bhavnagar district.
+Sarkhej Roza,Ahmedabad,Gujarat,40000,4.6,5:00 AM - 9:00 PM,5,3,2,0,A historic mosque located in Ahmedabad.
+"Kirti Mandir, Porbandar",Porbandar,Gujarat,30000,4.8,8:30 AM - 5:00 PM,5,3,2,0,"A memorial located in Porbandar, dedicated to Mahatma Gandhi."
+
+Amber Fort,Amer,Rajasthan,2500000,4.8,8:00 AM - 5:30 PM,5,2,2,0,"A historic fort located in Amer, near Jaipur."
+"City Palace, Jaipur",Jaipur,Rajasthan,2000000,4.7,9:30 AM - 5:00 PM,5,2,2,0,A historic palace complex located in Jaipur.
+Hawa Mahal,Jaipur,Rajasthan,2200000,4.6,9:00 AM - 4:30 PM,5,2,2,0,"A historic palace located in Jaipur, known for its unique architecture."
+"Jantar Mantar, Jaipur",Jaipur,Rajasthan,1800000,4.8,9:00 AM - 4:30 PM,5,2,2,0,A historic observatory located in Jaipur.
+Mehrangarh Fort,Jodhpur,Rajasthan,1600000,4.7,9:00 AM - 5:00 PM,5,2,2,0,A historic fort located in Jodhpur.
+Lake Pichola,Udaipur,Rajasthan,1400000,4.8,24 hours,2,5,2,0,A picturesque lake located in Udaipur.
+"City Palace, Udaipur",Udaipur,Rajasthan,1500000,4.6,9:30 AM - 5:30 PM,5,2,2,0,A historic palace complex located in Udaipur.
+Jaisalmer Fort,Jaisalmer,Rajasthan,1300000,4.8,8:00 AM - 5:00 PM,5,2,2,0,A historic fort located in Jaisalmer.
+Ranthambore National Park,Sawai Madhopur,Rajasthan,1200000,4.9,6:00 AM - 6:00 PM,2,5,2,0,A national park located in Sawai Madhopur.
+Pushkar Lake,Pushkar,Rajasthan,1100000,4.6,24 hours,3,3,2,0,A sacred lake located in Pushkar.
+Chittorgarh Fort,Chittorgarh,Rajasthan,1000000,4.7,9:30 AM - 6:30 PM,5,2,2,0,A historic fort located in Chittorgarh.
+Kumbhalgarh Fort,Rajsamand,Rajasthan,900000,4.8,6:00 AM - 6:00 PM,5,2,2,0,A historic fort located in the Rajsamand district.
+Mount Abu,Mount Abu,Rajasthan,800000,4.7,24 hours,2,5,2,0,A popular hill station located in the Aravalli range.
+Ajmer Sharif Dargah,Ajmer,Rajasthan,700000,4.6,4:00 AM - 10:00 PM,5,2,2,0,A famous dargah located in Ajmer.
+Umaid Bhawan Palace,Jodhpur,Rajasthan,600000,4.7,9:00 AM - 5:00 PM,5,2,2,0,A historic palace located in Jodhpur.
+Saheliyon Ki Bari,Udaipur,Rajasthan,500000,4.6,9:00 AM - 7:00 PM,2,2,2,0,A historic garden located in Udaipur.
+Jal Mahal,Jaipur,Rajasthan,400000,4.8,9:00 AM - 5:00 PM,5,2,2,0,A historic palace located in Jaipur.
+Nahargarh Fort,Jaipur,Rajasthan,300000,4.7,10:00 AM - 5:00 PM,5,2,2,0,A historic fort located in Jaipur.
+Bikaner Fort,Bikaner,Rajasthan,200000,4.8,10:00 AM - 5:00 PM,5,2,2,0,A historic fort located in Bikaner.
+Mandawa,Mandawa,Rajasthan,150000,4.6,24 hours,4,2,2,0,A historic town known for its havelis.
+Sariska Tiger Reserve,Alwar,Rajasthan,100000,4.7,6:00 AM - 6:00 PM,3,5,2,0,A wildlife sanctuary located in Alwar.
+Keoladeo National Park,Bharatpur,Rajasthan,500000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A national park located in Bharatpur.
+Bagore Ki Haveli,Udaipur,Rajasthan,600000,4.7,9:30 AM - 5:30 PM,5,2,2,0,A historic haveli located in Udaipur.
+Sheesh Mahal,Jaipur,Rajasthan,700000,4.6,9:00 AM - 5:00 PM,5,2,2,0,A historic palace located in Jaipur.
+Sikar,Sikar,Rajasthan,400000,4.7,24 hours,5,2,2,0,A historic city known for its temples.
+Alwar Fort,Alwar,Rajasthan,500000,4.8,10:00 AM - 5:00 PM,5,2,2,0,A historic fort located in Alwar.
+Junagarh Fort,Bikaner,Rajasthan,300000,4.7,10:00 AM - 5:00 PM,5,2,2,0,A historic fort located in Bikaner.
+Panna Meena Ka Kund,Jaipur,Rajasthan,200000,4.8,9:00 AM - 5:00 PM,5,2,2,0,A historic stepwell located in Jaipur.
+Jaigarh Fort,Jaipur,Rajasthan,600000,4.7,9:00 AM - 5:00 PM,5,2,2,0,A historic fort located in Jaipur.
+Neemrana Fort,Neemrana,Rajasthan,300000,4.6,9:00 AM - 5:00 PM,5,2,2,0,A historic fort located in Neemrana.
+
+Victoria Memorial,Kolkata,West Bengal,4000000,4.8,10:00 AM - 5:00 PM,5,2,2,0,"A large marble building in Kolkata, dedicated to the memory of Queen Victoria."
+Howrah Bridge,Kolkata,West Bengal,3500000,4.7,24 hours,5,2,2,0,A historic bridge over the Hooghly River in Kolkata.
+Sundarbans,Sundarbans,West Bengal,3000000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A vast mangrove forest and a UNESCO World Heritage site.
+Dakshineswar Kali Temple,Kolkata,West Bengal,2500000,4.7,5:00 AM - 10:00 PM,5,2,2,0,"A famous Hindu temple dedicated to Goddess Kali, located in Kolkata."
+Kalighat Kali Temple,Kolkata,West Bengal,2000000,4.6,"5:00 AM - 2:00 PM, 5:00 PM - 10:30 PM",5,2,2,0,"A historic Hindu temple dedicated to Goddess Kali, located in Kolkata."
+Darjeeling Himalayan Railway,Darjeeling,West Bengal,1500000,4.8,"8:00 AM - 12:00 PM, 1:30 PM - 5:00 PM",5,4,3,0,A UNESCO World Heritage site known for its narrow-gauge railway.
+Indian Museum,Kolkata,West Bengal,1000000,4.7,10:00 AM - 5:00 PM,5,2,2,0,"The largest and oldest museum in India, located in Kolkata."
+Marble Palace,Kolkata,West Bengal,900000,4.8,10:00 AM - 4:00 PM,5,2,2,0,A historic mansion and art gallery located in Kolkata.
+Eden Gardens,Kolkata,West Bengal,800000,4.7,24 hours,2,2,4,0,A historic cricket ground located in Kolkata.
+Belur Math,Howrah,West Bengal,700000,4.6,"6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM",5,2,2,0,"The headquarters of the Ramakrishna Math and Mission, located in Howrah."
+Birla Planetarium,Kolkata,West Bengal,600000,4.8,12:00 PM - 6:30 PM,2,2,4,0,A large planetarium located in Kolkata.
+St. Paul's Cathedral,Kolkata,West Bengal,500000,4.7,"9:00 AM - 12:00 PM, 3:00 PM - 6:00 PM",5,2,2,0,A historic cathedral located in Kolkata.
+Science City,Kolkata,West Bengal,400000,4.8,9:00 AM - 8:00 PM,2,2,4,0,A large science center and amusement park located in Kolkata.
+Jorasanko Thakur Bari,Kolkata,West Bengal,300000,4.7,10:30 AM - 5:00 PM,5,2,2,0,"The ancestral home of Rabindranath Tagore, located in Kolkata."
+Rabindra Sarobar,Kolkata,West Bengal,200000,4.8,24 hours,2,5,3,0,A large artificial lake and park located in Kolkata.
+Alipore Zoo,Kolkata,West Bengal,150000,4.7,9:00 AM - 5:00 PM,2,3,3,0,A zoological garden located in Kolkata.
+Netaji Bhawan,Kolkata,West Bengal,100000,4.8,11:00 AM - 4:30 PM,5,2,2,0,"The ancestral home of Subhas Chandra Bose, located in Kolkata."
+Fort William,Kolkata,West Bengal,90000,4.7,24 hours,5,2,2,0,A historic fort located in Kolkata.
+Tipu Sultan Mosque,Kolkata,West Bengal,80000,4.8,5:00 AM - 9:00 PM,5,2,2,0,A historic mosque located in Kolkata.
+Nicco Park,Kolkata,West Bengal,70000,4.7,10:30 AM - 6:00 PM,2,3,5,0,An amusement park located in Kolkata.
+Shantiniketan,Shantiniketan,West Bengal,60000,4.8,9:00 AM - 6:00 PM,5,5,2,0,A university town established by Rabindranath Tagore.
+Digha Beach,Digha,West Bengal,50000,4.7,24 hours,2,5,2,5,A popular beach resort town located in East Midnapore.
+Bishnupur,Bishnupur,West Bengal,40000,4.8,6:00 AM - 9:00 PM,5,2,2,0,A town known for its terracotta temples.
+Murshidabad,Murshidabad,West Bengal,30000,4.7,6:00 AM - 6:00 PM,5,2,2,0,A historic city located on the banks of the Ganges River.
+Cooch Behar Palace,Cooch Behar,West Bengal,20000,4.8,10:00 AM - 5:00 PM,5,2,2,0,A historic palace located in Cooch Behar.
+Sundarbans National Park,Sundarbans,West Bengal,10000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A national park and UNESCO World Heritage site.
+Kolkata Tram,Kolkata,West Bengal,9000,4.8,6:00 AM - 10:00 PM,3,2,4,0,A historic tram system in Kolkata.
+Ganga Sagar,Ganga Sagar,West Bengal,8000,4.7,6:00 AM - 10:00 PM,2,5,2,5,A pilgrimage site located on an island in the Ganges delta.
+Raj Bhavan,Kolkata,West Bengal,7000,4.8,10:00 AM - 5:00 PM,5,2,2,0,A historic building and official residence of the Governor of West Bengal.
+Jaldapara National Park,Alipurduar,West Bengal,6000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A national park and wildlife sanctuary located in Alipurduar.
