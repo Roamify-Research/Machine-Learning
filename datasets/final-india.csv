@@ -651,3 +651,158 @@ Pawapuri,Pawapuri,Bihar,4000,4.6,24 hours,5,2,2,0,A town known for its associati
 Bhimbandh Wildlife Sanctuary,Munger,Bihar,3000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A wildlife sanctuary located in the Munger district.
 Kaimur Wildlife Sanctuary,Kaimur,Bihar,2000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A wildlife sanctuary located in the Kaimur district.
 Darbhanga,Darbhanga,Bihar,1000,4.6,6:00 AM - 6:00 PM,2,2,2,0,A city known for its cultural heritage.
+
+Neermahal,Rudrasagar,Tripura,400000,4.8,9:00 AM - 5:00 PM,5,2,2,0,A former royal palace located in the middle of Rudrasagar Lake.
+Ujjayanta Palace,Agartala,Tripura,350000,4.7,10:00 AM - 5:00 PM,5,2,2,0,A royal palace and museum in Agartala.
+Tripura Sundari Temple,Udaipur,Tripura,300000,4.6,6:00 AM - 8:00 PM,5,2,2,0,A Hindu temple dedicated to Goddess Tripura Sundari.
+Sepahijala Wildlife Sanctuary,Sepahijala,Tripura,250000,4.7,8:00 AM - 4:00 PM,2,5,2,0,A wildlife sanctuary known for its diverse flora and fauna.
+Jampui Hills,Kanchanpur,Tripura,200000,4.8,24 hours,2,5,2,0,A hill range known for its scenic beauty.
+Unakoti,Unakoti,Tripura,150000,4.7,6:00 AM - 6:00 PM,5,2,2,0,An ancient site known for its rock carvings.
+Chabimura,Amarpur,Tripura,100000,4.6,6:00 AM - 6:00 PM,2,5,2,0,A site known for its rock carvings and sculptures.
+Pilak,Jolaibari,Tripura,90000,4.8,6:00 AM - 6:00 PM,5,2,2,0,An archaeological site with ancient ruins.
+Dumboor Lake,Gandacherra,Tripura,80000,4.7,24 hours,2,5,2,0,A lake known for its scenic beauty and water sports.
+Kamalasagar,Kamalasagar,Tripura,70000,4.6,6:00 AM - 6:00 PM,2,2,2,0,A town known for its scenic beauty and cultural heritage.
+Trishna Wildlife Sanctuary,Belonia,Tripura,60000,4.8,8:00 AM - 4:00 PM,2,5,2,0,A wildlife sanctuary known for its rich biodiversity.
+Bhubaneswari Temple,Udaipur,Tripura,50000,4.7,6:00 AM - 6:00 PM,5,2,2,0,A temple dedicated to Goddess Bhubaneswari.
+Kunjaban Palace,Agartala,Tripura,40000,4.6,10:00 AM - 5:00 PM,5,2,2,0,A palace known for its architecture and history.
+Buddha Temple,Agartala,Tripura,30000,4.8,6:00 AM - 6:00 PM,5,2,2,0,A Buddhist temple located in Agartala.
+Boxanagar,Boxanagar,Tripura,20000,4.7,6:00 AM - 6:00 PM,5,2,2,0,An archaeological site with ancient ruins.
+Devtamura,Amarpur,Tripura,15000,4.6,6:00 AM - 6:00 PM,2,5,2,0,A site known for its rock carvings and sculptures.
+Rose Valley Amusement Park,Agartala,Tripura,10000,4.8,10:00 AM - 6:00 PM,2,2,5,0,An amusement park located in Agartala.
+Heritage Park,Agartala,Tripura,9000,4.7,8:00 AM - 4:00 PM,2,2,2,0,A park showcasing the cultural heritage of Tripura.
+Gomati Wildlife Sanctuary,Gomati,Tripura,8000,4.6,8:00 AM - 4:00 PM,2,5,2,0,A wildlife sanctuary known for its rich biodiversity.
+Hatakaijao,Kanchanpur,Tripura,7000,4.8,24 hours,2,5,2,0,A village known for its scenic beauty and cultural heritage.
+Fulkumari,Fulkumari,Tripura,6000,4.7,24 hours,2,2,2,0,A town known for its scenic beauty and cultural heritage.
+Kalapania Nature Park,Panisagar,Tripura,5000,4.6,8:00 AM - 4:00 PM,2,5,2,0,A nature park located in North Tripura.
+Baramura Eco Park,Baramura,Tripura,4000,4.8,8:00 AM - 4:00 PM,2,5,2,0,An eco park located in the Baramura hill range.
+Malancha Niwas,Agartala,Tripura,3000,4.7,10:00 AM - 5:00 PM,5,2,2,0,A palace known for its architecture and history.
+Udaipur,Udaipur,Tripura,2000,4.6,24 hours,2,2,2,0,A town known for its historical and religious significance.
+Mahamuni Pagoda,Manubankul,Tripura,1500,4.8,6:00 AM - 6:00 PM,5,2,2,0,A Buddhist pagoda located in Manubankul.
+Sukanta Academy,Agartala,Tripura,1000,4.7,10:00 AM - 5:00 PM,2,2,2,0,An academy promoting science and culture.
+Rasikbil,Rasikbil,Tripura,900,4.6,24 hours,2,5,2,0,A lake known for its scenic beauty and bird watching.
+Bhubaneshwari Temple,Udaipur,Tripura,800,4.8,6:00 AM - 6:00 PM,5,2,2,0,A temple dedicated to Goddess Bhubaneswari.
+Birchandra Manu,Birchandra Manu,Tripura,700,4.7,24 hours,2,2,2,0,A village known for its scenic beauty and cultural heritage.
+
+Cherrapunji,Cherrapunji,Meghalaya,1000000,4.9,6:00 AM - 6:00 PM,2,5,2,0,A town known for its heavy rainfall and scenic beauty.
+Nohkalikai Falls,Cherrapunji,Meghalaya,900000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A waterfall known for its breathtaking drop.
+Living Root Bridges,Cherrapunji,Meghalaya,800000,4.7,24 hours,2,5,2,0,Bridges made from the roots of living trees.
+Mawlynnong,Mawlynnong,Meghalaya,700000,4.8,24 hours,2,5,2,0,A village known as the cleanest village in Asia.
+Umiam Lake,Shillong,Meghalaya,600000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A lake known for its scenic beauty and water sports.
+Shillong Peak,Shillong,Meghalaya,500000,4.9,6:00 AM - 6:00 PM,2,5,2,0,A viewpoint offering panoramic views of Shillong.
+Elephant Falls,Shillong,Meghalaya,400000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A waterfall located near Shillong.
+Dawki,Dawki,Meghalaya,300000,4.7,24 hours,2,5,2,0,A town known for its crystal-clear river.
+Mawsmai Cave,Cherrapunji,Meghalaya,200000,4.6,6:00 AM - 6:00 PM,2,5,2,0,A limestone cave with impressive formations.
+Double Decker Living Root Bridge,Cherrapunji,Meghalaya,150000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A unique bridge made from the roots of living trees.
+Balpakram National Park,Baghmara,Meghalaya,100000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A national park known for its rich biodiversity.
+Ward's Lake,Shillong,Meghalaya,90000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A lake and park located in Shillong.
+Don Bosco Museum,Shillong,Meghalaya,80000,4.7,9:00 AM - 5:00 PM,2,2,2,0,A museum showcasing the culture of Northeast India.
+Mawphlang Sacred Forest,Mawphlang,Meghalaya,70000,4.6,6:00 AM - 6:00 PM,2,5,2,0,A sacred forest known for its biodiversity.
+Siju Caves,Baghmara,Meghalaya,60000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A limestone cave with impressive formations.
+Laitlum Canyons,Shillong,Meghalaya,50000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A viewpoint offering panoramic views of the canyons.
+Nartiang Monoliths,Nartiang,Meghalaya,40000,4.8,24 hours,5,5,2,0,Ancient monoliths located in Nartiang.
+Thangkharang Park,Cherrapunji,Meghalaya,30000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A park known for its scenic beauty.
+Jakrem Hot Springs,Jakrem,Meghalaya,20000,4.8,6:00 AM - 6:00 PM,2,5,2,0,Hot springs known for their therapeutic properties.
+Mawkdok Dympep Valley,Cherrapunji,Meghalaya,15000,4.6,6:00 AM - 6:00 PM,2,5,2,0,A valley known for its scenic beauty.
+Shillong Golf Course,Shillong,Meghalaya,10000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A golf course located in Shillong.
+Kyllang Rock,Nongstoin,Meghalaya,9000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A massive rock formation located in West Khasi Hills.
+Spread Eagle Falls,Shillong,Meghalaya,8000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A waterfall located in Shillong.
+Nongkhnum Island,Nongstoin,Meghalaya,7000,4.6,24 hours,2,5,2,0,An island known for its scenic beauty.
+Bishop Falls,Shillong,Meghalaya,6000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A waterfall located in Shillong.
+Nongriat,Nongriat,Meghalaya,5000,4.7,24 hours,2,5,2,0,A village known for its living root bridges.
+Mawjymbuin Cave,Mawsynram,Meghalaya,4000,4.6,6:00 AM - 6:00 PM,2,5,2,0,A cave known for its impressive formations.
+Phan Nonglait Park,Shillong,Meghalaya,3000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A park located in Shillong.
+Sweet Falls,Shillong,Meghalaya,2000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A waterfall located in Shillong.
+Ranikor,Ranikor,Meghalaya,1000,4.6,24 hours,2,5,2,0,A town known for its scenic beauty.
+
+Loktak Lake,Imphal,Manipur,800000,4.9,6:00 AM - 6:00 PM,2,5,2,0,A large freshwater lake known for its floating islands.
+Kangla Fort,Imphal,Manipur,750000,4.8,6:00 AM - 6:00 PM,5,2,2,0,A historic fort located in Imphal.
+Keibul Lamjao National Park,Bishnupur,Manipur,700000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A national park known for its rich biodiversity.
+Shirui Kashong Peak,Ukhrul,Manipur,650000,4.8,24 hours,2,5,2,0,A peak known for its scenic beauty and rare flowers.
+Ima Keithel Women's Market,Imphal,Manipur,600000,4.7,6:00 AM - 6:00 PM,2,2,5,0,A market run exclusively by women.
+Shree Govindajee Temple,Imphal,Manipur,550000,4.9,6:00 AM - 6:00 PM,5,2,2,0,A Hindu temple dedicated to Lord Govindajee.
+Andro,Imphal,Manipur,500000,4.8,6:00 AM - 6:00 PM,5,2,2,0,A village known for its pottery and traditional houses.
+Khonghampat Orchidarium,Imphal,Manipur,450000,4.7,9:00 AM - 5:00 PM,2,5,2,0,An orchidarium showcasing a variety of orchids.
+Khongjom War Memorial,Imphal,Manipur,400000,4.6,6:00 AM - 6:00 PM,5,2,2,0,A war memorial commemorating the Anglo-Manipur War.
+Zoological Garden,Imphal,Manipur,350000,4.8,9:00 AM - 5:00 PM,2,2,2,0,A zoological garden located in Imphal.
+Singda Dam,Imphal,Manipur,300000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A dam known for its scenic beauty and recreational activities.
+Sanamahi Temple,Imphal,Manipur,250000,4.8,6:00 AM - 6:00 PM,2,2,2,0,A temple dedicated to the Sanamahi deity.
+Leimapokpam Keirungba Temple,Imphal,Manipur,200000,4.7,6:00 AM - 6:00 PM,5,2,2,0,A temple known for its architectural beauty.
+Phubala,Bishnupur,Manipur,150000,4.6,24 hours,2,5,2,0,A village known for its scenic beauty and traditional culture.
+Sambal-Lei-Sekpil Garden,Imphal,Manipur,100000,4.8,9:00 AM - 5:00 PM,2,2,2,0,A garden known for its unique topiary work.
+Tharon Cave,Tamenglong,Manipur,90000,4.7,6:00 AM - 6:00 PM,5,5,2,0,A limestone cave with impressive formations.
+Red Hill - Lokpaching,Imphal,Manipur,80000,4.8,24 hours,5,5,2,0,A historic site associated with World War II.
+Cheirao Ching,Imphal,Manipur,70000,4.7,24 hours,2,5,2,0,A hill known for its scenic beauty and trekking opportunities.
+Loukoipat Ecological Park,Bishnupur,Manipur,60000,4.8,6:00 AM - 6:00 PM,2,5,2,0,An ecological park known for its rich biodiversity.
+ISKCON Temple,Imphal,Manipur,50000,4.6,6:00 AM - 6:00 PM,5,2,2,0,A temple dedicated to Lord Krishna.
+Manipur State Museum,Imphal,Manipur,40000,4.7,9:00 AM - 5:00 PM,2,2,2,0,A museum showcasing the history and culture of Manipur.
+Langthabal,Imphal,Manipur,30000,4.8,24 hours,5,2,2,0,A historic site known for its ancient ruins.
+Kangla Museum,Imphal,Manipur,20000,4.7,9:00 AM - 5:00 PM,5,2,2,0,A museum located within the Kangla Fort complex.
+Koubru Leikha,Senapati,Manipur,15000,4.6,24 hours,5,2,2,0,A mountain known for its scenic beauty and trekking opportunities.
+Ebudhou Thangjing Temple,Imphal,Manipur,10000,4.8,6:00 AM - 6:00 PM,5,2,2,0,A temple dedicated to the Thangjing deity.
+Hijagang,Imphal,Manipur,9000,4.7,24 hours,2,5,2,0,A village known for its scenic beauty and traditional culture.
+Waithou Lake,Imphal,Manipur,8000,4.6,24 hours,2,5,2,0,A lake known for its scenic beauty and bird watching.
+Keibul Lamjao National Park,Bishnupur,Manipur,7000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A national park known for its rich biodiversity.
+Moirang,Bishnupur,Manipur,6000,4.7,24 hours,2,5,2,0,A town known for its association with the Indian National Army.
+Ukhrul,Ukhrul,Manipur,5000,4.6,24 hours,2,5,2,0,A town known for its scenic beauty and traditional culture.
+
+Kohima,Kohima,Nagaland,900000,4.9,24 hours,5,2,2,0,"The capital city of Nagaland, known for its scenic beauty and historical significance."
+Dimapur,Dimapur,Nagaland,850000,4.8,24 hours,5,2,2,0,A major city known for its vibrant culture and historical sites.
+Mokokchung,Mokokchung,Nagaland,800000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A town known for its rich cultural heritage and scenic beauty.
+Mon,Mon,Nagaland,750000,4.8,24 hours,2,5,2,0,A town known for its unique culture and scenic beauty.
+Wokha,Wokha,Nagaland,700000,4.7,24 hours,2,5,2,0,A town known for its picturesque landscapes.
+Khonoma Village,Kohima,Nagaland,650000,4.9,24 hours,5,5,2,0,A village known for its rich cultural heritage and scenic beauty.
+Dzukou Valley,Kohima,Nagaland,600000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A valley known for its stunning landscapes and trekking routes.
+Tuophema Tourist Village,Kohima,Nagaland,550000,4.7,24 hours,5,5,2,0,A village known for its traditional Naga culture.
+Japfu Peak,Kohima,Nagaland,500000,4.6,24 hours,2,5,2,0,A peak known for its scenic beauty and trekking routes.
+Longleng,Longleng,Nagaland,450000,4.8,24 hours,2,5,2,0,A town known for its scenic beauty and traditional culture.
+Peren,Peren,Nagaland,400000,4.7,24 hours,2,5,2,0,A town known for its scenic beauty and rich biodiversity.
+Kiphire,Kiphire,Nagaland,350000,4.8,24 hours,2,5,2,0,A town known for its scenic beauty and cultural heritage.
+Zunheboto,Zunheboto,Nagaland,300000,4.7,24 hours,2,5,2,0,A town known for its traditional Naga culture.
+Meluri,Meluri,Nagaland,250000,4.6,24 hours,2,5,2,0,A town known for its scenic beauty and traditional culture.
+Nagaland State Museum,Kohima,Nagaland,200000,4.8,9:00 AM - 5:00 PM,5,2,2,0,A museum showcasing the history and culture of Nagaland.
+Shilloi Lake,Phek,Nagaland,150000,4.7,24 hours,2,5,2,0,A lake known for its scenic beauty and cultural significance.
+Saramati Peak,Kiphire,Nagaland,100000,4.8,24 hours,2,5,2,0,A peak known for its scenic beauty and trekking routes.
+Tokhu Emong,Wokha,Nagaland,90000,4.7,24 hours,5,2,2,0,A festival celebrating the harvest season in Wokha.
+Kohima War Cemetery,Kohima,Nagaland,80000,4.8,24 hours,5,2,2,0,A cemetery commemorating the soldiers of World War II.
+Chumukedima,Dimapur,Nagaland,70000,4.6,24 hours,2,5,2,0,A town known for its scenic beauty and cultural heritage.
+Ruzaphema,Dimapur,Nagaland,60000,4.7,24 hours,2,5,2,0,A town known for its traditional crafts and scenic beauty.
+Benreu,Peren,Nagaland,50000,4.8,24 hours,2,5,2,0,A village known for its traditional Naga culture.
+Pfutsero,Phek,Nagaland,40000,4.7,24 hours,2,5,2,0,A town known for its scenic beauty and traditional culture.
+Tseminyu,Tseminyu,Nagaland,30000,4.6,24 hours,2,5,2,0,A town known for its rich cultural heritage.
+Intanki National Park,Peren,Nagaland,20000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A national park known for its rich biodiversity.
+Pulie Badze,Kohima,Nagaland,15000,4.7,24 hours,2,5,2,0,A peak known for its scenic beauty and trekking routes.
+Veda Peak,Mon,Nagaland,10000,4.6,24 hours,2,5,2,0,A peak known for its scenic beauty and trekking routes.
+Langpangkong Caves,Mokokchung,Nagaland,9000,4.8,24 hours,2,5,2,0,A cave known for its impressive formations.
+Kachari Ruins,Dimapur,Nagaland,8000,4.7,24 hours,5,2,2,0,Ruins of an ancient city located in Dimapur.
+Fakim Wildlife Sanctuary,Kiphire,Nagaland,7000,4.6,6:00 AM - 6:00 PM,2,5,2,0,A wildlife sanctuary known for its rich biodiversity.
+
+Tawang Monastery,Tawang,Arunachal Pradesh,800000,4.9,6:00 AM - 6:00 PM,5,2,2,0,"A monastery located in Tawang, known for its spiritual significance and scenic beauty."
+Sela Pass,Tawang,Arunachal Pradesh,750000,4.8,24 hours,2,5,2,0,A high-altitude mountain pass known for its scenic beauty.
+Ziro Valley,Ziro,Arunachal Pradesh,700000,4.7,24 hours,2,5,2,0,A valley known for its picturesque landscapes and rich cultural heritage.
+Namdapha National Park,Changlang,Arunachal Pradesh,650000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A national park known for its rich biodiversity.
+Bomdila Monastery,Bomdila,Arunachal Pradesh,600000,4.7,6:00 AM - 6:00 PM,5,2,2,0,"A monastery located in Bomdila, known for its spiritual significance."
+Dirang,West Kameng,Arunachal Pradesh,550000,4.9,24 hours,2,5,2,0,A town known for its scenic beauty and traditional culture.
+Itanagar,Itanagar,Arunachal Pradesh,500000,4.8,24 hours,5,2,2,0,"The capital city of Arunachal Pradesh, known for its cultural heritage."
+Roing,Lower Dibang Valley,Arunachal Pradesh,450000,4.7,24 hours,2,5,2,0,A town known for its picturesque landscapes and adventure activities.
+Pasighat,East Siang,Arunachal Pradesh,400000,4.6,24 hours,2,5,2,0,A town known for its scenic beauty and rich cultural heritage.
+Along,West Siang,Arunachal Pradesh,350000,4.8,24 hours,2,5,2,0,A town known for its traditional culture and scenic beauty.
+Mechuka,West Siang,Arunachal Pradesh,300000,4.7,24 hours,2,5,2,0,A town known for its picturesque landscapes and adventure activities.
+Bhalukpong,West Kameng,Arunachal Pradesh,250000,4.8,24 hours,2,5,2,0,A town known for its scenic beauty and adventure activities.
+Changlang,Changlang,Arunachal Pradesh,200000,4.7,24 hours,2,5,2,0,A town known for its rich cultural heritage and picturesque landscapes.
+Anini,Dibang Valley,Arunachal Pradesh,150000,4.6,24 hours,2,5,2,0,A town known for its scenic beauty and traditional culture.
+Tawang War Memorial,Tawang,Arunachal Pradesh,100000,4.8,6:00 AM - 6:00 PM,5,2,2,0,A war memorial commemorating the soldiers who fought in the Sino-Indian War.
+Gorichen Peak,Tawang,Arunachal Pradesh,90000,4.7,24 hours,2,5,2,0,A peak known for its scenic beauty and trekking routes.
+Madhuri Lake,Tawang,Arunachal Pradesh,80000,4.8,24 hours,2,5,2,0,A lake known for its picturesque landscapes.
+Pakhui Wildlife Sanctuary,East Kameng,Arunachal Pradesh,70000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A wildlife sanctuary known for its rich biodiversity.
+Sangti Valley,West Kameng,Arunachal Pradesh,60000,4.8,24 hours,2,5,2,0,A valley known for its scenic beauty and traditional culture.
+Malinithan,Lower Siang,Arunachal Pradesh,50000,4.6,6:00 AM - 6:00 PM,5,5,2,0,A temple known for its architectural beauty and spiritual significance.
+Ganga Lake,Itanagar,Arunachal Pradesh,40000,4.7,24 hours,2,5,2,0,A lake known for its scenic beauty and adventure activities.
+Nuranang Falls,Tawang,Arunachal Pradesh,30000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A waterfall known for its picturesque landscapes.
+Daying Ering Wildlife Sanctuary,East Siang,Arunachal Pradesh,20000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A wildlife sanctuary known for its rich biodiversity.
+Jawai,Lower Siang,Arunachal Pradesh,15000,4.6,24 hours,2,5,2,0,A town known for its scenic beauty and traditional culture.
+Parshuram Kund,Lohit,Arunachal Pradesh,10000,4.8,6:00 AM - 6:00 PM,5,5,2,0,A temple known for its spiritual significance and picturesque landscapes.
+Hapoli,Ziro,Arunachal Pradesh,9000,4.7,24 hours,2,5,2,0,A town known for its scenic beauty and traditional culture.
+Talle Valley,Ziro,Arunachal Pradesh,8000,4.6,24 hours,2,5,2,0,A valley known for its picturesque landscapes.
+Sessa Orchid Sanctuary,West Kameng,Arunachal Pradesh,7000,4.8,24 hours,2,5,2,0,A sanctuary known for its rich biodiversity and orchids.
+Daporijo,Upper Subansiri,Arunachal Pradesh,6000,4.7,24 hours,2,5,2,0,A town known for its scenic beauty and adventure activities.
+Hayuliang,Anjaw,Arunachal Pradesh,5000,4.6,24 hours,2,5,2,0,A town known for its scenic beauty and traditional culture.
