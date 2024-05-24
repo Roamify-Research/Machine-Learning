@@ -837,3 +837,127 @@ Malana,Kullu,Himachal Pradesh,20000,4.6,24 hours,2,5,2,0,A village known for its
 Khajjiar,Chamba,Himachal Pradesh,15000,4.8,24 hours,2,5,2,0,A town known for its scenic beauty and adventure activities.
 Chandratal Lake,Spiti Valley,Himachal Pradesh,10000,4.7,24 hours,5,5,2,0,A lake known for its picturesque landscapes and adventure activities.
 Great Himalayan National Park,Kullu,Himachal Pradesh,9000,4.6,24 hours,2,5,2,0,A national park known for its rich biodiversity and scenic beauty.
+
+India Gate,New Delhi,Delhi,5000000,4.9,24 hours,5,2,2,0,"A war memorial located in New Delhi, known for its iconic architecture."
+Red Fort,New Delhi,Delhi,4500000,4.8,9:00 AM - 6:00 PM,5,2,2,0,"A historic fort in Delhi, known for its Mughal architecture and significance."
+Qutub Minar,New Delhi,Delhi,4000000,4.7,7:00 AM - 5:00 PM,5,2,2,0,"A minaret and victory tower in Delhi, known for its historical significance."
+Humayun's Tomb,New Delhi,Delhi,3500000,4.8,6:00 AM - 6:00 PM,5,2,2,0,"A tomb of the Mughal Emperor Humayun in Delhi, a UNESCO World Heritage Site."
+Lotus Temple,New Delhi,Delhi,3000000,4.7,9:00 AM - 5:30 PM,2,5,2,0,"A Baháʼí House of Worship, notable for its flowerlike shape."
+Akshardham Temple,New Delhi,Delhi,2500000,4.9,9:30 AM - 6:30 PM,5,2,2,0,A Hindu temple complex known for its spiritual and cultural significance.
+Jama Masjid,New Delhi,Delhi,2000000,4.8,7:00 AM - 12:00 PM,5,2,2,0,"One of the largest mosques in India, known for its architecture and history."
+Rashtrapati Bhavan,New Delhi,Delhi,1500000,4.7,10:00 AM - 4:00 PM,5,2,2,0,The official residence of the President of India.
+Chandni Chowk,New Delhi,Delhi,1000000,4.6,24 hours,2,2,5,0,"A bustling market area in Old Delhi, known for its vibrant atmosphere."
+Lodhi Gardens,New Delhi,Delhi,900000,4.8,6:00 AM - 7:30 PM,5,5,2,0,"A city park in New Delhi, known for its historical significance and natural beauty."
+Jantar Mantar,New Delhi,Delhi,800000,4.7,9:00 AM - 5:30 PM,5,2,2,0,An observatory consisting of 13 architectural astronomy instruments.
+Raj Ghat,New Delhi,Delhi,700000,4.8,5:00 AM - 7:30 PM,5,5,2,0,A memorial dedicated to Mahatma Gandhi in Delhi.
+Purana Qila,New Delhi,Delhi,600000,4.7,7:00 AM - 5:00 PM,5,2,2,0,"A fort located in Delhi, known for its historical significance."
+Hauz Khas Village,New Delhi,Delhi,500000,4.6,10:00 AM - 7:00 PM,2,5,5,0,A neighborhood known for its vibrant nightlife and historical ruins.
+National Museum,New Delhi,Delhi,400000,4.8,10:00 AM - 6:00 PM,5,2,2,0,"The largest museum in India, located in New Delhi."
+Sarojini Nagar Market,New Delhi,Delhi,300000,4.7,10:00 AM - 9:00 PM,2,2,5,0,A market known for its affordable shopping options.
+Dilli Haat,New Delhi,Delhi,200000,4.8,10:30 AM - 10:00 PM,2,2,5,0,An open-air food plaza and craft bazaar located in Delhi.
+Connaught Place,New Delhi,Delhi,150000,4.7,24 hours,2,2,5,0,A business and financial hub in New Delhi.
+Gurudwara Bangla Sahib,New Delhi,Delhi,100000,4.8,3:00 AM - 10:00 PM,5,2,2,0,"A Sikh gurdwara located in Delhi, known for its religious significance."
+Safdarjung Tomb,New Delhi,Delhi,90000,4.6,7:00 AM - 5:00 PM,5,2,2,0,A sandstone and marble mausoleum in Delhi.
+National Gallery of Modern Art,New Delhi,Delhi,80000,4.7,11:00 AM - 6:30 PM,2,5,2,0,A gallery that houses the collection of modern art.
+Nehru Planetarium,New Delhi,Delhi,70000,4.8,11:30 AM - 4:00 PM,2,5,2,0,A planetarium located in Delhi.
+Agrasen ki Baoli,New Delhi,Delhi,60000,4.7,7:00 AM - 6:00 PM,5,2,2,0,A historical stepwell located in Delhi.
+Khan Market,New Delhi,Delhi,50000,4.6,10:00 AM - 11:00 PM,2,2,5,0,A high-end market known for its shops and restaurants.
+National Zoological Park,New Delhi,Delhi,40000,4.8,9:00 AM - 4:30 PM,2,5,2,0,"A zoo located in New Delhi, India."
+Tughlaqabad Fort,New Delhi,Delhi,30000,4.7,9:00 AM - 5:00 PM,5,2,2,0,A ruined fort in Delhi.
+Mehrauli Archaeological Park,New Delhi,Delhi,20000,4.6,7:00 AM - 5:00 PM,5,2,2,0,"An archaeological area in Mehrauli, known for its historical significance."
+Garden of Five Senses,New Delhi,Delhi,15000,4.8,9:00 AM - 9:00 PM,2,5,5,0,"A park located in Saidul Ajaib village, known for its themed gardens."
+Teen Murti Bhavan,New Delhi,Delhi,10000,4.7,10:00 AM - 5:00 PM,2,2,2,0,A building in Delhi that houses a museum dedicated to Jawaharlal Nehru.
+Pragati Maidan,New Delhi,Delhi,9000,4.6,9:30 AM - 6:00 PM,2,2,5,0,An exhibition complex located in New Delhi.
+
+Tsomgo Lake,Gangtok,Sikkim,800000,4.9,24 hours,2,5,2,0,"A glacial lake in East Sikkim, known for its scenic beauty."
+Nathula Pass,Gangtok,Sikkim,750000,4.8,24 hours,2,5,2,0,"A mountain pass in the Himalayas, known for its historical significance."
+Yumthang Valley,Gangtok,Sikkim,700000,4.7,24 hours,2,5,2,0,A valley known for its scenic beauty and flowers.
+Gurudongmar Lake,Lachen,Sikkim,650000,4.8,24 hours,2,5,2,0,"A high altitude lake, one of the highest in the world."
+Pelling,Pelling,Sikkim,600000,4.7,24 hours,2,5,2,0,A town known for its scenic beauty and monasteries.
+Rumtek Monastery,Gangtok,Sikkim,550000,4.9,6:00 AM - 6:00 PM,5,2,2,0,"A Tibetan Buddhist monastery in Sikkim, known for its spiritual significance."
+Lachen,Lachen,Sikkim,500000,4.8,24 hours,2,5,2,0,A village known for its scenic beauty and tranquility.
+Ravangla,Ravangla,Sikkim,450000,4.7,24 hours,2,5,2,0,A small town known for its scenic beauty and Buddha Park.
+Gangtok,Gangtok,Sikkim,400000,4.6,24 hours,2,5,2,0,"The capital city of Sikkim, known for its monasteries and scenic beauty."
+Zuluk,Zuluk,Sikkim,350000,4.8,24 hours,2,5,2,0,A small village known for its scenic beauty and silk route.
+Namchi,Namchi,Sikkim,300000,4.7,24 hours,2,5,2,0,A town known for its scenic beauty and monasteries.
+Khangchendzonga National Park,Gangtok,Sikkim,250000,4.8,24 hours,2,5,2,0,A national park known for its biodiversity and scenic beauty.
+Lachung,Lachung,Sikkim,200000,4.7,24 hours,2,5,2,0,A village known for its scenic beauty and apple orchards.
+Tashi View Point,Gangtok,Sikkim,150000,4.6,24 hours,2,5,2,0,A viewpoint known for its panoramic views of the Himalayas.
+Phodong Monastery,Gangtok,Sikkim,100000,4.8,6:00 AM - 6:00 PM,5,5,2,0,A Buddhist monastery known for its spiritual significance.
+Khecheopalri Lake,Pelling,Sikkim,90000,4.7,24 hours,2,5,2,0,A lake known for its scenic beauty and religious significance.
+Enchey Monastery,Gangtok,Sikkim,80000,4.8,6:00 AM - 6:00 PM,5,5,2,0,A Buddhist monastery known for its spiritual significance.
+Pemayangtse Monastery,Pelling,Sikkim,70000,4.7,6:00 AM - 6:00 PM,5,5,2,0,A Buddhist monastery known for its historical significance.
+Singalila National Park,Gangtok,Sikkim,60000,4.8,24 hours,2,5,2,0,A national park known for its biodiversity and scenic beauty.
+Do Drul Chorten,Gangtok,Sikkim,50000,4.7,6:00 AM - 6:00 PM,5,5,2,0,A Buddhist stupa known for its religious significance.
+Hanuman Tok,Gangtok,Sikkim,40000,4.6,24 hours,2,5,2,0,"A temple dedicated to Lord Hanuman, known for its scenic views."
+Kabi Lungchok,Gangtok,Sikkim,30000,4.8,24 hours,2,5,2,0,A historical site known for its religious significance.
+Samdruptse Hill,Namchi,Sikkim,20000,4.7,24 hours,2,5,2,0,A hill known for its panoramic views of the Himalayas.
+Siddheswar Dham,Namchi,Sikkim,15000,4.6,24 hours,2,5,2,0,A religious site known for its replicas of Hindu temples.
+Ranka Monastery,Gangtok,Sikkim,10000,4.8,6:00 AM - 6:00 PM,5,5,2,0,A Buddhist monastery known for its spiritual significance.
+Goecha La,Yuksom,Sikkim,9000,4.7,24 hours,2,5,2,0,A mountain pass known for its trekking routes and scenic beauty.
+Baba Harbhajan Singh Temple,Gangtok,Sikkim,8000,4.6,24 hours,2,5,2,0,"A temple dedicated to Baba Harbhajan Singh, known for its spiritual significance."
+Saramsa Garden,Gangtok,Sikkim,7000,4.8,24 hours,2,5,2,0,A garden known for its scenic beauty and tranquility.
+Dubdi Monastery,Yuksom,Sikkim,6000,4.7,6:00 AM - 6:00 PM,5,5,2,0,A Buddhist monastery known for its spiritual significance.
+Norbugang Park,Yuksom,Sikkim,5000,4.6,24 hours,2,5,2,0,A park known for its historical significance and natural beauty.
+
+Radhanagar Beach,Havelock Island,Andaman and Nicobar,900000,4.9,24 hours,2,5,2,5,"A beautiful beach on Havelock Island, known for its white sand and turquoise water."
+Havelock Island,Havelock Island,Andaman and Nicobar,850000,4.8,24 hours,2,5,2,5,An island known for its beaches and coral reefs.
+Cellular Jail,Port Blair,Andaman and Nicobar,800000,4.7,9:00 AM - 5:00 PM,5,2,2,0,"A colonial prison used by the British, now a national memorial."
+Ross Island,Port Blair,Andaman and Nicobar,750000,4.8,8:30 AM - 4:30 PM,5,2,2,0,"An island that was the administrative headquarters of the British, now a tourist destination."
+Neil Island,Neil Island,Andaman and Nicobar,700000,4.7,24 hours,2,5,2,5,An island known for its coral reefs and natural beauty.
+Viper Island,Port Blair,Andaman and Nicobar,650000,4.6,24 hours,5,2,2,0,An island known for its historical significance as a penal colony.
+North Bay Island,Port Blair,Andaman and Nicobar,600000,4.8,24 hours,2,5,2,5,An island known for its coral reefs and snorkeling opportunities.
+Chidiya Tapu,Port Blair,Andaman and Nicobar,550000,4.7,6:00 AM - 6:00 PM,2,5,2,0,A birdwatching spot known for its sunset views.
+Baratang Island,Baratang Island,Andaman and Nicobar,500000,4.8,24 hours,2,5,2,0,An island known for its mangrove forests and limestone caves.
+Jolly Buoy Island,Port Blair,Andaman and Nicobar,450000,4.7,24 hours,2,5,2,5,An island known for its coral reefs and clear waters.
+Mahatma Gandhi Marine National Park,Port Blair,Andaman and Nicobar,400000,4.8,6:00 AM - 5:00 PM,2,5,2,0,A national park known for its coral reefs and marine life.
+Mount Harriet National Park,Port Blair,Andaman and Nicobar,350000,4.7,6:00 AM - 5:00 PM,2,5,2,0,A national park known for its rich biodiversity.
+Cinque Island,Cinque Island,Andaman and Nicobar,300000,4.8,24 hours,2,5,2,5,An island known for its coral reefs and snorkeling opportunities.
+Limestone Caves,Baratang Island,Andaman and Nicobar,250000,4.7,24 hours,2,5,2,0,Limestone caves located on Baratang Island.
+Anthropological Museum,Port Blair,Andaman and Nicobar,200000,4.6,9:00 AM - 4:30 PM,5,2,2,0,A museum showcasing the indigenous tribes of the Andaman and Nicobar Islands.
+Forest Museum,Port Blair,Andaman and Nicobar,150000,4.8,9:00 AM - 4:30 PM,2,5,2,0,A museum showcasing the forest resources of the Andaman and Nicobar Islands.
+Samudrika Naval Marine Museum,Port Blair,Andaman and Nicobar,100000,4.7,9:00 AM - 5:00 PM,5,2,2,0,A museum showcasing the marine life of the Andaman and Nicobar Islands.
+Corbyn's Cove Beach,Port Blair,Andaman and Nicobar,90000,4.6,24 hours,2,5,2,5,A popular beach in Port Blair.
+Kala Pathar Beach,Havelock Island,Andaman and Nicobar,80000,4.8,24 hours,2,5,2,5,A beach known for its black rocks and clear waters.
+Little Andaman Island,Little Andaman Island,Andaman and Nicobar,70000,4.7,24 hours,2,5,2,5,An island known for its beaches and waterfalls.
+Barren Island,Barren Island,Andaman and Nicobar,60000,4.8,24 hours,2,5,2,0,An active volcano located on Barren Island.
+Lalaji Bay Beach,Long Island,Andaman and Nicobar,50000,4.7,24 hours,2,5,2,5,A beach known for its scenic beauty and tranquility.
+Mud Volcanoes,Baratang Island,Andaman and Nicobar,40000,4.6,24 hours,2,5,2,0,Mud volcanoes located on Baratang Island.
+Parrot Island,Baratang Island,Andaman and Nicobar,30000,4.8,24 hours,2,5,2,0,An island known for its birdwatching opportunities.
+Gandhi Park,Port Blair,Andaman and Nicobar,20000,4.7,24 hours,2,2,2,0,A park in Port Blair known for its greenery and tranquility.
+Bamboo Flat,Port Blair,Andaman and Nicobar,15000,4.6,24 hours,2,2,2,0,A village in the Andaman Islands.
+Phoenix Bay Jetty,Port Blair,Andaman and Nicobar,10000,4.8,24 hours,2,2,2,0,A jetty in Port Blair.
+Bamdera Beach,Port Blair,Andaman and Nicobar,9000,4.7,24 hours,2,5,2,5,A beach known for its scenic beauty and tranquility.
+Sippighat Farm,Port Blair,Andaman and Nicobar,8000,4.6,24 hours,2,5,2,0,A farm in Port Blair known for its scenic beauty.
+Jogger's Park,Port Blair,Andaman and Nicobar,7000,4.7,24 hours,2,5,2,0,A park in Port Blair known for its scenic views.
+
+Agatti Island,Agatti Island,Lakshadweep,300000,4.9,24 hours,2,5,2,5,An island known for its beautiful beaches and lagoons.
+Bangaram Island,Bangaram Island,Lakshadweep,250000,4.8,24 hours,2,5,2,5,An island known for its clear blue water and coral reefs.
+Kadmat Island,Kadmat Island,Lakshadweep,220000,4.7,24 hours,2,5,2,5,An island known for its long sandy beaches and clear water.
+Minicoy Island,Minicoy Island,Lakshadweep,200000,4.8,24 hours,2,5,2,5,An island known for its lighthouse and scenic beauty.
+Kavaratti Island,Kavaratti Island,Lakshadweep,180000,4.7,24 hours,2,5,2,5,An island known for its beautiful lagoons and marine life.
+Kalpeni Island,Kalpeni Island,Lakshadweep,160000,4.6,24 hours,2,5,2,5,An island known for its water sports and scenic beauty.
+Amindivi Islands,Amindivi Islands,Lakshadweep,140000,4.8,24 hours,2,5,2,5,A group of islands known for their natural beauty and tranquility.
+Andrott Island,Andrott Island,Lakshadweep,120000,4.7,24 hours,2,5,2,5,An island known for its historical significance and scenic beauty.
+Bitra Island,Bitra Island,Lakshadweep,100000,4.8,24 hours,2,5,2,5,An island known for its untouched natural beauty.
+Chetlat Island,Chetlat Island,Lakshadweep,90000,4.7,24 hours,2,5,2,5,An island known for its pristine beaches and clear water.
+Pitti Bird Sanctuary,Pitti Bird Sanctuary,Lakshadweep,80000,4.8,6:00 AM - 6:00 PM,2,5,2,0,A bird sanctuary known for its diverse bird species.
+Suheli Par,Suheli Par,Lakshadweep,70000,4.7,24 hours,2,5,2,0,A group of islands known for their natural beauty and coral reefs.
+Kalpeni Beach,Kalpeni Island,Lakshadweep,60000,4.6,24 hours,2,5,2,5,A beach known for its clear water and beautiful coral reefs.
+Thinnakara Island,Thinnakara Island,Lakshadweep,50000,4.8,24 hours,2,5,2,5,An island known for its scenic beauty and tranquility.
+Parali I,Parali I,Lakshadweep,40000,4.7,24 hours,2,5,2,5,A small island known for its pristine beaches and clear water.
+Parali II,Parali II,Lakshadweep,30000,4.6,24 hours,2,5,2,5,A small island known for its pristine beaches and clear water.
+Parali III,Parali III,Lakshadweep,20000,4.8,24 hours,2,5,2,5,A small island known for its pristine beaches and clear water.
+Bandra Island,Bandra Island,Lakshadweep,15000,4.7,24 hours,2,5,2,5,An island known for its scenic beauty and tranquility.
+Cheriyam Island,Cheriyam Island,Lakshadweep,10000,4.6,24 hours,2,5,2,5,An island known for its pristine beaches and clear water.
+Pitli Island,Pitli Island,Lakshadweep,9000,4.7,24 hours,2,5,2,5,An island known for its pristine beaches and clear water.
+Urali Island,Urali Island,Lakshadweep,8000,4.6,24 hours,2,5,2,5,An island known for its pristine beaches and clear water.
+Amini Island,Amini Island,Lakshadweep,7000,4.7,24 hours,2,5,2,5,An island known for its beautiful beaches and clear water.
+Agatti Beach,Agatti Island,Lakshadweep,6000,4.9,24 hours,2,5,2,5,A beach known for its clear water and beautiful coral reefs.
+Bangaram Beach,Bangaram Island,Lakshadweep,5000,4.8,24 hours,2,5,2,5,A beach known for its clear water and beautiful coral reefs.
+Kadmat Beach,Kadmat Island,Lakshadweep,4000,4.7,24 hours,2,5,2,5,A beach known for its clear water and beautiful coral reefs.
+Minicoy Beach,Minicoy Island,Lakshadweep,3000,4.8,24 hours,2,5,2,5,A beach known for its clear water and beautiful coral reefs.
+Kavaratti Beach,Kavaratti Island,Lakshadweep,2000,4.7,24 hours,2,5,2,5,A beach known for its clear water and beautiful coral reefs.
+Kalpeni Beach,Kalpeni Island,Lakshadweep,1500,4.6,24 hours,2,5,2,5,A beach known for its clear water and beautiful coral reefs.
+Amindivi Beach,Amindivi Islands,Lakshadweep,1000,4.8,24 hours,2,5,2,5,A beach known for its clear water and beautiful coral reefs.
+Andrott Beach,Andrott Island,Lakshadweep,900,4.7,24 hours,2,5,2,5,A beach known for its clear water and beautiful coral reefs.
