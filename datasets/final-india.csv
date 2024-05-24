@@ -1,0 +1,62 @@
+Name,City,State,Visitors,Rating,Opening Hours,Historical,Natural,Amusement,Beach,Description
+Tirumala Venkateswara Temple,Tirupati,Andhra Pradesh,30000000,4.8,24 hours,5,4,2,0,A prominent Hindu temple dedicated to Lord Venkateswara.
+Araku Valley,Araku Valley,Andhra Pradesh,2000000,4.5,6:00 AM - 6:00 PM,2,5,3,0,A scenic hill station known for its coffee plantations.
+Borra Caves,Ananthagiri,Andhra Pradesh,1000000,4.4,6:00 AM - 6:00 PM,3,5,3,0,Limestone caves known for their stalactites and stalagmites.
+Ramakrishna Beach,Visakhapatnam,Andhra Pradesh,2000000,4.3,24 hours,2,3,4,5,A popular beach in Visakhapatnam.
+Srisailam,Srisailam,Andhra Pradesh,1500000,4.5,5:00 AM - 10:00 PM,5,4,2,0,A famous pilgrimage site with ancient temples.
+Kanaka Durga Temple,Vijayawada,Andhra Pradesh,1000000,4.5,4:00 AM - 9:00 PM,5,3,2,0,A revered Hindu temple located in Vijayawada.
+Undavalli Caves,Vijayawada,Andhra Pradesh,500000,4.4,9:00 AM - 5:00 PM,5,4,2,0,Ancient rock-cut caves near Vijayawada.
+Lepakshi,Lepakshi,Andhra Pradesh,300000,4.5,6:00 AM - 8:00 PM,5,3,2,0,A village known for its rich history and architecture.
+Ahobilam Temple,Nallamala,Andhra Pradesh,200000,4.6,6:00 AM - 9:00 PM,5,4,2,0,A temple complex located in the Nallamala Hills.
+Kailasagiri,Visakhapatnam,Andhra Pradesh,1000000,4.3,9:00 AM - 8:00 PM,2,4,4,0,A hilltop park with panoramic views of Visakhapatnam.
+Gandikota,Gandikota,Andhra Pradesh,400000,4.5,6:00 AM - 6:00 PM,4,5,3,0,A historic fort overlooking the Penna River.
+Thotlakonda Buddhist Complex,Visakhapatnam,Andhra Pradesh,300000,4.4,9:00 AM - 5:00 PM,5,4,2,0,An ancient Buddhist site near Visakhapatnam.
+Kolleru Lake,Eluru,Andhra Pradesh,150000,4.2,6:00 AM - 6:00 PM,2,5,2,0,A large freshwater lake and bird sanctuary.
+Manginapudi Beach,Machilipatnam,Andhra Pradesh,200000,4.1,24 hours,2,3,3,5,A scenic beach located near Machilipatnam.
+Sri Venkateswara National Park,Tirupati,Andhra Pradesh,500000,4.3,6:00 AM - 6:00 PM,2,5,3,0,A national park known for its biodiversity.
+Pavurallakonda,Bheemunipatnam,Andhra Pradesh,100000,4.2,9:00 AM - 5:00 PM,4,4,2,0,An ancient Buddhist site near Bheemunipatnam.
+Yaganti Temple,Kurnool,Andhra Pradesh,200000,4.4,6:00 AM - 9:00 PM,5,4,2,0,A temple dedicated to Lord Shiva.
+Maredumilli,Maredumilli,Andhra Pradesh,150000,4.5,6:00 AM - 6:00 PM,2,5,3,0,A forest area known for its waterfalls and natural beauty.
+Rajahmundry Godavari Bridge,Rajahmundry,Andhra Pradesh,500000,4.4,24 hours,3,4,3,0,A bridge over the Godavari River.
+Draksharamam Temple,Draksharama,Andhra Pradesh,300000,4.5,5:00 AM - 8:00 PM,5,3,2,0,A historic temple dedicated to Lord Shiva.
+Suryalanka Beach,Bapatla,Andhra Pradesh,250000,4.3,24 hours,2,3,3,5,A beach known for its scenic beauty.
+Sankaram,Anakapalle,Andhra Pradesh,100000,4.2,9:00 AM - 5:00 PM,4,3,2,0,An ancient Buddhist site in Anakapalle.
+Simhachalam Temple,Visakhapatnam,Andhra Pradesh,1000000,4.5,6:00 AM - 9:00 PM,5,3,2,0,A famous temple dedicated to Lord Narasimha.
+VUDA Park,Visakhapatnam,Andhra Pradesh,700000,4.2,9:00 AM - 8:00 PM,2,3,4,0,A park in Visakhapatnam with various attractions.
+Dwaraka Tirumala,West Godavari,Andhra Pradesh,500000,4.4,6:00 AM - 8:00 PM,5,3,2,0,A famous Hindu temple dedicated to Lord Venkateswara.
+Sriharikota,Sriharikota,Andhra Pradesh,200000,4.3,9:00 AM - 5:00 PM,3,3,3,0,A spaceport operated by the Indian Space Research Organisation.
+Bavikonda,Visakhapatnam,Andhra Pradesh,100000,4.2,9:00 AM - 5:00 PM,4,3,2,0,An ancient Buddhist site near Visakhapatnam.
+Belum Caves,Kurnool,Andhra Pradesh,250000,4.5,9:00 AM - 5:00 PM,3,5,3,0,A cave system known for its stalactites and stalagmites.
+Annavaram Temple,East Godavari,Andhra Pradesh,1000000,4.5,6:00 AM - 9:00 PM,5,3,2,0,A temple dedicated to Lord Satyanarayana.
+Nagarjunakonda,Nagarjunakonda,Andhra Pradesh,150000,4.3,9:00 AM - 5:00 PM,5,4,2,0,An archaeological site known for its Buddhist ruins.
+
+Mysore Palace,Mysore,Karnataka,3000000,4.7,10:00 AM - 5:30 PM,5,2,2,0,"A historical palace located in Mysore, known for its grandeur and architecture."
+Bangalore Palace,Bangalore,Karnataka,2000000,4.4,10:00 AM - 5:30 PM,5,2,3,0,"A royal palace in Bangalore, known for its Tudor-style architecture."
+Hampi,Hampi,Karnataka,1500000,4.7,6:00 AM - 6:00 PM,5,3,1,0,"A UNESCO World Heritage site, known for its ancient temples and ruins."
+Coorg,Coorg,Karnataka,1200000,4.6,24 hours,1,5,3,0,A popular hill station known for its coffee plantations and scenic beauty.
+Lalbagh Botanical Garden,Bangalore,Karnataka,1000000,4.5,6:00 AM - 7:00 PM,3,4,3,0,"A botanical garden in Bangalore, known for its collection of tropical plants."
+Bannerghatta National Park,Bangalore,Karnataka,900000,4.3,9:00 AM - 5:00 PM,2,5,4,0,"A national park in Bangalore, known for its safari and zoo."
+Chikmagalur,Chikmagalur,Karnataka,800000,4.6,24 hours,3,5,3,0,A hill station known for its coffee estates and pleasant climate.
+Badami Caves,Badami,Karnataka,700000,4.5,9:00 AM - 5:30 PM,5,2,1,0,Ancient rock-cut caves known for their intricate carvings and sculptures.
+Nandi Hills,Nandi,Karnataka,600000,4.4,6:00 AM - 10:00 PM,2,5,3,0,"A popular hill station near Bangalore, known for its sunrise views."
+Jog Falls,Shimoga,Karnataka,500000,4.5,6:00 AM - 6:00 PM,3,5,3,0,"One of the highest waterfalls in India, located in the Western Ghats."
+Gokarna,Gokarna,Karnataka,400000,4.6,24 hours,2,5,3,5,A coastal town known for its beaches and pilgrimage sites.
+Shravanabelagola,Hassan,Karnataka,350000,4.5,6:00 AM - 6:00 PM,5,2,1,0,"A Jain pilgrimage site, known for its massive statue of Lord Bahubali."
+Gol Gumbaz,Bijapur,Karnataka,300000,4.4,10:00 AM - 5:00 PM,5,2,1,0,"A mausoleum in Bijapur, known for its impressive dome."
+Murudeshwar,Murudeshwar,Karnataka,250000,4.5,6:00 AM - 8:00 PM,3,5,3,5,A town known for its temple dedicated to Lord Shiva and its beach.
+Kabini Wildlife Sanctuary,Kabini,Karnataka,200000,4.6,6:00 AM - 6:00 PM,2,5,2,0,A wildlife sanctuary known for its population of elephants and tigers.
+Bhadra Wildlife Sanctuary,Bhadra,Karnataka,150000,4.4,6:00 AM - 6:00 PM,2,5,2,0,A wildlife sanctuary known for its diverse flora and fauna.
+Dandeli,Dandeli,Karnataka,100000,4.5,6:00 AM - 6:00 PM,2,5,4,0,A town known for its adventure sports and wildlife sanctuary.
+Kudremukh,Kudremukh,Karnataka,90000,4.6,6:00 AM - 6:00 PM,3,5,3,0,A mountain range known for its scenic beauty and trekking routes.
+Kemmangundi,Kemmangundi,Karnataka,80000,4.4,6:00 AM - 6:00 PM,2,5,2,0,A hill station known for its coffee plantations and pleasant weather.
+Agumbe,Agumbe,Karnataka,75000,4.3,24 hours,2,5,2,0,A village known for its rainforest and biodiversity.
+Chitradurga Fort,Chitradurga,Karnataka,70000,4.5,6:00 AM - 6:00 PM,5,2,1,0,A fort known for its historical significance and architecture.
+Anshi National Park,Karwar,Karnataka,65000,4.4,6:00 AM - 6:00 PM,2,5,2,0,A national park known for its diverse wildlife and natural beauty.
+Ramanagara,Ramanagara,Karnataka,60000,4.3,6:00 AM - 6:00 PM,1,4,2,0,A town known for its rock climbing and scenic beauty.
+Savandurga,Savandurga,Karnataka,55000,4.4,6:00 AM - 6:00 PM,2,4,2,0,A hill known for its monolithic rock and trekking trails.
+Horanadu,Horanadu,Karnataka,50000,4.6,6:00 AM - 10:00 PM,3,5,2,0,A town known for its temple dedicated to Goddess Annapoorneshwari.
+Udupi Sri Krishna Matha,Udupi,Karnataka,45000,4.5,5:00 AM - 9:30 PM,5,3,2,0,A temple town known for its temple dedicated to Lord Krishna.
+Kukke Subramanya Temple,Kukke Subramanya,Karnataka,40000,4.5,6:00 AM - 6:00 PM,5,3,2,0,A temple town known for its temple dedicated to Lord Subramanya.
+Somnathpur Temple,Somnathpur,Karnataka,35000,4.4,6:00 AM - 6:00 PM,5,3,1,0,A town known for its ancient temple dedicated to Lord Keshava.
+Bandipur National Park,Chamarajanagar,Karnataka,30000,4.3,6:00 AM - 6:00 PM,2,5,2,0,A national park known for its tiger reserve and wildlife.
+Gavi Gangadhareshwara Temple,Bangalore,Karnataka,25000,4.4,6:00 AM - 6:00 PM,5,2,1,0,"A cave temple in Bangalore, known for its rock-cut architecture."
