@@ -1,0 +1,7 @@
+pandas
+numpy
+tensorflow
+nltk
+googlemaps
+requests
+json
