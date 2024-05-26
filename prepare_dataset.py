@@ -4,10 +4,10 @@ import numpy as np
 users = ['Noel','Harsh', 'Vikranth','Muthuraj','Armaan']
 import random
 def return_attractions():
-    attractions_data = pd.read_csv('datasets/indian_attractions.csv', usecols=['Name', 'Rating', 'Visits'])
+    attractions_data = pd.read_csv('datasets/indian_attractions.csv', usecols=['Name', 'Rating', 'Visits', 'Historical', 'Natural', 'Amusement', 'Beach'])
     attractions = []
     for i in range(len(attractions_data)):
-        attributes = [attractions_data['Rating'][i], attractions_data['Visits'][i]]
+        attributes = [attractions_data['Rating'][i], attractions_data['Visits'][i], attractions_data['Historical'][i], attractions_data['Natural'][i], attractions_data['Amusement'][i], attractions_data['Beach'][i]]
         if attributes:
             attractions.append(attributes)
 
@@ -35,12 +35,12 @@ def initial():
 
     writer.writerow(["Name"] + users)
 
-    attractions_data = pd.read_csv('datasets/indian_attractions.csv', usecols=['Name','Rating'])
+    attractions_data = pd.read_csv('datasets/final-india.csv', usecols=['Name','Rating'])
 
     for i in range(len(attractions_data)):
         values = []
         for _ in users:
-            n = random.randint(0,3)
+            n = random.randint(0,5)
             if n == 0:
                 values.append(attractions_data['Rating'][i])
             else:
