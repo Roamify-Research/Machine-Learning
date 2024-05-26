@@ -1,0 +1,51 @@
+Name,City,State,Visitors,Rating,Opening Hours,Historical,Natural,Amusement,Beach,Description
+Sultan Qaboos Grand Mosque,Muscat,Muscat,1500000,4.9,8 AM - 11 AM,5,2,2,0,One of the largest mosques in the world, known for its stunning architecture and beautiful interiors.
+Royal Opera House,Muscat,Muscat,1000000,4.8,10 AM - 6 PM,5,2,4,0,A premier venue for musical arts and culture, hosting world-class performances.
+Muttrah Souq,Muscat,Muscat,800000,4.7,9 AM - 1 PM,4 PM - 9 PM,5,2,3,0,A traditional market offering a variety of goods including spices, textiles, and jewelry.
+Al Jalali and Al Mirani Forts,Muscat,Muscat,700000,4.8,8 AM - 6 PM,5,2,2,0,Historic forts offering panoramic views of the Muscat harbor and sea.
+Nizwa Fort,Nizwa,Ad Dakhiliyah,600000,4.7,8 AM - 6 PM,5,2,2,0,A historic fort known for its unique architecture and historical significance.
+Jebel Akhdar,Al Hajar Mountains,Ad Dakhiliyah,500000,4.9,24 hours,2,5,2,0,A mountainous region known for its terraced farms, stunning views, and cool climate.
+Wadi Shab,Tiwi,Ash Sharqiyah South,400000,4.8,24 hours,2,5,3,0,A popular wadi known for its natural beauty, clear pools, and hiking trails.
+Wahiba Sands,Al Wasil,Ash Sharqiyah North,300000,4.8,24 hours,2,5,3,0,A vast desert known for its stunning dunes and adventure activities like dune bashing and camel riding.
+Al Alam Palace,Muscat,Muscat,200000,4.7,8 AM - 6 PM,5,2,2,0,The ceremonial palace of the Sultan of Oman, known for its unique architecture.
+Bimmah Sinkhole,Bimmah,Ash Sharqiyah South,150000,4.8,8 AM - 8 PM,2,5,3,0,A natural sinkhole with clear turquoise water, popular for swimming and picnicking.
+Ras Al Jinz Turtle Reserve,Sur,Ash Sharqiyah South,100000,4.9,24 hours,2,5,3,5,A protected area known for its nesting sea turtles and guided turtle-watching tours.
+Qurum Beach,Muscat,Muscat,90000,4.7,24 hours,2,3,3,5,A popular beach in Muscat known for its golden sands and clear waters.
+Bahla Fort,Bahla,Ad Dakhiliyah,80000,4.7,8 AM - 6 PM,5,2,2,0,A UNESCO World Heritage Site, known for its impressive fortifications and historical significance.
+Majlis Al Jinn Cave,Selma Plateau,Ash Sharqiyah South,70000,4.8,24 hours,2,5,3,0,One of the largest cave chambers in the world, popular for spelunking and adventure tourism.
+Salalah Beach,Salalah,Dhofar,60000,4.7,24 hours,2,3,3,5,A beautiful beach known for its pristine sands and clear waters.
+Al Bustan Palace,Muscat,Muscat,50000,4.9,24 hours,5,2,4,0,A luxurious hotel known for its opulent architecture and beautiful gardens.
+Wadi Bani Khalid,Ash Sharqiyah,Ash Sharqiyah North,40000,4.8,24 hours,2,5,3,0,A scenic wadi known for its clear blue pools and beautiful surroundings.
+Mirbat Castle,Mirbat,Dhofar,30000,4.7,8 AM - 6 PM,5,2,2,0,A historic castle offering stunning views of the coast and surrounding area.
+Musandam Fjords,Khasab,Musandam,20000,4.9,24 hours,2,5,2,0,A stunning natural area known as the "Norway of Arabia," popular for dhow cruises and snorkeling.
+Nakhal Fort,Nakhal,Al Batinah South,15000,4.8,8 AM - 6 PM,5,2,2,0,A historic fort known for its strategic location and beautiful architecture.
+Al Hazm Castle,Rustaq,Al Batinah South,10000,4.7,8 AM - 6 PM,5,2,2,0,A historic castle known for its unique architecture and historical significance.
+Jebel Shams,Al Hamra,Ad Dakhiliyah,9000,4.9,24 hours,2,5,2,0,The highest mountain in Oman, offering stunning views and hiking opportunities.
+Sumhuram Archaeological Park,Khor Rori,Dhofar,8000,4.8,8 AM - 6 PM,5,2,2,0,An archaeological site known for its historical significance and beautiful location.
+Wadi Al Arbeieen,Muscat,Muscat,7000,4.7,24 hours,2,5,3,0,A beautiful wadi known for its clear pools and scenic surroundings.
+Jabrin Castle,Bahla,Ad Dakhiliyah,6000,4.8,8 AM - 6 PM,5,2,2,0,A historic castle known for its impressive architecture and historical significance.
+Seeb Corniche,Seeb,Muscat,5000,4.7,24 hours,2,3,3,5,A scenic waterfront area popular for walking, picnicking, and enjoying the sea views.
+Taqah Castle,Taqah,Dhofar,4000,4.8,8 AM - 6 PM,5,2,2,0,A historic castle known for its strategic location and historical significance.
+Aflaj Irrigation Systems,Nizwa,Ad Dakhiliyah,3000,4.7,24 hours,5,2,2,0,Ancient irrigation systems recognized as a UNESCO World Heritage Site.
+Wadi Dayqah Dam,Al Mazara,Ash Sharqiyah South,2000,4.9,8 AM - 6 PM,2,5,2,0,A large dam offering beautiful views and recreational opportunities.
+Qurum Natural Park,Muscat,Muscat,1500,4.8,8 AM - 10 PM,2,5,4,0,A large park offering various recreational activities and beautiful natural surroundings.
+Al Baleed Archaeological Park,Salalah,Dhofar,1000,4.7,8 AM - 6 PM,5,2,2,0,An archaeological site known for its historical significance and beautiful location.
+Al Hoota Cave,Al Hamra,Ad Dakhiliyah,900,4.8,8 AM - 6 PM,2,5,3,0,A popular tourist cave known for its impressive stalactites and stalagmites.
+Al Mughsail Beach,Salalah,Dhofar,800,4.7,24 hours,2,3,2,5,A beautiful beach known for its stunning cliffs and clear waters.
+Al Rustaq Fort,Rustaq,Al Batinah South,700,4.8,8 AM - 6 PM,5,2,2,0,A historic fort known for its strategic location and historical significance.
+Snake Canyon,Wadi Bani Awf,Al Batinah South,600,4.7,24 hours,2,5,3,0,A popular canyon known for its adventure tourism and beautiful scenery.
+Dhofar Beach,Salalah,Dhofar,500,4.9,24 hours,2,3,2,5,A pristine beach known for its white sands and clear waters.
+Khor Rori,Dhofar,Dhofar,400,4.8,8 AM - 6 PM,5,2,2,0,An archaeological site known for its historical significance and beautiful location.
+Turtle Beach Resort,Ras Al Hadd,Ash Sharqiyah South,300,4.7,24 hours,2,3,2,5,A resort known for its beautiful beach and turtle watching opportunities.
+Bandar Khayran Reserve,Muscat,Muscat,200,4.8,24 hours,2,5,2,5,A protected area known for its marine life and beautiful beaches.
+Muscat Gate Museum,Muscat,Muscat,150,4.7,8 AM - 6 PM,5,2,2,0,A museum dedicated to the history and heritage of Muscat.
+Barka Fort,Barka,Al Batinah South,100,4.8,8 AM - 6 PM,5,2,2,0,A historic fort known for its strategic location and historical significance.
+Salma Plateau,Ash Sharqiyah,Ash Sharqiyah North,90,4.7,24 hours,2,5,2,0,A beautiful plateau offering stunning views and hiking opportunities.
+Ras Madrakah Beach,Ras Madrakah,Al Wusta,80,4.9,24 hours,2,3,2,5,A pristine beach known for its white sands and clear waters.
+Mirani Fort,Muscat,Muscat,70,4.8,8 AM - 6 PM,5,2,2,0,A historic fort offering panoramic views of Muscat.
+Ras al Jinz,Turtle Reserve,Ash Sharqiyah South,60,4.7,24 hours,2,5,3,5,A protected area known for its nesting sea turtles and guided turtle-watching tours.
+Wadi Darbat,Salalah,Dhofar,50,4.8,24 hours,2,5,2,0,A beautiful wadi known for its waterfall and lush surroundings.
+Al Suwaiq Fort,Al Suwaiq,Al Batinah North,40,4.7,8 AM - 6 PM,5,2,2,0,A historic fort known for its strategic location and historical significance.
+Mutrah Corniche,Muscat,Muscat,30,4.9,24 hours,2,3,3,0,A scenic waterfront area popular for walking and enjoying the sea views.
+Ain Al Kasfa,Rustaq,Al Batinah South,20,4.8,24 hours,2,5,2,0,A hot spring known for its therapeutic waters and scenic surroundings.
+Salalah Museum,Salalah,Dhofar,10,4.7,8 AM - 6 PM,5,2,2,0,A museum dedicated to the history and culture of Salalah.
