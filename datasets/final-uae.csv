@@ -1,30 +1,30 @@
 Name,City,State,Visitors,Rating,Opening Hours,Historical,Natural,Amusement,Beach,Description
-Burj Khalifa,Dubai,UAE,15000000,4.9,24 hours,5,1,5,0,The tallest building in the world, offering stunning views from its observation decks.
+Burj Khalifa,Dubai,UAE,15000000,4.9,24 hours,5,1,5,0,The tallest building in the world and offering stunning views from its observation decks.
 Sheikh Zayed Grand Mosque,Abu Dhabi,UAE,10000000,4.8,9 AM - 10 PM,5,2,2,0,A beautiful and expansive mosque known for its architecture and serene atmosphere.
-Dubai Mall,Dubai,UAE,8000000,4.7,10 AM - 12 AM,2,2,5,0,One of the largest shopping malls in the world, featuring numerous shops, restaurants, and entertainment options.
+Dubai Mall,Dubai,UAE,8000000,4.7,10 AM - 12 AM,2,2,5,0,One of the largest shopping malls in the world and featuring numerous shops and restaurants and entertainment options.
 The Dubai Fountain,Dubai,UAE,7000000,4.8,6 PM - 11 PM,2,3,5,0,The world's largest choreographed fountain system set on the Burj Khalifa Lake.
 Ferrari World,Abu Dhabi,UAE,5000000,4.7,11 AM - 8 PM,2,2,5,0,A Ferrari-themed amusement park featuring thrilling rides and attractions.
 Burj Al Arab,Dubai,UAE,3000000,4.9,24 hours,5,1,3,0,A luxurious hotel known for its distinctive sail-shaped silhouette.
-Palm Jumeirah,Dubai,UAE,4000000,4.8,24 hours,2,2,3,5,A man-made island featuring luxury hotels, residences, and entertainment venues.
+Palm Jumeirah,Dubai,UAE,4000000,4.8,24 hours,2,2,3,5,"A man-made island featuring luxury hotels, residences, and entertainment venues"
 Louvre Abu Dhabi,Abu Dhabi,UAE,3000000,4.8,10 AM - 8 PM,5,2,2,0,An art and civilization museum showcasing works from around the world.
-Dubai Marina,Dubai,UAE,5000000,4.7,24 hours,2,2,4,5,A modern waterfront development with a variety of dining, shopping, and entertainment options.
+Dubai Marina,Dubai,UAE,5000000,4.7,24 hours,2,2,4,5,"A modern waterfront development with a variety of dining, shopping, and entertainment options."
 Al Ain Zoo,Al Ain,UAE,2000000,4.6,9 AM - 8 PM,2,5,4,0,A large zoo featuring a variety of animal exhibits and conservation programs.
 Sharjah Arts Museum,Sharjah,UAE,1000000,4.7,8 AM - 8 PM,5,2,2,0,A museum showcasing contemporary and modern art from the Arab world.
-Jebel Jais,Ras Al Khaimah,UAE,1500000,4.8,24 hours,2,5,2,0,The highest peak in the UAE, offering scenic views and adventure activities.
-Dubai Creek,Dubai,UAE,4000000,4.7,24 hours,5,2,3,0,A historic waterway running through the heart of Dubai, known for its traditional dhows.
-Al Bastakiya,Dubai,UAE,2000000,4.8,9 AM - 6 PM,5,2,2,0,A historic district featuring restored buildings, art galleries, and cafes.
+Jebel Jais,Ras Al Khaimah,UAE,1500000,4.8,24 hours,2,5,2,0,"The highest peak in the UAE, offering scenic views and adventure activities."
+Dubai Creek,Dubai,UAE,4000000,4.7,24 hours,5,2,3,0,"A historic waterway running through the heart of Dubai, known for its traditional dhows."
+Al Bastakiya,Dubai,UAE,2000000,4.8,9 AM - 6 PM,5,2,2,0,"A historic district featuring restored buildings, art galleries, and cafes."
 Ajman Museum,Ajman,UAE,800000,4.6,8 AM - 8 PM,5,2,2,0,A museum housed in an 18th-century fort showcasing Ajman's history and culture.
-Al Majaz Waterfront,Sharjah,UAE,1000000,4.7,24 hours,2,3,4,0,A family-friendly destination with parks, fountains, and dining options.
+Al Majaz Waterfront,Sharjah,UAE,1000000,4.7,24 hours,2,3,4,0,"A family-friendly destination with parks, fountains, and dining options."
 Yas Waterworld,Abu Dhabi,UAE,2000000,4.8,10 AM - 6 PM,2,2,5,0,A large water park with a variety of slides and attractions.
 Qasr Al Hosn,Abu Dhabi,UAE,1000000,4.7,9 AM - 7 PM,5,2,2,0,A historic fort and cultural landmark in Abu Dhabi.
 Sir Bani Yas Island,Abu Dhabi,UAE,500000,4.8,24 hours,2,5,3,5,An island known for its wildlife sanctuary and luxury resorts.
-Al Noor Island,Sharjah,UAE,800000,4.7,9 AM - 11 PM,2,5,3,0,A beautiful island featuring gardens, art installations, and a butterfly house.
+Al Noor Island,Sharjah,UAE,800000,4.7,9 AM - 11 PM,2,5,3,0,"A beautiful island featuring gardens, art installations, and a butterfly house."
 Hatta,Dubai,UAE,1000000,4.8,24 hours,2,5,4,0,A scenic mountainous area offering outdoor activities like hiking and kayaking.
 Saadiyat Public Beach,Abu Dhabi,UAE,1500000,4.7,8 AM - 6 PM,2,3,2,5,A pristine beach offering various water sports and leisure activities.
 Fujairah Fort,Fujairah,UAE,800000,4.7,8 AM - 6 PM,5,2,2,0,An ancient fort known for its historical significance and architecture.
 Al Ain Oasis,Al Ain,UAE,600000,4.8,8 AM - 5 PM,2,5,2,0,A lush oasis featuring thousands of date palms and traditional irrigation systems.
 Zabeel Park,Dubai,UAE,1500000,4.7,8 AM - 10 PM,2,5,4,0,A large urban park offering various recreational activities and attractions.
-Dubai Opera,Dubai,UAE,1000000,4.8,10 AM - 10 PM,2,2,5,0,A world-class performing arts venue hosting concerts, opera, and theater productions.
+Dubai Opera,Dubai,UAE,1000000,4.8,10 AM - 10 PM,2,2,5,0,"A world-class performing arts venue hosting concerts, opera, and theater productions."
 Khor Fakkan Beach,Khor Fakkan,UAE,900000,4.7,24 hours,2,3,3,5,A popular beach destination known for its clear waters and scenic surroundings.
 Liwa Oasis,Abu Dhabi,UAE,500000,4.8,24 hours,2,5,2,0,A vast oasis known for its date farms and historical significance.
 Mina Zayed Fish Market,Abu Dhabi,UAE,600000,4.7,6 AM - 12 PM,2,2,2,0,A bustling market offering fresh seafood and local produce.
@@ -32,10 +32,10 @@ Emirates Palace,Abu Dhabi,UAE,2000000,4.9,24 hours,5,2,3,0,A luxurious hotel kno
 Global Village,Dubai,UAE,3000000,4.7,4 PM - 12 AM,2,2,4,0,A cultural and entertainment destination featuring pavilions from around the world.
 The Green Planet,Dubai,UAE,2000000,4.8,10 AM - 10 PM,2,2,3,0,An indoor tropical rainforest with a variety of plants and animals.
 IMG Worlds of Adventure,Dubai,UAE,1500000,4.7,11 AM - 10 PM,2,2,5,0,A large indoor theme park with various rides and attractions.
-Al Mamzar Beach Park,Dubai,UAE,2000000,4.6,8 AM - 10 PM,2,3,4,5,A beach park offering swimming, picnicking, and recreational activities.
+Al Mamzar Beach Park,Dubai,UAE,2000000,4.6,8 AM - 10 PM,2,3,4,5,"A beach park offering swimming, picnicking, and recreational activities."
 Bluewaters Island,Dubai,UAE,2500000,4.8,24 hours,2,3,5,5,An island destination featuring the Ain Dubai observation wheel and luxury residences.
 Dubai Parks and Resorts,Dubai,UAE,2000000,4.7,10 AM - 6 PM,2,2,5,0,A large entertainment complex with multiple theme parks.
-Ski Dubai,Dubai,UAE,1500000,4.8,10 AM - 10 PM,2,2,5,0,An indoor ski resort offering skiing, snowboarding, and other winter activities.
+Ski Dubai,Dubai,UAE,1500000,4.8,10 AM - 10 PM,2,2,5,0,"An indoor ski resort offering skiing, snowboarding, and other winter activities."
 Dubai Frame,Dubai,UAE,2000000,4.7,9 AM - 9 PM,2,2,5,0,A landmark structure offering panoramic views of old and new Dubai.
 LEGOLAND Dubai,Dubai,UAE,1500000,4.8,11 AM - 9 PM,2,2,5,0,A theme park with rides and attractions based on the popular LEGO brand.
 Motiongate Dubai,Dubai,UAE,1000000,4.6,11 AM - 9 PM,2,2,5,0,A Hollywood-inspired theme park featuring rides and attractions based on popular movies.
@@ -46,6 +46,6 @@ Dubai Dolphinarium,Dubai,UAE,1500000,4.7,10 AM - 7 PM,2,2,3,0,An indoor dolphina
 Aquaventure Waterpark,Dubai,UAE,2000000,4.9,10 AM - 6 PM,2,5,5,0,A water park featuring thrilling water slides and attractions.
 Dubai Butterfly Garden,Dubai,UAE,1000000,4.8,9 AM - 9 PM,2,2,5,0,A garden featuring thousands of butterflies and various plants.
 Wild Wadi Waterpark,Dubai,UAE,1500000,4.7,10 AM - 7 PM,2,2,5,0,A popular outdoor water park with a variety of slides and attractions.
-Al Qudra Lakes,Dubai,UAE,2000000,4.8,24 hours,2,5,3,0,A series of artificial lakes offering scenic views, birdwatching, and outdoor activities.
-The Lost Chambers Aquarium,Dubai,UAE,1000000,4.7,10 AM - 7 PM,2,2,3,0,An aquarium themed around the lost city of Atlantis, featuring a variety of marine life.
-Dubai Marina Mall,Dubai,UAE,1500000,4.8,10 AM - 10 PM,2,2,5,0,A shopping mall located in the Dubai Marina, offering a variety of shops, restaurants, and entertainment options.
+Al Qudra Lakes,Dubai,UAE,2000000,4.8,24 hours,2,5,3,0,"A series of artificial lakes offering scenic views, birdwatching, and outdoor activities."
+The Lost Chambers Aquarium,Dubai,UAE,1000000,4.7,10 AM - 7 PM,2,2,3,0,"An aquarium themed around the lost city of Atlantis, featuring a variety of marine life."
+Dubai Marina Mall,Dubai,UAE,1500000,4.8,10 AM - 10 PM,2,2,5,0,"A shopping mall located in the Dubai Marina, offering a variety of shops, restaurants, and entertainment options"
