@@ -13,27 +13,27 @@ import pandas as pd
 # print(df)
 
 
-# # Load the dataset with error handling
-# df = pd.read_csv('final-us.csv', on_bad_lines='skip')
+# Load the dataset with error handling
+df = pd.read_csv('final-us.csv', on_bad_lines='skip')
 
-# # Remove duplicates based on the 'Name' and 'City' columns
-# df = df.drop_duplicates(subset=['Name', 'City'])
+# Remove duplicates based on the 'Name' and 'City' columns
+df = df.drop_duplicates(subset=['Name', 'City'])
 
-# # Save the updated dataframe back to the same CSV file
-# df.to_csv('final-us.csv', index=False)
+# Save the updated dataframe back to the same CSV file
+df.to_csv('final-us.csv', index=False)
 
-# # Print the updated dataframe
-# print(df)
+# Print the updated dataframe
+print(df)
 
 
-# Load the cleaned dataset
-df_cleaned = pd.read_csv('final-us-cleaned.csv')
+# # Load the cleaned dataset
+# df_cleaned = pd.read_csv('final-us-cleaned.csv')
 
-# Load the original dataset
-df_original = pd.read_csv('final-us.csv')
+# # Load the original dataset
+# df_original = pd.read_csv('final-us.csv')
 
-# Compare missing values by name
-missing_values = df_original[~df_original['Name'].isin(df_cleaned['Name'])]
+# # Compare missing values by name
+# missing_values = df_original[~df_original['Name'].isin(df_cleaned['Name'])]
 
-# Print the missing values
-print(missing_values)
+# # Print the missing values
+# print(missing_values)
