@@ -1,35 +1,35 @@
 Name,City,State,Visitors,Rating,Opening Hours,Historical,Natural,Amusement,Beach,Description
-Times Square,New York,New York,50000000,4.7,24 hours,2,1,5,0,One of the world's most visited tourist attractions, known for its bright lights and Broadway shows.
+Times Square,New York,New York,50000000,4.7,24 hours,2,1,5,0,"One of the world's most visited tourist attractions, known for its bright lights and Broadway shows."
 Grand Canyon National Park,Grand Canyon,Arizona,6000000,4.9,24 hours,2,5,2,0,A UNESCO World Heritage site known for its immense size and its intricate and colorful landscape.
 Disneyland, Anaheim,California,18000000,4.8,8 AM - 12 AM,2,2,5,0,The world-famous theme park created by Walt Disney.
-Statue of Liberty,New York,New York,4200000,4.8,8:30 AM - 4 PM,5,2,2,0,A universal symbol of freedom and democracy, and one of the most famous landmarks in the US.
-Yellowstone National Park,Yellowstone,Wyoming,4000000,4.9,24 hours,2,5,2,0,The first national park in the world, known for its wildlife and geothermal features.
+Statue of Liberty,New York,New York,4200000,4.8,8:30 AM - 4 PM,5,2,2,0,"A universal symbol of freedom and democracy, and one of the most famous landmarks in the US"
+Yellowstone National Park,Yellowstone,Wyoming,4000000,4.9,24 hours,2,5,2,0,"The first national park in the world, known for its wildlife and geothermal features."
 Niagara Falls,Niagara Falls,New York,3000000,4.8,24 hours,2,5,2,0,A group of three waterfalls at the southern end of Niagara Gorge.
-Smithsonian Institution,Washington,D.C.,2000000,4.9,10 AM - 5:30 PM,5,2,2,0,The world's largest museum, education, and research complex.
+Smithsonian Institution,Washington,D.C.,2000000,4.9,10 AM - 5:30 PM,5,2,2,0,"The world's largest museum, education, and research complex."
 Las Vegas Strip,Las Vegas,Nevada,42000000,4.6,24 hours,2,2,5,0,Known for its concentration of resort hotels and casinos.
 Golden Gate Bridge,San Francisco,California,10000000,4.8,24 hours,5,2,2,0,An iconic suspension bridge connecting San Francisco Bay and the Pacific Ocean.
 Central Park,New York,New York,38000000,4.8,6 AM - 1 AM,2,5,4,0,A large public park in New York City.
 Universal Studios Hollywood,Los Angeles,California,9000000,4.7,10 AM - 6 PM,2,2,5,0,A film studio and theme park.
 Empire State Building,New York,New York,4000000,4.8,8 AM - 2 AM,5,2,2,0,A 102-story Art Deco skyscraper in Midtown Manhattan.
 Mount Rushmore,Keystone,South Dakota,2000000,4.7,5 AM - 11 PM,5,2,2,0,A massive sculpture carved into the granite face of Mount Rushmore.
-Yosemite National Park,Yosemite,California,5000000,4.9,24 hours,2,5,2,0,Known for its waterfalls, giant sequoia trees, and stunning vistas.
+Yosemite National Park,Yosemite,California,5000000,4.9,24 hours,2,5,2,0,"Known for its waterfalls, giant sequoia trees, and stunning vistas."
 French Quarter,New Orleans,Louisiana,7000000,4.6,24 hours,5,2,4,0,A historic district known for its vibrant nightlife and colorful buildings.
 Liberty Bell,Philadelphia,Pennsylvania,1500000,4.7,9 AM - 5 PM,5,2,2,0,An iconic symbol of American independence.
 Disney World,Orlando,Florida,58000000,4.8,9 AM - 9 PM,2,2,5,0,The most visited vacation resort in the world.
 Zion National Park,Springdale,Utah,4500000,4.9,24 hours,2,5,2,0,Known for its steep red cliffs.
-Hollywood Walk of Fame,Los Angeles,California,10000000,4.6,24 hours,2,2,5,0,A sidewalk along Hollywood Boulevard with more than 2,600 brass stars embedded in the sidewalks.
+Hollywood Walk of Fame,Los Angeles,California,10000000,4.6,24 hours,2,2,5,0,"A sidewalk along Hollywood Boulevard with more than 2,600 brass stars embedded in the sidewalks."
 White House,Washington,D.C.,700000,4.8,7:30 AM - 4 PM,5,2,2,0,The official residence and workplace of the President of the United States.
 Waikiki Beach,Honolulu,Hawaii,8000000,4.7,24 hours,2,3,3,5,A popular beach in Honolulu.
-Glacier National Park,West Glacier,Montana,3000000,4.9,24 hours,2,5,2,0,Known for its pristine forests, alpine meadows, and rugged mountains.
+Glacier National Park,West Glacier,Montana,3000000,4.9,24 hours,2,5,2,0,"Known for its pristine forests, alpine meadows, and rugged mountains."
 Lincoln Memorial,Washington,D.C.,8000000,4.8,24 hours,5,2,2,0,An American national monument built to honor the 16th President of the United States.
-Space Needle,Seattle,Washington,2000000,4.7,10 AM - 8 PM,5,2,2,0,An observation tower in Seattle, Washington.
-Sequoia National Park,Three Rivers,California,1000000,4.9,24 hours,2,5,2,0,Known for its giant sequoia trees, including the General Sherman tree.
+Space Needle,Seattle,Washington,2000000,4.7,10 AM - 8 PM,5,2,2,0,"An observation tower in Seattle, Washington."
+Sequoia National Park,Three Rivers,California,1000000,4.9,24 hours,2,5,2,0,"Known for its giant sequoia trees, including the General Sherman tree."
 Fenway Park,Boston,Massachusetts,500000,4.6,9 AM - 5 PM,5,2,5,0,The oldest ballpark in Major League Baseball.
 Great Smoky Mountains National Park,Gatlinburg,Tennessee,12000000,4.9,24 hours,2,5,2,0,Known for its mist-covered mountains and diverse plant and animal life.
 Metropolitan Museum of Art,New York,New York,7000000,4.9,10 AM - 5 PM,5,2,2,0,The largest art museum in the United States.
 Bryce Canyon National Park,Bryce,Utah,2600000,4.9,24 hours,2,5,2,0,Known for its crimson-colored hoodoos.
 Alcatraz Island,San Francisco,California,1700000,4.7,9 AM - 6 PM,5,2,2,0,The site of the notorious former prison.
-Cape Cod,Cape Cod,Massachusetts,5000000,4.8,24 hours,2,5,2,5,Known for its quaint villages, seafood shacks, lighthouses, and beaches.
+Cape Cod,Cape Cod,Massachusetts,5000000,4.8,24 hours,2,5,2,5,"Known for its quaint villages, seafood shacks, lighthouses, and beaches."
 Rockefeller Center,New York,New York,2600000,4.7,8 AM - 12 AM,5,2,5,0,A large complex consisting of 19 commercial buildings.
 Acadia National Park,Bar Harbor,Maine,3500000,4.9,24 hours,2,5,2,0,Known for its rocky headlands and natural beauty.
 Monterey Bay Aquarium,Monterey,California,2000000,4.8,10 AM - 5 PM,2,2,3,0,A public aquarium known for its regional focus on the marine habitats of Monterey Bay.
@@ -43,7 +43,7 @@ Mount St. Helens,Skamania,Washington,500000,4.8,24 hours,2,5,2,0,An active strat
 Rock and Roll Hall of Fame,Cleveland,Ohio,600000,4.7,10 AM - 5:30 PM,5,2,5,0,A museum and hall of fame celebrating the history and cultural significance of rock music.
 Kennedy Space Center,Merritt Island,Florida,1900000,4.8,9 AM - 5 PM,5,2,3,0,A space launch facility.
 Pikes Peak,Colorado Springs,Colorado,500000,4.8,24 hours,2,5,2,0,A mountain in the Front Range of the Rocky Mountains.
-Mount Rainier National Park,Ashford,Washington,2000000,4.9,24 hours,2,5,2,0,Known for its active volcano, Mount Rainier.
+Mount Rainier National Park,Ashford,Washington,2000000,4.9,24 hours,2,5,2,0,"Known for its active volcano, Mount Rainier."
 Jackson Hole,Jackson,Wyoming,3000000,4.7,24 hours,2,5,4,0,A valley between the Teton Mountain Range and the Gros Ventre Range.
 Fort Sumter,Charleston,South Carolina,1000000,4.7,10 AM - 5 PM,5,2,2,0,A sea fort known for two battles of the American Civil War.
 Crater Lake National Park,Crater Lake,Oregon,700000,4.9,24 hours,2,5,2,0,Known for its deep blue color and water clarity.
@@ -51,43 +51,10 @@ The Alamo,San Antonio,Texas,1500000,4.7,9 AM - 5:30 PM,5,2,2,0,A historic Spanis
 Vail,Vail,Colorado,2000000,4.8,24 hours,2,5,4,0,A popular ski resort.
 Carlsbad Caverns National Park,Carlsbad,New Mexico,400000,4.9,24 hours,2,5,2,0,Known for its extensive cave system.
 Mammoth Cave National Park,Mammoth Cave,Kentucky,500000,4.8,24 hours,2,5,2,0,The world's longest known cave system.
-Golden Gate Park,San Francisco,California,25000000,4.8,5 AM - 12 AM,2,5,4,0,A large urban park consisting of gardens, museums, and recreational areas.
-Times Square,New York,New York,50000000,4.7,24 hours,2,1,5,0,One of the world's most visited tourist attractions, known for its bright lights and Broadway shows.
+Golden Gate Park,San Francisco,California,25000000,4.8,5 AM - 12 AM,2,5,4,0,"A large urban park consisting of gardens, museums, and recreational areas."
+Times Square,New York,New York,50000000,4.7,24 hours,2,1,5,0,"One of the world's most visited tourist attractions, known for its bright lights and Broadway shows."
 Hollywood Sign,Los Angeles,California,10000000,4.6,24 hours,2,2,2,0,An iconic landmark and cultural symbol of Los Angeles.
-National Mall,Washington,D.C.,24000000,4.8,24 hours,5,2,2,0,A national park in downtown Washington, D.C., featuring iconic monuments and memorials.
+National Mall,Washington,D.C.,24000000,4.8,24 hours,5,2,2,0,"A national park in downtown Washington, D.C., featuring iconic monuments and memorials."
 Walt Disney World Resort,Orlando,Florida,58000000,4.8,9 AM - 9 PM,2,2,5,0,The most visited vacation resort in the world.
 Venice Beach,Los Angeles,California,10000000,4.6,24 hours,2,3,4,5,Known for its bohemian spirit and vibrant boardwalk.
-Bryce Canyon National Park,Bryce,Utah,2600000,4.9,24 hours,2,5,2,0,Known for its crimson-colored hoodoos.
-Alcatraz Island,San Francisco,California,1700000,4.7,9 AM - 6 PM,5,2,2,0,The site of the notorious former prison.
-Cape Cod,Cape Cod,Massachusetts,5000000,4.8,24 hours,2,5,2,5,Known for its quaint villages, seafood shacks, lighthouses, and beaches.
-Rockefeller Center,New York,New York,2600000,4.7,8 AM - 12 AM,5,2,5,0,A large complex consisting of 19 commercial buildings.
-Acadia National Park,Bar Harbor,Maine,3500000,4.9,24 hours,2,5,2,0,Known for its rocky headlands and natural beauty.
-Monterey Bay Aquarium,Monterey,California,2000000,4.8,10 AM - 5 PM,2,2,3,0,A public aquarium known for its regional focus on the marine habitats of Monterey Bay.
-Gateway Arch,St. Louis,Missouri,2500000,4.8,8 AM - 10 PM,5,2,2,0,A 630-foot monument in St. Louis.
-Antelope Canyon,Page,Arizona,2500000,4.9,24 hours,2,5,2,0,A slot canyon known for its wave-like structure and light beams.
-Graceland,Memphis,Tennessee,650000,4.8,9 AM - 4 PM,5,2,5,0,The former home of Elvis Presley.
-Badlands National Park,Interior,South Dakota,1000000,4.8,24 hours,2,5,2,0,Known for its sharply eroded buttes and pinnacles.
-Mount Vernon,Mount Vernon,Virginia,1000000,4.7,9 AM - 5 PM,5,2,2,0,The plantation home of George Washington.
-MoMA (Museum of Modern Art),New York,New York,3000000,4.8,10:30 AM - 5:30 PM,5,2,2,0,An influential art museum in Midtown Manhattan.
-Mount St. Helens,Skamania,Washington,500000,4.8,24 hours,2,5,2,0,An active stratovolcano known for its 1980 eruption.
-Rock and Roll Hall of Fame,Cleveland,Ohio,600000,4.7,10 AM - 5:30 PM,5,2,5,0,A museum and hall of fame celebrating the history and cultural significance of rock music.
-Kennedy Space Center,Merritt Island,Florida,1900000,4.8,9 AM - 5 PM,5,2,3,0,A space launch facility.
-Pikes Peak,Colorado Springs,Colorado,500000,4.8,24 hours,2,5,2,0,A mountain in the Front Range of the Rocky Mountains.
-Mount Rainier National Park,Ashford,Washington,2000000,4.9,24 hours,2,5,2,0,Known for its active volcano, Mount Rainier.
-Jackson Hole,Jackson,Wyoming,3000000,4.7,24 hours,2,5,4,0,A valley between the Teton Mountain Range and the Gros Ventre Range.
-Fort Sumter,Charleston,South Carolina,1000000,4.7,10 AM - 5 PM,5,2,2,0,A sea fort known for two battles of the American Civil War.
-Crater Lake National Park,Crater Lake,Oregon,700000,4.9,24 hours,2,5,2,0,Known for its deep blue color and water clarity.
-The Alamo,San Antonio,Texas,1500000,4.7,9 AM - 5:30 PM,5,2,2,0,A historic Spanish mission and fortress compound.
-Vail,Vail,Colorado,2000000,4.8,24 hours,2,5,4,0,A popular ski resort.
-Carlsbad Caverns National Park,Carlsbad,New Mexico,400000,4.9,24 hours,2,5,2,0,Known for its extensive cave system.
-Mammoth Cave National Park,Mammoth Cave,Kentucky,500000,4.8,24 hours,2,5,2,0,The world's longest known cave system.
-Golden Gate Park,San Francisco,California,25000000,4.8,5 AM - 12 AM,2,5,4,0,A large urban park consisting of gardens, museums, and recreational areas.
-Times Square,New York,New York,50000000,4.7,24 hours,2,1,5,0,One of the world's most visited tourist attractions, known for its bright lights and Broadway shows.
-Hollywood Sign,Los Angeles,California,10000000,4.6,24 hours,2,2,2,0,An iconic landmark and cultural symbol of Los Angeles.
-National Mall,Washington,D.C.,24000000,4.8,24 hours,5,2,2,0,A national park in downtown Washington, D.C., featuring iconic monuments and memorials.
-Walt Disney World Resort,Orlando,Florida,58000000,4.8,9 AM - 9 PM,2,2,5,0,The most visited vacation resort in the world.
-San Diego Zoo,San Diego,California,4000000,4.9,9 AM - 6 PM,2,5,3,0,One of the most famous zoos in the world, known for its large and diverse collection of animals.
-Bryce Canyon National Park,Bryce,Utah,2600000,4.9,24 hours,2,5,2,0,Known for its crimson-colored hoodoos.
-Alcatraz Island,San Francisco,California,1700000,4.7,9 AM - 6 PM,5,2,2,0,The site of the notorious former prison.
-Rockefeller Center,New York,New York,2600000,4.7,8 AM - 12 AM,5,2,5,0,A large complex consisting of 19 commercial buildings.
-Acadia National Park,Bar Harbor,Maine,3500000,4.9,24 hours,2,5,2,0,Known for its rocky headlands and natural beauty.
+San Diego Zoo,San Diego,California,4000000,4.9,9 AM - 6 PM,2,5,3,0,"One of the most famous zoos in the world, known for its large and diverse collection of animals."
