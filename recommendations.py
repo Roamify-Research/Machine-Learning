@@ -1,4 +1,3 @@
-import csv
 import pandas as pd
 
 def print_recommendations(state, number_of_attractions, user):
