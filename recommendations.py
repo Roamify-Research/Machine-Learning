@@ -2,7 +2,7 @@ import csv
 import pandas as pd
 
 def print_recommendations(state, number_of_attractions, user):
-    attractions_data = pd.read_csv('datasets/final-attractions.csv', usecols=['Name','State','City','Opening Hours','Description'])
+    attractions_data = pd.read_csv('datasets/final_attractions.csv', usecols=['Name','State','City','Opening Hours','Description'])
     attraction_names = []
     attractions_description = {}
     for i in range(len(attractions_data)):
