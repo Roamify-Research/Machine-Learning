@@ -1109,3 +1109,145 @@ The Gate Mall,4.8,200,2,2,5,0,Qatar,Qatar,A luxury shopping mall in Doha.,Doha,2
 Lagoon Mall,4.7,100,2,2,5,0,Qatar,Qatar,A shopping and entertainment complex.,Doha,24 hours
 Doha Exhibition and Convention Center,4.6,50,2,2,3,0,Qatar,Qatar,A major venue for exhibitions and conferences.,Doha,24 hours
 Qatar Sports Club,4.7,10,2,2,2,0,Qatar,Qatar,A sports club offering various facilities.,Doha,24 hours
+British Museum,4.8,6000000,5,2,2,0,England,UK,One of the world's greatest museums of human history and culture.,London,10 AM - 5:30 PM
+Tower of London,4.7,3000000,5,2,2,0,England,UK,A historic castle located on the north bank of the River Thames.,London,9 AM - 4:30 PM
+Stonehenge,4.6,1200000,5,5,1,0,England,UK,Prehistoric monument in Wiltshire consisting of a ring of standing stones.,Wiltshire,9 AM - 8 PM
+Buckingham Palace,4.7,500000,5,2,2,0,England,UK,The London residence and administrative headquarters of the monarch of the United Kingdom.,London,9:30 AM - 4:15 PM
+Edinburgh Castle,4.8,2000000,5,2,2,0,Scotland,UK,A historic fortress which dominates the skyline of Edinburgh.,Edinburgh,9:30 AM - 6 PM
+Lake District National Park,4.8,1500000,2,5,2,0,England,UK,"Known for its glacial ribbon lakes, rugged fell mountains, and historic literary associations.",Cumbria,24 hours
+The Roman Baths,4.7,1200000,5,2,2,0,England,UK,A well-preserved thermae in the city of Bath.,Bath,9 AM - 9 PM
+Madame Tussauds Museum,4.7,2500000,5,2,5,0,England,UK,A wax museum in London; it was founded by wax sculptor Marie Tussaud.,London,9:30 AM - 5:30 PM
+York Minster,4.8,600000,5,2,2,0,England,UK,One of the largest cathedrals of its kind in Northern Europe.,York,7 AM - 6:30 PM
+The Shard,4.7,2000000,2,2,5,0,England,UK,"A 95-storey supertall skyscraper in Southwark, London.",London,10 AM - 10 PM
+Hyde Park,4.6,1200000,2,5,2,0,England,UK,One of the largest parks in London and one of the Royal Parks of London.,London,5 AM - Midnight
+Natural History Museum,4.8,5000000,5,2,2,0,England,UK,A natural history museum that exhibits a vast range of specimens from various segments of natural history.,London,10 AM - 5:50 PM
+Kew Gardens,4.7,1400000,2,5,2,0,England,UK,A botanical garden in southwest London that houses the largest and most diverse botanical and mycological collections in the world.,Richmond,10 AM - 7 PM
+Chatsworth House,4.7,600000,5,2,2,0,England,UK,"A stately home in Derbyshire, England, which is the seat of the Duke of Devonshire.",Derbyshire,10:30 AM - 5 PM
+Windsor Castle,4.8,1500000,5,2,2,0,England,UK,A royal residence at Windsor in the English county of Berkshire.,Windsor,10 AM - 5:15 PM
+Stirling Castle,4.7,500000,5,2,2,0,Scotland,UK,One of the largest and most important castles in Scotland.,Stirling,9:30 AM - 5 PM
+The Eden Project,4.7,1000000,2,5,3,0,England,UK,"A popular visitor attraction in Cornwall, England, housing the largest greenhouse in the world.",Cornwall,10 AM - 6 PM
+Giant's Causeway,4.8,800000,2,5,1,0,Northern Ireland,UK,"An area of about 40,000 interlocking basalt columns, the result of an ancient volcanic fissure eruption.",County Antrim,9 AM - 7 PM
+Hadrian's Wall,4.7,500000,5,5,1,0,England,UK,"A defensive fortification in the Roman province of Britannia, begun in AD 122 in the reign of the emperor Hadrian.",Northumberland,10 AM - 5 PM
+The Scottish Highlands,4.9,1200000,2,5,2,0,Scotland,UK,A mountainous region in northwest Scotland known for its scenic beauty and outdoor activities.,Highland,24 hours
+Loch Ness,4.8,800000,2,5,2,0,Scotland,UK,"A large, deep, freshwater loch in the Scottish Highlands.",Highland,24 hours
+Glastonbury Tor,4.7,300000,5,5,1,0,England,UK,A hill near Glastonbury in the English county of Somerset.,Somerset,24 hours
+Liverpool Cathedral,4.8,500000,5,2,2,0,England,UK,A Church of England cathedral and the seat of the Bishop of Liverpool.,Liverpool,8 AM - 6 PM
+Snowdonia National Park,4.9,1000000,2,5,2,0,Wales,UK,A national park and a region in northwestern Wales concentrated around the mountains of Snowdonia.,Gwynedd,24 hours
+St. Michael's Mount,4.8,200000,5,5,2,0,England,UK,"A tidal island in Mount's Bay, Cornwall, England, connected to the mainland by a man-made causeway.",Cornwall,9:30 AM - 5 PM
+The Needles,4.7,300000,2,5,3,0,England,UK,A row of three distinctive stacks of chalk that rise out of the sea off the western extremity of the Isle of Wight.,Isle of Wight,24 hours
+Durham Cathedral,4.8,600000,5,2,2,0,England,UK,"A cathedral in the city of Durham, England, the seat of the Anglican Bishop of Durham.",Durham,10 AM - 4 PM
+Canterbury Cathedral,4.9,1000000,5,2,2,0,England,UK,One of the oldest and most famous Christian structures in England.,Canterbury,9 AM - 5 PM
+Chester Zoo,4.8,1500000,2,5,3,0,England,UK,"A zoological garden at Upton by Chester, Cheshire, England.",Chester,10 AM - 5:30 PM
+The Cotswolds,4.9,1200000,2,5,2,0,England,UK,An area in south central England containing the Cotswold Hills.,Gloucestershire,24 hours
+The Beatles Story,4.7,500000,2,2,3,0,England,UK,"An exhibition dedicated to the 1960s rock band The Beatles in Liverpool, England.",Liverpool,9 AM - 6 PM
+Blenheim Palace,4.8,800000,5,2,2,0,England,UK,"A monumental country house situated in Woodstock, Oxfordshire, England.",Woodstock,10:30 AM - 5:30 PM
+Tower Bridge,4.7,1000000,5,2,3,0,England,UK,A combined bascule and suspension bridge in London built between 1886 and 1894.,London,9:30 AM - 6 PM
+Wembley Stadium,4.7,2000000,2,2,5,0,England,UK,"A football stadium in Wembley, London, which opened in 2007, on the site of the original Wembley Stadium.",London,10 AM - 5 PM
+Royal Botanic Garden Edinburgh,4.8,600000,2,5,2,0,Scotland,UK,"A scientific centre for the study of plants, their diversity, and conservation.",Edinburgh,10 AM - 6 PM
+Portmeirion,4.8,200000,2,5,2,0,Wales,UK,"A tourist village in Gwynedd, North Wales.",Gwynedd,9:30 AM - 5:30 PM
+Royal Pavilion,4.7,800000,5,2,2,0,England,UK,"A former royal residence located in Brighton, England.",Brighton,9:30 AM - 5:45 PM
+The Deep,4.7,600000,2,2,3,0,England,UK,"A public aquarium situated at Sammy's Point, at the confluence of the River Hull and the Humber estuary in Hull, England.",Hull,10 AM - 6 PM
+Ben Nevis,4.9,800000,2,5,1,0,Scotland,UK,"The highest mountain in the British Isles, located in Scotland.",Highland,24 hours
+Windermere,4.8,1000000,2,5,2,0,England,UK,The largest natural lake in England.,Cumbria,24 hours
+Warwick Castle,4.8,800000,5,2,3,0,England,UK,A medieval castle developed from an original built by William the Conqueror in 1068.,Warwick,10 AM - 5 PM
+Anglesey,4.7,500000,2,5,2,5,Wales,UK,An island off the north-west coast of Wales.,Isle of Anglesey,24 hours
+Birmingham Museum and Art Gallery,4.7,1000000,5,2,2,0,England,UK,"A museum and art gallery in Birmingham, England.",Birmingham,10 AM - 5 PM
+Llandudno,4.7,800000,2,5,2,5,Wales,UK,A coastal town in North Wales known for its Victorian pier and beaches.,Conwy,24 hours
+Snowshill Manor,4.8,500000,5,2,2,0,England,UK,"A National Trust property located in the village of Snowshill, Gloucestershire.",Gloucestershire,11 AM - 5 PM
+Durham Castle,4.8,600000,5,2,2,0,England,UK,"A Norman castle in the city of Durham, England, which has been wholly occupied since 1840 by University College, Durham.",Durham,10 AM - 4 PM
+Cheddar Gorge,4.8,1000000,2,5,3,0,England,UK,"A limestone gorge in the Mendip Hills, near the village of Cheddar.",Somerset,24 hours
+Bristol Zoo,4.7,700000,2,5,3,0,England,UK,"A zoological garden in the city of Bristol, England.",Clifton,9 AM - 5:30 PM
+Castle Howard,4.8,600000,5,2,2,0,England,UK,"A stately home in North Yorkshire, England, 15 miles north of York.",North Yorkshire,10 AM - 5 PM
+Yorkshire Dales National Park,4.9,1200000,2,5,2,0,England,UK,"A national park in the Yorkshire Dales, England.",North Yorkshire,24 hours
+Lake Windermere,4.8,800000,2,5,2,0,England,UK,The largest natural lake in England.,Cumbria,24 hours
+Eilean Donan Castle,4.9,500000,5,2,2,0,Scotland,UK,"A small tidal island where three sea lochs meet, Loch Duich, Loch Long, and Loch Alsh, in the western Highlands of Scotland.",Highland,10 AM - 6 PM
+Portsmouth Historic Dockyard,4.8,1000000,5,2,2,0,England,UK,"A visitor attraction in Portsmouth, Hampshire, England, which is part of the HM Naval Base Portsmouth.",Portsmouth,10 AM - 5 PM
+The Royal Mile,4.9,2000000,5,2,2,0,Scotland,UK,A succession of streets forming the main thoroughfare of the Old Town of the city of Edinburgh in Scotland.,Edinburgh,24 hours
+Tintern Abbey,4.8,300000,5,2,2,0,Wales,UK,A ruined Cistercian abbey on the Welsh bank of the River Wye.,Monmouthshire,10 AM - 4 PM
+Glenfinnan Viaduct,4.7,500000,5,5,1,0,Scotland,UK,"A railway viaduct on the West Highland Line in Glenfinnan, Inverness-shire, Scotland.",Highland,24 hours
+Beamish Museum,4.8,700000,5,2,2,0,England,UK,A world-famous open-air museum that tells the story of life in North East England.,County Durham,10 AM - 5 PM
+Hadrian's Wall Path,4.8,400000,5,5,1,0,England,UK,"A long-distance footpath in England, which runs for 84 miles from Wallsend to Bowness-on-Solway.",Northumberland,24 hours
+Dartmoor National Park,4.9,900000,2,5,2,0,England,UK,"A national park in southern Devon, England.",Devon,24 hours
+Exmoor National Park,4.9,800000,2,5,2,0,England,UK,A national park situated on the Bristol Channel coast of southwestern England.,Somerset,24 hours
+Lulworth Cove,4.8,700000,2,5,3,5,England,UK,"A cove near the village of West Lulworth, on the Jurassic Coast World Heritage Site in Dorset, southern England.",Dorset,24 hours
+Tintagel Castle,4.8,600000,5,2,2,0,England,UK,A medieval fortification located on the peninsula of Tintagel Island adjacent to the village of Tintagel.,Cornwall,10 AM - 6 PM
+Blists Hill Victorian Town,4.8,700000,5,2,2,0,England,UK,"An open-air museum built on a former industrial complex located in the Madeley area of Telford, Shropshire, England.",Shropshire,10 AM - 4:30 PM
+Lands End,4.7,1000000,2,5,2,5,England,UK,"A headland and holiday complex in western Cornwall, England.",Cornwall,24 hours
+Beaumaris Castle,4.8,400000,5,2,2,0,Wales,UK,"A former royal residence located in Brighton, England.",Anglesey,10 AM - 5 PM
+The Falkirk Wheel,4.7,500000,2,2,3,0,Scotland,UK,"A rotating boat lift in central Scotland, connecting the Forth and Clyde Canal with the Union Canal.",Falkirk,10 AM - 5:30 PM
+Ben Nevis Visitor Centre,4.8,300000,2,5,1,0,Scotland,UK,"The highest mountain in the British Isles, located in Scotland.",Highland,8:30 AM - 6:30 PM
+National Railway Museum,4.9,800000,5,2,2,0,England,UK,"A museum in York forming part of the Science Museum Group, which tells the story of rail transport in Britain and its impact on society.",York,10 AM - 6 PM
+Royal Botanic Gardens,4.8,1100000,2,5,2,0,England,UK,A botanical garden in southwest London that houses the largest and most diverse botanical and mycological collections in the world.,"Kew,Richmond",10 AM - 6 PM
+Coventry Cathedral,4.8,600000,5,2,2,0,England,UK,The seat of the Bishop of Coventry and the Diocese of Coventry.,Coventry,10 AM - 4 PM
+Stirling Castle,4.7,500000,5,2,2,0,Scotland,UK,One of the largest and most important castles in Scotland.,Stirling,9:30 AM - 5 PM
+Clifton Suspension Bridge,4.8,600000,5,2,2,0,England,UK,"A world-famous suspension bridge spanning the Avon Gorge and the River Avon, linking Clifton in Bristol to Leigh Woods in North Somerset.",Bristol,24 hours
+Beatrix Potter's Hill Top,4.8,500000,5,2,2,0,England,UK,"A 17th-century house in Near Sawrey near Hawkshead, in Cumbria, England, once the home of Beatrix Potter.",Near Sawrey,10 AM - 5 PM
+Tate Modern,4.8,5000000,5,2,2,0,England,UK,"A modern art gallery located in London, England.",London,10 AM - 6 PM
+Arundel Castle,4.7,500000,5,2,2,0,England,UK,"A restored and remodelled medieval castle in Arundel, West Sussex, England.",West Sussex,10 AM - 5 PM
+The Royal Observatory,4.8,400000,5,2,2,0,England,UK,"An observatory situated on a hill in Greenwich Park, overlooking the River Thames.",Greenwich,10 AM - 5 PM
+M Shed,4.7,300000,5,2,2,0,England,UK,"A museum located on Prince's Wharf beside the Floating Harbour in Bristol, England.",Bristol,10 AM - 5 PM
+V&A Museum of Childhood,4.7,300000,5,2,2,0,England,UK,"A branch of the Victoria and Albert Museum, which houses the United Kingdom's national collection of childhood objects, including toys, games, and clothing.",London,10 AM - 5:45 PM
+Somerset House,4.8,800000,5,2,2,0,England,UK,"A large Neoclassical building situated on the south side of the Strand in central London, overlooking the River Thames.",London,10 AM - 6 PM
+The Castle Museum,4.8,400000,5,2,2,0,England,UK,"A museum located in the city of York, England, housed in a former prison and known for its recreated Victorian street.",York,9:30 AM - 5 PM
+HMS Victory,4.8,700000,5,2,2,0,England,UK,"A 104-gun first-rate ship of the line of the Royal Navy, ordered in 1758, laid down in 1759, and launched in 1765.",Portsmouth,10 AM - 5:30 PM
+Aira Force Waterfall,4.8,300000,2,5,3,0,England,UK,"An area of about 40,000 interlocking basalt columns, the result of an ancient volcanic fissure eruption.",Penrith,9 AM - 5 PM
+Skara Brae,4.8,200000,5,2,2,0,Scotland,UK,"A stone-built Neolithic settlement, located on the Bay of Skaill on the west coast of Mainland, the largest island in the Orkney archipelago of Scotland.",Orkney,10 AM - 5 PM
+Drayton Manor Theme Park,4.8,700000,2,2,5,0,England,UK,"A theme park resort and zoo in Staffordshire, England, known for its rides and attractions.",Tamworth,10:30 AM - 5 PM
+Times Square,4.7,50000000,2,1,5,0,New York,US,"One of the world's most visited tourist attractions, known for its bright lights and Broadway shows.",New York,24 hours
+Grand Canyon National Park,4.9,6000000,2,5,2,0,Arizona,US,A UNESCO World Heritage site known for its immense size and its intricate and colorful landscape.,Grand Canyon,24 hours
+Disneyland,4.8,18000000,2,2,5,0,California,US,The world-famous theme park created by Walt Disney., Anaheim,8 AM - 12 AM
+Statue of Liberty,4.8,4200000,5,2,2,0,New York,US,"A universal symbol of freedom and democracy, and one of the most famous landmarks in the US",New York,8:30 AM - 4 PM
+Yellowstone National Park,4.9,4000000,2,5,2,0,Wyoming,US,"The first national park in the world, known for its wildlife and geothermal features.",Yellowstone,24 hours
+Niagara Falls,4.8,3000000,2,5,2,0,New York,US,A group of three waterfalls at the southern end of Niagara Gorge.,Niagara Falls,24 hours
+Smithsonian Institution,4.9,2000000,5,2,2,0,D.C.,US,"The world's largest museum, education, and research complex.",Washington,10 AM - 5:30 PM
+Las Vegas Strip,4.6,42000000,2,2,5,0,Nevada,US,Known for its concentration of resort hotels and casinos.,Las Vegas,24 hours
+Golden Gate Bridge,4.8,10000000,5,2,2,0,California,US,An iconic suspension bridge connecting San Francisco Bay and the Pacific Ocean.,San Francisco,24 hours
+Central Park,4.8,38000000,2,5,4,0,New York,US,A large public park in New York City.,New York,6 AM - 1 AM
+Universal Studios Hollywood,4.7,9000000,2,2,5,0,California,US,A film studio and theme park.,Los Angeles,10 AM - 6 PM
+Empire State Building,4.8,4000000,5,2,2,0,New York,US,A 102-story Art Deco skyscraper in Midtown Manhattan.,New York,8 AM - 2 AM
+Mount Rushmore,4.7,2000000,5,2,2,0,South Dakota,US,A massive sculpture carved into the granite face of Mount Rushmore.,Keystone,5 AM - 11 PM
+Yosemite National Park,4.9,5000000,2,5,2,0,California,US,"Known for its waterfalls, giant sequoia trees, and stunning vistas.",Yosemite,24 hours
+French Quarter,4.6,7000000,5,2,4,0,Louisiana,US,A historic district known for its vibrant nightlife and colorful buildings.,New Orleans,24 hours
+Liberty Bell,4.7,1500000,5,2,2,0,Pennsylvania,US,An iconic symbol of American independence.,Philadelphia,9 AM - 5 PM
+Disney World,4.8,58000000,2,2,5,0,Florida,US,The most visited vacation resort in the world.,Orlando,9 AM - 9 PM
+Zion National Park,4.9,4500000,2,5,2,0,Utah,US,Known for its steep red cliffs.,Springdale,24 hours
+Hollywood Walk of Fame,4.6,10000000,2,2,5,0,California,US,"A sidewalk along Hollywood Boulevard with more than 2,600 brass stars embedded in the sidewalks.",Los Angeles,24 hours
+White House,4.8,700000,5,2,2,0,D.C.,US,The official residence and workplace of the President of the United States.,Washington,7:30 AM - 4 PM
+Waikiki Beach,4.7,8000000,2,3,3,5,Hawaii,US,A popular beach in Honolulu.,Honolulu,24 hours
+Glacier National Park,4.9,3000000,2,5,2,0,Montana,US,"Known for its pristine forests, alpine meadows, and rugged mountains.",West Glacier,24 hours
+Lincoln Memorial,4.8,8000000,5,2,2,0,D.C.,US,An American national monument built to honor the 16th President of the United States.,Washington,24 hours
+Space Needle,4.7,2000000,5,2,2,0,Washington,US,"An observation tower in Seattle, Washington.",Seattle,10 AM - 8 PM
+Sequoia National Park,4.9,1000000,2,5,2,0,California,US,"Known for its giant sequoia trees, including the General Sherman tree.",Three Rivers,24 hours
+Fenway Park,4.6,500000,5,2,5,0,Massachusetts,US,The oldest ballpark in Major League Baseball.,Boston,9 AM - 5 PM
+Great Smoky Mountains National Park,4.9,12000000,2,5,2,0,Tennessee,US,Known for its mist-covered mountains and diverse plant and animal life.,Gatlinburg,24 hours
+Metropolitan Museum of Art,4.9,7000000,5,2,2,0,New York,US,The largest art museum in the United States.,New York,10 AM - 5 PM
+Bryce Canyon National Park,4.9,2600000,2,5,2,0,Utah,US,Known for its crimson-colored hoodoos.,Bryce,24 hours
+Alcatraz Island,4.7,1700000,5,2,2,0,California,US,The site of the notorious former prison.,San Francisco,9 AM - 6 PM
+Cape Cod,4.8,5000000,2,5,2,5,Massachusetts,US,"Known for its quaint villages, seafood shacks, lighthouses, and beaches.",Cape Cod,24 hours
+Rockefeller Center,4.7,2600000,5,2,5,0,New York,US,A large complex consisting of 19 commercial buildings.,New York,8 AM - 12 AM
+Acadia National Park,4.9,3500000,2,5,2,0,Maine,US,Known for its rocky headlands and natural beauty.,Bar Harbor,24 hours
+Monterey Bay Aquarium,4.8,2000000,2,2,3,0,California,US,A public aquarium known for its regional focus on the marine habitats of Monterey Bay.,Monterey,10 AM - 5 PM
+Gateway Arch,4.8,2500000,5,2,2,0,Missouri,US,A 630-foot monument in St. Louis.,St. Louis,8 AM - 10 PM
+Antelope Canyon,4.9,2500000,2,5,2,0,Arizona,US,A slot canyon known for its wave-like structure and light beams.,Page,24 hours
+Graceland,4.8,650000,5,2,5,0,Tennessee,US,The former home of Elvis Presley.,Memphis,9 AM - 4 PM
+Badlands National Park,4.8,1000000,2,5,2,0,South Dakota,US,Known for its sharply eroded buttes and pinnacles.,Interior,24 hours
+Mount Vernon,4.7,1000000,5,2,2,0,Virginia,US,The plantation home of George Washington.,Mount Vernon,9 AM - 5 PM
+MoMA (Museum of Modern Art),4.8,3000000,5,2,2,0,New York,US,An influential art museum in Midtown Manhattan.,New York,10:30 AM - 5:30 PM
+Mount St. Helens,4.8,500000,2,5,2,0,Washington,US,An active stratovolcano known for its 1980 eruption.,Skamania,24 hours
+Rock and Roll Hall of Fame,4.7,600000,5,2,5,0,Ohio,US,A museum and hall of fame celebrating the history and cultural significance of rock music.,Cleveland,10 AM - 5:30 PM
+Kennedy Space Center,4.8,1900000,5,2,3,0,Florida,US,A space launch facility.,Merritt Island,9 AM - 5 PM
+Pikes Peak,4.8,500000,2,5,2,0,Colorado,US,A mountain in the Front Range of the Rocky Mountains.,Colorado Springs,24 hours
+Mount Rainier National Park,4.9,2000000,2,5,2,0,Washington,US,"Known for its active volcano, Mount Rainier.",Ashford,24 hours
+Jackson Hole,4.7,3000000,2,5,4,0,Wyoming,US,A valley between the Teton Mountain Range and the Gros Ventre Range.,Jackson,24 hours
+Fort Sumter,4.7,1000000,5,2,2,0,South Carolina,US,A sea fort known for two battles of the American Civil War.,Charleston,10 AM - 5 PM
+Crater Lake National Park,4.9,700000,2,5,2,0,Oregon,US,Known for its deep blue color and water clarity.,Crater Lake,24 hours
+The Alamo,4.7,1500000,5,2,2,0,Texas,US,A historic Spanish mission and fortress compound.,San Antonio,9 AM - 5:30 PM
+Vail,4.8,2000000,2,5,4,0,Colorado,US,A popular ski resort.,Vail,24 hours
+Carlsbad Caverns National Park,4.9,400000,2,5,2,0,New Mexico,US,Known for its extensive cave system.,Carlsbad,24 hours
+Mammoth Cave National Park,4.8,500000,2,5,2,0,Kentucky,US,The world's longest known cave system.,Mammoth Cave,24 hours
+Golden Gate Park,4.8,25000000,2,5,4,0,California,US,"A large urban park consisting of gardens, museums, and recreational areas.",San Francisco,5 AM - 12 AM
+Hollywood Sign,4.6,10000000,2,2,2,0,California,US,An iconic landmark and cultural symbol of Los Angeles.,Los Angeles,24 hours
+National Mall,4.8,24000000,5,2,2,0,D.C.,US,"A national park in downtown Washington, D.C., featuring iconic monuments and memorials.",Washington,24 hours
+Walt Disney World Resort,4.8,58000000,2,2,5,0,Florida,US,The most visited vacation resort in the world.,Orlando,9 AM - 9 PM
+Venice Beach,4.6,10000000,2,3,4,5,California,US,Known for its bohemian spirit and vibrant boardwalk.,Los Angeles,24 hours
+San Diego Zoo,4.9,4000000,2,5,3,0,California,US,"One of the most famous zoos in the world, known for its large and diverse collection of animals.",San Diego,9 AM - 6 PM

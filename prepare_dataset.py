@@ -54,6 +54,8 @@ def make_attractions():
     attractions_oman = pd.read_csv('datasets/final-oman.csv')
     attractions_uae = pd.read_csv('datasets/final-uae.csv')
     attractions_qatar = pd.read_csv('datasets/final-qatar.csv')
+    attractions_uk = pd.read_csv('datasets/final-uk.csv')
+    attractions_us = pd.read_csv('datasets/final-us.csv')
 
     write_file = open("datasets/final_attractions.csv", 'w',newline='')
     writer = csv.writer(write_file)
@@ -69,8 +71,14 @@ def make_attractions():
     for i in range(len(attractions_qatar)):
         writer.writerow([attractions_qatar['Name'][i], attractions_qatar['Rating'][i], attractions_qatar['Visitors'][i], attractions_qatar['Historical'][i], attractions_qatar['Natural'][i], attractions_qatar['Amusement'][i], attractions_qatar['Beach'][i], attractions_qatar['State'][i], 'Qatar', attractions_qatar['Description'][i], attractions_qatar['City'][i], attractions_qatar['Opening Hours'][i]])
 
+    for i in range(len(attractions_uk)):
+        writer.writerow([attractions_uk['Name'][i], attractions_uk['Rating'][i], attractions_uk['Visitors'][i], attractions_uk['Historical'][i], attractions_uk['Natural'][i], attractions_uk['Amusement'][i], attractions_uk['Beach'][i], attractions_uk['State'][i], 'UK', attractions_uk['Description'][i], attractions_uk['City'][i], attractions_uk['Opening Hours'][i]])
+
+    for i in range(len(attractions_us)):
+        writer.writerow([attractions_us['Name'][i], attractions_us['Rating'][i], attractions_us['Visitors'][i], attractions_us['Historical'][i], attractions_us['Natural'][i], attractions_us['Amusement'][i], attractions_us['Beach'][i], attractions_us['State'][i], 'US', attractions_us['Description'][i], attractions_us['City'][i], attractions_us['Opening Hours'][i]])
+
     write_file.close()
 
 
 make_attractions()
-# make_user_attractions()
+make_user_attractions()
