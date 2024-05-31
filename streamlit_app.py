@@ -26,3 +26,9 @@ if st.button('Get Recommendations'):
         st.write(f"**Opening Hours:** {rec['Opening Hours']}")
         st.write(f"**Description:** {rec['Description']}")
         st.write("***************************************************")
+
+if st.checkbox('Show Raw Data'):
+    st.write('Attractions Data')
+    st.dataframe(attractions_data)
+    st.write('User Ratings Data')
+    st.dataframe(user_ratings_data)
