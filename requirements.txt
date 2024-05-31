@@ -5,3 +5,4 @@ nltk
 googlemaps
 requests
 json
+streamlit
