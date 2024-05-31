@@ -26,6 +26,12 @@ def get_recommendations(state, number_of_attractions, user):
 
     attractions_sorted = dict(sorted(attractions.items(), key=lambda item: item[1], reverse=True))
 
+    if len(attractions_sorted) < number_of_attractions:
+        message = f"Only {len(attractions_sorted)} attractions are available in {state} for {user}."
+        number_of_attractions = len(attractions_sorted)
+    else:
+        message = None
+
     recommendations = []
     count = 0
     for name in attractions_sorted.keys():
@@ -39,4 +45,4 @@ def get_recommendations(state, number_of_attractions, user):
             'Description': attractions_description[name][2]
         })
 
-    return recommendations
+    return recommendations, message
