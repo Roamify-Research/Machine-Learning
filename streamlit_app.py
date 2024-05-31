@@ -10,11 +10,14 @@ state = st.selectbox('Select State', attractions_data['State'].unique())
 
 number_of_attractions = st.number_input('Number of Attractions', min_value=1, max_value=20, value=5, step=1)
 
-user = st.selectbox('Select User', user_ratings_data.columns[1:])  # Skipping 'Attraction' column
+user = st.selectbox('Select User', user_ratings_data.columns[1:]) 
 
 if st.button('Get Recommendations'):
-    recommendations = get_recommendations(state, number_of_attractions, user)
+    recommendations, message = get_recommendations(state, number_of_attractions, user)
     
+    if message:
+        st.warning(message)
+
     st.write(f"<h3>Top {number_of_attractions} attractions in {state} for {user}:</h2>", unsafe_allow_html=True)
     st.write("***************************************************")
     for rec in recommendations:
