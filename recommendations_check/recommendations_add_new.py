@@ -1,7 +1,7 @@
 import pandas as pd
 
 def print_recommendations(state, number_of_attractions, user):
-    attractions_data = pd.read_csv('datasets/final_attractions.csv', usecols=['Name', 'State', 'City', 'Opening Hours', 'Description'])
+    attractions_data = pd.read_csv('../datasets/final_attractions.csv', usecols=['Name', 'State', 'City', 'Opening Hours', 'Description'])
     attraction_names = []
     attractions_description = {}
     for i in range(len(attractions_data)):
@@ -10,7 +10,7 @@ def print_recommendations(state, number_of_attractions, user):
             attractions_description[attractions_data['Name'][i]] = [attractions_data['City'][i], attractions_data['Opening Hours'][i], attractions_data['Description'][i]]
 
     attractions = {}
-    user_ratings_data = pd.read_csv('datasets/user_ratings.csv', usecols=['Attraction', user])
+    user_ratings_data = pd.read_csv('../datasets/user_ratings.csv', usecols=['Attraction', user])
 
     for i in range(len(user_ratings_data)):
         if user_ratings_data['Attraction'][i] in attraction_names:
@@ -44,7 +44,7 @@ def add_new_attraction():
         'Description': [description]
     })
 
-    new_attraction.to_csv('datasets/final_attractions.csv', mode='a', header=False, index=False)
+    new_attraction.to_csv('../datasets/final_attractions.csv', mode='a', header=False, index=False)
     print("New attraction added successfully!")
 
 while True:
