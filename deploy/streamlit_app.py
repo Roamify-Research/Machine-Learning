@@ -1,5 +1,5 @@
 import streamlit as st
-from recommendations_streamlit import get_recommendations, load_data, load_user_data
+from recommendations_streamlit import get_recommendations, load_data
 
 attractions_data, user_ratings_data = load_data()
 
@@ -37,5 +37,5 @@ if st.button('Get Recommendations'):
 if st.checkbox('Show Raw Data'):
     st.write('Attractions Data')
     st.dataframe(attractions_data)
-    # st.write('User Ratings Data')
-    # st.dataframe(user_ratings_data)
+    st.write('User Ratings Data')
+    st.dataframe(user_ratings_data)

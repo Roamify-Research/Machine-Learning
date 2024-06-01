@@ -1,30 +1,30 @@
 import pandas as pd
+import random
 
 def load_data():
     attractions_data = pd.read_csv('../datasets/final_attractions.csv', usecols=['Name', 'State', 'City', 'Opening Hours', 'Description'])
     user_ratings_data = pd.read_csv('../datasets/user_ratings.csv', usecols=['Attraction', 'Noel', 'Harsh', 'Vikranth', 'Muthuraj', 'Armaan'])
     return attractions_data, user_ratings_data
 
-
-def load_user_data(user):
-    attractions_data = pd.read_csv('../datasets/final_attractions.csv', usecols=['Rating', 'Name', 'State', 'City', 'Country', 'Opening Hours', 'Description'])
-    user_ratings_data = pd.read_csv('../datasets/user_ratings.csv', usecols=['Attraction', user])
-    
-    attractions_data.rename(columns={'Rating': 'Google_Rating'}, inplace=True)
-    attractions_data['User_Rating'] = user_ratings_data[user]
-
-    usecols=['Name','Google_Rating','User_Rating', 'State', 'City','Country', 'Opening Hours', 'Description']
-    return attractions_data[usecols]
+def save_data(user_ratings_data):
+    user_ratings_data.to_csv('../datasets/user_ratings.csv', index=False)
 
 def get_recommendations(state, number_of_attractions, user, new_ratings):
     attractions_data, user_ratings_data = load_data()
-    
-    for attraction, rating in new_ratings.items():
-        if attraction in user_ratings_data['Attraction'].values:
-            user_ratings_data.loc[user_ratings_data['Attraction'] == attraction, user] = rating
+
+    if user not in user_ratings_data.columns:
+        user_ratings_data[user] = None
+
+    for attraction in attractions_data['Name']:
+        if attraction in new_ratings:
+            if attraction in user_ratings_data['Attraction'].values:
+                user_ratings_data.loc[user_ratings_data['Attraction'] == attraction, user] = new_ratings[attraction]
+            else:
+                new_row = {'Attraction': attraction, user: new_ratings[attraction]}
+                user_ratings_data = user_ratings_data.append(new_row, ignore_index=True)
         else:
-            new_row = {'Attraction': attraction, user: rating}
-            user_ratings_data = user_ratings_data.append(new_row, ignore_index=True)
+            if user_ratings_data.loc[user_ratings_data['Attraction'] == attraction, user].isnull().all():
+                user_ratings_data.loc[user_ratings_data['Attraction'] == attraction, user] = random.randint(0, 5)
 
     attraction_names = []
     attractions_description = {}
@@ -40,10 +40,7 @@ def get_recommendations(state, number_of_attractions, user, new_ratings):
     attractions = {}
     for i in range(len(user_ratings_data)):
         if user_ratings_data['Attraction'][i] in attraction_names:
-            if user in user_ratings_data.columns:
-                attractions[user_ratings_data['Attraction'][i]] = user_ratings_data[user][i]
-            else:
-                attractions[user_ratings_data['Attraction'][i]] = 0
+            attractions[user_ratings_data['Attraction'][i]] = user_ratings_data[user][i]
 
     attractions_sorted = dict(sorted(attractions.items(), key=lambda item: item[1], reverse=True))
 
@@ -65,5 +62,7 @@ def get_recommendations(state, number_of_attractions, user, new_ratings):
             'Opening Hours': attractions_description[name][1],
             'Description': attractions_description[name][2]
         })
+
+    save_data(user_ratings_data)
 
     return recommendations, message
