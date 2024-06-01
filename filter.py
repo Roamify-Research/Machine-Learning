@@ -17,7 +17,7 @@ states = ['Andhra Pradesh', 'Arunachal Pradesh', 'Assam', 'Bihar', 'Chhattisgarh
 
 states_lower = [state.lower() for state in states]
 
-df = pd.read_csv('../datasets/indian_attractions.csv')
+df = pd.read_csv('datasets/indian_attractions.csv')
 
 def filter_input():
     print("Hello! I am a filter. Please specify the Country and State you want to visit.")

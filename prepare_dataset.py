@@ -4,7 +4,7 @@ import numpy as np
 users = ['Noel','Harsh', 'Vikranth','Muthuraj','Armaan']
 import random
 def return_attractions():
-    attractions_data = pd.read_csv('../datasets/indian_attractions.csv', usecols=['Name', 'Rating', 'Visits', 'Historical', 'Natural', 'Amusement', 'Beach'])
+    attractions_data = pd.read_csv('datasets/indian_attractions.csv', usecols=['Name', 'Rating', 'Visits', 'Historical', 'Natural', 'Amusement', 'Beach'])
     attractions = []
     for i in range(len(attractions_data)):
         attributes = [attractions_data['Rating'][i], attractions_data['Visits'][i], attractions_data['Historical'][i], attractions_data['Natural'][i], attractions_data['Amusement'][i], attractions_data['Beach'][i]]
@@ -16,7 +16,7 @@ def return_attractions():
 
 def return_user_attractions_rating():
     users = ['Noel','Harsh', 'Vikranth','Muthuraj','Armaan']
-    user_attractions_data = pd.read_csv('../datasets/user_attractions_rating.csv')
+    user_attractions_data = pd.read_csv('datasets/user_attractions_rating.csv')
     user_attractions = []
     for i in range(len(user_attractions_data)):
         attributes = []
@@ -30,12 +30,12 @@ def return_user_attractions_rating():
 
 def make_user_attractions():
     
-    write_file = open('../datasets/user_attractions_rating.csv', 'w',newline='')
+    write_file = open('datasets/user_attractions_rating.csv', 'w',newline='')
     writer = csv.writer(write_file)
 
     writer.writerow(["Name"] + users)
 
-    final_attractions = pd.read_csv('../datasets/final_attractions.csv', usecols=['Name','Rating'])
+    final_attractions = pd.read_csv('datasets/final_attractions.csv', usecols=['Name','Rating'])
     for i in range(len(final_attractions)):
         values = []
         for _ in users:
@@ -50,14 +50,14 @@ def make_user_attractions():
     write_file.close()
 
 def make_attractions():
-    attractions_indian = pd.read_csv('../datasets/final-india.csv')
-    attractions_oman = pd.read_csv('../datasets/final-oman.csv')
-    attractions_uae = pd.read_csv('../datasets/final-uae.csv')
-    attractions_qatar = pd.read_csv('../datasets/final-qatar.csv')
-    attractions_uk = pd.read_csv('../datasets/final-uk.csv')
-    attractions_us = pd.read_csv('../datasets/final-us.csv')
+    attractions_indian = pd.read_csv('datasets/final-india.csv')
+    attractions_oman = pd.read_csv('datasets/final-oman.csv')
+    attractions_uae = pd.read_csv('datasets/final-uae.csv')
+    attractions_qatar = pd.read_csv('datasets/final-qatar.csv')
+    attractions_uk = pd.read_csv('datasets/final-uk.csv')
+    attractions_us = pd.read_csv('datasets/final-us.csv')
 
-    write_file = open("../datasets/final_attractions.csv", 'w',newline='')
+    write_file = open("datasets/final_attractions.csv", 'w',newline='')
     writer = csv.writer(write_file)
 
     writer.writerow(["Name", "Rating", "Visitors", "Historical", "Natural", "Amusement", "Beach", 'State', 'Country', 'Description','City','Opening Hours'])
