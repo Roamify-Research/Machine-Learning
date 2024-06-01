@@ -9,6 +9,16 @@ def load_data():
 def save_data(user_ratings_data):
     user_ratings_data.to_csv('../datasets/user_ratings.csv', index=False)
 
+def load_user_data(user):
+    attractions_data = pd.read_csv('../datasets/final_attractions.csv', usecols=['Rating', 'Name', 'State', 'City', 'Country', 'Opening Hours', 'Description'])
+    user_ratings_data = pd.read_csv('../datasets/user_ratings.csv', usecols=['Attraction', user])
+    
+    attractions_data.rename(columns={'Rating': 'Google_Rating'}, inplace=True)
+    attractions_data['User_Rating'] = user_ratings_data[user]
+
+    usecols=['Name','Google_Rating','User_Rating', 'State', 'City','Country', 'Opening Hours', 'Description']
+    return attractions_data[usecols]
+
 def get_recommendations(state, number_of_attractions, user, new_ratings):
     attractions_data, user_ratings_data = load_data()
 
