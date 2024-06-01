@@ -2,7 +2,6 @@ import streamlit as st
 from recommendations_streamlit import get_recommendations, load_data, load_user_data, add_user_ratings, search_user_ratings
 
 def main_page():
-
     st.markdown("<h1 style='text-align: center;'>Roamify</h1>", unsafe_allow_html=True)
     st.sidebar.title('Navigation')
     page = st.sidebar.radio('Go to', ['Home','Add User Ratings'])
@@ -21,9 +20,7 @@ def recommendation_page():
 
     user = st.text_input('Enter your name')
 
-
     if st.button('Get Recommendations'):
-        attractions_data, user_ratings_data = load_data()
         recommendations, message = get_recommendations(state, number_of_attractions, user)
         if recommendations == []:
             st.write(message)
@@ -37,10 +34,12 @@ def recommendation_page():
                 st.write("***************************************************")
 
     if st.checkbox('Show Raw Data'):
-        st.write('Attractions and User Ratings Data')
-        user_ratings_data = load_user_data(user)
-        st.dataframe(user_ratings_data)
-
+        if user in user_ratings_data.columns:
+            st.write('Attractions and User Ratings Data')
+            user_ratings_data = load_user_data(user)
+            st.dataframe(user_ratings_data)
+        else:
+            st.warning(f"User {user} not found in the database. Please add user first.")
 
 def add_user_streamlit_page():
     attractions_data, user_ratings_data = load_data()
@@ -54,7 +53,7 @@ def add_user_streamlit_page():
         st.write('Rate the attractions you have visited:')
         for attraction in available_attractions:
             existing_rating = float(search_user_ratings(new_user, attraction))
-            rating = st.slider(f'{attraction}', min_value=0.0, max_value=5.0, value = existing_rating, step=0.1, key=f'rating_{attraction}')
+            rating = st.slider(f'{attraction}', min_value=0.0, max_value=5.0, value=existing_rating, step=0.1, key=f'rating_{attraction}')
 
             if rating > 0:
                 new_user_ratings[attraction] = rating
@@ -62,7 +61,6 @@ def add_user_streamlit_page():
         if st.form_submit_button('Submit Ratings'):
             add_user_ratings(new_user_ratings, new_user)
             st.success('Ratings submitted successfully!')
-
 
 if __name__ == "__main__":
     main_page()
