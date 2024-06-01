@@ -15,9 +15,17 @@ def load_user_data(user):
 
     usecols=['Name','Google_Rating','User_Rating', 'State', 'City','Country', 'Opening Hours', 'Description']
     return attractions_data[usecols]
-def get_recommendations(state, number_of_attractions, user):
+
+def get_recommendations(state, number_of_attractions, user, new_ratings):
     attractions_data, user_ratings_data = load_data()
     
+    for attraction, rating in new_ratings.items():
+        if attraction in user_ratings_data['Attraction'].values:
+            user_ratings_data.loc[user_ratings_data['Attraction'] == attraction, user] = rating
+        else:
+            new_row = {'Attraction': attraction, user: rating}
+            user_ratings_data = user_ratings_data.append(new_row, ignore_index=True)
+
     attraction_names = []
     attractions_description = {}
     for i in range(len(attractions_data)):
@@ -32,7 +40,10 @@ def get_recommendations(state, number_of_attractions, user):
     attractions = {}
     for i in range(len(user_ratings_data)):
         if user_ratings_data['Attraction'][i] in attraction_names:
-            attractions[user_ratings_data['Attraction'][i]] = user_ratings_data[user][i]
+            if user in user_ratings_data.columns:
+                attractions[user_ratings_data['Attraction'][i]] = user_ratings_data[user][i]
+            else:
+                attractions[user_ratings_data['Attraction'][i]] = 0
 
     attractions_sorted = dict(sorted(attractions.items(), key=lambda item: item[1], reverse=True))
 

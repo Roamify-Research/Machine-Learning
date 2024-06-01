@@ -10,16 +10,23 @@ state = st.selectbox('Select State', attractions_data['State'].unique())
 
 number_of_attractions = st.number_input('Number of Attractions', min_value=1, max_value=20, value=5, step=1)
 
-user = st.selectbox('Select User', user_ratings_data.columns[1:]) 
+user = st.text_input('Enter your name')
+
+available_attractions = attractions_data[attractions_data['State'] == state]['Name'].tolist()
+user_ratings = {}
+st.write('Rate the attractions you have visited:')
+for attraction in available_attractions:
+    rating = st.slider(f'{attraction}', min_value=0, max_value=5, step=1)
+    if rating > 0:
+        user_ratings[attraction] = rating
 
 if st.button('Get Recommendations'):
-    recommendations, message = get_recommendations(state, number_of_attractions, user)
+    recommendations, message = get_recommendations(state, number_of_attractions, user, user_ratings)
     
     if message:
         st.warning(message)
 
-    st.write(f"<h3>Top {number_of_attractions} attractions in {state} for {user}:</h2>", unsafe_allow_html=True)
-    st.write("***************************************************")
+    st.write(f"Top {number_of_attractions} attractions in {state} for {user}:")
     for rec in recommendations:
         st.write(f"**Attraction name:** {rec['Name']}")
         st.write(f"**City:** {rec['City']}")
@@ -28,6 +35,7 @@ if st.button('Get Recommendations'):
         st.write("***************************************************")
 
 if st.checkbox('Show Raw Data'):
-    st.write('Attractions and User Ratings Data')
-    user_ratings_data = load_user_data(user)
-    st.dataframe(user_ratings_data)
+    st.write('Attractions Data')
+    st.dataframe(attractions_data)
+    # st.write('User Ratings Data')
+    # st.dataframe(user_ratings_data)
