@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('datasets/final-uk.csv')
+df = pd.read_csv('../datasets/final-uk.csv')
 
 X = df[['Visitors', 'Rating', 'Historical', 'Natural', 'Amusement', 'Beach']]
 
