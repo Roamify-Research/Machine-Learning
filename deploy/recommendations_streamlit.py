@@ -51,11 +51,12 @@ def add_user_ratings(new_ratings, user):
             if attraction in new_ratings:
                 new_column_user.append(new_ratings[attraction])
             else:
-                n = random.randint(0, 5)
-                if n == 0:
-                    new_column_user.append(attraction_rating)
-                else:
-                    new_column_user.append(0)
+                new_column_user.append(0)
+                # n = random.randint(0, 5)
+                # if n == 0:
+                #     new_column_user.append(attraction_rating)
+                # else:
+                #     new_column_user.append(0)
     else:
         for i in range(len(attractions_data)):
             attraction = attractions_data['Name'][i]
@@ -65,11 +66,12 @@ def add_user_ratings(new_ratings, user):
             elif user_ratings_data.loc[i, user] != 0:
                 new_column_user.append(user_ratings_data[user][i])
             else:
-                n = random.randint(0, 5)
-                if n == 0:
-                    new_column_user.append(attraction_rating)
-                else:
-                    new_column_user.append(0)
+                new_column_user.append(0)
+                # n = random.randint(0, 5)
+                # if n == 0:
+                #     new_column_user.append(attraction_rating)
+                # else:
+                #     new_column_user.append(0)
 
     user_ratings_data[user] = new_column_user
     save_data(user_ratings_data)
