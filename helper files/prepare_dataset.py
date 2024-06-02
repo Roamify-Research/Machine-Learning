@@ -44,12 +44,12 @@ def make_user_attractions():
     write_file.close()
 
 def make_attractions():
-    attractions_indian = pd.read_csv('../datasets/final-india.csv')
-    attractions_oman = pd.read_csv('../datasets/final-oman.csv')
-    attractions_uae = pd.read_csv('../datasets/final-uae.csv')
-    attractions_qatar = pd.read_csv('../datasets/final-qatar.csv')
-    attractions_uk = pd.read_csv('../datasets/final-uk.csv')
-    attractions_us = pd.read_csv('../datasets/final-us.csv')
+    attractions_indian = pd.read_csv("../datasets/individual_countries/india.csv")
+    attractions_oman = pd.read_csv('../datasets/individual_countries/oman.csv')
+    attractions_uae = pd.read_csv('../datasets/individual_countries/uae.csv')
+    attractions_qatar = pd.read_csv('../datasets/individual_countries/qatar.csv')
+    attractions_uk = pd.read_csv('../datasets/individual_countries/uk.csv')
+    attractions_us = pd.read_csv('../datasets/individual_countries/us.csv')
 
     write_file = open("../datasets/final_attractions.csv", 'w',newline='')
     writer = csv.writer(write_file)
