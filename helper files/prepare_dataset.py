@@ -30,21 +30,15 @@ def return_user_attractions_rating():
 
 def make_user_attractions():
     
-    write_file = open('../datasets/user_attractions_rating.csv', 'w',newline='')
+    write_file = open('../datasets/user_attractions_ratings.csv', 'w',newline='')
     writer = csv.writer(write_file)
 
-    writer.writerow(["Name"] + users)
+    writer.writerow(["Attraction"])
 
     final_attractions = pd.read_csv('../datasets/final_attractions.csv', usecols=['Name','Rating'])
     for i in range(len(final_attractions)):
-        values = []
-        for _ in users:
-            n = random.randint(0,3)
-            if n == 0:
-                values.append(final_attractions['Rating'][i])
-            else:
-                values.append(0)
-        writer.writerow([final_attractions['Name'][i]] + values)
+        
+        writer.writerow([final_attractions['Name'][i]])
 
 
     write_file.close()

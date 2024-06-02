@@ -1,8 +1,9 @@
 import pandas as pd
 import random
+import os
 
 def search_user_ratings(user, attraction):
-    user_ratings_data = pd.read_csv('../datasets/user_ratings.csv')
+    user_ratings_data = pd.read_csv('../datasets/user_attractions_ratings.csv')
     
     if user not in user_ratings_data.columns:
         return 0
@@ -16,18 +17,23 @@ def search_user_ratings(user, attraction):
 
 def load_data():
     attractions_data = pd.read_csv('../datasets/final_attractions.csv', usecols=['Name', 'State', 'City', 'Opening Hours', 'Description', 'Rating'])
-    user_ratings_data = pd.read_csv('../datasets/user_ratings.csv')
+    user_ratings_data = pd.read_csv('../datasets/user_attractions_ratings.csv')
+    return attractions_data, user_ratings_data
+
+def load_predicted_data():
+    attractions_data = pd.read_csv('../datasets/final_attractions.csv', usecols=['Name', 'State', 'City', 'Opening Hours', 'Description', 'Rating'])
+    user_ratings_data = pd.read_csv('../datasets/predicted_user_ratings.csv')
     return attractions_data, user_ratings_data
 
 def save_data(user_ratings_data):
-    user_ratings_data.to_csv('../datasets/user_ratings.csv', index=False)
+    user_ratings_data.to_csv('../datasets/user_attractions_ratings.csv', index=False)
 
 def load_user_data(user):
     attractions_data = pd.read_csv('../datasets/final_attractions.csv', usecols=['Rating', 'Name', 'State', 'City', 'Country', 'Opening Hours', 'Description'])
-    if user not in pd.read_csv('../datasets/user_ratings.csv').columns:
+    if user not in pd.read_csv('../datasets/predicted_user_ratings.csv').columns:
         return None
 
-    user_ratings_data = pd.read_csv('../datasets/user_ratings.csv', usecols=['Attraction', user])
+    user_ratings_data = pd.read_csv('../datasets/predicted_user_ratings.csv', usecols=['Attraction', user])
     attractions_data.rename(columns={'Rating': 'Google_Rating'}, inplace=True)
     attractions_data['User_Rating'] = user_ratings_data[user]
 
@@ -69,7 +75,7 @@ def add_user_ratings(new_ratings, user):
     save_data(user_ratings_data)
 
 def get_recommendations(state, number_of_attractions, user):
-    attractions_data, user_ratings_data = load_data()
+    attractions_data, user_ratings_data = load_predicted_data()
 
     if user not in user_ratings_data.columns:
         user_ratings_data[user] = None

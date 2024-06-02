@@ -1,5 +1,5 @@
 import streamlit as st
-from recommendations_streamlit import get_recommendations, load_data, load_user_data, add_user_ratings, search_user_ratings
+from recommendations_streamlit import get_recommendations, load_data, load_user_data, add_user_ratings, search_user_ratings, load_predicted_data
 
 def main_page():
     st.markdown("<h1 style='text-align: center;'>Roamify</h1>", unsafe_allow_html=True)
@@ -11,7 +11,7 @@ def main_page():
         recommendation_page()
 
 def recommendation_page():
-    attractions_data, user_ratings_data = load_data()
+    attractions_data, user_ratings_data = load_predicted_data()
     st.markdown("<h3 style='text-align: center;'>Tourist Attraction Recommendation System</h3>", unsafe_allow_html=True)
 
     state = st.selectbox('Select State', attractions_data['State'].unique())
