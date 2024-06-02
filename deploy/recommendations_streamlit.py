@@ -1,6 +1,5 @@
 import pandas as pd
-import random
-import os
+# import random
 
 def search_user_ratings(user, attraction):
     user_ratings_data = pd.read_csv('../datasets/user_attractions_ratings.csv')
