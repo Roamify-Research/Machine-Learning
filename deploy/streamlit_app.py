@@ -83,5 +83,8 @@ def add_user_streamlit_page():
                     cursor.execute(f"update user_ratings set {new_user} = {rating} where Attractions = '{attraction}';")
                     db.commit()
 
+                
+        z
+
 if __name__ == "__main__":
     main_page()
