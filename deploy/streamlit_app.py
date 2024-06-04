@@ -1,88 +1,41 @@
-import streamlit as st
-import pandas as pd
-import pymysql
+import gspread, pandas as pd, streamlit as st, toml
 
-hostname = 'sql12.freesqldatabase.com'
-user = 'sql12711667'
-password = 'vmrGDRbZvm'
+st.markdown("<h1 style='text-align: center;'>Roamify</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>Adding User Ratings</h3>", unsafe_allow_html=True)
 
-db = pymysql.connections.Connection(
-    host = hostname,
-    user = user,
-    password = password,
-)
 
-cursor = db.cursor()
-cursor.execute('use sql12711667;')
-db.commit()
+spreadsheet_id = "1gCvF2PfMQpp1cVsbSpfzTG8ShN5GAktQ2kY8iLUb7mI"
+scopes = ["https://spreadsheets.google.com/feeds",
+         "https://www.googleapis.com/auth/drive"]
 
-def main_page():
-    st.markdown("<h1 style='text-align: center;'>Roamify</h1>", unsafe_allow_html=True)
-    st.sidebar.title('Navigation')
-    page = st.sidebar.radio('Go to', ['Home','Add User Ratings'])
-    if page == 'Add User Ratings':
-        add_user_streamlit_page()
-    elif page == 'Home':
-        recommendation_page()
+service_account_info = st.secrets["gcp_service_account"]
 
-def recommendation_page():
-    st.write('Disabled for now!')
-    # attractions_data, user_ratings_data = load_predicted_data()
-    # st.markdown("<h3 style='text-align: center;'>Tourist Attraction Recommendation System</h3>", unsafe_allow_html=True)
+gc = gspread.service_account_from_dict(service_account_info, scopes=scopes)
+sh = gc.open_by_key(spreadsheet_id)
+worksheet = sh.worksheet("Attractions")
+data = worksheet.get_all_values()
+attractions_data = pd.DataFrame(data[1:], columns = data[0])
 
-    # state = st.selectbox('Select State', attractions_data['State'].unique())
+state_ = st.selectbox('Select State', attractions_data['State'].unique())
+new_user = st.text_input('Enter your name')
 
-    # number_of_attractions = st.number_input('Number of Attractions', min_value=1, max_value=20, value=5, step=1)
+if new_user != "":
+    if new_user not in attractions_data.columns:
+        attractions_data[new_user] = 0
 
-    # user = st.text_input('Enter your name')
+    available_attractions = attractions_data[attractions_data['State'] == state_]['Name'].tolist()
+    with st.form(key='ratings_form'):
+        st.write('Rate the attractions you have visited:')
+        for attraction in available_attractions:
+            existing_rating = attractions_data.loc[attractions_data['Name'] == attraction, new_user].values[0]
 
-    # if st.button('Get Recommendations'):
-    #     recommendations, message = get_recommendations(state, number_of_attractions, user)
-    #     if recommendations == []:
-    #         st.write(message)
-    #     else:
-    #         st.write(f"Top {number_of_attractions} attractions in {state} for {user}:")
-    #         for rec in recommendations:
-    #             st.write(f"**Attraction name:** {rec['Name']}")
-    #             st.write(f"**City:** {rec['City']}")
-    #             st.write(f"**Opening Hours:** {rec['Opening Hours']}")
-    #             st.write(f"**Description:** {rec['Description']}")
-    #             st.write("***************************************************")
-
-    # if st.checkbox('Show Raw Data'):
-    #     if user in user_ratings_data.columns:
-    #         st.write('Attractions and User Ratings Data')
-    #         user_ratings_data = load_user_data(user)
-    #         st.dataframe(user_ratings_data)
-    #     else:
-    #         st.warning(f"User {user} not found in the database. Please add user first.")
-
-def add_user_streamlit_page():
-    cursor.execute(f"SELECT Attractions, State, Country FROM user_ratings;")
-    attractions_data = cursor.fetchall()
-    attractions_data = pd.DataFrame(attractions_data, columns=['Name', 'State', 'Country'])
-
-    st.markdown("<h3 style='text-align: center;'>Adding User Ratings</h3>", unsafe_allow_html=True)
-    state_ = st.selectbox('Select State', attractions_data['State'].unique())
-    new_user = st.text_input('Enter your name')
-    if new_user != "":
-        cursor.execute(f"SHOW COLUMNS FROM user_ratings LIKE '{new_user}';")
-        if cursor.fetchone() is None:
-            cursor.execute(f"ALTER TABLE user_ratings ADD COLUMN {new_user} int default 0;")
-            db.commit()
-
-        available_attractions = attractions_data[attractions_data['State'] == state_]['Name'].tolist()
-        with st.form(key='ratings_form'):
-            st.write('Rate the attractions you have visited:')
-            for attraction in available_attractions:
-                cursor.execute(f"select {new_user} from user_ratings where Attractions = '{attraction}';")
-                existing_rating = cursor.fetchone()[0]
-                rating = st.slider(f'{attraction}', min_value=0, max_value=5, value=existing_rating, step=1, key=f'rating_{attraction}')
-
-                if rating > 0:
-                    cursor.execute(f"update user_ratings set {new_user} = {rating} where Attractions = '{attraction}';")
-                    db.commit()
-        if st.form_submit_button('Submit Ratings'):
-            st.success('Ratings submitted successfully!')
-if __name__ == "__main__":
-    main_page()
+            rating = st.slider(f'{attraction}', min_value=0, max_value=5, value=int(existing_rating), step=1, key=f'rating_{attraction}')
+            if rating != existing_rating:
+                 attractions_data.loc[attractions_data['Name'] == attraction, new_user] = rating
+        
+        submit_button = st.form_submit_button('Submit Ratings')
+    if submit_button:
+        st.success('Ratings submitted successfully!')
+        worksheet.clear()
+        worksheet.update([attractions_data.columns.values.tolist()] + attractions_data.values.tolist())
+        st.write("Data updated successfully!")
