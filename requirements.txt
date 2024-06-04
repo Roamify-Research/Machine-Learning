@@ -6,3 +6,4 @@ googlemaps
 requests
 json
 streamlit
+pymysql
