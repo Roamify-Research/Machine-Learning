@@ -82,9 +82,7 @@ def add_user_streamlit_page():
                 if rating > 0:
                     cursor.execute(f"update user_ratings set {new_user} = {rating} where Attractions = '{attraction}';")
                     db.commit()
-
-                
-        z
-
+        if st.form_submit_button('Submit Ratings'):
+            st.success('Ratings submitted successfully!')
 if __name__ == "__main__":
     main_page()
