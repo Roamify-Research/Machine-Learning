@@ -73,6 +73,19 @@ def make_attractions():
 
     write_file.close()
 
+def randomize(percent):
+    user_ratings = pd.read_csv('../datasets/first-user-study-ratings.csv')
 
-make_attractions()
-make_user_attractions()
+    attractions_ratings = pd.read_csv('../datasets/final_attractions.csv', usecols=['Rating'])
+
+
+    for i in range(len(attractions_ratings)):
+        for j in range(len(user_ratings.columns)):
+            if user_ratings.iloc[i,j] == 0:
+                n = random.randint(0, int(100/percent))
+                if n == 0:
+                    user_ratings.iloc[i, j] = attractions_ratings['Rating'][i]
+
+    user_ratings.to_csv(f'../datasets/first-user-study-{percent}.csv', index=False)
+
+randomize(20)

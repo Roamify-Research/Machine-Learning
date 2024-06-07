@@ -10,11 +10,11 @@ def print_recommendations(state, number_of_attractions, user):
             attractions_description[attractions_data['Name'][i]] = [attractions_data['City'][i], attractions_data['Opening Hours'][i], attractions_data['Description'][i]]
 
     attractions  = {}
-    user_ratings_data = pd.read_csv('../datasets/user_ratings.csv', usecols=['Attraction', user])
+    user_ratings_data = pd.read_csv('../datasets/predictions/predicted_user_ratings.csv', usecols=['Name', user])
 
     for i in range(len(user_ratings_data)):
-        if user_ratings_data['Attraction'][i] in attraction_names:
-            attractions[user_ratings_data['Attraction'][i]] = user_ratings_data[user][i]
+        if user_ratings_data['Name'][i] in attraction_names:
+            attractions[user_ratings_data['Name'][i]] = user_ratings_data[user][i]
 
 
     attractions_sorted = dict(sorted(attractions.items(), key=lambda item: item[1], reverse=True))
@@ -37,7 +37,8 @@ while(True):
     number_of_attractions = int(input())
     print("Enter the user for whom you want to get recommendations:")
     user = input()
-    if user in ['Noel','Harsh', 'Vikranth','Muthuraj','Armaan']:
+    users = [i for i in pd.read_csv('../datasets/first-user-study-20.csv').columns if i != 'Name' and i != 'State' and i != 'Country']
+    if user in users:
         print_recommendations(state, number_of_attractions, user)
     else:
         print("Invalid user. Please enter a valid user.")
