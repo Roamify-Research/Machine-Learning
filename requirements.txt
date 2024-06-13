@@ -8,3 +8,6 @@ json
 streamlit
 pymysql
 spacy
+re
+transformers
+torch
