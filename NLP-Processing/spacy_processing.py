@@ -10,7 +10,7 @@ nltk.download('stopwords')
 stopwords_set = set(stopwords.words('english'))
 nlp_model = spacy.load('en_core_web_sm')
 
-with open("../webscraped data/traveltriangle.txt", "r") as file:
+with open("../webscraped data/traveltriangle.txt", "r", encoding="utf-8") as file:
     data = file.read()
 
 sentences = sent_tokenize(data)
@@ -46,7 +46,8 @@ for idx, texts in attractions.items():
         summary = full_text
     summarized_attractions[idx] = summary
 
-with open("../after_scraping/traveltriangle_after.txt", "w") as write_file:
+with open("../after_scraping/traveltriangle_after.txt", "w", encoding="utf-8") as write_file:
     for idx in summarized_attractions:
-        write_file.write(f"{idx}. {entities[idx][0] if entities[idx] else 'Unknown Attraction'}\n")
+        attraction_name = entities[idx][0] if entities[idx] else 'Unknown Attraction'
+        write_file.write(f"{idx}. {attraction_name}\n")
         write_file.write(f"{summarized_attractions[idx]}\n\n")
