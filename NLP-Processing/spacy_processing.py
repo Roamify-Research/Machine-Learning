@@ -3,6 +3,7 @@ import nltk
 import re
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
+from transformers import pipeline
 
 nltk.download('punkt')
 nltk.download('stopwords')
@@ -35,15 +36,12 @@ for idx in attractions:
     doc = nlp_model(combined_text)
     entities[idx] = [ent.text for ent in doc.ents if ent.label_ in ['GPE', 'LOC', 'ORG', 'PERSON']]
 
-from gensim.summarization import summarize
+summarizer = pipeline("summarization")
 
 summarized_attractions = {}
 for idx, texts in attractions.items():
     full_text = " ".join(texts)
-    try:
-        summary = summarize(full_text)
-    except ValueError:
-        summary = full_text
+    summary = summarizer(full_text, max_length=130, min_length=30, do_sample=False)[0]['summary_text']
     summarized_attractions[idx] = summary
 
 with open("../after_scraping/traveltriangle_after.txt", "w", encoding="utf-8") as write_file:
