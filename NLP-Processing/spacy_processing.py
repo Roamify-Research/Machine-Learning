@@ -38,13 +38,22 @@ for idx in attractions:
 
 summarizer = pipeline("summarization")
 
+def chunk_text(text, chunk_size=512):
+    words = text.split()
+    for i in range(0, len(words), chunk_size):
+        yield " ".join(words[i:i + chunk_size])
+
 summarized_attractions = {}
 for idx, texts in attractions.items():
     full_text = " ".join(texts)
-    summary = summarizer(full_text, max_length=130, min_length=30, do_sample=False)[0]['summary_text']
-    summarized_attractions[idx] = summary
+    chunks = list(chunk_text(full_text))
+    summary = ""
+    for chunk in chunks:
+        chunk_summary = summarizer(chunk, max_length=130, min_length=30, do_sample=False)[0]['summary_text']
+        summary += chunk_summary + " "
+    summarized_attractions[idx] = summary.strip()
 
-with open("../after_scraping/traveltriangle_after.txt", "w", encoding="utf-8") as write_file:
+with open("../after_scraping/vik_traveltriangle.txt.txt", "w", encoding="utf-8") as write_file:
     for idx in summarized_attractions:
         attraction_name = entities[idx][0] if entities[idx] else 'Unknown Attraction'
         write_file.write(f"{idx}. {attraction_name}\n")
