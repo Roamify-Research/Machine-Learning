@@ -38,7 +38,6 @@ for idx in attractions:
     doc = nlp(combined_text)
     entities[idx] = [ent.text for ent in doc.ents if ent.label_ in ['GPE', 'LOC', 'ORG', 'PERSON']]
     
-    # Extract and rank sentences
     sentence_ranking = []
     for sent in doc.sents:
         score = 0
@@ -49,7 +48,6 @@ for idx in attractions:
                 score += 1
         sentence_ranking.append((score, sent.text))
     
-    # Sort sentences by score
     top_sentences = sorted(sentence_ranking, key=lambda x: x[0], reverse=True)[:3]
     summary = " ".join([sent[1] for sent in top_sentences])
     summaries[idx] = summary
