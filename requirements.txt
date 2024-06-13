@@ -7,3 +7,4 @@ requests
 json
 streamlit
 pymysql
+spacy
