@@ -53,7 +53,7 @@ for idx, texts in attractions.items():
         summary += chunk_summary + " "
     summarized_attractions[idx] = summary.strip()
 
-with open("../after_scraping/vik_traveltriangle.txt", "w", encoding="utf-8") as write_file:
+with open("../after_scraping/vik_1_traveltriangle.txt", "w", encoding="utf-8") as write_file:
     for idx in summarized_attractions:
         attraction_name = entities[idx][0] if entities[idx] else 'Unknown Attraction'
         write_file.write(f"{idx}. {attraction_name}\n")
