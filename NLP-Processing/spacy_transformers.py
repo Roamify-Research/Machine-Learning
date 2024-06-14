@@ -48,9 +48,9 @@ for index in range(len(sentences_processed)):
 
 write_file = open("../after_scraping/goatourismorg_after.txt", "w")
 for attraction_data in attractions.values():
-    # summary = summarizer(attraction_data, max_length=300, min_length=100, length_penalty=2.0, num_beams=4, early_stopping=True)[0]['summary_text']
+    
     summary = attraction_data
-
+    summary = summarizer(attraction_data, max_length=300, min_length=100, length_penalty=2.0, num_beams=4, early_stopping=True)[0]['summary_text']
     question4 = "What is the name of the attraction?"
     name = pipeline_model(question=question4, context=summary)['answer']
 
