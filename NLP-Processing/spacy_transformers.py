@@ -80,6 +80,6 @@ Entry Fee: {entry_fee}
     write_file.write("Description: " + description + "\n")
     write_file.write("Timings: " + timings + "\n")
     write_file.write("Location: " + location + "\n")
-    write_file.write("Entry Fee" + entry_fee + "\n\n")
+    write_file.write("Entry Fee: " + entry_fee + "\n\n")
 
 write_file.close()
