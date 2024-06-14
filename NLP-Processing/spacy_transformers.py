@@ -47,7 +47,7 @@ for index in range(len(sentences_processed)):
 write_file = open("../after_scraping/traveltriangle_after.txt", "w")
 for id, attraction_data in attractions.items():
     words = word_tokenize(attraction_data)
-    words = [w for w in words if w != ":" and w != "-"]
+    words = [w for w in words if w != ":" and w != "-" and w.lower() != "image" and w.lower() != "credit" and w.lower() != "source"]
     val = {"Location": "", "Timings": "", "Entry Fee": "", "Description": "", "Built By": "", "Built In": "", "Price For Two": ""}
     current = "Description"
     count = 0
@@ -136,7 +136,7 @@ Entry Fee: {entry_fee['answer']}
 Built In: {built_in['answer']}
 Built By: {built_by['answer']}
 Price For Two: {price_for_two['answer']}
-Description: {description['answer']}
+Description: {val['Description']}
 """)
 
 
