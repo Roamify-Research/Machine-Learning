@@ -1,4 +1,4 @@
-from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import spacy
 import nltk
@@ -44,7 +44,7 @@ for index in range(len(sentences_processed)):
 # result = {}
 
 # write_file = open("../after_scraping/traveltriangle_after.txt", "w")
-write_file = open("../after_scraping/traveltriangle_after.txt", "w")
+write_file = open("../after_scraping/traveltriangle_after.txt", "w", encoding='utf-8')
 for id, attraction_data in attractions.items():
     words = word_tokenize(attraction_data)
     words = [w for w in words if w != ":" and w != "-" and w.lower() != "image" and w.lower() != "credit" and w.lower() != "source"]
@@ -134,7 +134,6 @@ Built By: {built_by['answer']}
 Price For Two: {price_for_two['answer']}
 Description: {val['Description']}
 """)
-
 
 
 write_file.close()
