@@ -1,0 +1,6 @@
+spacy==3.7.5
+langchain==0.0.74
+transformers==4.27.4
+nltk==3.8.1
+pydantic==1.10.2
+torch==2.0.1
