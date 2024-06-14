@@ -17,7 +17,7 @@ data_processed = nlp_model(data)
 sentences = [sent.text.strip() for sent in data_processed.sents]
 
 
-summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
+# summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 pipeline_model = pipeline("question-answering", model="bert-large-uncased-whole-word-masking-finetuned-squad")
 sentences_processed = []
 current_index = 0
@@ -29,11 +29,8 @@ for sentence in sentences:
         sentences_processed.extend(s_)
 
 for index in range(len(sentences_processed)):
-    sentence = sentences_processed[index]
-    words = word_tokenize(sentence)
-    words = [word for word in words if word.isalnum() and word not in stopwords]
-    sentences_processed[index] = " ".join(words).strip()
-    if sentences_processed[index].isdigit():
+    sentence = sentences_processed[index].strip()
+    if sentence.isdigit():
         val = int(sentences_processed[index])
         if val == current_index + 1:
             current_index += 1
@@ -41,45 +38,107 @@ for index in range(len(sentences_processed)):
     
     else:
         if current_index != 0:
-
-            attractions[current_index] += (sentences_processed[index] + " ")
+            attractions[current_index] += (sentence + " ")
 
 
 # result = {}
 
 # write_file = open("../after_scraping/traveltriangle_after.txt", "w")
-write_file = open("../after_scraping/traveltriangle_after.txt", "w", encoding='utf-8')
-for attraction_data in attractions.values():
+write_file = open("../after_scraping/traveltriangle_after.txt", "w")
+for id, attraction_data in attractions.items():
+    words = word_tokenize(attraction_data)
+    words = [w for w in words if w != ":" and w != "-"]
+    val = {"Location": "", "Timings": "", "Entry Fee": "", "Description": "", "Built By": "", "Built In": "", "Price For Two": ""}
+    current = "Description"
+    count = 0
+    while (count < len(words)):
+        word = words[count].lower()
+        if word == "location":
+            current = "Location"
 
-    summary = attraction_data
-    # summary = summarizer(attraction_data, max_length=300, min_length=100, length_penalty=2.0, num_beams=4, early_stopping=True)[0]['summary_text']
-    question4 = "What is the name of the attraction?"
-    name = pipeline_model(question=question4, context=summary)['answer']
+        elif word == "timings":
+            current = "Timings"
+            
+        elif (word == "entry" and words[count + 1].lower() == "fee"):
+            current = "Entry Fee"
+            count += 2; continue
+        elif (word == "fee"):
+            current = "Entry Fee"
+        elif (word == "price" and words[count + 1].lower() == "for" and words[count + 2].lower() == "two"):
+            current = "Price For Two"
+            count+=3;continue
+        elif word == "built" and words[count + 1].lower() == "by":
+            current = "Built By"
+            count+=2;continue
 
-    question1 = "Describe the attraction in brief including its activities, history, and significance?"
-    description = pipeline_model(question=question1, context=summary)['answer']
+        elif word == "built-in":
+            current = "Built In"
 
-    question2 = "What are the timings to visit?"
-    timings = pipeline_model(question=question2, context=summary)['answer']
+        elif word == "how" and words[count + 1].lower() == "to" and words[count + 2].lower() == "reach":
+            current = "Location"
+            count +=3; continue
+        
+        else:
+            val[current] += (word + " ")
+        
+        count += 1
 
-    question3 = "Where is the attraction located?"
-    location = pipeline_model(question=question3, context=summary)['answer']
+    question1 = "What is the name of the attraction?"
+    name = pipeline_model(question=question1, context=str(val["Description"]))
+    try:
+        question2 = "What is the location of the attraction?"
+        location = pipeline_model(question=question2, context=val["Location"])
+    except:
+        location =  {"answer": "Not Found"}
 
-    question5 = "What is the entry fee for the attraction, if any? If there is no entry fee, return 'No Information'."
-    entry_fee = pipeline_model(question=question5, context=summary)['answer']
+    try:
+        question3 = "What are the timings of the attraction?"
+        timings = pipeline_model(question=question3, context=val["Timings"])
+    except:
+        timings =  {"answer": "Not Found"}
+    try:
+        question4 = "What is the entry fee of the attraction?"
+        entry_fee = pipeline_model(question=question4, context=val["Entry Fee"])
+    except:
+        entry_fee =  {"answer": "Not Found"}
+    try:
+        question5 = "When was the attraction built?"
+        built_in = pipeline_model(question=question5, context=val["Built In"])
+    except:
+        built_in =  {"answer": "Not Found"}
 
-    print(f"""
-Name: {name}
-Description: {description}
-Timings: {timings}
-Location: {location}
-Entry Fee: {entry_fee}
-        """)
+    try:
+        question6 = "Who built the attraction?"
+        built_by = pipeline_model(question=question6, context=val["Built By"])
 
-    write_file.write("Name: " + name + "\n")
-    write_file.write("Description: " + description + "\n")
-    write_file.write("Timings: " + timings + "\n")
-    write_file.write("Location: " + location + "\n")
-    write_file.write("Entry Fee: " + entry_fee + "\n\n")
+    except:
+        built_by =  {"answer": "Not Found"}
+
+    try:
+        question7 = "What is the price for two at the attraction?"
+        price_for_two = pipeline_model(question=question7, context=val["Price For Two"])
+
+    except:
+        price_for_two = {"answer": "Not Found"}
+
+    try:
+        question8 = "Describe the attraction in brief?"
+        description = pipeline_model(question=question8, context=val["Description"])
+    except:
+        description =  {"answer": "Not Found"}
+
+    write_file.write(
+f"""
+Name: {name['answer']}
+Location: {location['answer']}
+Timings: {timings['answer']}
+Entry Fee: {entry_fee['answer']}
+Built In: {built_in['answer']}
+Built By: {built_by['answer']}
+Price For Two: {price_for_two['answer']}
+Description: {description['answer']}
+""")
+
+
 
 write_file.close()
