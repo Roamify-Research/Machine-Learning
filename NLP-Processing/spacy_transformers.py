@@ -10,7 +10,7 @@ nltk.download('stopwords')
 
 stopwords = set(stopwords.words('english'))
 nlp_model = spacy.load('en_core_web_lg')
-data = open("../webscraped data/goatourismorg.txt", "r").read()
+data = open("../webscraped data/traveltriangle.txt", "r").read()
 data_processed = nlp_model(data)
 
 sentences = [sent.text.strip() for sent in data_processed.sents]
@@ -46,7 +46,7 @@ for index in range(len(sentences_processed)):
 
 # result = {}
 
-write_file = open("../after_scraping/goatourismorg_after.txt", "w")
+write_file = open("../after_scraping/traveltriangle_after.txt", "w")
 for attraction_data in attractions.values():
     
     summary = attraction_data
@@ -74,10 +74,10 @@ Entry Fee: {entry_fee}
           """)
 
 
-    write_file.write(name + "\n")
-    write_file.write(description + "\n")
-    write_file.write(timings + "\n")
-    write_file.write(location + "\n")
-    write_file.write(entry_fee + "\n\n")
+    write_file.write("Name: " + name + "\n")
+    write_file.write("Description: " + description + "\n")
+    write_file.write("Timings: " + timings + "\n")
+    write_file.write("Location: " + location + "\n")
+    write_file.write("Entry Fee" + entry_fee + "\n\n")
 
 write_file.close()
