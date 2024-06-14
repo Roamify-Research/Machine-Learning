@@ -40,7 +40,7 @@ for index in range(len(sentences_processed)):
             attractions[current_index] = ""
     
     else:
-        if current_index!= 0:
+        if current_index != 0:
 
             attractions[current_index] += (sentences_processed[index] + " ")
 
@@ -56,7 +56,7 @@ for attraction_data in attractions.values():
     question4 = "What is the name of the attraction?"
     name = pipeline_model(question=question4, context=summary)['answer']
 
-    question1 =  "Describe the attraction in brief including its activities, history, and significance?"
+    question1 = "Describe the attraction in brief including its activities, history, and significance?"
     description = pipeline_model(question=question1, context=summary)['answer']
 
     question2 = "What are the timings to visit?"
@@ -67,14 +67,14 @@ for attraction_data in attractions.values():
 
     question5 = "What is the entry fee for the attraction, if any? If there is no entry fee, return 'No Information'."
     entry_fee = pipeline_model(question=question5, context=summary)['answer']
+
     print(f"""
 Name: {name}
 Description: {description}
 Timings: {timings}
 Location: {location}
 Entry Fee: {entry_fee}
-          """)
-
+        """)
 
     write_file.write("Name: " + name + "\n")
     write_file.write("Description: " + description + "\n")

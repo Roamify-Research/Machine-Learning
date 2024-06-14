@@ -2,329 +2,329 @@ Name: Sinquerim Beach
 Description: Sightseeing Goa
 Timings: AM PM days week
 Location: Fort Aguada Rd
-Entry FeeNo entry fee
+Entry Fee: No entry fee
 
 Name: Chapora Fort
 Description: Chapora Fort
 Timings: road Entry Fee No entry fee
 Location: Chapora Fort Rd Chapora Goa
-Entry FeeNo entry fee
+Entry Fee: No entry fee
 
 Name: Terekhol Fort
 Description: Terekhol Fort
 Timings: hiring taxi auto place
 Location: Pernem Taluka Tiracol 403524
-Entry FeeNo entry fee
+Entry Fee: No entry fee
 
 Name: Keri Beach Redi Ganpati Temple
 Description: Reis Mogos Fort For History Lovers
 Timings: 5 PM days week
 Location: Verem Bardez Goa
-Entry FeeNo entry fee
+Entry Fee: No entry fee
 
 Name: Cabo De Rama Fort
 Description: Cabo De Rama Fort
 Timings: 9 AM PM days week
 Location: 60 kilometers Panjim
-Entry FeeNo entry fee
+Entry Fee: No entry fee
 
 Name: Aguada Fort Calangute Beach
 Description: Corjuem Fort
 Timings: AM 7 PM
 Location: Corjuem North Goa
-Entry FeeNo entry fee
+Entry Fee: No entry fee
 
 Name: Bom Jesus Basilica
 Description: Bom Jesus Basilica Baroque Architecture
 Timings: Monday Saturday AM PM Sunday AM PM
 Location: Old Goa Rd Bainguinim Goa 403402
-Entry FeeNo entry fee
+Entry Fee: No entry fee
 
 Name: Se Cathedral
 Description: UNESCO World Heritage Sites
 Timings: 7 AM PM
 Location: Old Goa
-Entry FeeNo entry fee
+Entry Fee: No entry fee
 
 Name: Goa Carnival
 Description: Goa Carnival
 Timings: 7 AM PM
 Location: Off National Highway 4 Goa Velha Goa
-Entry FeeNo entry fee
+Entry Fee: No entry fee
 
 Name: Church Of St Cajetan
 Description: UNESCO World Heritage Site
 Timings: 7 AM PM
 Location: close Mandovi River
-Entry FeeNo entry fee
+Entry Fee: No entry fee
 
 Name: Thalassa Restaurant
 Description: expansive sea makes certainly worth every penny
 Timings: AM days week
 Location: Plot No 301 1 Vaddy Siolim Goa 403517
-Entry FeeTwo INR 2000
+Entry Fee: Two INR 2000
 
 Name: The Fisherman Wharf
 Description: backwaters
 Timings: AM days week
 Location: Leela Mobor Cavelossim
-Entry FeeTwo INR 1500
+Entry Fee: Two INR 1500
 
 Name: Antares Restaurant Beach Club Facebook  Antares place
 Description: Camping In Goa
 Timings: AM days week
 Location: Small Vagator Beach
-Entry FeeTwo INR 2000
+Entry Fee: Two INR 2000
 
 Name: Tito Club
 Description: huge dance floor amongst best tourist attractions Goa
 Timings: 6 PM 3 AM
 Location: Titos Ln Near Baga Beach
-Entry FeeTwo INR
+Entry Fee: Two INR
 
 Name: Mambo
 Description: clubbing
 Timings: 6 PM 4 AM
 Location: Titos Lane Baga Beach
-Entry FeeTwo INR
+Entry Fee: Two INR
 
 Name: Britto Tantalizing Bites
 Description: Wildlife Sanctuaries Goa  If wildlife fascinates amazing sanctuaries
 Timings: AM 12 AM
 Location: Calangute Baga Rd Saunta Vaddo Baga
-Entry FeeBritto Tantalizing Bites  Image Credit
+Entry Fee: Britto Tantalizing Bites  Image Credit
 
 Name: Cotigao Wildlife Sanctuary
 Description: Cotigao Wildlife Sanctuary
 Timings: AM days week
 Location: Canacona Taluka Khotigao Goa
-Entry FeeCotigao Wildlife Sanctuary
+Entry Fee: Cotigao Wildlife Sanctuary
 
 Name: Salim Ali Bird Sanctuary
 Description: Salim Ali Bird Sanctuary Mangrove Forests
 Timings: 6 AM 6 PM
 Location: Chorao Island Ilhas Ribandar Goa
-Entry FeeSalim Ali Bird Sanctuary Mangrove Forests
+Entry Fee: Salim Ali Bird Sanctuary Mangrove Forests
 
 Name: Wildlife Sanctuary
 Description: Goa Carnival
 Timings: 6 AM 6 PM
 Location: Chorao Island Ilhas Ribandar Goa
-Entry FeeGoa visited sanctuary without reason
+Entry Fee: Goa visited sanctuary without reason
 
 Name: Bhagwan Mahavir Wildlife Sanctuary
 Description: Mollem National Park
 Timings: hire cab taxi Panaji
 Location: Goa 403410
-Entry FeeBhagwan Mahavir Wildlife Sanctuary Largest Wildlife Sanctuaries In Goa
+Entry Fee: Bhagwan Mahavir Wildlife Sanctuary Largest Wildlife Sanctuaries In Goa
 
 Name: Bondla Wildlife Sanctuary
 Description: Bondla Wildlife Sanctuary
 Timings: 9AM 5PM Monday closed
 Location: VP Goa 403105
-Entry FeeBondla Wildlife Sanctuary Smallest Wildlife Sanctuaries In Goa
+Entry Fee: Bondla Wildlife Sanctuary Smallest Wildlife Sanctuaries In Goa
 
 Name: Mapusa Market
 Description: Mapusa Market
 Timings: 6 AM 8 PM
 Location: Panaji Goa
-Entry FeeMapusa Market
+Entry Fee: Mapusa Market
 
 Name: Saturday Night Market
 Description: Saturday Night Market Popular Flea Market
 Timings: 6 AM 8 PM
 Location: Arpora
-Entry FeeSaturday Night Market
+Entry Fee: Saturday Night Market
 
 Name: Anjuna Flea Market
 Description: Anjuna Flea Market
 Timings: October March AM AM AM AM
 Location: 10 St  Michael Vaddo South Anjuna Goa 403509
-Entry FeeAnjuna Flea Market
+Entry Fee: Anjuna Flea Market
 
 Name: Aguada Beach
 Description: famous amongst honeymooners
 Timings: Honeymoon Package Rs  Get quotes
 Location: Fort Aguada Rd
-Entry FeeAguada Beach Delightful Views
+Entry Fee: Aguada Beach Delightful Views
 
 Name: Arambol Beach
 Description: Arambol Beach Bohemian Atmosphere
 Timings: tourist attraction
 Location: Goa
-Entry FeeArambol Beach Bohemian Atmosphere  Image Source  With Bohemian atmosphere
+Entry Fee: Arambol Beach Bohemian Atmosphere  Image Source  With Bohemian atmosphere
 
 Name: Baga Beach famous tourist point Goa centre
 Description: Goa  Majestic
 Timings: white waves rushing wipe feet
 Location: Bardez Goa
-Entry FeeBaga Beach
+Entry Fee: Baga Beach
 
 Name: Anjuna Beach Full Moon Parties
 Description: popular tourist places Goa world renowned freak capital world
 Timings: Anjuna Beach Full Moon Parties
 Location: Anjuna North Goa
-Entry FeeAnjuna Beach Full Moon Parties
+Entry Fee: Anjuna Beach Full Moon Parties
 
 Name: Butterfly Beach For Peace Seekers
 Description: Butterfly Beach For Peace Seekers
 Timings: lot tourists visit spot Dolphins
 Location: north Palolem beach
-Entry FeeButterfly Beach For Peace Seekers
+Entry Fee: Butterfly Beach For Peace Seekers
 
 Name: Calangute Beach Queen Of Beaches
 Description: high sky experience
 Timings: 2 days
 Location: Calangute Beach
-Entry FeeCalangute Beach Queen Of Beaches
+Entry Fee: Calangute Beach Queen Of Beaches
 
 Name: Colva Beach
 Description: This beach South Goa considered one tourist attractions
 Timings: 33 kilometres away Panjim Kadamba Bus Stand distance 8 kilometers
 Location: South Goa
-Entry FeeColva Beach
+Entry Fee: Colva Beach
 
 Name: Cansaulim Beach
 Description: picnic spots
 Timings: one must   Location
 Location: Cansaulim Goa
-Entry FeeCansaulim Beach Second Largest Coastline Stretch In India
+Entry Fee: Cansaulim Beach Second Largest Coastline Stretch In India
 
 Name: Sernabatim Lake Ramola Super Market
 Description: Benaulim Beach
 Timings: candlelit romantic beach dinner
 Location: Benaulim Beach
-Entry FeeBenaulim Beach
+Entry Fee: Benaulim Beach
 
 Name: Dona Paula Beach
 Description: Dona Paula Beach tragic history related love suicide
 Timings: Thrilling Activities
 Location: Dona Paula Beach
-Entry FeeGoa
+Entry Fee: Goa
 
 Name: Ashvem Beach
 Description: list Goa sightseeing places
 Timings: May
 Location: Mandrem village North Goa
-Entry FeeAshvem Beach Find Your Secluded Spot  Image Credit
+Entry Fee: Ashvem Beach Find Your Secluded Spot  Image Credit
 
 Name: Mobor Beach A Piece Of Heaven
 Description: Mobor Beach A Piece Of Heaven
 Timings: every year
 Location: South Goa
-Entry FeeMobor Beach A Piece Of Heaven  Image Credit
+Entry Fee: Mobor Beach A Piece Of Heaven  Image Credit
 
 Name: Sinc Nightclub
 Description: Sinquerim Beach
 Timings: June
 Location: Sinquerim Candolim Goa 403515
-Entry FeeSinquerim Beach Ideal For Families
+Entry Fee: Sinquerim Beach Ideal For Families
 
 Name: Querim Beach
 Description: water activities like surfing paragliding banana ride kayaking
 Timings: spend time
 Location: Querim Beach Goa 403519
-Entry FeeQuerim Beach
+Entry Fee: Querim Beach
 
 Name: Chorao Island
 Description: Chorao Island surpasses 16 islands attracting visitors one top Goa tourist places
 Timings: surpasses 16 islands
 Location: Near Panjim Goa
-Entry FeeChorao Island Largest Island In Goa
+Entry Fee: Chorao Island Largest Island In Goa
 
 Name: Divar Island
 Description: Divar Island
 Timings: Goa
 Location: Mandovi river Goa What Special Situated across Mandovi River
-Entry FeeDivar Island
+Entry Fee: Divar Island
 
 Name: Goa great snorkelling experience
 Description: Goa great snorkelling experience
 Timings: day trip
 Location: Sautavaddo Calangute Goa 403516
-Entry Feesnorkelling
+Entry Fee: snorkelling
 
 Name: Archives Museum
 Description: artefacts
 Timings: Hours
 Location: Ourem Road
-Entry FeeArchives Museum Illuminating Hours  Image Credit
+Entry Fee: Archives Museum Illuminating Hours  Image Credit
 
 Name: boat cruise River Mandovi night
 Description: heritage houses market
 Timings: Goa family
 Location: North Goa
-Entry FeeCruise Vacations In India
+Entry Fee: Cruise Vacations In India
 
 Name: Dudhsagar Waterfalls
 Description: Dudhsagar Waterfalls
 Timings: 71 kilometers
 Location: Sonaulim Goa 403410
-Entry FeeDudhsagar Waterfalls
+Entry Fee: Dudhsagar Waterfalls
 
 Name: Shri Mangeshi Temple
 Description: North Goa  It one places Goa major pilgrimage site
 Timings: 37 kilometres
 Location: North Goa
-Entry FeeShri Mangeshi Temple
+Entry Fee: Shri Mangeshi Temple
 
 Name: Shri Shantadurga Temple
 Description: Shri Shantadurga Temple
 Timings: one biggest frequented temples Goa
 Location: Kapileswari Kavlem Rd Donshiwado Ponda
-Entry FeeShri Shantadurga Temple
+Entry Fee: Shri Shantadurga Temple
 
 Name: Shri Mahalaxmi Temple
 Description: Shri Mahalaxmi Temple
 Timings: throughout year
 Location: Bandora Village
-Entry FeeShri Mahalaxmi Temple
+Entry Fee: Shri Mahalaxmi Temple
 
 Name: Candolim Beach Hub Of Adventure Freaks
 Description: Candolim Beach
 Timings: sunsets sunrises
 Location: Candolim Beach
-Entry FeeCandolim Beach
+Entry Fee: Candolim Beach
 
 Name: Tito Street Best Nightlife Experience
 Description: Tito Street Best Nightlife Experience
 Timings: Once sunsets
 Location: Tito Street home electrifying clubs Goa
-Entry FeeTito Street home electrifying clubs Goa
+Entry Fee: Tito Street home electrifying clubs Goa
 
 Name: Palolem Beach Gorgeous Escape
 Description: Goa tourist attraction offers mesmerizing views
 Timings: day time
 Location: Palolem Beach Goa
-Entry FeePalolem Beach Gorgeous Escape  Image Credit
+Entry Fee: Palolem Beach Gorgeous Escape  Image Credit
 
 Name: Casino Cruise
 Description: Casino Cruise
 Timings: 9 pm DJ night starts continues till 3 morning
 Location: river Goa
-Entry FeeCasino Cruise
+Entry Fee: Casino Cruise
 
 Name: The Church Of Our Lady Of Immaculate Conception Peaceful Hours
 Description: Old Portuguese sailors always remained significant
 Timings: Peaceful Hours
 Location: Rua Emídio Garcia Altinho Panaji Goa 403001
-Entry FeeThe Church Of Our Lady Of Immaculate Conception Peaceful Hours
+Entry Fee: The Church Of Our Lady Of Immaculate Conception Peaceful Hours
 
 Name: Club Cubana
 Description: nightlife
 Timings: 3 Days
 Location: Aguada Siolim Rd Arpora Goa
-Entry Fee3 Days In Goa
+Entry Fee: 3 Days In Goa
 
 Name: Lamgau Caves
 Description: important place Hindu community
 Timings: people across world
 Location: Bicholim North Goa
-Entry FeeLamgau Caves Interesting Cave
+Entry Fee: Lamgau Caves Interesting Cave
 
 Name: Arvalem Waterfall
 Description: stunning beaches
 Timings: 3 days In 3 days
 Location: Plot No 52 3rd Floor  Batra House Sector 32  Gurugram Haryana
-Entry FeeGoa
+Entry Fee: Goa
 
