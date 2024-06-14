@@ -10,7 +10,8 @@ nltk.download('stopwords')
 
 stopwords = set(stopwords.words('english'))
 nlp_model = spacy.load('en_core_web_lg')
-data = open("../webscraped data/traveltriangle.txt", "r").read()
+# data = open("../webscraped data/traveltriangle.txt", "r").read()
+data = open("../webscraped data/traveltriangle.txt", "r", encoding='utf-8').read()
 data_processed = nlp_model(data)
 
 sentences = [sent.text.strip() for sent in data_processed.sents]
@@ -46,9 +47,10 @@ for index in range(len(sentences_processed)):
 
 # result = {}
 
-write_file = open("../after_scraping/traveltriangle_after.txt", "w")
+# write_file = open("../after_scraping/traveltriangle_after.txt", "w")
+write_file = open("../after_scraping/traveltriangle_after.txt", "w", encoding='utf-8')
 for attraction_data in attractions.values():
-    
+
     summary = attraction_data
     # summary = summarizer(attraction_data, max_length=300, min_length=100, length_penalty=2.0, num_beams=4, early_stopping=True)[0]['summary_text']
     question4 = "What is the name of the attraction?"
