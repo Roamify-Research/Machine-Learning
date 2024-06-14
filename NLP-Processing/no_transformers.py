@@ -57,3 +57,5 @@ with open("../after_scraping/vik_2_traveltriangle.txt", "w", encoding="utf-8") a
         attraction_name = entities[idx][0] if entities[idx] else 'Unknown Attraction'
         write_file.write(f"{idx}. {attraction_name}\n")
         write_file.write(f"{summaries[idx]}\n\n")
+    
+
