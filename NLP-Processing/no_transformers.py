@@ -9,7 +9,7 @@ nltk.download('stopwords')
 
 stopwords = set(stopwords.words('english'))
 nlp_model = spacy.load('en_core_web_lg')
-data = open("../webscraped data/goatourismorg.txt", "r").read()
+data = open("../webscraped data/goatourismorg.txt", "r", encoding='utf-8').read()
 data_processed = nlp_model(data)
 
 sentences = [sent.text.strip() for sent in data_processed.sents]
@@ -39,5 +39,3 @@ for index in range(len(sentences_processed)):
         if current_index!= 0:
 
             attractions[current_index] += (sentences_processed[index] + " ")
-
-
