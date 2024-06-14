@@ -85,47 +85,43 @@ for id, attraction_data in attractions.items():
 
     question1 = "What is the name of the attraction?"
     name = pipeline_model(question=question1, context=str(val["Description"]))
-    try:
+    if val["Location"]:
         question2 = "What is the location of the attraction?"
         location = pipeline_model(question=question2, context=val["Location"])
-    except:
+    else:
         location =  {"answer": "Not Found"}
 
-    try:
+    if val["Timings"]:
         question3 = "What are the timings of the attraction?"
         timings = pipeline_model(question=question3, context=val["Timings"])
-    except:
-        timings =  {"answer": "Not Found"}
-    try:
+    else:
+        timings = {"answer": "Not Found"}
+    if val["Entry Fee"]:
         question4 = "What is the entry fee of the attraction?"
         entry_fee = pipeline_model(question=question4, context=val["Entry Fee"])
-    except:
+        if "no" in entry_fee["answer"].lower():
+            entry_fee = {"answer": "No"}
+    else:
         entry_fee =  {"answer": "Not Found"}
-    try:
+
+    if val["Built In"]:
         question5 = "When was the attraction built?"
         built_in = pipeline_model(question=question5, context=val["Built In"])
-    except:
+    else:
         built_in =  {"answer": "Not Found"}
 
-    try:
+    if val["Built By"]:
         question6 = "Who built the attraction?"
         built_by = pipeline_model(question=question6, context=val["Built By"])
 
-    except:
+    else:
         built_by =  {"answer": "Not Found"}
 
-    try:
-        question7 = "What is the price for two at the attraction?"
+    if val["Price For Two"]:
+        question7 = "What is the price for two at the attraction in inr?"
         price_for_two = pipeline_model(question=question7, context=val["Price For Two"])
-
-    except:
-        price_for_two = {"answer": "Not Found"}
-
-    try:
-        question8 = "Describe the attraction in brief?"
-        description = pipeline_model(question=question8, context=val["Description"])
-    except:
-        description =  {"answer": "Not Found"}
+    else:
+        price_for_two =  {"answer": "Not Found"}
 
     write_file.write(
 f"""

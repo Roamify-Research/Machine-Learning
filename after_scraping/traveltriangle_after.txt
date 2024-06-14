@@ -2,7 +2,7 @@
 Name: sinquerim beach
 Location: fort aguada rd
 Timings: 9:00 am – 6:30 pm
-Entry Fee: no must
+Entry Fee: No
 Built In: 1609-1612
 Built By: portuguese
 Price For Two: Not Found
@@ -11,7 +11,7 @@ Description: aguada fort beautiful ambiance sightseeing in goa is incomplete wit
 Name: chapora fort
 Location: chapora fort rd
 Timings: Not Found
-Entry Fee: no
+Entry Fee: No
 Built In: vagator beach
 Built By: adil shah of bijapur
 Price For Two: Not Found
@@ -20,7 +20,7 @@ Description: chapora fort for selfie lovers popular for its history , the chapor
 Name: church of st anthony
 Location: terekhol fort
 Timings: Not Found
-Entry Fee: no suggested read
+Entry Fee: No
 Built In: 17th century
 Built By: viceroy pedro miguel de almeida
 Price For Two: Not Found
@@ -29,7 +29,7 @@ Description: terekhol fort serene ambiance fort terekhol situated on the terekho
 Name: reis mogos fort
 Location: terekhol fort
 Timings: 9:30 am – 5 pm
-Entry Fee: no
+Entry Fee: No
 Built In: 1551
 Built By: alfonso de noronha
 Price For Two: Not Found
@@ -38,7 +38,7 @@ Description: reis mogos fort for history lovers ashwin kumar for wikipedia the c
 Name: cabo de rama fort
 Location: taluka cabo da rama , canacona , goa
 Timings: 9 am – 5:30 pm
-Entry Fee: no suggested read
+Entry Fee: No
 Built In: 1763
 Built By: portuguese
 Price For Two: Not Found
@@ -56,7 +56,7 @@ Description: corjuem fort offers excellent panoramic views corjuem fort is one o
 Name: bom jesus basilica
 Location: old goa rd
 Timings: monday to saturday 09:00 am to 06:30 pm
-Entry Fee: no suggested read
+Entry Fee: No
 Built In: 1609-1612
 Built By: portuguese
 Price For Two: Not Found
@@ -65,7 +65,7 @@ Description: bom jesus basilica baroque architecture bikashrd for wikipedia one 
 Name: basilica of bom jesus
 Location: panjim kadamba bus stand
 Timings: 7 am – 6:30 pm
-Entry Fee: no
+Entry Fee: No
 Built In: Not Found
 Built By: julião simão
 Price For Two: Not Found
@@ -74,7 +74,7 @@ Description: se cathedral largest asian church danny burke for wikipedia this ch
 Name: statue of mother mary
 Location: goa velha , goa
 Timings: 7 am – 6:30 pm
-Entry Fee: no suggested read
+Entry Fee: No
 Built In: 1661
 Built By: portuguese
 Price For Two: Not Found
@@ -95,7 +95,7 @@ Timings: 10:00 am – 11:30pm
 Entry Fee: Not Found
 Built In: Not Found
 Built By: Not Found
-Price For Two: inr 2000 suggested read 10 guest houses in goa
+Price For Two: inr 2000
 Description: thalassa restaurant epicurean ’ s delight one of the most famous restaurants amongst regular goa tourists , thalassa offers the perfect sunset view in goa look for a table outside if you want to have the ideal experience at this place the clear view of the expansive sea makes it certainly worth every penny 
 
 Name: the fisherman ’ s wharf
@@ -104,7 +104,7 @@ Timings: 9:00 am – 6:30pm
 Entry Fee: Not Found
 Built In: Not Found
 Built By: Not Found
-Price For Two: inr 1500
+Price For Two: 1500
 Description: the fisherman ’ s wharf for seafood lovers this place has been attracting crowds for years now while salcette offers a ship-like decor and serves delicious tandoori pomfret , masala fried prawns and fish curry rice live performances add up to the fun at this beautiful place on sundays , you can enjoy the live performances during lunch hours as well the view of backwaters make the moments memorable for lifetime so , next time you are in goa , don ’ t forget to add this to your list of places to visit in goa 
 
 Name: antares restaurant & beach club
@@ -113,7 +113,7 @@ Timings: 9:00 am – 6:30pm
 Entry Fee: Not Found
 Built In: Not Found
 Built By: Not Found
-Price For Two: camping in goa famous party hubs in goa
+Price For Two: inr 2000
 Description: anteras , vagator sun-kissed meals antares restaurant & beach club for facebook antares is a place to be if you are looking for some of the best of goa famous places have a sun-kissed meal and wait till the sunset for an experience of its kind you can pick anything from their authentic delicacies and you will not regret for the fact that their staff pours in immense creativity and dedication in each dish they serve 
 
 Name: tito ’ s club
@@ -122,7 +122,7 @@ Timings: 6 pm – 3 am
 Entry Fee: Not Found
 Built In: Not Found
 Built By: Not Found
-Price For Two: inr 3,000
+Price For Two: 3,000
 Description: tito ’ s club celebrity dj ’ s shbs for pixabay the biggest entertainment hub in goa hosts a steady stream of high profile and celebrity dj ’ s with a huge dance floor and is amongst the best tourist attractions in goa the club also features a variety of special acts , dance performances and has the most versatile bartenders with fire acts and crazy bar flaring acts of their own the club within a few months of opening its doors has already received the times nightlife award for the “ best nightclub in goa ” 
 
 Name: mambo ’ s craziest party place
@@ -131,7 +131,7 @@ Timings: 6 pm – 4 am
 Entry Fee: Not Found
 Built In: Not Found
 Built By: Not Found
-Price For Two: inr 3,000
+Price For Two: 3,000
 Description: mambo ’ s craziest party place charlyfer for pixabay it is one of the most happening tourist places in north goa that has changed the clubbing scene in goa and is among the craziest goa places to visit it club opens from 9pm onwards and is a chilled out zone to meet friends and catch up for a drink with amazing in house djs as well as renowned international dj ’ s playing all sorts of music cafe mambo also has special theme nights for retro music as well as trance night and also host many of the festivals in goa 
 
 Name: britto ’ s tantalizing bites
@@ -140,7 +140,7 @@ Timings: 8:30 am – 12 am
 Entry Fee: Not Found
 Built In: Not Found
 Built By: Not Found
-Price For Two: inr 3,200
+Price For Two: 3,200
 Description: britto ’ s tantalizing bites brittos restaurant for facebook de baga deck is a fine-dining italian restaurant that serves some of the most scrumptious and tantalizing food in goa tasty cocktails , great music , pleasing ambience and magical cuisines are the highlights of de baga deck the ambience is unique given the large french windows through which you can enjoy uninterrupted and spectacular views of the arabian sea de baga deck is open throughout the year it specializes in seafood and multi-cuisines and you can gorge on goan delicacies to your heart ’ s content after you ’ re exhausted from goa sightseeing 
 
 Name: cotigao wildlife sanctuary
