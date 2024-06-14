@@ -1,61 +1,43 @@
-import spacy
-import nltk
-import re
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
-from collections import defaultdict
+import spacy
+import nltk
 
 nltk.download('punkt')
 nltk.download('stopwords')
 
-stopwords_set = set(stopwords.words('english'))
-nlp = spacy.load('en_core_web_sm')
 
-with open("../webscraped data/traveltriangle.txt", "r", encoding="utf-8") as file:
-    data = file.read()
+stopwords = set(stopwords.words('english'))
+nlp_model = spacy.load('en_core_web_lg')
+data = open("../webscraped data/goatourismorg.txt", "r").read()
+data_processed = nlp_model(data)
 
-sentences = sent_tokenize(data)
-attractions = {}
+sentences = [sent.text.strip() for sent in data_processed.sents]
+
+
+sentences_processed = []
 current_index = 0
-
+attractions = {}
 for sentence in sentences:
+    s = sentence.split("\n")
+    for i in s:
+        s_ = i.split(".")
+        sentences_processed.extend(s_)
+
+for index in range(len(sentences_processed)):
+    sentence = sentences_processed[index]
     words = word_tokenize(sentence)
-    words = [word for word in words if word.isalnum() and word.lower() not in stopwords_set]
-    cleaned_sentence = " ".join(words)
-
-    match = re.match(r'^(\d+)\.\s*', sentence)
-    if match:
-        current_index = int(match.group(1))
-        attractions[current_index] = []
-    elif current_index:
-        attractions[current_index].append(cleaned_sentence)
-
-entities = {}
-summaries = defaultdict(list)
-
-for idx in attractions:
-    combined_text = " ".join(attractions[idx])
-    doc = nlp(combined_text)
-    entities[idx] = [ent.text for ent in doc.ents if ent.label_ in ['GPE', 'LOC', 'ORG', 'PERSON']]
+    words = [word for word in words if word.isalnum() and word not in stopwords]
+    sentences_processed[index] = " ".join(words).strip()
+    if sentences_processed[index].isdigit():
+        val = int(sentences_processed[index])
+        if val == current_index + 1:
+            current_index += 1
+            attractions[current_index] = ""
     
-    sentence_ranking = []
-    for sent in doc.sents:
-        score = 0
-        for token in sent:
-            if token.ent_type_ in ['GPE', 'LOC', 'ORG', 'PERSON']:
-                score += 2
-            elif token.pos_ in ['PROPN', 'VERB']:
-                score += 1
-        sentence_ranking.append((score, sent.text))
-    
-    top_sentences = sorted(sentence_ranking, key=lambda x: x[0], reverse=True)[:3]
-    summary = " ".join([sent[1] for sent in top_sentences])
-    summaries[idx] = summary
+    else:
+        if current_index!= 0:
 
-with open("../after_scraping/vik_2_traveltriangle.txt", "w", encoding="utf-8") as write_file:
-    for idx in summaries:
-        attraction_name = entities[idx][0] if entities[idx] else 'Unknown Attraction'
-        write_file.write(f"{idx}. {attraction_name}\n")
-        write_file.write(f"{summaries[idx]}\n\n")
-    
+            attractions[current_index] += (sentences_processed[index] + " ")
+
 
