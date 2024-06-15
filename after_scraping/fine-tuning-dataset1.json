@@ -677,7 +677,733 @@
         "context_index": 14,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Amusement (Nightclub)"
+    },
+    {
+        "context_index": 15,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Restaurant"
+    },
+    {
+        "context_index": 15,
+        "question": "What is the name of the attraction?",
+        "answer": "Britto's"
+    },
+    {
+        "context_index": 15,
+        "question": "What is the location of the attraction?",
+        "answer": "House No 7, 171, Calangute – Baga Rd, Saunta Vaddo, Baga, Goa"
+    },
+    {
+        "context_index": 15,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:30 AM – 12 AM"
+    },
+    {
+        "context_index": 15,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "3,200"
+    },
+    {
+        "context_index": 15,
+        "question": "Describe the attraction in brief?",
+        "answer": "Britto’s is a fine-dining Italian restaurant known for its tantalizing food, great music, and pleasing ambience. It offers spectacular views of the Arabian Sea through large French windows."
+    },
+    {
+        "context_index": 16,
+        "question": "What is the name of the attraction?",
+        "answer": "Cotigao Wildlife Sanctuary"
+    },
+    {
+        "context_index": 16,
+        "question": "What is the location of the attraction?",
+        "answer": "Canacona Taluka, Khotigao, Goa 403702"
+    },
+    {
+        "context_index": 16,
+        "question": "What are the timings of the attraction?",
+        "answer": "9:00 AM – 6:30 PM all days of the week"
+    },
+    {
+        "context_index": 16,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 16,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 16,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 16,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The attraction does not have a price for two as it is a wildlife sanctuary."
+    },
+    {
+        "context_index": 16,
+        "question": "Describe the attraction in brief?",
+        "answer": "Cotigao Wildlife Sanctuary is Goa's second largest wildlife reserve known for its serene woods where visitors can encounter Sloth Bears, Laughing Hyenas, Indian Bisons, Monkeys, and the Malabar Crested Eagle. It offers a peaceful environment ideal for wildlife enthusiasts."
+    },
+    {
+        "context_index": 16,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },    
+    {
+        "context_index": 17,
+        "question": "What is the name of the attraction?",
+        "answer": "Salim Ali Bird Sanctuary"
+    },
+    {
+        "context_index": 17,
+        "question": "What is the location of the attraction?",
+        "answer": "Chorao Island, Ilhas, Ribandar, Goa"
+    },
+    {
+        "context_index": 17,
+        "question": "What is the name of the attraction?",
+        "answer": "Salim Ali Bird Sanctuary"
+    },
+    {
+        "context_index": 17,
+        "question": "What is the location of the attraction?",
+        "answer": "Chorao Island, Ilhas, Ribandar, Goa"
+    },
+    {
+        "context_index": 17,
+        "question": "What are the timings of the attraction?",
+        "answer": "6 AM – 6 PM"
+    },
+    {
+        "context_index": 17,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 17,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 17,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 17,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The attraction does not have a price for two as it is a natural sanctuary."
+    },
+    {
+        "context_index": 17,
+        "question": "Describe the attraction in brief?",
+        "answer": "Salim Ali Bird Sanctuary on the western extreme of The Chorao Island is where mangrove forests are worth exploring with the presence of species like mudskipper and black drongo. Named after an Indian ornithologist, the sanctuary is a nice escape into wilderness."
+    },
+    {
+        "context_index": 17,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 18,
+        "question": "What is the name of the attraction?",
+        "answer": "Mandovi-Zuari Wildlife Sanctuary"
+    },
+    {
+        "context_index": 18,
+        "question": "What is the location of the attraction?",
+        "answer": "Chorao Island, Ilhas, Ribandar, Goa"
+    },
+    {
+        "context_index": 18,
+        "question": "What are the timings of the attraction?",
+        "answer": "6 AM – 6 PM"
+    },
+    {
+        "context_index": 18,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 18,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 18,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 18,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The attraction does not have a price for two as it is a wildlife sanctuary."
+    },
+    {
+        "context_index": 18,
+        "question": "Describe the attraction in brief?",
+        "answer": "Mandovi-Zuari Wildlife Sanctuary is Goa’s most visited sanctuary known for its diverse range of species including the rare Kandelia Candel, various birds, snakes, jackals, and crocodiles. It offers an enriching experience for wildlife enthusiasts."
+    },
+    {
+        "context_index": 18,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 19,
+        "question": "What is the name of the attraction?",
+        "answer": "Bhagwan Mahavir Wildlife Sanctuary"
+    },
+    {
+        "context_index": 19,
+        "question": "What is the location of the attraction?",
+        "answer": "Goa 403410"
+    },
+    {
+        "context_index": 19,
+        "question": "What are the timings of the attraction?",
+        "answer": "6:00 AM – 6:30 PM"
+    },
+    {
+        "context_index": 19,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 19,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 19,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 19,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The attraction does not have a price for two as it is a wildlife sanctuary."
+    },
+    {
+        "context_index": 19,
+        "question": "Describe the attraction in brief?",
+        "answer": "Bhagwan Mahavir Wildlife Sanctuary, previously known as Mollem Game Sanctuary, is Goa’s largest wildlife sanctuary encompassing the scenic Mollem National Park. It is renowned for its rich biodiversity and serene natural surroundings."
+    },
+    {
+        "context_index": 19,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 20,
+        "question": "What is the name of the attraction?",
+        "answer": "Bondla Wildlife Sanctuary"
+    },
+    {
+        "context_index": 20,
+        "question": "What is the location of the attraction?",
+        "answer": "Usgao-Ganjem VP, Goa 403105"
+    },
+    {
+        "context_index": 20,
+        "question": "What are the timings of the attraction?",
+        "answer": "9AM to 5PM (Monday closed)"
+    },
+    {
+        "context_index": 20,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 20,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 20,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 20,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The attraction does not have a price for two as it is a wildlife sanctuary."
+    },
+    {
+        "context_index": 20,
+        "question": "Describe the attraction in brief?",
+        "answer": "Bondla Wildlife Sanctuary is the smallest wildlife sanctuary in Goa, known for its diverse flora and fauna. It features a deer safari park, botanical gardens, and is popular among photography enthusiasts, children, and environmentalists."
+    },
+    {
+        "context_index": 20,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 21,
+        "question": "What is the name of the attraction?",
+        "answer": "Mapusa Market"
+    },
+    {
+        "context_index": 21,
+        "question": "What is the location of the attraction?",
+        "answer": "Mapusa Market Area, Panaji, Goa"
+    },
+    {
+        "context_index": 21,
+        "question": "What are the timings of the attraction?",
+        "answer": "6 AM – 8 PM"
+    },
+    {
+        "context_index": 21,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 21,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 21,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 21,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 21,
+        "question": "Describe the attraction in brief?",
+        "answer": "Mapusa Market is a famous shopping destination in Goa, known for its variety of stalls offering local goods, artifacts, clothes, accessories, and souvenirs. It is located just outside Mapusa Municipal Market."
+    },
+    {
+        "context_index": 21,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement (Shopping)"
+    },
+    {
+        "context_index": 22,
+        "question": "What is the name of the attraction?",
+        "answer": "Saturday Night Market"
+    },
+    {
+        "context_index": 22,
+        "question": "What is the location of the attraction?",
+        "answer": "Arpora, Goa"
+    },
+    {
+        "context_index": 22,
+        "question": "What are the timings of the attraction?",
+        "answer": "6 AM – 8 PM"
+    },
+    {
+        "context_index": 22,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 22,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 22,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 22,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 22,
+        "question": "Describe the attraction in brief?",
+        "answer": "Saturday Night Market in Arpora is a popular flea market known for its variety of items including spices, jewellery, unique creations, international designers, and vintage items. It hosts live concerts and is frequented by tourists and locals alike."
+    },
+    {
+        "context_index": 22,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement (Shopping)"
+    },
+
+    {
+        "context_index": 23,
+        "question": "What is the name of the attraction?",
+        "answer": "Anjuna Flea Market"
+    },
+    {
+        "context_index": 23,
+        "question": "What is the location of the attraction?",
+        "answer": "10, St Michael’s Vaddo South, Anjuna, Goa 403509"
+    },
+    {
+        "context_index": 23,
+        "question": "What are the timings of the attraction?",
+        "answer": "October to March: 08:00 AM – 12:00 AM & 12:00 AM – 01:00 AM"
+    },
+    {
+        "context_index": 23,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 23,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 23,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 23,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 23,
+        "question": "Describe the attraction in brief?",
+        "answer": "Anjuna Flea Market is a popular tourist attraction in Goa, open only on Wednesdays. It offers a wide range of items including fruits, clothes, accessories, and electronic devices. Known for its unique items and bargaining opportunities, it is a favourite hangout among hippies and backpackers."
+    },
+    {
+        "context_index": 23,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement (Shopping)"
+    },
+    {
+        "context_index": 24,
+        "question": "What is the name of the attraction?",
+        "answer": "Aguada Beach"
+    },
+    {
+        "context_index": 24,
+        "question": "What is the location of the attraction?",
+        "answer": "Fort Aguada Rd, Aguada Fort Area, Candolim, Goa 403515"
+    },
+    {
+        "context_index": 24,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 24,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 24,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 24,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 24,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 24,
+        "question": "Describe the attraction in brief?",
+        "answer": "Aguada Beach, located near Fort Aguada in Candolim, Goa, is famous for its pristine landscape and views of ancient citadels. It is a popular destination among honeymooners and offers stunning views from the nearby lighthouse."
+    },
+    {
+        "context_index": 24,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 25,
+        "question": "What is the name of the attraction?",
+        "answer": "Arambol Beach"
+    },
+    {
+        "context_index": 25,
+        "question": "What is the location of the attraction?",
+        "answer": "North Goa"
+    },
+    {
+        "context_index": 25,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 25,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 25,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 25,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 25,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 25,
+        "question": "Describe the attraction in brief?",
+        "answer": "Arambol Beach in North Goa is renowned for its Bohemian atmosphere, attracting long-term hippies and youthful backpackers. It offers a relaxed environment, peace, and tranquility, making it a favorite among vacationers."
+    },
+    {
+        "context_index": 25,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 26,
+        "question": "What is the name of the attraction?",
+        "answer": "Baga Beach"
+    },
+    {
+        "context_index": 26,
+        "question": "What is the location of the attraction?",
+        "answer": "Bardez, Goa"
+    },
+    {
+        "context_index": 26,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 26,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 26,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 26,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 26,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 26,
+        "question": "Describe the attraction in brief?",
+        "answer": "Baga Beach in Bardez, Goa, is a famous tourist spot known for its white sand and majestic waves. It offers activities like parasailing, banana boat rides, and sun-basking, making it popular among couples."
+    },
+    {
+        "context_index": 26,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 27,
+        "question": "What is the name of the attraction?",
+        "answer": "Anjuna Beach"
+    },
+    {
+        "context_index": 27,
+        "question": "What is the location of the attraction?",
+        "answer": "Anjuna, North Goa"
+    },
+    {
+        "context_index": 27,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 27,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 27,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 27,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 27,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 27,
+        "question": "Describe the attraction in brief?",
+        "answer": "Anjuna Beach in North Goa is famous for its full-moon parties, acid house parties, trance parties, and its association with hippie culture blending Eastern spiritual traditions with Western art and music."
+    },
+    {
+        "context_index": 27,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 28,
+        "question": "What is the name of the attraction?",
+        "answer": "Butterfly Beach"
+    },
+    {
+        "context_index": 28,
+        "question": "What is the location of the attraction?",
+        "answer": "Palolem, Goa"
+    },
+    {
+        "context_index": 28,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 28,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 28,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 28,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 28,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 28,
+        "question": "Describe the attraction in brief?",
+        "answer": "Butterfly Beach in Palolem, Goa, is known for its peace and isolation. It is one of the quietest and unexplored beaches in Goa, surrounded by rocks. Visitors can enjoy paddle boat rides to the beach and often spot dolphins along the way."
+    },
+    {
+        "context_index": 28,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 29,
+        "question": "What is the name of the attraction?",
+        "answer": "Calangute Beach"
+    },
+    {
+        "context_index": 29,
+        "question": "What is the location of the attraction?",
+        "answer": "Calangute, Goa"
+    },
+    {
+        "context_index": 29,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 29,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 29,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 29,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 29,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 29,
+        "question": "Describe the attraction in brief?",
+        "answer": "Calangute Beach, also known as the Queen of Beaches, is a popular destination in Goa known for attracting European tourists and hippies. It offers a variety of water sports like parasailing, water-skiing, and wind-surfing. The beach is famous for its vibrant nightlife, bustling flea markets, and historical significance."
+    },
+    {
+        "context_index": 29,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 30,
+        "question": "What is the name of the attraction?",
+        "answer": "Colva Beach"
+    },
+    {
+        "context_index": 30,
+        "question": "What is the location of the attraction?",
+        "answer": "Colva, Goa"
+    },
+    {
+        "context_index": 30,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 30,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 30,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 30,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 30,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 30,
+        "question": "Describe the attraction in brief?",
+        "answer": "Colva Beach is the largest and oldest beach in South Goa, known for its scenic beauty and vibrant atmosphere. It is a popular destination for couples and party lovers alike, offering pubs, bars, and a lively nightlife."
+    },
+    {
+        "context_index": 30,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
     }
+            
+    
+    
+    
+    
+    
+        
+    
+
+    
     
     
     
