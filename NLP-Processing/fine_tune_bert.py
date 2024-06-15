@@ -4,7 +4,6 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from transformers import AutoTokenizer, AutoModelForQuestionAnswering, Trainer, TrainingArguments, pipeline
 from datasets import Dataset, load_metric
-import torch
 import numpy as np
 
 # Download necessary NLTK resources
