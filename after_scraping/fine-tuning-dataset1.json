@@ -43,7 +43,7 @@
         "context_index": 0,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
-    }
+    },
 
     
     {
@@ -90,7 +90,7 @@
         "context_index": 1,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
-    }
+    },
     
     {
         "context_index": 2,
