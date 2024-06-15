@@ -1393,18 +1393,454 @@
         "context_index": 30,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Beach"
+    },
+    {
+        "context_index": 31,
+        "question": "What is the name of the attraction?",
+        "answer": "Cansaulim Beach"
+    },
+    {
+        "context_index": 31,
+        "question": "What is the location of the attraction?",
+        "answer": "Cansaulim, Goa"
+    },
+    {
+        "context_index": 31,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 31,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 31,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 31,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 31,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 31,
+        "question": "Describe the attraction in brief?",
+        "answer": "Cansaulim Beach is part of the second largest coastline stretch in India, along with Arossim and Cuelim. Known for its white sands and palm trees, it is a charming picnic spot and a must-visit for those seeking secluded beaches in Goa."
+    },
+    {
+        "context_index": 31,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 32,
+        "question": "What is the name of the attraction?",
+        "answer": "Benaulim Beach"
+    },
+    {
+        "context_index": 32,
+        "question": "What is the location of the attraction?",
+        "answer": "Cansaulim, Goa"
+    },
+    {
+        "context_index": 32,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 32,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 32,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 32,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 32,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 32,
+        "question": "Describe the attraction in brief?",
+        "answer": "Benaulim Beach, located near Colva Beach, is known for its water sports activities such as jet skiing, parasailing, and wind surfing. It offers options for romantic candlelit beach dinners and sightseeing opportunities including Sernabatim Lake and various local attractions."
+    },
+    {
+        "context_index": 32,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 33,
+        "question": "What is the name of the attraction?",
+        "answer": "Dona Paula Beach"
+    },
+    {
+        "context_index": 33,
+        "question": "What is the location of the attraction?",
+        "answer": "Dona Paula Beach"
+    },
+    {
+        "context_index": 33,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 33,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 33,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 33,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 33,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 33,
+        "question": "Describe the attraction in brief?",
+        "answer": "Dona Paula Beach is one of the popular tourist places in Goa known for its tragic history related to love and suicide. It offers thrilling water sports activities like water skiing, windsurfing, and parasailing. The nearby jetty provides stunning views of the Arabian Sea."
+    },
+    {
+        "context_index": 33,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 34,
+        "question": "What is the name of the attraction?",
+        "answer": "Ashvem Beach"
+    },
+    {
+        "context_index": 34,
+        "question": "What is the location of the attraction?",
+        "answer": "Ashvem Beach, Mandrem village, North Goa 403512"
+    },
+    {
+        "context_index": 34,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 34,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 34,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 34,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 34,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 34,
+        "question": "Describe the attraction in brief?",
+        "answer": "Ashvem Beach is located in Mandrem village, North Goa. It is known for its tall palm trees, extensive white sand, and secluded spots, making it perfect for relaxation. Visitors can enjoy lip-smacking seafood from beachside restaurants like La Cucina, S2 Beach Shack, Paradise Beach Shack, and Cafe Sea Green Back Shack."
+    },
+    {
+        "context_index": 34,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 35,
+        "question": "What is the name of the attraction?",
+        "answer": "Mobor Beach"
+    },
+    {
+        "context_index": 35,
+        "question": "What is the location of the attraction?",
+        "answer": "Mobor Beach, Goa"
+    },
+    {
+        "context_index": 35,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 35,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 35,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 35,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 35,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 35,
+        "question": "Describe the attraction in brief?",
+        "answer": "Mobor Beach is one of the most exotic beaches in South Goa, known for its cool surroundings, vibrant atmosphere with people dancing, and stunning views. It is often described as a piece of heaven."
+    },
+    {
+        "context_index": 35,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 36,
+        "question": "What is the name of the attraction?",
+        "answer": "Sinquerim Beach"
+    },
+    {
+        "context_index": 36,
+        "question": "What is the location of the attraction?",
+        "answer": "Sinquerim, Candolim, Goa 403515"
+    },
+    {
+        "context_index": 36,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 36,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 36,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 36,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 36,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 36,
+        "question": "Describe the attraction in brief?",
+        "answer": "Sinquerim Beach is known for its amazing shoreline, perfect views, and suitability for swimming and water activities. It is ideal for families and friends looking to enjoy a beach day."
+    },
+    {
+        "context_index": 36,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },{
+        "context_index": 37,
+        "question": "What is the name of the attraction?",
+        "answer": "Querim Beach"
+    },
+    {
+        "context_index": 37,
+        "question": "What is the location of the attraction?",
+        "answer": "Querim Beach, Goa 403519"
+    },
+    {
+        "context_index": 37,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 37,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 37,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 37,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 37,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 37,
+        "question": "Describe the attraction in brief?",
+        "answer": "Querim Beach, also known as Keri Beach, is the largest beach in the northern region of Goa. It is popular for its calm surroundings, unkempt crops, and pristine beaches. Visitors can enjoy water activities like surfing, paragliding, banana rides, and kayaking."
+    },
+    {
+        "context_index": 37,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 38,
+        "question": "What is the name of the attraction?",
+        "answer": "Chorao Island"
+    },
+    {
+        "context_index": 38,
+        "question": "What is the location of the attraction?",
+        "answer": "Near Panjim, Goa"
+    },
+    {
+        "context_index": 38,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 38,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 38,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 38,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 38,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 38,
+        "question": "Describe the attraction in brief?",
+        "answer": "Chorao Island, meaning 'Stunning Precious Stone' in Sanskrit, is Goa's largest island. Initially settled by Portuguese noblemen, it has evolved into a peaceful destination with churches and aged villas. Known for its tranquility, it is a top tourist place in Goa."
+    },
+    {
+        "context_index": 38,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 39,
+        "question": "What is the name of the attraction?",
+        "answer": "Divar Island"
+    },
+    {
+        "context_index": 39,
+        "question": "What is the location of the attraction?",
+        "answer": "Mandovi river, Goa"
+    },
+    {
+        "context_index": 39,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 39,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 39,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 39,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 39,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 39,
+        "question": "Describe the attraction in brief?",
+        "answer": "Divar Island is located in the Mandovi river in Goa and is known for its impeccable beauty and untouched by commercialization. It offers a glimpse of the Goan countryside with a small village charm. The Bonderam festival is a major attraction drawing tourists to the island."
+    },
+    {
+        "context_index": 39,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 40,
+        "question": "What is the name of the attraction?",
+        "answer": "Grand Island"
+    },
+    {
+        "context_index": 40,
+        "question": "What is the location of the attraction?",
+        "answer": "Sautavaddo, Calangute, Goa 403516"
+    },
+    {
+        "context_index": 40,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 40,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 40,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 40,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 40,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 40,
+        "question": "Describe the attraction in brief?",
+        "answer": "Grand Island in Goa lives up to its name by offering an offbeat and adventurous experience. It is renowned for excellent scuba diving sites like Suzy’s Wreck, Shelter Cove, and Bounty Bay. The island is a popular spot for watersports enthusiasts."
+    },
+    {
+        "context_index": 40,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
     }
-            
-    
-    
-    
-    
-    
-        
-    
-
-    
-    
-    
-    
 ]
