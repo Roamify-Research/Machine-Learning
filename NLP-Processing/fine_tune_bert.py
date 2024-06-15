@@ -165,7 +165,9 @@ for id, attraction_data in attractions.items():
         "entry_fee": "What is the entry fee of the attraction?",
         "built_in": "When was the attraction built?",
         "built_by": "Who built the attraction?",
-        "price_for_two": "What is the price for two at the attraction in INR?"
+        "price_for_two": "What is the price for two at the attraction in INR?",
+        "description": "Describe the attraction in brief?",
+        "type": "What type of attraction is it? (e.g. historical, natural, amusement, beach)"
     }
     answers = {}
     for key, question in questions.items():

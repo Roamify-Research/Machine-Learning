@@ -3,7 +3,7 @@ from nltk.corpus import stopwords
 import spacy
 import nltk
 from transformers import pipeline
-
+import json
 nltk.download('punkt')
 nltk.download('stopwords')
 
@@ -45,6 +45,9 @@ for index in range(len(sentences_processed)):
 
 write_file_secondary= open("../after_scraping/traveltriangle_after_secondary.txt", "w")
 write_file = open("../after_scraping/traveltriangle_after.txt", "w")
+
+json_data = {}
+context_id = 0
 for id, attraction_data in attractions.items():
     words = word_tokenize(attraction_data)
     words = [w for w in words if w != ":" and w != "-" and w.lower() != "image" and w.lower() != "credit" and w.lower() != "source"]
@@ -136,8 +139,13 @@ Description: {val['Description']}
 """)
     
     write_file_secondary.write(attraction_data + "\n\n")
+    json_data[str(context_id)] = attraction_data
+    context_id += 1
 
 
+
+with open("../after_scraping/fine-tuning-traveltriangle.json", "w") as f:
+    json.dump(json_data, f, indent=4)
 
 write_file.close()
 write_file_secondary.close()

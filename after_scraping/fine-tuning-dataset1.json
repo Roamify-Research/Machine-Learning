@@ -1,0 +1,684 @@
+[
+    {
+        "context_index": 0,
+        "question": "What is the name of the attraction?",
+        "answer": "Fort Aguada"
+    },
+    {
+        "context_index": 0,
+        "question": "What is the location of the attraction?",
+        "answer": "Fort Aguada Rd, Aguada Fort Area, Candolim, Goa 403515"
+    },
+    {
+        "context_index": 0,
+        "question": "What are the timings of the attraction?",
+        "answer": "9:00 AM – 6:30 PM all days of the week"
+    },
+    {
+        "context_index": 0,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 0,
+        "question": "When was the attraction built?",
+        "answer": "1609-1612"
+    },
+    {
+        "context_index": 0,
+        "question": "Who built the attraction?",
+        "answer": "The Portuguese"
+    },
+    {
+        "context_index": 0,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The fort does not have a price for two as it is a historical site"
+    },
+    {
+        "context_index": 0,
+        "question": "Describe the attraction in brief?",
+        "answer": "Fort Aguada is a beautiful fort with a strategic location at the estuary of the river Mandovi. It features a rampart of red-brown laterite and a jetty between two small sandy coves, known as Sinquerim Beach. The fort houses the Central Jail and a 19th-century lighthouse."
+    },
+    {
+        "context_index": 0,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    }
+
+    
+    {
+        "context_index": 1,
+        "question": "What is the name of the attraction?",
+        "answer": "Chapora Fort"
+    },
+    {
+        "context_index": 1,
+        "question": "What is the location of the attraction?",
+        "answer": "Chapora Fort Rd, Chapora, Goa"
+    },
+    {
+        "context_index": 1,
+        "question": "What are the timings of the attraction?",
+        "answer": "No specific timings mentioned"
+    },
+    {
+        "context_index": 1,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 1,
+        "question": "When was the attraction built?",
+        "answer": "No specific year mentioned"
+    },
+    {
+        "context_index": 1,
+        "question": "Who built the attraction?",
+        "answer": "Adil Shah of Bijapur"
+    },
+    {
+        "context_index": 1,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The fort does not have a price for two as it is a historical site"
+    },
+    {
+        "context_index": 1,
+        "question": "Describe the attraction in brief?",
+        "answer": "Chapora Fort is popular for its history and offers picturesque views of the Chapora river meeting the Arabian Sea. It gained fame after the Bollywood movie 'Dil Chahta Hai' was shot here. The fort provides sweeping views of all directions and is a prime sightseeing spot in Goa."
+    },
+    {
+        "context_index": 1,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    }
+    
+    {
+        "context_index": 2,
+        "question": "What is the name of the attraction?",
+        "answer": "Terekhol Fort"
+    },
+    {
+        "context_index": 2,
+        "question": "What is the location of the attraction?",
+        "answer": "Pernem Taluka, Tiracol, 403524"
+    },
+    {
+        "context_index": 2,
+        "question": "What are the timings of the attraction?",
+        "answer": "No specific timings mentioned"
+    },
+    {
+        "context_index": 2,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 2,
+        "question": "When was the attraction built?",
+        "answer": "17th century"
+    },
+    {
+        "context_index": 2,
+        "question": "Who built the attraction?",
+        "answer": "Raja of Sawantwadi Viceroy Pedro Miguel de Almeida"
+    },
+    {
+        "context_index": 2,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The fort does not have a price for two as it is a historical site"
+    },
+    {
+        "context_index": 2,
+        "question": "Describe the attraction in brief?",
+        "answer": "Terekhol Fort is situated on the Terekhol River, at the northern tip of Goa. It overlooks the Arabian Sea and offers captivating views of Tiracol River and Keri beach. The fort's courtyard houses the century-old church of St. Anthony. Formerly a fort, it has been converted into a hotel. It is one of the prime tourist places in Goa."
+    },
+    {
+        "context_index": 2,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 3,
+        "question": "What is the name of the attraction?",
+        "answer": "Reis Magos Fort"
+    },
+    {
+        "context_index": 3,
+        "question": "What is the location of the attraction?",
+        "answer": "Verem, Bardez, Goa"
+    },
+    {
+        "context_index": 3,
+        "question": "What are the timings of the attraction?",
+        "answer": "9:30 AM – 5 PM all days of the week"
+    },
+    {
+        "context_index": 3,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 3,
+        "question": "When was the attraction built?",
+        "answer": "1551"
+    },
+    {
+        "context_index": 3,
+        "question": "Who built the attraction?",
+        "answer": "Alfonso de Noronha"
+    },
+    {
+        "context_index": 3,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The fort does not have a price for two as it is a historical site"
+    },
+    {
+        "context_index": 3,
+        "question": "Describe the attraction in brief?",
+        "answer": "Reis Magos Fort, located in Verem, Bardez, Goa, was constructed in 1551 by Alfonso de Noronha, the Portuguese Viceroy. It served as a defensive fortification during the Portuguese-Maratha wars and was reconstructed in 1707. The fort overlooks the Mandovi River and is a significant historical site in Goa."
+    },
+    {
+        "context_index": 3,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 4,
+        "question": "What is the name of the attraction?",
+        "answer": "Cabo De Rama Fort"
+    },
+    {
+        "context_index": 4,
+        "question": "What is the location of the attraction?",
+        "answer": "Taluka Cabo da Rama, Canacona, Goa"
+    },
+    {
+        "context_index": 4,
+        "question": "What are the timings of the attraction?",
+        "answer": "9 AM - 5:30 PM all days of the week"
+    },
+    {
+        "context_index": 4,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 4,
+        "question": "When was the attraction built?",
+        "answer": "1763"
+    },
+    {
+        "context_index": 4,
+        "question": "Who built the attraction?",
+        "answer": "Portuguese"
+    },
+    {
+        "context_index": 4,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The fort does not have a price for two as it is a historical site"
+    },
+    {
+        "context_index": 4,
+        "question": "Describe the attraction in brief?",
+        "answer": "Cabo De Rama Fort, located in Taluka Cabo da Rama, Canacona, Goa, is known for its historical and mythological significance. It was reconstructed by the Portuguese in 1763 after they seized it from the Maratha King of Sonda. The fort offers scenic views of the Arabian Sea and is a popular tourist destination in South Goa."
+    },
+    {
+        "context_index": 4,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 5,
+        "question": "What is the name of the attraction?",
+        "answer": "Corjuem Fort"
+    },
+    {
+        "context_index": 5,
+        "question": "What is the location of the attraction?",
+        "answer": "Corjuem, North Goa"
+    },
+    {
+        "context_index": 5,
+        "question": "What are the timings of the attraction?",
+        "answer": "6:00 AM – 7 PM"
+    },
+    {
+        "context_index": 5,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 5,
+        "question": "When was the attraction built?",
+        "answer": "1705"
+    },
+    {
+        "context_index": 5,
+        "question": "Who built the attraction?",
+        "answer": "Portuguese"
+    },
+    {
+        "context_index": 5,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The fort does not have a price for two as it is a historical site"
+    },
+    {
+        "context_index": 5,
+        "question": "Describe the attraction in brief?",
+        "answer": "Corjuem Fort, located in Corjuem, North Goa, is one of the smaller forts in Goa offering excellent panoramic views of the surrounding beauties. Built by the Portuguese in 1705, it is a must-visit spot for architecture enthusiasts and history lovers."
+    },
+    {
+        "context_index": 5,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 6,
+        "question": "What is the name of the attraction?",
+        "answer": "Bom Jesus Basilica"
+    },
+    {
+        "context_index": 6,
+        "question": "What is the location of the attraction?",
+        "answer": "Old Goa Rd, Bainguinim, Goa 403402"
+    },
+    {
+        "context_index": 6,
+        "question": "What are the timings of the attraction?",
+        "answer": "Monday to Saturday 09:00 AM to 06:30 PM & Sunday 10:00 AM to 06:30 PM"
+    },
+    {
+        "context_index": 6,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 6,
+        "question": "When was the attraction built?",
+        "answer": "1609-1612"
+    },
+    {
+        "context_index": 6,
+        "question": "Who built the attraction?",
+        "answer": "Portuguese"
+    },
+    {
+        "context_index": 6,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The attraction does not have a price for two as it is a religious site."
+    },
+    {
+        "context_index": 6,
+        "question": "Describe the attraction in brief?",
+        "answer": "Bom Jesus Basilica in Goa is renowned for its Baroque architecture and fine basalt embellishments. Built by the Portuguese between 1609-1612, it stands as one of the best Goa tourist places offering tranquility and architectural splendor."
+    },
+    {
+        "context_index": 6,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 7,
+        "question": "What is the name of the attraction?",
+        "answer": "Se Cathedral"
+    },
+    {
+        "context_index": 7,
+        "question": "What is the location of the attraction?",
+        "answer": "Velha, Goa"
+    },
+    {
+        "context_index": 7,
+        "question": "What are the timings of the attraction?",
+        "answer": "7 AM – 6:30 PM"
+    },
+    {
+        "context_index": 7,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 7,
+        "question": "When was the attraction built?",
+        "answer": "1609-1612"
+    },
+    {
+        "context_index": 7,
+        "question": "Who built the attraction?",
+        "answer": "Julião Simão"
+    },
+    {
+        "context_index": 7,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The attraction does not have a price for two as it is a religious site."
+    },
+    {
+        "context_index": 7,
+        "question": "Describe the attraction in brief?",
+        "answer": "Se Cathedral in Goa is renowned as one of the largest Asian churches and a major Old Goa tourist place. Established facing the Basilica of Bom Jesus, it is a UNESCO World Heritage Site dedicated to St Catherine, serving as the Archdiocese’s seat in Goa."
+    },
+    {
+        "context_index": 7,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 8,
+        "question": "What is the name of the attraction?",
+        "answer": "Church Of St Francis Of Assisi"
+    },
+    {
+        "context_index": 8,
+        "question": "What is the location of the attraction?",
+        "answer": "Off National Highway 4, Goa Velha, Goa"
+    },
+    {
+        "context_index": 8,
+        "question": "What are the timings of the attraction?",
+        "answer": "7 AM – 6:30 PM"
+    },
+    {
+        "context_index": 8,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 8,
+        "question": "When was the attraction built?",
+        "answer": "1661"
+    },
+    {
+        "context_index": 8,
+        "question": "Who built the attraction?",
+        "answer": "Portuguese"
+    },
+    {
+        "context_index": 8,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The attraction does not have a price for two as it is a religious site."
+    },
+    {
+        "context_index": 8,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Church Of St Francis Of Assisi in Panjim, Goa, is one of the oldest and most elaborately designed churches in India. It features a statue of Mother Mary and preserves the world’s 2nd largest bell, making it a famous place to visit in Goa."
+    },
+    {
+        "context_index": 8,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 9,
+        "question": "What is the name of the attraction?",
+        "answer": "Church Of St Cajetan"
+    },
+    {
+        "context_index": 9,
+        "question": "What is the location of the attraction?",
+        "answer": "Old Goa Rd, Bainguinim, Goa 403402"
+    },
+    {
+        "context_index": 9,
+        "question": "What are the timings of the attraction?",
+        "answer": "7 AM – 6:30 PM"
+    },
+    {
+        "context_index": 9,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 9,
+        "question": "When was the attraction built?",
+        "answer": "1661"
+    },
+    {
+        "context_index": 9,
+        "question": "Who built the attraction?",
+        "answer": "Portuguese"
+    },
+    {
+        "context_index": 9,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "The attraction does not have a price for two as it is a religious site."
+    },
+    {
+        "context_index": 9,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Church Of St Cajetan in Old Goa is a charming Roman Catholic church completed in 1661. It is also known as the Church of Divine Providence and is a UNESCO World Heritage Site. The stunning white structure with a large dome and Latin inscriptions on its walls is designed in the shape of a Greek cross."
+    },
+    {
+        "context_index": 9,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 10,
+        "question": "What is the name of the attraction?",
+        "answer": "Thalassa Restaurant"
+    },
+    {
+        "context_index": 10,
+        "question": "What is the location of the attraction?",
+        "answer": "Plot No 301, 1, Vaddy, Siolim, Goa 403517"
+    },
+    {
+        "context_index": 10,
+        "question": "What are the timings of the attraction?",
+        "answer": "10:00 AM – 11:30 PM all days of the week"
+    },
+    {
+        "context_index": 10,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 10,
+        "question": "When was the attraction built?",
+        "answer": "Thalassa Restaurant is not an ancient monument, so there is no specific construction date."
+    },
+    {
+        "context_index": 10,
+        "question": "Who built the attraction?",
+        "answer": "Thalassa Restaurant is a modern establishment, not built by historical figures."
+    },
+    {
+        "context_index": 10,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "INR 2000"
+    },
+    {
+        "context_index": 10,
+        "question": "Describe the attraction in brief?",
+        "answer": "Thalassa Restaurant in Siolim, Goa, is renowned among Goa tourists for its stunning sunset views. Located at Plot No 301, 1, Vaddy, it offers an expansive sea view from outdoor seating. The restaurant operates from 10:00 AM to 11:30 PM daily, providing a delightful culinary experience with a price for two set at INR 2000."
+    },
+    {
+        "context_index": 10,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement (Restaurant)"
+    },
+    {
+        "context_index": 11,
+        "question": "What is the name of the attraction?",
+        "answer": "The Fisherman's Wharf"
+    },
+    {
+        "context_index": 11,
+        "question": "What is the location of the attraction?",
+        "answer": "Behind The Leela, Mobor, Cavelossim, Goa"
+    },
+    {
+        "context_index": 11,
+        "question": "What are the timings of the attraction?",
+        "answer": "9:00 AM – 6:30 PM all days of the week"
+    },
+    {
+        "context_index": 11,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 11,
+        "question": "When was the attraction built?",
+        "answer": "The Fisherman's Wharf is not an ancient monument, so there is no specific construction date."
+    },
+    {
+        "context_index": 11,
+        "question": "Who built the attraction?",
+        "answer": "The Fisherman's Wharf is a modern establishment, not built by historical figures."
+    },
+    {
+        "context_index": 11,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "INR 1500"
+    },
+    {
+        "context_index": 11,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Fisherman's Wharf in Cavelossim, Goa, is a popular spot for seafood lovers with its ship-like decor and delectable dishes like tandoori pomfret, masala fried prawns, and fish curry rice. Live performances during lunch add to the vibrant atmosphere, complemented by scenic backwater views. Open daily from 9:00 AM to 6:30 PM, it offers an enjoyable dining experience with a price for two set at INR 1500."
+    },
+    {
+        "context_index": 11,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement (Restaurant)"
+    },
+    {
+        "context_index": 12,
+        "question": "What is the name of the attraction?",
+        "answer": "Anteras, Vagator"
+    },
+    {
+        "context_index": 12,
+        "question": "What is the location of the attraction?",
+        "answer": "Small Vagator Beach, Ozran, Vagator, Goa"
+    },
+    {
+        "context_index": 12,
+        "question": "What are the timings of the attraction?",
+        "answer": "9:00 AM – 6:30 PM all days of the week"
+    },
+    {
+        "context_index": 12,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 12,
+        "question": "When was the attraction built?",
+        "answer": "Anteras, Vagator is not an ancient monument, so there is no specific construction date."
+    },
+    {
+        "context_index": 12,
+        "question": "Who built the attraction?",
+        "answer": "Anteras, Vagator is a modern establishment, not built by historical figures."
+    },
+    {
+        "context_index": 12,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "INR 2000"
+    },
+    {
+        "context_index": 12,
+        "question": "Describe the attraction in brief?",
+        "answer": "Anteras in Vagator, Goa, offers a sun-kissed dining experience with stunning views of Small Vagator Beach. Known for its authentic delicacies, the restaurant promises a memorable culinary journey with dishes prepared with creativity and dedication. Open daily from 9:00 AM to 6:30 PM, it's a perfect spot to enjoy a relaxed meal with a price for two set at INR 2000."
+    },
+    {
+        "context_index": 12,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement (Restaurant)"
+    },
+    {
+        "context_index": 13,
+        "question": "What is the name of the attraction?",
+        "answer": "Tito’s Club"
+    },
+    {
+        "context_index": 13,
+        "question": "What is the location of the attraction?",
+        "answer": "Titos Ln, Near Baga Beach, Saunta Vaddo, Calangute, Goa"
+    },
+    {
+        "context_index": 13,
+        "question": "What are the timings of the attraction?",
+        "answer": "6 PM – 3 AM"
+    },
+    {
+        "context_index": 13,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee information available"
+    },
+    {
+        "context_index": 13,
+        "question": "When was the attraction built?",
+        "answer": "Tito’s Club is a modern nightclub, so there is no specific construction date."
+    },
+    {
+        "context_index": 13,
+        "question": "Who built the attraction?",
+        "answer": "Tito’s Club is a commercial establishment and not built by historical figures."
+    },
+    {
+        "context_index": 13,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "INR 3,000"
+    },
+    {
+        "context_index": 13,
+        "question": "Describe the attraction in brief?",
+        "answer": "Tito’s Club, located near Baga Beach in Calangute, Goa, is renowned for hosting celebrity DJs and offering a vibrant nightlife experience. It features a large dance floor, special acts, dance performances, and skilled bartenders known for their fire acts and bar flaring. The club operates from 6 PM to 3 AM and has been awarded the Times Nightlife Award for the Best Nightclub in Goa."
+    },
+    {
+        "context_index": 13,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement (Nightclub)"
+    },
+    {
+        "context_index": 14,
+        "question": "What is the name of the attraction?",
+        "answer": "Mambo’s"
+    },
+    {
+        "context_index": 14,
+        "question": "What is the location of the attraction?",
+        "answer": "Titos Lane, Baga Beach, Goa, 403516"
+    },
+    {
+        "context_index": 14,
+        "question": "What are the timings of the attraction?",
+        "answer": "6 PM – 4 AM"
+    },
+    {
+        "context_index": 14,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee information available"
+    },
+    {
+        "context_index": 14,
+        "question": "When was the attraction built?",
+        "answer": "Mambo’s is a modern nightclub, so there is no specific construction date."
+    },
+    {
+        "context_index": 14,
+        "question": "Who built the attraction?",
+        "answer": "Mambo’s is a commercial establishment and not built by historical figures."
+    },
+    {
+        "context_index": 14,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "INR 3,000"
+    },
+    {
+        "context_index": 14,
+        "question": "Describe the attraction in brief?",
+        "answer": "Mambo’s, located on Titos Lane near Baga Beach in Goa, is renowned for its lively atmosphere and vibrant party scene. It opens from 6 PM to 4 AM and hosts both in-house DJs and international DJs, playing a variety of music genres. Mambo’s is famous for its themed nights, including retro music and trance nights, and is a popular venue for festivals in Goa."
+    },
+    {
+        "context_index": 14,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement (Nightclub)"
+    }
+    
+    
+    
+]
