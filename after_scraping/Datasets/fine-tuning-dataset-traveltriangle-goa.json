@@ -1842,5 +1842,634 @@
         "context_index": 40,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Natural"
-    }
+    },
+    {
+        "context_index": 41,
+        "question": "What is the name of the attraction?",
+        "answer": "Archives Museum"
+    },
+    {
+        "context_index": 41,
+        "question": "What is the location of the attraction?",
+        "answer": "Ourem Road, Rua de Ourém, Mala, Panaji, Goa"
+    },
+    {
+        "context_index": 41,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 41,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 41,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 41,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 41,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 41,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Archives Museum, housed in a new building at Patto Plaza near the Ourem Creek, Panaji, is one of the best tourist places to visit in Goa. It features over eight thousand interesting artifacts, making it a top place to see in Goa."
+    },
+    {
+        "context_index": 41,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 42,
+        "question": "What is the name of the attraction?",
+        "answer": "Panaji"
+    },
+    {
+        "context_index": 42,
+        "question": "What is the location of the attraction?",
+        "answer": "North Goa"
+    },
+    {
+        "context_index": 42,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 42,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 42,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 42,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 42,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 42,
+        "question": "Describe the attraction in brief?",
+        "answer": "Panaji, the capital city of Goa, is located on the southern left bank of the Mandovi River. It's best explored on foot, offering old-world lanes, heritage houses, and a vibrant market. A boat cruise on the Mandovi River at night is a must-have experience."
+    },
+    {
+        "context_index": 42,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement (City)"
+    },
+    {
+        "context_index": 43,
+        "question": "What is the name of the attraction?",
+        "answer": "Dudhsagar Waterfalls"
+    },
+    {
+        "context_index": 43,
+        "question": "What is the location of the attraction?",
+        "answer": "Sonaulim, Goa 403410"
+    },
+    {
+        "context_index": 43,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 43,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 43,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 43,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 43,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 43,
+        "question": "Describe the attraction in brief?",
+        "answer": "Dudhsagar Waterfalls is one of the tallest waterfalls in India, with a height of 1017 feet and an average width of 100 feet at the peak. Located in Bhagwan Mahavir Sanctuary near the Goa-Karnataka border, it is a popular spot for family picnics and refreshing escapes."
+    },
+    {
+        "context_index": 43,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 44,
+        "question": "What is the name of the attraction?",
+        "answer": "Shri Mangeshi Temple"
+    },
+    {
+        "context_index": 44,
+        "question": "What is the location of the attraction?",
+        "answer": "Dinanath Mangeshkar Rd, Mangeshi Village, Mardol, Goa 403401"
+    },
+    {
+        "context_index": 44,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 44,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 44,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 44,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 44,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 44,
+        "question": "Describe the attraction in brief?",
+        "answer": "Shri Mangeshi Temple is one of the most prominent and largest Hindu shrines in Goa. It is a major pilgrimage site and is considered one of the must-visit places in Goa."
+    },
+    {
+        "context_index": 44,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical (Religious)"
+    },
+    {
+        "context_index": 45,
+        "question": "What is the name of the attraction?",
+        "answer": "Shri Shantadurga Temple"
+    },
+    {
+        "context_index": 45,
+        "question": "What is the location of the attraction?",
+        "answer": "Kapileswari – Kavlem Rd, Donshiwado, Ponda, Goa 403401"
+    },
+    {
+        "context_index": 45,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 45,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 45,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 45,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 45,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 45,
+        "question": "Describe the attraction in brief?",
+        "answer": "Shri Shantadurga Temple is one of the biggest and most frequented temples in Goa, devoted to Shantadurga, the Goddess of Peace. It is a prominent location in North Goa and popular among locals."
+    },
+    {
+        "context_index": 45,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical (Religious)"
+    },
+    {
+        "context_index": 46,
+        "question": "What is the name of the attraction?",
+        "answer": "Shri Mahalaxmi Temple"
+    },
+    {
+        "context_index": 46,
+        "question": "What is the location of the attraction?",
+        "answer": "Mushtifund Saunthan Panaji, Dada Vaidhya Road, Panaji, Goa 403001"
+    },
+    {
+        "context_index": 46,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 46,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 46,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 46,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 46,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 46,
+        "question": "Describe the attraction in brief?",
+        "answer": "Shri Mahalaxmi Temple, located in Bandora Village, is devoted to Mahalaxmi, the consort of Lord Vishnu. The temple is notable for the idol of Devi depicted with a linga on her head, and it attracts pilgrims throughout the year."
+    },
+    {
+        "context_index": 46,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical (Religious)"
+    },
+    {
+        "context_index": 47,
+        "question": "What is the name of the attraction?",
+        "answer": "Candolim Beach"
+    },
+    {
+        "context_index": 47,
+        "question": "What is the location of the attraction?",
+        "answer": "Calangute Beach, Goa"
+    },
+    {
+        "context_index": 47,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 47,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 47,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 47,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 47,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 47,
+        "question": "Describe the attraction in brief?",
+        "answer": "Candolim Beach is a hub for adventure enthusiasts, offering a variety of water sports. Visitors can rent scooters to explore nearby attractions like Fort Aguada, or simply relax and enjoy the stunning views of sunsets and sunrises."
+    },
+    {
+        "context_index": 47,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 48,
+        "question": "What is the name of the attraction?",
+        "answer": "Tito’s Street"
+    },
+    {
+        "context_index": 48,
+        "question": "What is the location of the attraction?",
+        "answer": "Titos Ln, Baga, Goa"
+    },
+    {
+        "context_index": 48,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 48,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 48,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 48,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 48,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 48,
+        "question": "Describe the attraction in brief?",
+        "answer": "Tito's Street is renowned for its vibrant nightlife, housing some of the most electrifying clubs in Goa. It offers a prime location for party enthusiasts, delicious food, and shopping opportunities."
+    },
+    {
+        "context_index": 48,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement (Nightlife)"
+    },
+    {
+        "context_index": 49,
+        "question": "What is the name of the attraction?",
+        "answer": "Palolem Beach"
+    },
+    {
+        "context_index": 49,
+        "question": "What is the location of the attraction?",
+        "answer": "Market town of Chaudi in South Goa"
+    },
+    {
+        "context_index": 49,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 49,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 49,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 49,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 49,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 49,
+        "question": "Describe the attraction in brief?",
+        "answer": "Palolem Beach is one of the most beautiful beaches in Goa, known for its mesmerizing views. It gets lively during the day with hawkers offering delicious seafood and decorative items, making it a significant tourist attraction."
+    },
+    {
+        "context_index": 49,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    {
+        "context_index": 50,
+        "question": "What is the name of the attraction?",
+        "answer": "Casino Cruise"
+    },
+    {
+        "context_index": 50,
+        "question": "What is the location of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 50,
+        "question": "What are the timings of the attraction?",
+        "answer": "9 pm to 3 am"
+    },
+    {
+        "context_index": 50,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 50,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 50,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 50,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 50,
+        "question": "Describe the attraction in brief?",
+        "answer": "Casino Cruise in Goa offers a luxurious Vegas-like experience with posh furnishings and spellbinding river views. It hosts DJ nights from 9 pm to 3 am, making it a must-visit for a thrilling vacation."
+    },
+    {
+        "context_index": 50,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement"
+    },
+    {
+        "context_index": 51,
+        "question": "What is the name of the attraction?",
+        "answer": "The Church Of Our Lady Of Immaculate Conception"
+    },
+    {
+        "context_index": 51,
+        "question": "What is the location of the attraction?",
+        "answer": "Rua Emídio Garcia, Altinho, Panaji, Goa 403001"
+    },
+    {
+        "context_index": 51,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 51,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 51,
+        "question": "When was the attraction built?",
+        "answer": "Established as a chapel in 1541; larger building constructed in 1619"
+    },
+    {
+        "context_index": 51,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 51,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 51,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Church Of Our Lady Of Immaculate Conception is one of the most visited churches in Goa, known for its beautiful architecture and multicolored interior. It has been a significant landmark since its establishment, offering peace and delight to visitors."
+    },
+    {
+        "context_index": 51,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical (Religious)"
+    },
+    {
+        "context_index": 52,
+        "question": "What is the name of the attraction?",
+        "answer": "Club Cubana"
+    },
+    {
+        "context_index": 52,
+        "question": "What is the location of the attraction?",
+        "answer": "Aguada – Siolim Rd, Arpora, Goa 403507"
+    },
+    {
+        "context_index": 52,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 52,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 52,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 52,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 52,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 52,
+        "question": "Describe the attraction in brief?",
+        "answer": "Club Cubana is one of the most popular nightclubs in Goa, known for its dazzling ambiance and amazing nightlife experiences. It is famously called the 'Nightclub in the Sky' and offers electrifying parties that attract party animals from all over."
+    },
+    {
+        "context_index": 52,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement (Nightclub)"
+    },
+    {
+        "context_index": 53,
+        "question": "What is the name of the attraction?",
+        "answer": "Lamgau Caves"
+    },
+    {
+        "context_index": 53,
+        "question": "What is the location of the attraction?",
+        "answer": "Bicholim, North Goa"
+    },
+    {
+        "context_index": 53,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 53,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 53,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 53,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 53,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 53,
+        "question": "Describe the attraction in brief?",
+        "answer": "Lamgau Caves are interesting man-made caves located in Bicholim, North Goa. They are significant for the Hindu community and serve as both a tourist destination and a cultural site."
+    },
+    {
+        "context_index": 53,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical and Cultural"
+    },{
+        "context_index": 54,
+        "question": "What is the name of the attraction?",
+        "answer": "Arvalem Waterfall"
+    },
+    {
+        "context_index": 54,
+        "question": "What is the location of the attraction?",
+        "answer": "Mapusa, North Goa"
+    },
+    {
+        "context_index": 54,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 54,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 54,
+        "question": "When was the attraction built?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 54,
+        "question": "Who built the attraction?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 54,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not applicable"
+    },
+    {
+        "context_index": 54,
+        "question": "Describe the attraction in brief?",
+        "answer": "Arvalem Waterfall in Mapusa, North Goa, is a well-known scenic waterfall. It is particularly stunning during the monsoon months and offers a splendid sight. Visitors can enjoy various activities nearby and access is convenient from Panaji."
+    },
+    {
+        "context_index": 54,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    }    
 ]
