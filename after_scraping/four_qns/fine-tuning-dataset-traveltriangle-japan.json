@@ -2,7 +2,7 @@
     {
         "context_index": 0,
         "question": "What is the name of the attraction?",
-        "answer": "Tokyo – Essence Of Japan"
+        "answer": "Tokyo"
     },
     {
         "context_index": 0,
@@ -23,7 +23,7 @@
     {
         "context_index": 1,
         "question": "What is the name of the attraction?",
-        "answer": "Kyoto – Sacred And Serene"
+        "answer": "Kyoto"
     },
     {
         "context_index": 1,
@@ -43,7 +43,7 @@
     {
         "context_index": 2,
         "question": "What is the name of the attraction?",
-        "answer": "Nara – City Of Culture"
+        "answer": "Nara"
     },
     {
         "context_index": 2,
@@ -64,7 +64,7 @@
     {
         "context_index": 3,
         "question": "What is the name of the attraction?",
-        "answer": "Mt Fuji – A Breathtaking Marvel"
+        "answer": "Mt Fuji"
     },
     {
         "context_index": 3,
@@ -85,7 +85,7 @@
     {
         "context_index": 4,
         "question": "What is the name of the attraction?",
-        "answer": "Hokkaido – Closer To Nature"
+        "answer": "Hokkaido"
     },
     {
         "context_index": 4,
@@ -106,7 +106,7 @@
     {
         "context_index": 5,
         "question": "What is the name of the attraction?",
-        "answer": "Ishigaki – Exotic Destination"
+        "answer": "Ishigaki"
     },
     {
         "context_index": 5,
@@ -127,7 +127,7 @@
     {
         "context_index": 6,
         "question": "What is the name of the attraction?",
-        "answer": "Hiroshima – Historically Significant City"
+        "answer": "Hiroshima"
     },
     {
         "context_index": 6,
@@ -148,7 +148,7 @@
     {
         "context_index": 7,
         "question": "What is the name of the attraction?",
-        "answer": "Sapporo – Forget The Heat And Humidity"
+        "answer": "Sapporo"
     },
     {
         "context_index": 7,
@@ -169,7 +169,7 @@
     {
         "context_index": 8,
         "question": "What is the name of the attraction?",
-        "answer": "Osaka – A Cultural Delight"
+        "answer": "Osaka"
     },
     {
         "context_index": 8,
@@ -190,7 +190,7 @@
     {
         "context_index": 9,
         "question": "What is the name of the attraction?",
-        "answer": "Yakushima – Naturally Gifted"
+        "answer": "Yakushima"
     },
     {
         "context_index": 9,
@@ -211,7 +211,7 @@
     {
         "context_index": 10,
         "question": "What is the name of the attraction?",
-        "answer": "Hakuba – For Adventurous Activities"
+        "answer": "Hakuba"
     },
     {
         "context_index": 10,
@@ -231,7 +231,7 @@
     {
         "context_index": 11,
         "question": "What is the name of the attraction?",
-        "answer": "Kamakura – Where The Buddha Resides"
+        "answer": "Kamakura"
     },
     {
         "context_index": 11,
@@ -252,7 +252,7 @@
     {
         "context_index": 12,
         "question": "What is the name of the attraction?",
-        "answer": "Nagano – Great For Family"
+        "answer": "Nagano"
     },
     {
         "context_index": 12,
@@ -273,7 +273,7 @@
     {
         "context_index": 13,
         "question": "What is the name of the attraction?",
-        "answer": "Kawaguchi – Beautiful Landscapes"
+        "answer": "Kawaguchi"
     },
     {
         "context_index": 13,
@@ -294,7 +294,7 @@
     {
         "context_index": 14,
         "question": "What is the name of the attraction?",
-        "answer": "Takayama – Away From City Life"
+        "answer": "Takayama"
     },
     {
         "context_index": 14,
@@ -315,7 +315,7 @@
     {
         "context_index": 15,
         "question": "What is the name of the attraction?",
-        "answer": "Shibuya – A Bustling City"
+        "answer": "Shibuya"
     },
     {
         "context_index": 15,
@@ -336,7 +336,7 @@
     {
         "context_index": 16,
         "question": "What is the name of the attraction?",
-        "answer": "Naoshima – Lush-Green Island"
+        "answer": "Naoshima"
     },
     {
         "context_index": 16,
@@ -357,7 +357,7 @@
     {
         "context_index": 17,
         "question": "What is the name of the attraction?",
-        "answer": "Asakusa – For Parties And More"
+        "answer": "Asakusa"
     },
     {
         "context_index": 17,
@@ -378,7 +378,7 @@
     {
         "context_index": 18,
         "question": "What is the name of the attraction?",
-        "answer": "Akihabara – Perfect City Life"
+        "answer": "Akihabara"
     },
     {
         "context_index": 18,
@@ -399,7 +399,7 @@
     {
         "context_index": 19,
         "question": "What is the name of the attraction?",
-        "answer": "Odaiba – For A Rejuvenating Experience"
+        "answer": "Odaiba"
     },
     {
         "context_index": 19,
@@ -420,7 +420,7 @@
     {
         "context_index": 20,
         "question": "What is the name of the attraction?",
-        "answer": "Kabukicho – Nightclubs And More"
+        "answer": "Kabukicho"
     },
     {
         "context_index": 20,
@@ -440,7 +440,7 @@
     {
         "context_index": 21,
         "question": "What is the name of the attraction?",
-        "answer": "Ueno Park – For A Breath Of Fresh Air"
+        "answer": "Ueno Park"
     },
     {
         "context_index": 21,
@@ -461,7 +461,7 @@
     {
         "context_index": 22,
         "question": "What is the name of the attraction?",
-        "answer": "Yokohama – Charming And Vibrant"
+        "answer": "Yokohama"
     },
     {
         "context_index": 22,
@@ -482,7 +482,7 @@
     {
         "context_index": 23,
         "question": "What is the name of the attraction?",
-        "answer": "Nikko – Historically Rich"
+        "answer": "Nikko"
     },
     {
         "context_index": 23,
@@ -503,7 +503,7 @@
     {
         "context_index": 24,
         "question": "What is the name of the attraction?",
-        "answer": "Tohoku – Relax In Nature"
+        "answer": "Tohoku"
     },
     {
         "context_index": 24,
@@ -524,7 +524,7 @@
     {
         "context_index": 25,
         "question": "What is the name of the attraction?",
-        "answer": "Kawagoe – Revisit The History"
+        "answer": "Kawagoe"
     },
     {
         "context_index": 25,
@@ -545,7 +545,7 @@
     {
         "context_index": 26,
         "question": "What is the name of the attraction?",
-        "answer": "Nagoya – Traditionally Beautiful"
+        "answer": "Nagoya"
     },
     {
         "context_index": 26,
@@ -566,7 +566,7 @@
     {
         "context_index": 27,
         "question": "What is the name of the attraction?",
-        "answer": "Kanazawa – For Food Culture"
+        "answer": "Kanazawa"
     },
     {
         "context_index": 27,
@@ -587,7 +587,7 @@
     {
         "context_index": 28,
         "question": "What is the name of the attraction?",
-        "answer": "Shirakawago – A Surreal Place"
+        "answer": "Shirakawago"
     },
     {
         "context_index": 28,
@@ -608,7 +608,7 @@
     {
         "context_index": 29,
         "question": "What is the name of the attraction?",
-        "answer": "Shikoku – Where Serenity Welcomes You"
+        "answer": "Shikoku"
     },
     {
         "context_index": 29,
@@ -629,7 +629,7 @@
     {
         "context_index": 30,
         "question": "What is the name of the attraction?",
-        "answer": "Nagasaki – A City With Sad History"
+        "answer": "Nagasaki"
     },
     {
         "context_index": 30,
@@ -649,7 +649,7 @@
     {
         "context_index": 31,
         "question": "What is the name of the attraction?",
-        "answer": "Kobe – Surprisingly Attractive"
+        "answer": "Kobe"
     },
     {
         "context_index": 31,
@@ -670,7 +670,7 @@
     {
         "context_index": 32,
         "question": "What is the name of the attraction?",
-        "answer": "Fukuoka – Japan’s Oldest City"
+        "answer": "Fukuoka"
     },
     {
         "context_index": 32,
@@ -691,7 +691,7 @@
     {
         "context_index": 33,
         "question": "What is the name of the attraction?",
-        "answer": "Hitsujiyama Park – For An Enormous Sight"
+        "answer": "Hitsujiyama Park"
     },
     {
         "context_index": 33,
@@ -712,7 +712,7 @@
     {
         "context_index": 34,
         "question": "What is the name of the attraction?",
-        "answer": "Hakone – Views Of Mount Fuji"
+        "answer": "Hakone"
     },
     {
         "context_index": 34,
