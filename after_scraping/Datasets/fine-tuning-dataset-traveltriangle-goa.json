@@ -44,8 +44,6 @@
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
     },
-
-    
     {
         "context_index": 1,
         "question": "What is the name of the attraction?",
@@ -91,7 +89,6 @@
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
     },
-    
     {
         "context_index": 2,
         "question": "What is the name of the attraction?",
@@ -452,7 +449,6 @@
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
     },
-    
     {
         "context_index": 10,
         "question": "What is the name of the attraction?",
@@ -1033,7 +1029,6 @@
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Amusement (Shopping)"
     },
-
     {
         "context_index": 23,
         "question": "What is the name of the attraction?",
