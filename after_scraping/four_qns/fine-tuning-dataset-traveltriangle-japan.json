@@ -1,0 +1,440 @@
+[
+    {
+        "context_index": 0,
+        "question": "What is the name of the attraction?",
+        "answer": "Tokyo – Essence Of Japan"
+    },
+    {
+        "context_index": 0,
+        "question": "What is the location of the attraction?",
+        "answer": "Tokyo, Japan"
+    },
+    {
+        "context_index": 0,
+        "question": "Describe the attraction in detail.",
+        "answer": "Tokyo is the city that reflects the colors of Japan. It boasts endless attractions and is known for its anime culture and world-class sites. Popular attractions include Tokyo Disneyland, Tokyo Skytree, and Tokyo DisneySea. Visitors can spend an evening near the Tokyo Tower, shop in Odaiba, or witness the grandeur of the Meiji Shrine. Tokyo also has a great culinary scene with notable places to eat like Tapas Molecular Bar, Ise Sueyoshi, and Sometarō. Accommodations include Guest House Trace, Manga Art Hotel, and Khaosan Tokyo Samurai. The city is well-connected by airways, with many airlines connecting to Narita Airport."
+    },
+    {
+        "context_index": 0,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement"
+    },
+    
+    {
+        "context_index": 1,
+        "question": "What is the name of the attraction?",
+        "answer": "Kyoto – Sacred And Serene"
+    },
+    {
+        "context_index": 1,
+        "question": "What is the location of the attraction?",
+        "answer": "Kyoto, Japan"
+    },
+    {
+        "context_index": 1,
+        "question": "Describe the attraction in detail.",
+        "answer": "Kyoto is known as the city of shrines, gardens, and palaces. It is one of the best places to visit in Japan in spring, whether you are holidaying with family or a partner. The city is home to iconic temples, shrines, palaces, gardens, and bamboo forests. Top attractions include Kyoto Imperial Palace, Philosopher’s Walk, and Fushimi-Inari Taisha Shrine. Visitors can also explore the Kiyomizu Temple, Nijo Castle, and Kinkaku-ji. Accommodations in Kyoto include Village Kyoto, Downtown Inn Kyoto, and Santiago Guesthouse Kyoto. Notable places to eat are Samurai Juku, Sugarhill Kyoto, and Saishuan Shiraki. The closest airport is Osaka International Airport, approximately 1 hour from the city."
+    },
+    {
+        "context_index": 1,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical, Natural"
+    },
+    {
+        "context_index": 2,
+        "question": "What is the name of the attraction?",
+        "answer": "Nara – City Of Culture"
+    },
+    {
+        "context_index": 2,
+        "question": "What is the location of the attraction?",
+        "answer": "Nara, Japan"
+    },
+    {
+        "context_index": 2,
+        "question": "Describe the attraction in detail.",
+        "answer": "Home to adorable deers, temples, shrines, monasteries, museums, and the famous Nara Park, Nara is where you need to be to get familiarized with the famed Japanese culture and traditions. Top attractions include Nara Park, Kasuga-taisha, and the Ninja Museum of Igaryu. Visitors can visit the Isuien Garden, befriend the deers at the Nara-koen Park, and explore the Nara National Museum. Accommodations include Smile Hotel Nara, Super Hotel Lohas JR Nara Eki, and Guesthouse Nara Komachi. Notable places to eat are Kameya, Kura, and Tonkatsu Ganko Nara. Kansai International Airport is the closest airport to Nara, approximately 1.5 hours away."
+    },
+    {
+        "context_index": 2,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical, Natural"
+    },
+    
+    {
+        "context_index": 3,
+        "question": "What is the name of the attraction?",
+        "answer": "Mt Fuji – A Breathtaking Marvel"
+    },
+    {
+        "context_index": 3,
+        "question": "What is the location of the attraction?",
+        "answer": "Mt Fuji, Japan"
+    },
+    {
+        "context_index": 3,
+        "question": "Describe the attraction in detail.",
+        "answer": "Renowned for offering the most thrilling experiences in Japan, Mt Fuji is a paradise for adventure seekers. The official climbing season is from July to September, but the beauty can be witnessed from a distance throughout the year. Top attractions include Mount Tenjo, Chureito Pagoda, and Fujiyoshida Sengen Shrine. Visitors can go skiing, visit Arakurayama Sengen Park, and enjoy views from the Subashiri 5th Station. Accommodations include Hatago Ichiya, Bself Fuji Villa, and Hotel Mount Fuji. Notable places to eat are Hoto Fudou, Tempura Restaurant, and Ninja Tetsuyaki. The nearest airport is Shizuoka Airport, 83.5 km away."
+    },
+    {
+        "context_index": 3,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 4,
+        "question": "What is the name of the attraction?",
+        "answer": "Hokkaido – Closer To Nature"
+    },
+    {
+        "context_index": 4,
+        "question": "What is the location of the attraction?",
+        "answer": "Hokkaido, Japan"
+    },
+    {
+        "context_index": 4,
+        "question": "Describe the attraction in detail.",
+        "answer": "Hokkaido is known for its volcanoes, hot springs, and ski areas, making it a perfect holiday destination with both your kids and significant other. The island boasts natural hot springs and stunning views. Top attractions include Asahiyama Zoo, Farm Tomita, and Blue Pond. Visitors can relax in the hot springs, treat themselves to scrumptious seafood, and visit famous national parks. Accommodations include Yorkshire Farm, Hotel Park Hills, and Hokkaido Puremiahoteru – CABIN – Obihiro. Notable places to eat are Daruma, Hokkaido Cafe, and Hokkaido Ramen Kyowakoku. The closest airport is New Chitose Airport Sapporo."
+    },
+    {
+        "context_index": 4,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 5,
+        "question": "What is the name of the attraction?",
+        "answer": "Ishigaki – Exotic Destination"
+    },
+    {
+        "context_index": 5,
+        "question": "What is the location of the attraction?",
+        "answer": "Ishigaki, Japan"
+    },
+    {
+        "context_index": 5,
+        "question": "Describe the attraction in detail.",
+        "answer": "Ishigaki Island is a trending travel spot known for offering unique experiences and glamming up holidays in Japan. It is especially popular during the cherry blossom season. Top attractions include Kabira Bay, Taketomi Island, and Ishigaki Limestone Cave. Visitors can indulge in snorkeling, relax on the beaches, and savor Ishigaki Beef. Accommodations include Ishigaki Guesthouse HIVE, Blue Cabin Ishigakijima, and Ishigaki Seaside Hotel. Notable places to eat are Sushi Taro, Usagiya, and Akebono. The closest airport is Ishigaki Airport, 18 km away, with local buses and taxis available for transportation."
+    },
+    {
+        "context_index": 5,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Beach"
+    },
+    
+    {
+        "context_index": 6,
+        "question": "What is the name of the attraction?",
+        "answer": "Hiroshima – Historically Significant City"
+    },
+    {
+        "context_index": 6,
+        "question": "What is the location of the attraction?",
+        "answer": "Hiroshima, Japan"
+    },
+    {
+        "context_index": 6,
+        "question": "Describe the attraction in detail.",
+        "answer": "Hiroshima is known for its historical significance, being a victim of the atomic bombings. However, it also has other spellbinding attractions like the Itsukushima shrine. Top attractions include Hiroshima Peace Memorial Park & Museum, Hiroshima Castle, and Itsukushima. Visitors can try Okonomiyaki, the local delicacy, visit the Mazda Museum, and capture pictures at the Shukkeien Garden. Accommodations include K’s House Hiroshima, Grand Prince Hotel Hiroshima, and Court Hotel Hiroshima. Notable places to eat are Parco della Pace, Guttsuri-ann, and Nagataya. The closest airports are Iwakuni and Matsuyama airports, 70 km away."
+    },
+    {
+        "context_index": 6,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 7,
+        "question": "What is the name of the attraction?",
+        "answer": "Sapporo – Forget The Heat And Humidity"
+    },
+    {
+        "context_index": 7,
+        "question": "What is the location of the attraction?",
+        "answer": "Sapporo, Japan"
+    },
+    {
+        "context_index": 7,
+        "question": "Describe the attraction in detail.",
+        "answer": "Sapporo is a haven for beer and ski lovers, helping you escape the heat and humidity while discovering a winter wonderland during its famous Sapporo Annual Snow Festival. Top attractions include Moerenuma Park, Former Hokkaido Government Office, and Mount Moiwa Observation Deck. Visitors can also visit the Sapporo Beer Museum, party in Susukino, and indulge in local delicacies at the Curb Market. Accommodations include The Stay Sapporo, Relief Sapporosusukino Hotel, and Tmark City Hotel Sapporo. Notable places to eat are Gotsubo Oyster Bar, Hyousetsu No Mon, and Sapporo Beer Garden. The closest airport is New Chitose Airport Sapporo, 53 km away."
+    },
+    {
+        "context_index": 7,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement, Natural"
+    },
+    
+    {
+        "context_index": 8,
+        "question": "What is the name of the attraction?",
+        "answer": "Osaka – A Cultural Delight"
+    },
+    {
+        "context_index": 8,
+        "question": "What is the location of the attraction?",
+        "answer": "Osaka, Japan"
+    },
+    {
+        "context_index": 8,
+        "question": "Describe the attraction in detail.",
+        "answer": "Osaka is known for its shopping arcades, incredible food, and vibrant nightlife. Top attractions include Universal Studios Japan, Osaka Castle, and Dotonbori. Visitors can visit the Kaiyukan Aquarium, the Hozenji Temple, and go beer tasting and partying at night. Accommodations include Hotel Taiyo, Hotel Fine Garden Juso, and APA Hotel Osaka Higobashi Ekimae. Notable places to eat are Osaka Tacos, Giga Rabbit Curry, and Yakumido. The nearest airports are Kansai International Airport and Osaka International Airport."
+    },
+    {
+        "context_index": 8,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Cultural, Amusement"
+    },
+    
+    {
+        "context_index": 9,
+        "question": "What is the name of the attraction?",
+        "answer": "Yakushima – Naturally Gifted"
+    },
+    {
+        "context_index": 9,
+        "question": "What is the location of the attraction?",
+        "answer": "Yakushima, Kagoshima Prefecture, Japan"
+    },
+    {
+        "context_index": 9,
+        "question": "Describe the attraction in detail.",
+        "answer": "Yakushima is an island famous for its wildlife, cedar forests, and waterfalls. It offers a unique experience for nature lovers. Top attractions include Senpirono Falls, Jōmon Sugi, and Mt Miyanoura. Visitors can kayak or canoe in the Anbo river, witness the Oko-no-taki Waterfall, and watch Loggerhead turtles lay eggs. Accommodations include Seaside Hotel Yakushima and Guesthouse Yakushima. Notable places to eat are Yakushima Curry House, Panorama, and Wakadaisho. The closest airport is Tanegashima airport."
+    },
+    {
+        "context_index": 9,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 10,
+        "question": "What is the name of the attraction?",
+        "answer": "Hakuba – For Adventurous Activities"
+    },
+    {
+        "context_index": 10,
+        "question": "What is the location of the attraction?",
+        "answer": "Hakuba, Nagano, Japan"
+    },
+    {
+        "context_index": 10,
+        "question": "Describe the attraction in detail.",
+        "answer": "Hakuba is a village and famous winter sports hub situated amidst the Japanese Alps. It offers incredible skiing, snowboarding, and hiking experiences. Top attractions include Mt Shirouma, Hakuba Happoone Winter Resort, and Lake Aoki. Visitors can ski at the Cortina Resort, visit Hakuba 47 Winter Sports Park, and hike to the Happo Pond. Accommodations include Courtyard by Marriott Hakuba, Morino lodge, and Hakuba Highland Hotel. Notable places to eat are Raicho Lodge Madarao, B O S, and Izakaya Kaz. The closest airports are Tokyo’s Narita and Haneda Airports."
+    },
+    {
+        "context_index": 10,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement, Natural"
+    },
+    {
+        "context_index": 11,
+        "question": "What is the name of the attraction?",
+        "answer": "Kamakura – Where The Buddha Resides"
+    },
+    {
+        "context_index": 11,
+        "question": "What is the location of the attraction?",
+        "answer": "Kamakura, Japan"
+    },
+    {
+        "context_index": 11,
+        "question": "Describe the attraction in detail.",
+        "answer": "Kamakura is a seaside town boasting bamboo groves, ancient temples, vibrant beaches, great shopping alleys, and local delicacies. Top attractions include the Enoshima Aquarium, Kamakura Museum of Literature, and Kannon Museum. Visitors can witness the Great Buddha of Kamakura, go surfing at Shonan Beach, and visit the Jufukuji Temple. Accommodations include Kamakura Park Hotel, 8HOTEL, and WeBase Hostel. Notable places to eat are Kebab Kamakura, Sometaro, and Miyoshi Udon-noodle & Sake. The closest airport is Tokyo Haneda Airport."
+    },
+    {
+        "context_index": 11,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical, Beach"
+    },
+    
+    {
+        "context_index": 12,
+        "question": "What is the name of the attraction?",
+        "answer": "Nagano – Great For Family"
+    },
+    {
+        "context_index": 12,
+        "question": "What is the location of the attraction?",
+        "answer": "Nagano, Japan"
+    },
+    {
+        "context_index": 12,
+        "question": "Describe the attraction in detail.",
+        "answer": "Located in the heart of central Japan, Nagano is known for hidden gems like the Ninja Village for kids, Shiga Kogen Ski Resort, and Zenko-ji Temple. The city offers a pleasant breeze throughout the year. Top attractions include Karuizawa, Matsumoto Castle, and Kamikouchi. Visitors can visit the Zenko-ji Temple, enjoy winter sports at Shiga Kogen Heights Ski Resort, and rejuvenate at Shirahone Onsen. Accommodations include Hotel Metropolitan Nagano, Hotel JAL City Nagano, and Hotel Mielparque Nagano. Notable places to eat are Nihonmatsu Ramen, Misoya, and Shinshu nagaya sakaba. The nearest airport is Matsumoto Airport, 58 km away."
+    },
+    {
+        "context_index": 12,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical, Natural"
+    },
+    
+    {
+        "context_index": 13,
+        "question": "What is the name of the attraction?",
+        "answer": "Kawaguchi – Beautiful Landscapes"
+    },
+    {
+        "context_index": 13,
+        "question": "What is the location of the attraction?",
+        "answer": "Kawaguchi, Japan"
+    },
+    {
+        "context_index": 13,
+        "question": "Describe the attraction in detail.",
+        "answer": "Kawaguchi is famous for Lake Kawaguchiko and breathtaking views of Mt Fuji. It is also a cultural gem with vibrant attractions. Top attractions include Lake Kawaguchiko, Fujiten Snow Resort, and Oshino Hakkai. Visitors can attend the Shibazakura Festival, paddle around Lake Kawaguchiko, and sip on Koshu Wine. Accommodations include Smile Hotel Kawaguchi, Wa Style Hotel Tokyo, and Kawaguchi Station Hotel. Notable places to eat are Kaenzen Restaurant, Itsumo Korean Restaurant, and Pusan Korean Restaurant. The nearest airport is Tokyo Haneda Airport."
+    },
+    {
+        "context_index": 13,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 14,
+        "question": "What is the name of the attraction?",
+        "answer": "Takayama – Away From City Life"
+    },
+    {
+        "context_index": 14,
+        "question": "What is the location of the attraction?",
+        "answer": "Takayama, Gifu, Japan"
+    },
+    {
+        "context_index": 14,
+        "question": "Describe the attraction in detail.",
+        "answer": "Nestled in the mountains of Gifu, Takayama is known for its old-world charm and stunning attractions. Top attractions include Hida no Sato, Takayama Festival Floats Exhibition Hall, and Sanmachi Suji District. Visitors can go back in time at Takayama Jinya, stay in a farmhouse, and attend the Takayama Festival. Accommodations include Takayama Ouan, Ryokan Tanabe, and Best Western Hotel Takayama. Notable places to eat are Heianraku, Suzuya Restaurant, and Kyōya. The nearest airport is Toyama Airport, 57 km away."
+    },
+    {
+        "context_index": 14,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical, Natural"
+    },
+    
+    {
+        "context_index": 15,
+        "question": "What is the name of the attraction?",
+        "answer": "Shibuya – A Bustling City"
+    },
+    {
+        "context_index": 15,
+        "question": "What is the location of the attraction?",
+        "answer": "Shibuya, Tokyo, Japan"
+    },
+    {
+        "context_index": 15,
+        "question": "Describe the attraction in detail.",
+        "answer": "Shibuya is known for its impressive footfall, spectacular scramble crossing, and multiple shopping places with cool clothing brands. Top attractions include Meiji Jingu, Yoyogi Park, and Omotesandō. Visitors can enjoy the nightlife at Roppongi, treat their shopping craving at Takeshita Street, and witness mesmerizing views at Roppongi Hills. Accommodations include Mustard Hotel Shibuya, Shibuya Hotel En, and Shibuya Excel Hotel Tokyu. Notable places to eat are Uobei, Ichiran Shibuya, and Hakushu Teppanyaki. The nearest airport is Haneda Airport."
+    },
+    {
+        "context_index": 15,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement, Cultural"
+    },
+    
+    {
+        "context_index": 16,
+        "question": "What is the name of the attraction?",
+        "answer": "Naoshima – Lush-Green Island"
+    },
+    {
+        "context_index": 16,
+        "question": "What is the location of the attraction?",
+        "answer": "Naoshima, Seto Inland Sea, Japan"
+    },
+    {
+        "context_index": 16,
+        "question": "Describe the attraction in detail.",
+        "answer": "Naoshima is a tiny island set amidst the Seto Inland Sea, offering art museums, sculptures, and modern architecture. Top attractions include Lee Ufan Museum, Benesse House, and Naoshima Bath. Visitors can witness the fine work of Tadao Ando at Chichu Art Museum, visit Kojin Island for peace and quiet, and experience nature's charm in the Labyrinth of Cherry Blossom. Accommodations include SPARKY’s House, Benesse House Hotel, and Park Building inn Hoshikuzu. Notable places to eat are apron cafe, Cafe Salon Nakaoku, and Issen. The nearest airport is Takamatsu Airport, 27 km away."
+    },
+    {
+        "context_index": 16,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Cultural"
+    },
+    
+    {
+        "context_index": 17,
+        "question": "What is the name of the attraction?",
+        "answer": "Asakusa – For Parties And More"
+    },
+    {
+        "context_index": 17,
+        "question": "What is the location of the attraction?",
+        "answer": "Asakusa, Tokyo, Japan"
+    },
+    {
+        "context_index": 17,
+        "question": "Describe the attraction in detail.",
+        "answer": "Asakusa is known as the cultural hub of Tokyo, offering a mix of activities for different kinds of travelers. Top attractions include Asakusa Shrine, Amuse Museum, and Hanayashiki Amusement Park. Visitors can experience blessed vibes at Sensō-ji, have a unique gaming time at Escape Game Nazobako Tokyo, and visit Kappabashi-dori for top-notch restaurants. Accommodations include Asakusa View Hotel, Red Planet Tokyo Asakusa, and Smile Hotel Asakusa. Notable places to eat are Sometarō, Kikkō, and Ramen-tei Asakusa. The nearest airport is Tokyo Haneda Airport."
+    },
+    {
+        "context_index": 17,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement, Cultural"
+    },
+    
+    {
+        "context_index": 18,
+        "question": "What is the name of the attraction?",
+        "answer": "Akihabara – Perfect City Life"
+    },
+    {
+        "context_index": 18,
+        "question": "What is the location of the attraction?",
+        "answer": "Akihabara, Tokyo, Japan"
+    },
+    {
+        "context_index": 18,
+        "question": "Describe the attraction in detail.",
+        "answer": "Akihabara is known as the 'world's geek capital' with a vast category of video and computer games. Top attractions include Tokyo Anime Center, Ryōgoku Edo Noren, and Ginza Line Crossing. Visitors can shop at 2k540 Aki-Oka Artisan, witness lush greenery at Chidorigafuchi moat, and rent a bike to tour the place. Accommodations include APA Hotel Akihabaraeki Denkigaiguchi, Akihabara Washington Hotel, and Keikyu EX Inn Akihabara. Notable places to eat are Kyushu Jangara Ramen, Akihabara Tempura Hisago, and Tonkatsu Marugo. The nearest airport is Tokyo Haneda Airport."
+    },
+    {
+        "context_index": 18,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement, Cultural"
+    },
+    
+    {
+        "context_index": 19,
+        "question": "What is the name of the attraction?",
+        "answer": "Odaiba – For A Rejuvenating Experience"
+    },
+    {
+        "context_index": 19,
+        "question": "What is the location of the attraction?",
+        "answer": "Odaiba, Tokyo, Japan"
+    },
+    {
+        "context_index": 19,
+        "question": "Describe the attraction in detail.",
+        "answer": "Odaiba is a magnificent island known for its exquisite shopping centers and a Ferris wheel inside. Top attractions include Daikanransha Ferris wheel, Seaside Park, and Yurikamome train. Visitors can enjoy sushi at the sushi bars, shop at Aqua City, and spot fun robots at Miraikan science museum. Accommodations include Hilton Tokyo Odaiba, Grand Nikko Tokyo Daiba, and Hotel Trusty Tokyo Bayside. Notable places to eat are KUA`AINA Odaiba, Gonpachi Odaiba, and Zest Cantina. The nearest airport is Tokyo Haneda Airport."
+    },
+    {
+        "context_index": 19,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement"
+    },
+    
+    {
+        "context_index": 20,
+        "question": "What is the name of the attraction?",
+        "answer": "Kabukicho – Nightclubs And More"
+    },
+    {
+        "context_index": 20,
+        "question": "What is the location of the attraction?",
+        "answer": "Kabukicho, Tokyo, Japan"
+    },
+    {
+        "context_index": 20,
+        "question": "Describe the attraction in detail.",
+        "answer": "Kabukicho is known for its neon signs and is a main red-light area in Japan. Top attractions include the Robot Restaurant, Shinjuku Golden Gai, and Museum of Haiku Literature. Visitors can enjoy fun rides at VR Zone Shinjuku, watch a Tokyo Robot Evening Cabaret Show, and learn about Haiku at the Museum of Haiku Literature. Accommodations include APA Hotel Higashi Shinjuku Kabukicho and Shinjuku Granbell Hotel. Notable places to eat are Oedo Ayatori, Robot Restaurant, and Kuriya. The nearest airport is Tokyo International Airport."
+    },
+    {
+        "context_index": 20,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement, Cultural"
+    }
+]
