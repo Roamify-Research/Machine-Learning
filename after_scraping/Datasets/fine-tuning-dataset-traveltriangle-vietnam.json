@@ -1,0 +1,324 @@
+[
+    {
+        "context_index": 0,
+        "question": "What is the name of the attraction?",
+        "answer": "Imperial Citadel Of Thang Long"
+    },
+    {
+        "context_index": 0,
+        "question": "What is the location of the attraction?",
+        "answer": "19C Hoàng Diệu, Điện Bàn, Ba Đình, Hà Nội 100000, Vietnam"
+    },
+    {
+        "context_index": 0,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:00 AM to 5:00 PM"
+    },
+    {
+        "context_index": 0,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND30,000"
+    },
+    {
+        "context_index": 0,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 0,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 0,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 0,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Imperial Citadel of Thang Long is a famous tourist spot in Vietnam, known for being the former political center of the country for 13 uninterrupted centuries. It is a UNESCO World Heritage Site that showcases relics of Vietnamese military power, including age-old roads, palaces, wells, ponds, potteries, coins, and war remnants."
+    },
+    {
+        "context_index": 0,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+
+    {
+        "context_index": 1,
+        "question": "What is the name of the attraction?",
+        "answer": "Ho Chi Minh's Mausoleum"
+    },
+    {
+        "context_index": 1,
+        "question": "What is the location of the attraction?",
+        "answer": "2 Hùng Vương, Điện Bàn, Ba Đình, Hà Nội 100000, Vietnam"
+    },
+    {
+        "context_index": 1,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:00 AM to 11:00 AM; Saturday – Thursday"
+    },
+    {
+        "context_index": 1,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Free of cost"
+    },
+    {
+        "context_index": 1,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 1,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 1,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 1,
+        "question": "Describe the attraction in brief?",
+        "answer": "Ho Chi Minh's Mausoleum is a spectacular marble construction built with materials collected from all over Vietnam. It houses Ho Chi Minh's well-preserved body in a glass sarcophagus and is considered a sacred place with certain visitor restrictions."
+    },
+    {
+        "context_index": 1,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+
+    {
+        "context_index": 2,
+        "question": "What is the name of the attraction?",
+        "answer": "Hoan Kiem Lake and Ngoc Son Temple"
+    },
+    {
+        "context_index": 2,
+        "question": "What is the location of the attraction?",
+        "answer": "Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 100000, Vietnam"
+    },
+    {
+        "context_index": 2,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:00 AM to 6:00 PM"
+    },
+    {
+        "context_index": 2,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee for Hoan Kiem Lake, but VND30,000 for Ngoc Son Temple"
+    },
+    {
+        "context_index": 2,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 2,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 2,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 2,
+        "question": "Describe the attraction in brief?",
+        "answer": "Hoan Kiem Lake, also known as Turtle Lake, is famous for its natural beauty and is a popular spot for family outings. Ngoc Son Temple, located in the middle of the lake, is linked to the mainland by a small bridge and offers a picturesque setting."
+    },
+    {
+        "context_index": 2,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Historical"
+    },
+
+    {
+        "context_index": 3,
+        "question": "What is the name of the attraction?",
+        "answer": "Vietnam Museum Of Ethnology"
+    },
+    {
+        "context_index": 3,
+        "question": "What is the location of the attraction?",
+        "answer": "Nguyễn Văn Huyên, Quan Hoa, Cầu Giấy, Hà Nội 100000, Vietnam"
+    },
+    {
+        "context_index": 3,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:30 AM to 5:30 PM"
+    },
+    {
+        "context_index": 3,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Adults: VND40,000, Vietnamese Students: VND15,000, Students (6 – 8 years): VND10,000"
+    },
+    {
+        "context_index": 3,
+        "question": "When was the attraction built?",
+        "answer": "1997"
+    },
+    {
+        "context_index": 3,
+        "question": "Who built the attraction?",
+        "answer": "Architect Ha Duc Linh"
+    },
+    {
+        "context_index": 3,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 3,
+        "question": "Describe the attraction in brief?",
+        "answer": "Vietnam Museum of Ethnology focuses on the various ethnic groups of the country. It was constructed in 1997 and showcases the cultural diversity and heritage of Vietnam."
+    },
+    {
+        "context_index": 3,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Cultural"
+    },
+    
+    {
+        "context_index": 4,
+        "question": "What is the name of the attraction?",
+        "answer": "Vietnam Military History Museum"
+    },
+    {
+        "context_index": 4,
+        "question": "What is the location of the attraction?",
+        "answer": "28A Điện Biên Phủ, Điện Bàn, Ba Đình, Hà Nội, Vietnam"
+    },
+    {
+        "context_index": 4,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:00 AM to 4:30 PM"
+    },
+    {
+        "context_index": 4,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND30,000"
+    },
+    {
+        "context_index": 4,
+        "question": "When was the attraction built?",
+        "answer": "1956"
+    },
+    {
+        "context_index": 4,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 4,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 4,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Vietnam Military History Museum is among the seven national museums in Vietnam. It showcases various military weapons and artifacts from the Vietnam War and is a must-visit for military history enthusiasts."
+    },
+    {
+        "context_index": 4,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+
+    {
+        "context_index": 5,
+        "question": "What is the name of the attraction?",
+        "answer": "Temple Of Literature"
+    },
+    {
+        "context_index": 5,
+        "question": "What is the location of the attraction?",
+        "answer": "Hanoi, Vietnam"
+    },
+    {
+        "context_index": 5,
+        "question": "What are the timings of the attraction?",
+        "answer": "Open all-day"
+    },
+    {
+        "context_index": 5,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND 30,000 for adults and VND 15,000 for students"
+    },
+    {
+        "context_index": 5,
+        "question": "When was the attraction built?",
+        "answer": "1070"
+    },
+    {
+        "context_index": 5,
+        "question": "Who built the attraction?",
+        "answer": "Emperor Lý Thánh Tông"
+    },
+    {
+        "context_index": 5,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 5,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Temple of Literature, considered the Temple of Confucius, hosts Vietnam's first national university, the Imperial Academy. Built in 1070, it showcases Vietnamese history and culture through its architecture and ambiance."
+    },
+    {
+        "context_index": 5,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 6,
+        "question": "What is the name of the attraction?",
+        "answer": "War Remnants Museum"
+    },
+    {
+        "context_index": 6,
+        "question": "What is the location of the attraction?",
+        "answer": "28 Võ Văn Tần, Phường 6, Quận 3, Hồ Chí Minh 700000, Vietnam"
+    },
+    {
+        "context_index": 6,
+        "question": "What are the timings of the attraction?",
+        "answer": "7:00 AM to 12:30 PM and 1:30 PM to 5:00 PM"
+    },
+    {
+        "context_index": 6,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND15,000"
+    },
+    {
+        "context_index": 6,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 6,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 6,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 6,
+        "question": "Describe the attraction in brief?",
+        "answer": "The War Remnants Museum is a popular tourist spot displaying items and relics from various wars in world history. It features weapons, armored vehicles, tanks, and a section dedicated to anti-war movements."
+    },
+    {
+        "context_index": 6,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    }
+    
+]
