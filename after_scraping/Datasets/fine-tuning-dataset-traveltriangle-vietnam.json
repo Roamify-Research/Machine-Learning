@@ -319,6 +319,321 @@
         "context_index": 6,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
+    },
+    {
+        "context_index": 7,
+        "question": "What is the name of the attraction?",
+        "answer": "Cu Chi Tunnels"
+    },
+    {
+        "context_index": 7,
+        "question": "What is the location of the attraction?",
+        "answer": "TL15, Phú Hiệp, Củ Chi, Hồ Chí Minh 733814, Vietnam"
+    },
+    {
+        "context_index": 7,
+        "question": "What are the timings of the attraction?",
+        "answer": "7:30 AM to 4:30 PM"
+    },
+    {
+        "context_index": 7,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 7,
+        "question": "When was the attraction built?",
+        "answer": "1940"
+    },
+    {
+        "context_index": 7,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 7,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 7,
+        "question": "Describe the attraction in brief?",
+        "answer": "Cu Chi is a sub-surface tunnel network created for communication during the Vietnam War. It includes meandering tunnels, hidden doors, and weapon storerooms. Some tunnels have been widened for visitors, offering a thrilling experience."
+    },
+    {
+        "context_index": 7,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 8,
+        "question": "What is the name of the attraction?",
+        "answer": "Mekong Delta"
+    },
+    {
+        "context_index": 8,
+        "question": "What is the location of the attraction?",
+        "answer": "South Vietnam"
+    },
+    {
+        "context_index": 8,
+        "question": "What are the timings of the attraction?",
+        "answer": "Open throughout the day"
+    },
+    {
+        "context_index": 8,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 8,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 8,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 8,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 8,
+        "question": "Describe the attraction in brief?",
+        "answer": "Mekong Delta is significant for its delta features and rice cultivation. It is known for floating houseboats and markets on rivers and canals."
+    },
+    {
+        "context_index": 8,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 9,
+        "question": "What is the name of the attraction?",
+        "answer": "Golden Dragon Water Puppet Theatre"
+    },
+    {
+        "context_index": 9,
+        "question": "What is the location of the attraction?",
+        "answer": "55B Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1, Hồ Chí Minh, Vietnam"
+    },
+    {
+        "context_index": 9,
+        "question": "What are the timings of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 9,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND100,000"
+    },
+    {
+        "context_index": 9,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 9,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 9,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 9,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Golden Dragon Water Puppet Theatre offers exclusive water puppetry shows originating from the Red River Delta. The 50-minute shows feature live music and traditional Vietnamese instruments."
+    },
+    {
+        "context_index": 9,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Cultural"
+    },
+    {
+        "context_index": 10,
+        "question": "What is the name of the attraction?",
+        "answer": "Thien Hau Temple"
+    },
+    {
+        "context_index": 10,
+        "question": "What is the location of the attraction?",
+        "answer": "710 Nguyễn Trãi, Phường 11, Quận 5, Hồ Chí Minh 70000, Vietnam"
+    },
+    {
+        "context_index": 10,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:00 AM to 4:30 PM"
+    },
+    {
+        "context_index": 10,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 10,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 10,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 10,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 10,
+        "question": "Describe the attraction in brief?",
+        "answer": "Thien Hau Temple is dedicated to the Lady of the Sea, Thien Hau. It is one of the oldest Chinese temples in Ho Chi Minh City, known for its spiritual atmosphere and beautiful porcelain dioramas."
+    },
+    {
+        "context_index": 10,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Spiritual, Religious"
+    },
+    {
+        "context_index": 11,
+        "question": "What is the name of the attraction?",
+        "answer": "Saigon Opera House"
+    },
+    {
+        "context_index": 11,
+        "question": "What is the location of the attraction?",
+        "answer": "7 Lam Son Square, Ben Nghe Ward, District 1, Ho Chi Minh City"
+    },
+    {
+        "context_index": 11,
+        "question": "What are the timings of the attraction?",
+        "answer": "9:00 AM to 4:30 PM (Monday to Friday), 9:00 AM to 11:30 PM (Saturday and Sunday)"
+    },
+    {
+        "context_index": 11,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "There is no entry fee, you can purchase the ticket for the event that you want to attend"
+    },
+    {
+        "context_index": 11,
+        "question": "When was the attraction built?",
+        "answer": "1897"
+    },
+    {
+        "context_index": 11,
+        "question": "Who built the attraction?",
+        "answer": "Eugene Ferret, a French architect"
+    },
+    {
+        "context_index": 11,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 11,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Saigon Opera House is an architectural marvel built in the French colonial style. It hosts performances by the Ho Chi Minh City Ballet Symphony Orchestra and Opera."
+    },
+    {
+        "context_index": 11,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Cultural, Architectural"
+    },
+    {
+        "context_index": 12,
+        "question": "What is the name of the attraction?",
+        "answer": "Hoi An Ancient Town"
+    },
+    {
+        "context_index": 12,
+        "question": "What is the location of the attraction?",
+        "answer": "Hoi An, Vietnam"
+    },
+    {
+        "context_index": 12,
+        "question": "What are the timings of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 12,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND120,000"
+    },
+    {
+        "context_index": 12,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 12,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 12,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 12,
+        "question": "Describe the attraction in brief?",
+        "answer": "Hoi An is an ancient coastal town and former trading post. It features a blend of Eastern and Western architecture with Chinese Temples, a Japanese-designed bridge, a pagoda, an old canal, and French colonial houses."
+    },
+    {
+        "context_index": 12,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 13,
+        "question": "What is the name of the attraction?",
+        "answer": "Cantonese Assembly Hall"
+    },
+    {
+        "context_index": 13,
+        "question": "What is the location of the attraction?",
+        "answer": "176 Tran Phu, Minh An Ward, Hoi An, Quang Nam, Vietnam"
+    },
+    {
+        "context_index": 13,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:00 AM to 5:00 PM"
+    },
+    {
+        "context_index": 13,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 13,
+        "question": "When was the attraction built?",
+        "answer": "18th century"
+    },
+    {
+        "context_index": 13,
+        "question": "Who built the attraction?",
+        "answer": "Cantonese Chinese Congregation"
+    },
+    {
+        "context_index": 13,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 13,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Cantonese Assembly Hall was established in the 18th century. It is one of five assembly halls in Hoi An dedicated to different Chinese ethnic groups. The main altar is dedicated to Quan Cong, a Chinese general worshipped for his bravery."
+    },
+    {
+        "context_index": 13,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical, Cultural"
     }
     
 ]
