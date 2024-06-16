@@ -1,0 +1,32 @@
+[
+    {
+        "context_index": 0,
+        "question": "What is the name of the attraction?",
+        "answer": "Fort Aguada"
+    },
+    {
+        "context_index": 0,
+        "question": "What is the location of the attraction?",
+        "answer": "Fort Aguada Rd, Aguada Fort Area, Candolim, Goa 403515"
+    },
+    {
+        "context_index": 0,
+        "question": "Describe the attraction in brief",
+        "answer": "Fort Aguada is a beautiful fort with a strategic location at the estuary of the river Mandovi. It features a rampart of red-brown laterite and a jetty between two small sandy coves, known as Sinquerim Beach. The fort houses the Central Jail and a 19th-century lighthouse."
+    },
+    {
+        "context_index": 1,
+        "question": "What is the name of the attraction?",
+        "answer": "Chapora Fort"
+    },
+    {
+        "context_index": 1,
+        "question": "What is the location of the attraction?",
+        "answer": "Chapora Fort Rd, Chapora, Goa"
+    },
+    {
+        "context_index": 1,
+        "question": "Describe the attraction in brief?",
+        "answer": "Chapora Fort is popular for its history and offers picturesque views of the Chapora river meeting the Arabian Sea. It gained fame after the Bollywood movie 'Dil Chahta Hai' was shot here. The fort provides sweeping views of all directions and is a prime sightseeing spot in Goa."
+    }
+]
