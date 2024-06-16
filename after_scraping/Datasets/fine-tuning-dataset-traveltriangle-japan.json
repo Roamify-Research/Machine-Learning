@@ -43,5 +43,98 @@
         "context_index": 0,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Amusement"
+    },
+
+    {
+        "context_index": 1,
+        "question": "What is the name of the attraction?",
+        "answer": "Kyoto Imperial Palace, Philosopher’s Walk, Fushimi-Inari Taisha Shrine"
+    },
+    {
+        "context_index": 1,
+        "question": "What is the location of the attraction?",
+        "answer": "Kyoto, Japan"
+    },
+    {
+        "context_index": 1,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 1,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 1,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 1,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 1,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 1,
+        "question": "Describe the attraction in brief?",
+        "answer": "Kyoto is a city of shrines, gardens, and palaces, famous for its iconic temples, shrines, palaces, gardens, and bamboo forests. It is one of the best places to visit in Japan in spring."
+    },
+    {
+        "context_index": 1,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical, Natural"
+    },
+
+    {
+        "context_index": 2,
+        "question": "What is the name of the attraction?",
+        "answer": "Nara Park, Kasuga-taisha, Ninja Museum of Igaryu"
+    },
+    {
+        "context_index": 2,
+        "question": "What is the location of the attraction?",
+        "answer": "Nara, Japan"
+    },
+    {
+        "context_index": 2,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 2,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 2,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 2,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 2,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 2,
+        "question": "Describe the attraction in brief?",
+        "answer": "Nara is a city rich in culture, known for its shrines, monasteries, museums, and Nara Park, where you can find adorable deer. It is an unmissable place to visit to experience Japanese culture and traditions."
+    },
+    {
+        "context_index": 2,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical, Natural"
     }
+    
 ]
