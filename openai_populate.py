@@ -13,33 +13,39 @@ def generate_qna(context_index, text):
     questions = [
         "What is the name of the attraction?",
         "What is the location of the attraction?",
-        "Describe the attraction in brief"
+        "Describe the attraction in detail."
     ]
     answers = []
     
-    # Generating responses using OpenAI API
     for question in questions:
-        response = openai.Completion.create(
-            model="text-davinci-003",
-            prompt=f"Context: {text}\n\nQuestion: {question}\nAnswer:",
-            max_tokens=150
+        messages = [
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user", "content": f"Context: {text}\n\nQuestion: {question}\nAnswer:"}
+        ]
+        
+        response = openai.ChatCompletion.create(
+            model="gpt-4o",
+            messages=messages,
+            max_tokens=100
         )
-        answer = response['choices'][0]['text'].strip()
+        
         answers.append({
             "context_index": context_index,
             "question": question,
-            "answer": answer
+            "answer": response.choices[0].message['content'].strip()
         })
+        
     return answers
 
-# Process the data
-output_data = []
+# Create a list to hold the Q&A pairs
+qna_pairs = []
+
+# Loop through the input data and generate Q&A pairs
 for context_index, text in input_data.items():
-    qna_pairs = generate_qna(context_index, text)
-    output_data.extend(qna_pairs)
+    qna_pairs.extend(generate_qna(context_index, text))
 
-# Write the output to a new JSON file
+# Save the Q&A pairs to an output JSON file
 with open('after_scraping/three_qs/fine-tuning-dataset-traveltriangle-goa.json', 'w', encoding='utf-8') as outfile:
-    json.dump(output_data, outfile, ensure_ascii=False, indent=4)
+    json.dump(qna_pairs, outfile, ensure_ascii=False, indent=4)
 
-print("Processing complete. Output saved to after_scraping/three_qs/fine-tuning-dataset-traveltriangle-goa.json")
+print("Q&A pairs generated and saved to output JSON file.")
