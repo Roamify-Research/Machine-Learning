@@ -1,8 +1,11 @@
 import json
-import openai
+from openai import OpenAI
 
+client = OpenAI(api_key='')
+
+models = client.models.list()
+print(models)
 # Set up your OpenAI API key
-openai.api_key = 'your-api-key'
 
 # Load the input JSON file
 with open('after_scraping/Context-Data/fine-tuning-traveltriangle-goa.json', 'r', encoding='utf-8') as infile:
@@ -16,25 +19,23 @@ def generate_qna(context_index, text):
         "Describe the attraction in detail."
     ]
     answers = []
-    
+
     for question in questions:
         messages = [
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": f"Context: {text}\n\nQuestion: {question}\nAnswer:"}
         ]
-        
-        response = openai.ChatCompletion.create(
-            model="gpt-4o",
-            messages=messages,
-            max_tokens=100
-        )
-        
+
+        response = client.chat.completions.create(model="gpt-4",
+        messages=messages,
+        max_tokens=100)
+
         answers.append({
             "context_index": context_index,
             "question": question,
-            "answer": response.choices[0].message['content'].strip()
+            "answer": response.choices[0].message.content.strip()
         })
-        
+
     return answers
 
 # Create a list to hold the Q&A pairs
