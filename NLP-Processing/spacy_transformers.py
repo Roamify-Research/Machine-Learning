@@ -11,7 +11,7 @@ nltk.download('stopwords')
 stopwords = set(stopwords.words('english'))
 nlp_model = spacy.load('en_core_web_lg')
 # data = open("../webscraped data/traveltriangle.txt", "r").read()
-data = open("../webscraped data/traveltriangle.txt", "r", encoding='utf-8').read()
+data = open("../webscraped data/vietnam_traveltriangle.txt", "r", encoding='utf-8').read()
 data_processed = nlp_model(data)
 
 sentences = [sent.text.strip() for sent in data_processed.sents]
@@ -43,8 +43,7 @@ for index in range(len(sentences_processed)):
 
 # result = {}
 
-write_file_secondary= open("../after_scraping/traveltriangle_after_secondary.txt", "w")
-write_file = open("../after_scraping/traveltriangle_after.txt", "w")
+write_file = open("../after_scraping/Initial/traveltriangle_after-vietnam.txt", "w")
 
 json_data = {}
 context_id = 0
@@ -138,14 +137,12 @@ Price For Two: {price_for_two['answer']}
 Description: {val['Description']}
 """)
     
-    write_file_secondary.write(attraction_data + "\n\n")
     json_data[str(context_id)] = attraction_data
     context_id += 1
 
 
 
-with open("../after_scraping/fine-tuning-traveltriangle.json", "w") as f:
+with open("../after_scraping/Context-Data/fine-tuning-traveltriangle-vietnam.json", "w") as f:
     json.dump(json_data, f, indent=4)
 
 write_file.close()
-write_file_secondary.close()
