@@ -218,5 +218,695 @@
         "context_index": 10,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
+    },
+    {
+        "context_index": 11,
+        "question": "What is the name of the attraction?",
+        "answer": "Saigon Opera House"
+    },
+    {
+        "context_index": 11,
+        "question": "What is the location of the attraction?",
+        "answer": "7 Lam Son Square, Ben Nghe Ward, District 1, Ho Chi Minh City"
+    },
+    {
+        "context_index": 11,
+        "question": "Describe the attraction in detail.",
+        "answer": "Saigon Opera House is an architectural marvel in French colonial style built as Opera de Saigon in 1897 by French architect Eugene Ferret. It became a theatre in 1975 where you can watch shows or attend the orchestra. Both the Ho Chi Minh City Ballet Symphony Orchestra and Opera perform here, with tickets available at the box office. Nearby attractions include the Notre Dame Cathedral and Reunification Palace. The building is famous for its French colonial style architecture. Timings are 9:00 AM to 4:30 PM (Monday to Friday) and 9:00 AM to 11:30 PM (Saturday and Sunday). There is no entry fee, but tickets are required for events."
+    },
+    {
+        "context_index": 11,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 12,
+        "question": "What is the name of the attraction?",
+        "answer": "Hoi An Ancient Town"
+    },
+    {
+        "context_index": 12,
+        "question": "What is the location of the attraction?",
+        "answer": "Hoi An, Vietnam"
+    },
+    {
+        "context_index": 12,
+        "question": "Describe the attraction in detail.",
+        "answer": "Hoi An Ancient Town is an ancient coastal town and former trading post of south-eastern Asia. The town features a perfect amalgamation of eastern and western architecture, including Chinese Temples, a Japanese Designed Bridge, Pagoda, Old Canal, and French Colonial Houses. Hoi An is known for its serene and less crowded beaches and quaint cafes by the river. The entry fee is VND120,000."
+    },
+    {
+        "context_index": 12,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical, Natural"
+    },
+    
+    {
+        "context_index": 13,
+        "question": "What is the name of the attraction?",
+        "answer": "Cantonese Assembly Hall"
+    },
+    {
+        "context_index": 13,
+        "question": "What is the location of the attraction?",
+        "answer": "176 Tran Phu, Minh An Ward, Hoi An, Quang Nam, Vietnam"
+    },
+    {
+        "context_index": 13,
+        "question": "Describe the attraction in detail.",
+        "answer": "The Cantonese Assembly Hall, located close to Bridge Pagoda, was established in the 18th century. The main altar is dedicated to Quan Cong, a Chinese general praised for his bravery and worshipped. The assembly hall is one of the five in Hoi An for different Chinese ethnic groups. It is known for its architecture. The hall is open from 8:00 AM to 5:00 PM. There is no entry fee."
+    },
+    {
+        "context_index": 13,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 14,
+        "question": "What is the name of the attraction?",
+        "answer": "My Son Sanctuary"
+    },
+    {
+        "context_index": 14,
+        "question": "What is the location of the attraction?",
+        "answer": "Duy Phú, Duy Xuyên District, Quang Nam Province, Vietnam"
+    },
+    {
+        "context_index": 14,
+        "question": "Describe the attraction in detail.",
+        "answer": "My Son Sanctuary is an ancient site of art and architecture with immense historical significance. Located on the coast of central Vietnam, it was the capital of the Champa Kingdom. The site features partially demolished tower temples dedicated to Lord Shiva, built over 10 centuries (4th to 14th Century AD). The carvings reflect the culture, ethos, history, and heritage of south-east Asia. The site is open from 6:30 AM to 4:30 PM. The entry fee is VND150,000."
+    },
+    {
+        "context_index": 14,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 15,
+        "question": "What is the name of the attraction?",
+        "answer": "Cham Island"
+    },
+    {
+        "context_index": 15,
+        "question": "What is the location of the attraction?",
+        "answer": "Quang Nam Province, Hoi An, Vietnam"
+    },
+    {
+        "context_index": 15,
+        "question": "Describe the attraction in detail.",
+        "answer": "Cham Island, locally known as Cu Lao Cham, is a small pristine island with an amazing landscape. The island is rich in marine biodiversity and comprises many endangered species. It is a 30-minute speedboat ride from Hoi An and is known for coral spotting, swimming, diving, and snorkelling. Staying overnight on the island offers a photogenic sunrise. The island is open throughout the day. The entry fee is VND70,000."
+    },
+    {
+        "context_index": 15,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 16,
+        "question": "What is the name of the attraction?",
+        "answer": "Phuoc Lam Pagoda"
+    },
+    {
+        "context_index": 16,
+        "question": "What is the location of the attraction?",
+        "answer": "Lê Hồng Phong, Cẩm Hà, Hội An, Quảng Nam, Vietnam"
+    },
+    {
+        "context_index": 16,
+        "question": "Describe the attraction in detail.",
+        "answer": "Phuoc Lam Pagoda is unique in its design and architecture, providing tranquility and calmness. The pagoda is decorated with potted plants on the porch and religious statues on the walls. It is a famous historic site in Hoi An. The pagoda is open from 7:30 AM to 9:30 PM. There is no entry fee."
+    },
+    {
+        "context_index": 16,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 17,
+        "question": "What is the name of the attraction?",
+        "answer": "Old House Of Phun Hung"
+    },
+    {
+        "context_index": 17,
+        "question": "What is the location of the attraction?",
+        "answer": "Hoi An, Vietnam"
+    },
+    {
+        "context_index": 17,
+        "question": "Describe the attraction in detail.",
+        "answer": "Old House of Phun Hung depicts the old charm of Hoi An and Vietnam as a whole. It is full of elements representing trade and local values of Vietnam. The house displays the old values of the country and is recorded as one of the World Heritage Sites. The house is open from 8:00 AM to 6:00 PM. There is no entry fee."
+    },
+    {
+        "context_index": 17,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 18,
+        "question": "What is the name of the attraction?",
+        "answer": "Quan Cong Temple"
+    },
+    {
+        "context_index": 18,
+        "question": "What is the location of the attraction?",
+        "answer": "24 Trần Phú, Cẩm Châu, Hội An, Quảng Nam, Vietnam"
+    },
+    {
+        "context_index": 18,
+        "question": "Describe the attraction in detail.",
+        "answer": "Quan Cong Temple was constructed in 1653 and has been renovated multiple times while keeping the Chinese architecture intact. The temple is named after a Chinese rebel from the Han Dynasty. The Chinese military general is famous for his dedication and integrity towards his nation. The temple is open from 10:30 AM to 10:00 PM. The entry fee is VND120,000 per person."
+    },
+    {
+        "context_index": 18,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 19,
+        "question": "What is the name of the attraction?",
+        "answer": "Complex Of Hue Monuments"
+    },
+    {
+        "context_index": 19,
+        "question": "What is the location of the attraction?",
+        "answer": "Thành phố Huế, Thua Thien Hue, Vietnam"
+    },
+    {
+        "context_index": 19,
+        "question": "Describe the attraction in detail.",
+        "answer": "The Complex of Hue Monuments is a former political, cultural, and spiritual center of the Nguyen dynasty. Located near Hue city, the complex comprises age-old monuments set amid the Blue Mountains and the meandering Perfume River. The site includes former administrative, defense, and cultural headquarters, with several temples situated outside the boundary. The layout and planning demonstrate feudal urban planning. The complex is open from 8:00 AM to 6:00 PM. The entry fee is VND150,000 for adults and VND30,000 for children."
+    },
+    {
+        "context_index": 19,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 20,
+        "question": "What is the name of the attraction?",
+        "answer": "The Perfume River"
+    },
+    {
+        "context_index": 20,
+        "question": "What is the location of the attraction?",
+        "answer": "Thua Thien Hue, Vietnam"
+    },
+    {
+        "context_index": 20,
+        "question": "Describe the attraction in detail.",
+        "answer": "The Perfume River is known for its unique aroma, which comes from the rich flora and fauna underwater. It is a tranquil place to stroll along the riverside and enjoy the sunset. Sitting by the river and watching the boats is a romantic experience. The river is open throughout the day and does not have an entry fee."
+    },
+    {
+        "context_index": 20,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 21,
+        "question": "What is the name of the attraction?",
+        "answer": "Pagoda Of The Celestial Lady"
+    },
+    {
+        "context_index": 21,
+        "question": "What is the location of the attraction?",
+        "answer": "Hương Hòa, Thành phố Huế, Hương Hòa Thành phố Huế Thừa Thiên Huế 532761, Vietnam"
+    },
+    {
+        "context_index": 21,
+        "question": "Describe the attraction in detail.",
+        "answer": "Pagoda Of The Celestial Lady is a popular seven-storeyed temple known for its historicity and as a significant Vietnam sightseeing spot. The temple, which has been a part of folklore, is erected atop the Hà Khê hill in the Hương Long ward. It is unofficially known as the symbol of the city of Hue. The pagoda is famous for its iconic seven-story structure. It is open from 8:00 AM to 6:00 PM and there is no entry fee."
+    },
+    {
+        "context_index": 21,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 22,
+        "question": "What is the name of the attraction?",
+        "answer": "Tomb Of Khai Dinh"
+    },
+    {
+        "context_index": 22,
+        "question": "What is the location of the attraction?",
+        "answer": "Khải Định, Thủy Bằng, Hương Thủy, Thừa Thiên Huế 530000, Vietnam"
+    },
+    {
+        "context_index": 22,
+        "question": "Describe the attraction in detail.",
+        "answer": "The Tomb Of Khai Dinh, also known as Ung Mausoleum, is established upon the Chau Chu mountain. Built for the 12th Emperor of the Nguyen Dynasty, the construction took 11 years (1920-31). The architecture reflects both Oriental and Occidental influences. It is famous for its architecture and history. The tomb is open from 7:00 AM to 5:30 PM and the entry fee is VND100,000."
+    },
+    {
+        "context_index": 22,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 23,
+        "question": "What is the name of the attraction?",
+        "answer": "Phu Cam Cathedral"
+    },
+    {
+        "context_index": 23,
+        "question": "What is the location of the attraction?",
+        "answer": "1 Đoàn Hữu Trưng, Phước Vĩnh, Thành phố Huế, Thừa Thiên Huế 530000, Vietnam"
+    },
+    {
+        "context_index": 23,
+        "question": "Describe the attraction in detail.",
+        "answer": "Phu Cam Cathedral is a cathedral established atop a hill known for its rich orange plantation. The construction started in 1963 and underwent various renovations until 2000. The modern architecture reflects the expertise of architect Ngo Viet Thu. It is one of the biggest churches in the city. The cathedral is open from 5:00 AM to 6:30 PM and there is no entry fee."
+    },
+    {
+        "context_index": 23,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    
+    {
+        "context_index": 24,
+        "question": "What is the name of the attraction?",
+        "answer": "An Hien Garden House"
+    },
+    {
+        "context_index": 24,
+        "question": "What is the location of the attraction?",
+        "answer": "58 Nguyễn Phúc Nguyên, Hương Long, Thành phố Huế, Huế, Vietnam"
+    },
+    {
+        "context_index": 24,
+        "question": "Describe the attraction in detail.",
+        "answer": "An Hien Garden House is an ideal place for nature lovers and those interested in the historical aspects of Hue and Vietnam. The garden house offers lush greenery and ancient architecture that provide insights into the history of the city and country. The house is open from 7:00 AM to 6:00 PM and the entry fee is VND35,000."
+    },
+    {
+        "context_index": 24,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 25,
+        "question": "What is the name of the attraction?",
+        "answer": "Halong Bay"
+    },
+    {
+        "context_index": 25,
+        "question": "What is the location of the attraction?",
+        "answer": "On the western side of Gulf of Tokin"
+    },
+    {
+        "context_index": 25,
+        "question": "Describe the attraction in detail.",
+        "answer": "Halong Bay is known for its emerald blue water, marine cliffs, and magnificent karst topography. The bay features wind and wave-eroded limestone caves, sinkhole lakes, and grottoes. It was designated as a World Heritage Site in 1994 and is home to numerous islands. The entry fee is VND290,000."
+    },
+    {
+        "context_index": 25,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 26,
+        "question": "What is the name of the attraction?",
+        "answer": "Lan Ha Bay"
+    },
+    {
+        "context_index": 26,
+        "question": "What is the location of the attraction?",
+        "answer": "Halong Bay, Vietnam"
+    },
+    {
+        "context_index": 26,
+        "question": "Describe the attraction in detail.",
+        "answer": "Lan Ha Bay is known for its stunning scenery and peaceful environment. It is free from crowds and chaos, making it a perfect spot for honeymooners seeking solitude. Visitors can explore the bay by hiring a sailboat or kayak to reach more secluded areas. The bay is open throughout the day and there is no entry fee."
+    },
+    {
+        "context_index": 26,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 27,
+        "question": "What is the name of the attraction?",
+        "answer": "Sung Sot Cave"
+    },
+    {
+        "context_index": 27,
+        "question": "What is the location of the attraction?",
+        "answer": "Ha Long Bay, Halong City, Quảng Ninh"
+    },
+    {
+        "context_index": 27,
+        "question": "Describe the attraction in detail.",
+        "answer": "Sung Sot Cave, also known as the Cave of Marvels, is one of the largest caves in Halong Bay. It features unique rock formations, including shapes like a Buddha, a tortoise, and a phallus, illuminated by lights. The cave offers a grand and mesmerizing experience. It is open from 8:00 AM to 6:00 PM and there is no entry fee."
+    },
+    {
+        "context_index": 27,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 28,
+        "question": "What is the name of the attraction?",
+        "answer": "Cat Ba Island"
+    },
+    {
+        "context_index": 28,
+        "question": "What is the location of the attraction?",
+        "answer": "Halong Bay, Northern Vietnam, Vietnam"
+    },
+    {
+        "context_index": 28,
+        "question": "Describe the attraction in detail.",
+        "answer": "Cat Ba Island is the largest island in Halong Bay and the hub for water sport activities like swimming, snorkeling, kayaking, diving, and caving. It is also known for trekking, hiking, and rock climbing. The island provides plenty of space to relax, unwind, and sunbathe. The island is open from 8:00 AM to 5:00 PM and there is no entry fee."
+    },
+    {
+        "context_index": 28,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Amusement"
+    },
+    
+    {
+        "context_index": 29,
+        "question": "What is the name of the attraction?",
+        "answer": "Dau Be Island"
+    },
+    {
+        "context_index": 29,
+        "question": "What is the location of the attraction?",
+        "answer": "Southwestern of Halong Bay, Vietnam"
+    },
+    {
+        "context_index": 29,
+        "question": "Describe the attraction in detail.",
+        "answer": "Dau Be Island is famous for its diverse flora and fauna, including flying squirrels, golden monkeys, and various bird species. The island has three ocean basins and a cave with unique rock formations. It is ideal for snorkeling and swimming, with rich marine life and vibrant corals. The island is open all day and there is no entry fee."
+    },
+    {
+        "context_index": 29,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 30,
+        "question": "What is the name of the attraction?",
+        "answer": "Ti Top (Titov) Island"
+    },
+    {
+        "context_index": 30,
+        "question": "What is the location of the attraction?",
+        "answer": "About 14 kilometres to the east of Bai Chay tourist harbour, Vietnam"
+    },
+    {
+        "context_index": 30,
+        "question": "Describe the attraction in detail.",
+        "answer": "Ti Top Island is named after Russian astronaut Gherman Titov. It is known for its scenic beauty and recreational activities like swimming, kayaking, snorkeling, and hiking. The island's summit can be reached by a steep climb, offering panoramic views from the mountaintop gazebo. The island is open all day and the entry fee is VND50."
+    },
+    {
+        "context_index": 30,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Amusement"
+    },
+    
+    {
+        "context_index": 31,
+        "question": "What is the name of the attraction?",
+        "answer": "Ta Phin Village"
+    },
+    {
+        "context_index": 31,
+        "question": "What is the location of the attraction?",
+        "answer": "Sa Pa, Lao Cai, Vietnam"
+    },
+    {
+        "context_index": 31,
+        "question": "Describe the attraction in detail.",
+        "answer": "Ta Phin Village is located 17km west of Sa Pa and is home to the Red Dao people, who maintain their traditional lifestyle away from modernity. The roads to the village are not suitable for cars, so visitors can hire bikes. The journey offers stunning views. The entry fee is VND40,000."
+    },
+    {
+        "context_index": 31,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical, Natural"
+    },
+    {
+        "context_index": 32,
+        "question": "What is the name of the attraction?",
+        "answer": "Fansipan Mountain"
+    },
+    {
+        "context_index": 32,
+        "question": "What is the location of the attraction?",
+        "answer": "SaPa, Vietnam"
+    },
+    {
+        "context_index": 32,
+        "question": "Describe the attraction in detail.",
+        "answer": "Fansipan Mountain is the highest mountain in the Indochinese Peninsula, famously known as the roof of Indochina. It offers stunning sceneries and a beautiful landscape, ideal for trekking expeditions for adventure enthusiasts. Alternatively, visitors can take a cable car ride to witness the panoramic views of the Indochina region. The mountain is rich in flora and fauna, and visitors can marvel at the views of swirling clouds and forested slopes. The entry fee for the Fansipan cable car tickets is VND70,000 per person (adults)."
+    },
+    {
+        "context_index": 32,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 33,
+        "question": "What is the name of the attraction?",
+        "answer": "Silver Waterfall"
+    },
+    {
+        "context_index": 33,
+        "question": "What is the location of the attraction?",
+        "answer": "QL4D, San Sả Hồ, Sa Pa, Lào Cai, Vietnam"
+    },
+    {
+        "context_index": 33,
+        "question": "Describe the attraction in detail.",
+        "answer": "Silver Waterfall is a mesmerizing waterfall with white water cascading down a giant slope of a hill. The sunlight falling on the waters gives it a shining color, making it look like silver, hence the name Silver Waterfall. It is visible from afar and is ideal for hiking adventures. The waterfall is open 24 hours, and the entry fee is VND20,000."
+    },
+    {
+        "context_index": 33,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 34,
+        "question": "What is the name of the attraction?",
+        "answer": "Hoang Lien National Park"
+    },
+    {
+        "context_index": 34,
+        "question": "What is the location of the attraction?",
+        "answer": "Lao Cai, Vietnam"
+    },
+    {
+        "context_index": 34,
+        "question": "Describe the attraction in detail.",
+        "answer": "Hoang Lien National Park is one of the most important national parks in Vietnam, situated at a height of 3,000 meters above sea level. The park boasts ecotourism and is a hub for scientific research with an extensive range of forests and exotic wildlife. Visitors can explore the wilderness through trekking expeditions and enjoy the natural beauty. The park is open 24 hours, and the entry fee is VND5."
+    },
+    {
+        "context_index": 34,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 35,
+        "question": "What is the name of the attraction?",
+        "answer": "Da Nang"
+    },
+    {
+        "context_index": 35,
+        "question": "What is the location of the attraction?",
+        "answer": "Da Nang, Vietnam"
+    },
+    {
+        "context_index": 35,
+        "question": "Describe the attraction in detail.",
+        "answer": "Da Nang is the fourth largest city in Vietnam, located halfway between Hanoi and Ho Chi Minh City. It is known for its quirky bridge, museum, stunning beaches, fascinating restaurants, and dazzling nightlife. The city is famous for its stunning beaches and lively atmosphere. The entry fee for attractions in Da Nang is VND40,000."
+    },
+    {
+        "context_index": 35,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Amusement"
+    },
+    
+    {
+        "context_index": 36,
+        "question": "What is the name of the attraction?",
+        "answer": "Nha Trang"
+    },
+    {
+        "context_index": 36,
+        "question": "What is the location of the attraction?",
+        "answer": "Khanh Hoa Province, Vietnam"
+    },
+    {
+        "context_index": 36,
+        "question": "Describe the attraction in detail.",
+        "answer": "Nha Trang is the capital city of Khanh Hoa Province and a popular coastal destination with a crescent-shaped beach and a turquoise bay dotted with small islands and surrounded by hills. It is one of the most popular beach destinations in Vietnam, known for its Po Nagar Tower built by Champa Rulers, scuba diving centers, stunning beaches, pristine landscapes, and cool, comfortable climate. The entry fee for activities in Nha Trang is VND600,000 per person (adults)."
+    },
+    {
+        "context_index": 36,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    
+    {
+        "context_index": 37,
+        "question": "What is the name of the attraction?",
+        "answer": "Lan Chau Island"
+    },
+    {
+        "context_index": 37,
+        "question": "What is the location of the attraction?",
+        "answer": "Near Cua Lo beach, Nghe An, Vietnam"
+    },
+    {
+        "context_index": 37,
+        "question": "Describe the attraction in detail.",
+        "answer": "Lan Chau Island, also known as Ru Coc (toad) island, is located near Cua Lo beach and is famous for its white sand beaches and crystal clear waters. The island's steep cliffs and unique rock formations make it a popular spot for relaxation and scenic views. The island is open throughout the day and there is no entry fee."
+    },
+    {
+        "context_index": 37,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    
+    {
+        "context_index": 38,
+        "question": "What is the name of the attraction?",
+        "answer": "Buon Ma Thuot"
+    },
+    {
+        "context_index": 38,
+        "question": "What is the location of the attraction?",
+        "answer": "Dak Lak Province, Vietnam"
+    },
+    {
+        "context_index": 38,
+        "question": "Describe the attraction in detail.",
+        "answer": "Buon Ma Thuot, known as the coffee capital of Vietnam, offers pristine nature and a rustic experience. The town hosts the Biennial Coffee Festival and is known for its coffee production. Visitors can explore the Yok Don National Park, Vietnam's largest nature reserve, and visit striking waterfalls and local villages to experience the local culture. There is no entry fee for attractions in Buon Ma Thuot."
+    },
+    {
+        "context_index": 38,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 39,
+        "question": "What is the name of the attraction?",
+        "answer": "Pu Luong Nature Reserve"
+    },
+    {
+        "context_index": 39,
+        "question": "What is the location of the attraction?",
+        "answer": "Bá Thước District, Thanh Hoa, Vietnam"
+    },
+    {
+        "context_index": 39,
+        "question": "Describe the attraction in detail.",
+        "answer": "Pu Luong Nature Reserve is an offbeat destination known for its large number of rice paddies and stunning limestone panoramas. Located roughly 170 km from Hanoi, visitors can enjoy trekking, cycling, and exploring small villages. The reserve is a hidden gem with scenic beauty and is open all day with no entry fee."
+    },
+    {
+        "context_index": 39,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 40,
+        "question": "What is the name of the attraction?",
+        "answer": "Dalat"
+    },
+    {
+        "context_index": 40,
+        "question": "What is the location of the attraction?",
+        "answer": "Lam Dong Province, Dalat, Vietnam"
+    },
+    {
+        "context_index": 40,
+        "question": "Describe the attraction in detail.",
+        "answer": "Dalat is located on the Lang Biang highlands around a lake and a golf course. It is known for its cool and serene climate, with pleasant days and cool nights. The city boasts stunning lakes, waterfalls, lush green valleys, and vibrant flower beds, making it a perfect holiday retreat. There is no entry fee for attractions in Dalat."
+    },
+    {
+        "context_index": 40,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    
+    {
+        "context_index": 41,
+        "question": "What is the name of the attraction?",
+        "answer": "Sand Dunes Of Mui Ne"
+    },
+    {
+        "context_index": 41,
+        "question": "What is the location of the attraction?",
+        "answer": "South China Sea, Southeast Vietnam, Vietnam"
+    },
+    {
+        "context_index": 41,
+        "question": "Describe the attraction in detail.",
+        "answer": "The Sand Dunes of Mui Ne are spectacular white and red sand dunes eroded by oceanic wind. The winds have carved out amazing formations such as Barchans and Sieve, showcasing stunning desert topography. The dunes are a popular tourist spot, especially during peak season, and visitors can explore the area by hiring sledges, quad bikes, buggies, or taking an ostrich ride. The entry fee is VND10,000."
+    },
+    {
+        "context_index": 41,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Amusement"
+    },
+    
+    {
+        "context_index": 42,
+        "question": "What is the name of the attraction?",
+        "answer": "Phu Quoc"
+    },
+    {
+        "context_index": 42,
+        "question": "What is the location of the attraction?",
+        "answer": "Kien Giang province, Vietnam"
+    },
+    {
+        "context_index": 42,
+        "question": "Describe the attraction in detail.",
+        "answer": "Phu Quoc is located about 50 km from the Vietnam mainland and is a spectacular island on the Gulf of Thailand. It is famous for its sparkling white sand beaches, nearly transparent crystal-clear water, virgin shoreline, bustling shacks, and serene environment. Visitors can enjoy the photogenic sunset or take a stroll along the beaches. The island is open all day and there is no entry fee."
+    },
+    {
+        "context_index": 42,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach"
+    },
+    
+    {
+        "context_index": 43,
+        "question": "What is the name of the attraction?",
+        "answer": "Ninh Binh"
+    },
+    {
+        "context_index": 43,
+        "question": "What is the location of the attraction?",
+        "answer": "Red River Delta, Northern Vietnam"
+    },
+    {
+        "context_index": 43,
+        "question": "Describe the attraction in detail.",
+        "answer": "Ninh Binh is located at the southern end of the Red River Delta and represents a typical Vietnamese rural scene with lush green paddy fields, verdant mountains, and winding rivers cutting through the village. It was the former capital of Vietnam and is known for its breathtaking beauty. The area is open all day and there is no entry fee."
+    },
+    {
+        "context_index": 43,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
     }
 ]
