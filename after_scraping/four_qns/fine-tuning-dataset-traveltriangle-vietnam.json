@@ -12,17 +12,17 @@
     {
         "context_index": 0,
         "question": "Describe the attraction in detail.",
-        "answer": "The Imperial Citadel of Thang Long is a historical site that served as the political center of Vietnam for 13 uninterrupted centuries. It is a World Heritage Site since 2010 and showcases the remnants of Vietnamese military power. Archaeological expeditions have uncovered relics such as roads, palaces, wells, ponds, potteries, coins, and war remnants. The entry fee is VND30,000. The site was built over many centuries by various Vietnamese dynasties, including the Ly, Tran, and Le dynasties. The attraction is open from 8:00 AM to 5:00 PM."
+        "answer": "Imperial Citadel of Thang Long is a World Heritage Site since 2010 and was the former political centre of Vietnam for 13 uninterrupted centuries. It is a vintage fortress reflecting Vietnamese military power with relics of age-old roads, palaces, wells, ponds, potteries, coins, and other war remnants found through archaeological expeditions. It is open from 8:00 AM to 5:00 PM. The entry fee is VND30,000."
     },
     {
         "context_index": 0,
-        "question": "What type of attraction is it? (e.g., historical, natural, amusement, beach)",
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
     },
     {
         "context_index": 1,
         "question": "What is the name of the attraction?",
-        "answer": "Ho Chi Minh's Mausoleum"
+        "answer": "Ho Chi Minh’s Mausoleum"
     },
     {
         "context_index": 1,
@@ -32,17 +32,17 @@
     {
         "context_index": 1,
         "question": "Describe the attraction in detail.",
-        "answer": "Ho Chi Minh's Mausoleum is a monumental marble structure built with materials collected from all over Vietnam. Inside, Ho Chi Minh's pale body is well-preserved in a glass sarcophagus. The mausoleum is closed from September 4th to November 4th annually for maintenance and preservation procedures. Visitors are required to follow strict rules, such as not wearing short clothes, hats, or tank tops, and avoiding talking on the phone or taking pictures inside. It is a sacred place for the people of Vietnam. The attraction is free of cost and open from 8:00 AM to 11:00 AM, Saturday to Thursday."
+        "answer": "Ho Chi Minh’s Mausoleum is a monumental marble construction built with materials collected from all over the country. It houses Ho Chi Minh’s well-preserved body in a glass sarcophagus. The mausoleum is closed from September 4th to November 4th for annual maintenance and preservation procedures in Russia. Visitors must follow certain restrictions such as not wearing short clothes, hats, or tank tops, and not talking on the phone or taking pictures inside. The entry is free of cost and it is open from 8:00 AM to 11:00 AM, Saturday to Thursday."
     },
     {
         "context_index": 1,
-        "question": "What type of attraction is it? (e.g., historical, natural, amusement, beach)",
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
     },
     {
         "context_index": 2,
         "question": "What is the name of the attraction?",
-        "answer": "Hoan Kiem Lake and Ngoc Son Temple"
+        "answer": "Hoan Kiem Lake And Ngoc Son"
     },
     {
         "context_index": 2,
@@ -52,17 +52,17 @@
     {
         "context_index": 2,
         "question": "Describe the attraction in detail.",
-        "answer": "Hoan Kiem Lake, also known as Turtle Lake, is famous for its natural beauty. In the middle of the lake is Ngoc Son Temple, which is linked to the mainland by a small bridge. The area is popular for taking great pictures with a fantastic background. The lake itself has no entry fee, but the Ngoc Son Temple has an entry fee of VND30,000. The attraction is open from 8:00 AM to 6:00 PM."
+        "answer": "Hoan Kiem Lake, also known as Turtle Lake, is famous for its natural beauty and is one of the most famous places to visit in Vietnam. The Ngoc Son Temple, located in the middle of the lake, is connected to the mainland by a small bridge and provides a picturesque backdrop. The lake is open from 8:00 AM to 6:00 PM. There is no entry fee for Hoan Kiem Lake, but there is an entry fee of VND30,000 for Ngoc Son Temple."
     },
     {
         "context_index": 2,
-        "question": "What type of attraction is it? (e.g., historical, natural, amusement, beach)",
-        "answer": "Natural"
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Historical"
     },
     {
         "context_index": 3,
         "question": "What is the name of the attraction?",
-        "answer": "Vietnam Museum of Ethnology"
+        "answer": "Vietnam Museum Of Ethnology"
     },
     {
         "context_index": 3,
@@ -72,12 +72,12 @@
     {
         "context_index": 3,
         "question": "Describe the attraction in detail.",
-        "answer": "The Vietnam Museum of Ethnology is dedicated to the various ethnic groups of Vietnam. Constructed in 1997, it has undergone many changes over time. The architect Ha Duc Linh, a member of one of the ethnic groups of Vietnam, designed the building. The museum is known for its aesthetic beauty. The entry fee for adults is VND40,000, for Vietnamese students is VND15,000, and for students aged 6-8 years is VND10,000. The museum is open from 8:30 AM to 5:30 PM."
+        "answer": "Vietnam Museum of Ethnology focuses on the various ethnic groups of Vietnam. Constructed in 1997, it showcases changes over time and features the architectural work of Ha Duc Linh, a member of an ethnic group in Vietnam. The museum is open from 8:30 AM to 5:30 PM. The entry fee is VND40,000 for adults, VND15,000 for Vietnamese students, and VND10,000 for students aged 6-8 years."
     },
     {
         "context_index": 3,
-        "question": "What type of attraction is it? (e.g., historical, natural, amusement, beach)",
-        "answer": "Cultural"
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
     },
     {
         "context_index": 4,
@@ -92,11 +92,11 @@
     {
         "context_index": 4,
         "question": "Describe the attraction in detail.",
-        "answer": "Vietnam Military History Museum is among the seven national museums in Vietnam. It was constructed on July 17th, 1956. The museum displays various military weapons and items from the Vietnam War. It is famous for being one of the seven national museums in Vietnam. The entry fee is VND30,000. The museum is open from 8:00 AM to 4:30 PM."
+        "answer": "Vietnam Military History Museum is one of the seven national museums in the country. It features military weapons and items from the Vietnam War. The museum was constructed on July 17th, 1956. It is open from 8:00 AM to 4:30 PM. The entry fee is VND30,000."
     },
     {
         "context_index": 4,
-        "question": "What type of attraction is it? (e.g., historical, natural, amusement, beach)",
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
     },
     {
@@ -112,12 +112,12 @@
     {
         "context_index": 5,
         "question": "Describe the attraction in detail.",
-        "answer": "The Temple of Literature is considered the Temple of Confucius and is the site of the first national university of Vietnam, the Imperial Academy. The construction began in 1070 during the reign of Emperor Lý Thánh Tông. It is famous for being one of the most picturesque places in Vietnam. The entry fee is VND 30,000 for adults and VND 15,000 for students. It is open all day."
+        "answer": "The Temple of Literature is a Temple of Confucius and hosts the first national university of Vietnam, the Imperial Academy. The construction began in 1070 during the reign of Emperor Lý Thánh Tông. The site is famous for its picturesque architecture and historical significance. It is open all day. The entry fee is VND30,000 for adults and VND15,000 for students."
     },
     {
         "context_index": 5,
-        "question": "What type of attraction is it? (e.g., historical, natural, amusement, beach)",
-        "answer": "Cultural"
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
     },
     {
         "context_index": 6,
@@ -132,11 +132,11 @@
     {
         "context_index": 6,
         "question": "Describe the attraction in detail.",
-        "answer": "The War Remnants Museum displays various items and relics from different wars in world history. It houses weapons, armored vehicles, bombs, bunkers, tanks, infantry weapons, and artillery items. There is also a section dedicated to photographs and posters of anti-war movements. It is open from 7:00 AM to 12:30 PM and 1:30 PM to 5:00 PM. The entry fee is VND15,000."
+        "answer": "The War Remnants Museum displays various items and relics from different wars in world history, including weapons, armoured vehicles, bombs, bunkers, tanks, infantry weapons, and artillery items. It also has a section dedicated to photographs and posters of different anti-war movements globally. The museum is open from 7:00 AM to 12:30 PM and from 1:30 PM to 5:00 PM. The entry fee is VND15,000."
     },
     {
         "context_index": 6,
-        "question": "What type of attraction is it? (e.g., historical, natural, amusement, beach)",
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
     },
     {
@@ -152,11 +152,11 @@
     {
         "context_index": 7,
         "question": "Describe the attraction in detail.",
-        "answer": "The Cu Chi Tunnels are a 250 km long sub-surface tunnel network created for communication purposes during the Vietnam War against France and later used during the American War. The tunnels include meandering pathways, hidden doors, weapon storerooms, and secret routes. It is famous for its thrilling long tunnels and historical significance. The tunnels are open from 7:30 AM to 4:30 PM."
+        "answer": "Cu Chi Tunnels is a sub-surface tunnel network created for communication purposes. The 250 km long network was dug in 1940 as a hiding place during the Vietnam War against France and was later used during the American war. It comprises meandering tunnels, dark and narrow branches, hidden doors, weapon storerooms, and secret routes for canals and rivers reaching up to the border of Cambodia. Some tunnels have been widened for visitors. It is open from 7:30 AM to 4:30 PM. Entry fee is not mentioned."
     },
     {
         "context_index": 7,
-        "question": "What type of attraction is it? (e.g., historical, natural, amusement, beach)",
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
     },
     {
@@ -172,11 +172,11 @@
     {
         "context_index": 8,
         "question": "Describe the attraction in detail.",
-        "answer": "The Mekong Delta is known for its geographical significance, featuring abundant rice cultivation on its banks. The area is famous for its floating houseboats and markets on the rivers and canals that intersect the land. It is a must-visit place in Vietnam for its unique delta features. The Mekong Delta is open throughout the day."
+        "answer": "Mekong Delta is significant for its geographical features and abundance of rice cultivation on both banks. The most mesmerizing feature is the houseboats and markets that float on the rivers and canals intersecting the land. It is open throughout the day. There is no entry fee mentioned."
     },
     {
         "context_index": 8,
-        "question": "What type of attraction is it? (e.g., historical, natural, amusement, beach)",
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Natural"
     },
     {
@@ -192,12 +192,12 @@
     {
         "context_index": 9,
         "question": "Describe the attraction in detail.",
-        "answer": "The Golden Dragon Water Puppet Theatre offers a unique water puppetry show, a tradition originating almost 1000 years ago in the Red River Delta Region of Vietnam. Each 50-minute show depicts the country's culture and social life, accompanied by live music performances using traditional Vietnamese instruments. The entry fee is VND100,000."
+        "answer": "Golden Dragon Water Puppet Theatre is famous for its water puppetry, a tradition that originated almost 1000 years ago in the Red River Delta Region of Vietnam. Each show lasts 50 minutes and depicts the country’s culture and social life. The shows include live music performances featuring traditional Vietnamese instruments. The entry fee is VND100,000. Timings are not mentioned."
     },
     {
         "context_index": 9,
-        "question": "What type of attraction is it? (e.g., historical, natural, amusement, beach)",
-        "answer": "Cultural"
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement"
     },
     {
         "context_index": 10,
@@ -212,12 +212,11 @@
     {
         "context_index": 10,
         "question": "Describe the attraction in detail.",
-        "answer": "Thien Hau Temple is one of the oldest Chinese temples in Ho Chi Minh City, dedicated to the Lady of the Sea, Thien Hau. Visitors come here to seek blessings and experience the calm atmosphere with the aroma of incense and flickering candles. The temple features porcelain dioramas depicting the 19th-century Chinese way of living. The temple is open from 8:00 AM to 4:30 PM."
+        "answer": "Thien Hau Temple is one of the oldest Chinese temples in Ho Chi Minh City, dedicated to the Lady of the Sea, Thien Hau. Visitors seek solitude and experience the calm vibes with the aroma of incense sticks and flickering candles. The temple features porcelain dioramas depicting the Chinese way of living from the 19th century. It is open from 8:00 AM to 4:30 PM. There is no entry fee mentioned."
     },
     {
         "context_index": 10,
-        "question": "What type of attraction is it? (e.g., historical, natural, amusement, beach)",
-        "answer": "Religious"
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
     }
-    
 ]
