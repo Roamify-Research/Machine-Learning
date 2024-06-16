@@ -26,7 +26,7 @@ def generate_qna(context_index, text):
             {"role": "user", "content": f"Context: {text}\n\nQuestion: {question}\nAnswer:"}
         ]
 
-        response = client.chat.completions.create(model="gpt-4",
+        response = client.chat.completions.create(model="gpt-3.5-turbo",
         messages=messages,
         max_tokens=100)
 
@@ -44,6 +44,7 @@ qna_pairs = []
 # Loop through the input data and generate Q&A pairs
 for context_index, text in input_data.items():
     qna_pairs.extend(generate_qna(context_index, text))
+    break
 
 # Save the Q&A pairs to an output JSON file
 with open('after_scraping/three_qs/fine-tuning-dataset-traveltriangle-goa.json', 'w', encoding='utf-8') as outfile:
