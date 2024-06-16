@@ -628,6 +628,1355 @@
         "context_index": 13,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical, Cultural"
-    }
-    
+    },
+    {
+        "context_index": 14,
+        "question": "What is the name of the attraction?",
+        "answer": "My Son Sanctuary"
+    },
+    {
+        "context_index": 14,
+        "question": "What is the location of the attraction?",
+        "answer": "Duy Phú, Duy Xuyên District, Quang Nam Province, Vietnam"
+    },
+    {
+        "context_index": 14,
+        "question": "What are the timings of the attraction?",
+        "answer": "6:30 AM to 4:30 PM"
+    },
+    {
+        "context_index": 14,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND150,000"
+    },
+    {
+        "context_index": 14,
+        "question": "When was the attraction built?",
+        "answer": "4th to 14th Century AD"
+    },
+    {
+        "context_index": 14,
+        "question": "Who built the attraction?",
+        "answer": "Champa Kingdom"
+    },
+    {
+        "context_index": 14,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 14,
+        "question": "Describe the attraction in brief?",
+        "answer": "My Son Sanctuary is an ancient site of art and architecture that carries immense historical significance. It features partially demolished tower temples dedicated to Lord Shiva, reflecting the culture, history, and heritage of Southeast Asia."
+    },
+    {
+        "context_index": 14,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 15,
+        "question": "What is the name of the attraction?",
+        "answer": "Cham Island"
+    },
+    {
+        "context_index": 15,
+        "question": "What is the location of the attraction?",
+        "answer": "Quang Nam Province, Hoi An, Vietnam"
+    },
+    {
+        "context_index": 15,
+        "question": "What are the timings of the attraction?",
+        "answer": "Open throughout the day"
+    },
+    {
+        "context_index": 15,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND70,000"
+    },
+    {
+        "context_index": 15,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 15,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 15,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 15,
+        "question": "Describe the attraction in brief?",
+        "answer": "Cham Island, also known as Cu Lao Cham, is a small pristine island with amazing landscapes. It is rich in marine biodiversity and home to many endangered species. The island offers activities like coral spotting, swimming, diving, and snorkeling."
+    },
+    {
+        "context_index": 15,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 16,
+        "question": "What is the name of the attraction?",
+        "answer": "Phuoc Lam Pagoda"
+    },
+    {
+        "context_index": 16,
+        "question": "What is the location of the attraction?",
+        "answer": "Lê Hồng Phong, Cẩm Hà, Hội An, Quảng Nam, Vietnam"
+    },
+    {
+        "context_index": 16,
+        "question": "What are the timings of the attraction?",
+        "answer": "7:30 AM to 9:30 PM"
+    },
+    {
+        "context_index": 16,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 16,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 16,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 16,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 16,
+        "question": "Describe the attraction in brief?",
+        "answer": "Phuoc Lam Pagoda is known for its unique design and architecture. The tranquility around the place offers a calm and serene atmosphere, decorated with potted plants and religious statues."
+    },
+    {
+        "context_index": 16,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 17,
+        "question": "What is the name of the attraction?",
+        "answer": "Old House Of Phun Hung"
+    },
+    {
+        "context_index": 17,
+        "question": "What is the location of the attraction?",
+        "answer": "Hoi An, Vietnam"
+    },
+    {
+        "context_index": 17,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:00 AM to 6:00 PM"
+    },
+    {
+        "context_index": 17,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 17,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 17,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 17,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 17,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Old House of Phun Hung represents the old charm of Hoi An and Vietnam, showcasing elements of trade and local values. It is a World Heritage Site known for its cultural significance."
+    },
+    {
+        "context_index": 17,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 18,
+        "question": "What is the name of the attraction?",
+        "answer": "Quan Cong Temple"
+    },
+    {
+        "context_index": 18,
+        "question": "What is the location of the attraction?",
+        "answer": "24 Trần Phú, Cẩm Châu, Hội An, Quảng Nam, Vietnam"
+    },
+    {
+        "context_index": 18,
+        "question": "What are the timings of the attraction?",
+        "answer": "10:30 AM to 10:00 PM"
+    },
+    {
+        "context_index": 18,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND120,000 per person"
+    },
+    {
+        "context_index": 18,
+        "question": "When was the attraction built?",
+        "answer": "1653"
+    },
+    {
+        "context_index": 18,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 18,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 18,
+        "question": "Describe the attraction in brief?",
+        "answer": "Quan Cong Temple, constructed in 1653, has been renovated multiple times while preserving its Chinese architecture. It is dedicated to Quan Cong, a Chinese general known for his dedication and integrity."
+    },
+    {
+        "context_index": 18,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 19,
+        "question": "What is the name of the attraction?",
+        "answer": "Complex Of Hue Monuments"
+    },
+    {
+        "context_index": 19,
+        "question": "What is the location of the attraction?",
+        "answer": "Thành phố Huế, Thua Thien Hue, Vietnam"
+    },
+    {
+        "context_index": 19,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:00 AM to 6:00 PM"
+    },
+    {
+        "context_index": 19,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND150,000 for adults, VND30,000 for children"
+    },
+    {
+        "context_index": 19,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 19,
+        "question": "Who built the attraction?",
+        "answer": "Nguyen dynasty"
+    },
+    {
+        "context_index": 19,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 19,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Complex of Hue Monuments is the former political, cultural, and spiritual center of the Nguyen dynasty. It features age-old monuments, temples, and showcases feudal urban planning."
+    },
+    {
+        "context_index": 19,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 20,
+        "question": "What is the name of the attraction?",
+        "answer": "The Perfume River"
+    },
+    {
+        "context_index": 20,
+        "question": "What is the location of the attraction?",
+        "answer": "Thua Thien Hue, Vietnam"
+    },
+    {
+        "context_index": 20,
+        "question": "What are the timings of the attraction?",
+        "answer": "Open throughout the day"
+    },
+    {
+        "context_index": 20,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 20,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 20,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 20,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 20,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Perfume River is known for its pleasant aroma coming from the rich flora and fauna underwater. It is a romantic spot ideal for evening strolls and watching the sunset."
+    },
+    {
+        "context_index": 20,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 21,
+        "question": "What is the name of the attraction?",
+        "answer": "Pagoda Of The Celestial Lady"
+    },
+    {
+        "context_index": 21,
+        "question": "What is the location of the attraction?",
+        "answer": "Hương Hòa, Thành phố Huế, Thừa Thiên Huế 532761, Vietnam"
+    },
+    {
+        "context_index": 21,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:00 AM to 6:00 PM"
+    },
+    {
+        "context_index": 21,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 21,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 21,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 21,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 21,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Pagoda of the Celestial Lady is a popular seven-storeyed temple in Vietnam known for its historical significance. It is often part of local folklore and is a symbol of the city of Hue."
+    },
+    {
+        "context_index": 21,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 22,
+        "question": "What is the name of the attraction?",
+        "answer": "Tomb Of Khai Dinh"
+    },
+    {
+        "context_index": 22,
+        "question": "What is the location of the attraction?",
+        "answer": "Khải Định, Thủy Bằng, Hương Thủy, Thừa Thiên Huế 530000, Vietnam"
+    },
+    {
+        "context_index": 22,
+        "question": "What are the timings of the attraction?",
+        "answer": "7:00 AM to 5:30 PM"
+    },
+    {
+        "context_index": 22,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND100,000"
+    },
+    {
+        "context_index": 22,
+        "question": "When was the attraction built?",
+        "answer": "1920-1931"
+    },
+    {
+        "context_index": 22,
+        "question": "Who built the attraction?",
+        "answer": "Nguyen Dynasty"
+    },
+    {
+        "context_index": 22,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 22,
+        "question": "Describe the attraction in brief?",
+        "answer": "The Tomb of Khai Dinh, also known as Ung Mausoleum, was built for the 12th Emperor of the Nguyen Dynasty. It reflects both Oriental and Occidental architectural influences."
+    },
+    {
+        "context_index": 22,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Historical"
+    },
+    {
+        "context_index": 23,
+        "question": "What is the name of the attraction?",
+        "answer": "Phu Cam Cathedral"
+    },
+    {
+        "context_index": 23,
+        "question": "What is the location of the attraction?",
+        "answer": "1 Đoàn Hữu Trưng, Phước Vĩnh, Thành phố Huế, Thừa Thiên Huế 530000, Vietnam"
+    },
+    {
+        "context_index": 23,
+        "question": "What are the timings of the attraction?",
+        "answer": "5:00 AM to 6:30 PM"
+    },
+    {
+        "context_index": 23,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "No entry fee"
+    },
+    {
+        "context_index": 23,
+        "question": "When was the attraction built?",
+        "answer": "1963"
+    },
+    {
+        "context_index": 23,
+        "question": "Who built the attraction?",
+        "answer": "Architect Ngo Viet Thu"
+    },
+    {
+        "context_index": 23,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 23,
+        "question": "Describe the attraction in brief?",
+        "answer": "Phu Cam Cathedral is one of the best places to visit in Vietnam in December. It is a cathedral established atop a hill, known for its modern architecture by Ngo Viet Thu. The construction started in 1963 and has undergone various renovations until 2000."
+    },
+    {
+        "context_index": 23,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Religious, Architectural"
+    },
+    {
+        "context_index": 24,
+        "question": "What is the name of the attraction?",
+        "answer": "An Hien Garden House"
+    },
+    {
+        "context_index": 24,
+        "question": "What is the location of the attraction?",
+        "answer": "58 Nguyễn Phúc Nguyên, Hương Long, Thành phố Huế, Huế, Vietnam"
+    },
+    {
+        "context_index": 24,
+        "question": "What are the timings of the attraction?",
+        "answer": "7:00 AM to 6:00 PM"
+    },
+    {
+        "context_index": 24,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND35,000"
+    },
+    {
+        "context_index": 24,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 24,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 24,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 24,
+        "question": "Describe the attraction in brief?",
+        "answer": "An Hien Garden House is one of the best places to visit in Hue. It offers lush greenery and ancient architecture, providing insight into the historical aspects of the city and Vietnam. It is an ideal place to spend quality time with loved ones."
+    },
+    {
+        "context_index": 24,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Architectural"
+    },
+    {
+        "context_index": 25,
+        "question": "What is the name of the attraction?",
+        "answer": "Halong Bay"
+    },
+    {
+        "context_index": 25,
+        "question": "What is the location of the attraction?",
+        "answer": "On the western side of Gulf of Tokin"
+    },
+    {
+        "context_index": 25,
+        "question": "What are the timings of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 25,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND290,000"
+    },
+    {
+        "context_index": 25,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 25,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 25,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 25,
+        "question": "Describe the attraction in brief?",
+        "answer": "Halong Bay is a picture-postcard destination with emerald blue water and marine cliffs. Known as 'where the dragon descends into the sea,' it features wind and wave-eroded limestone caves and grottoes. It was tagged as a World Heritage Site in 1994."
+    },
+    {
+        "context_index": 25,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 26,
+        "question": "What is the name of the attraction?",
+        "answer": "Lan Ha Bay"
+    },
+    {
+        "context_index": 26,
+        "question": "What is the location of the attraction?",
+        "answer": "Halong Bay, Vietnam"
+    },
+    {
+        "context_index": 26,
+        "question": "What are the timings of the attraction?",
+        "answer": "Open throughout the day"
+    },
+    {
+        "context_index": 26,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 26,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 26,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 26,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 26,
+        "question": "Describe the attraction in brief?",
+        "answer": "Lan Ha Bay is known for its stunning scenery and peaceful environment, free from crowds. It is ideal for honeymoon trips, offering activities like sailing and kayaking to explore secluded areas."
+    },
+    {
+        "context_index": 26,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 27,
+        "question": "What is the name of the attraction?",
+        "answer": "Sung Sot Cave"
+    },
+    {
+        "context_index": 27,
+        "question": "What is the location of the attraction?",
+        "answer": "Ha Long Bay, Halong City, Quảng Ninh"
+    },
+    {
+        "context_index": 27,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:00 AM to 6:00 PM"
+    },
+    {
+        "context_index": 27,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 27,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 27,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 27,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 27,
+        "question": "Describe the attraction in brief?",
+        "answer": "Sung Sot Cave, known as the Cave of Marvels, is one of the largest caves in Halong Bay. It features unique rock formations illuminated by lights, offering a mesmerizing and grand experience."
+    },
+    {
+        "context_index": 27,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 28,
+        "question": "What is the name of the attraction?",
+        "answer": "Cat Ba Island"
+    },
+    {
+        "context_index": 28,
+        "question": "What is the location of the attraction?",
+        "answer": "Halong Bay, Northern Vietnam, Vietnam"
+    },
+    {
+        "context_index": 28,
+        "question": "What are the timings of the attraction?",
+        "answer": "8:00 AM to 5:00 PM"
+    },
+    {
+        "context_index": 28,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 28,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 28,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 28,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 28,
+        "question": "Describe the attraction in brief?",
+        "answer": "Cat Ba Island is the largest island in Halong Bay, known for its water sports activities like swimming, snorkeling, kayaking, and diving. It also offers trekking, hiking, and rock climbing adventures."
+    },
+    {
+        "context_index": 28,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Adventure"
+    },
+    {
+        "context_index": 29,
+        "question": "What is the name of the attraction?",
+        "answer": "Dau Be Island"
+    },
+    {
+        "context_index": 29,
+        "question": "What is the location of the attraction?",
+        "answer": "Southwestern of Halong Bay, Vietnam"
+    },
+    {
+        "context_index": 29,
+        "question": "What are the timings of the attraction?",
+        "answer": "Open all-day"
+    },
+    {
+        "context_index": 29,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 29,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 29,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 29,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 29,
+        "question": "Describe the attraction in brief?",
+        "answer": "Dau Be Island is famous for its diverse flora and fauna, including flying squirrels and golden monkeys. It offers excellent snorkeling opportunities with rich and diverse marine life."
+    },
+    {
+        "context_index": 29,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 30,
+        "question": "What is the name of the attraction?",
+        "answer": "Ti Top (Titov) Island"
+    },
+    {
+        "context_index": 30,
+        "question": "What is the location of the attraction?",
+        "answer": "Located about 14 kilometers to the east of Bai Chay tourist harbor, Vietnam"
+    },
+    {
+        "context_index": 30,
+        "question": "What are the timings of the attraction?",
+        "answer": "All day"
+    },
+    {
+        "context_index": 30,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND50"
+    },
+    {
+        "context_index": 30,
+        "question": "When was the attraction built?",
+        "answer": "1962"
+    },
+    {
+        "context_index": 30,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 30,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 30,
+        "question": "Describe the attraction in brief?",
+        "answer": "Ti Top Island is known for its scenic beauty and recreational activities like swimming, kayaking, and snorkeling. It offers panoramic views from the summit, named after Russian astronaut Gherman Titov."
+    },
+    {
+        "context_index": 30,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Adventure"
+    },
+    {
+        "context_index": 31,
+        "question": "What is the name of the attraction?",
+        "answer": "Ta Phin Village"
+    },
+    {
+        "context_index": 31,
+        "question": "What is the location of the attraction?",
+        "answer": "Sa Pa, Lao Cai, Vietnam"
+    },
+    {
+        "context_index": 31,
+        "question": "What are the timings of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 31,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND40,000"
+    },
+    {
+        "context_index": 31,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 31,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 31,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 31,
+        "question": "Describe the attraction in brief?",
+        "answer": "Ta Phin Village is known for the traditional lifestyle of the Red Dao people, located 17 km west of Sa Pa. It offers stunning views and a unique cultural experience."
+    },
+    {
+        "context_index": 31,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Cultural"
+    },
+    {
+        "context_index": 32,
+        "question": "What is the name of the attraction?",
+        "answer": "Fansipan Mountain"
+    },
+    {
+        "context_index": 32,
+        "question": "What is the location of the attraction?",
+        "answer": "SaPa, Vietnam"
+    },
+    {
+        "context_index": 32,
+        "question": "What are the timings of the attraction?",
+        "answer": "All day"
+    },
+    {
+        "context_index": 32,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Fansipan cable car tickets – VND70,000 per person (adults)"
+    },
+    {
+        "context_index": 32,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 32,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 32,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 32,
+        "question": "Describe the attraction in brief?",
+        "answer": "Fansipan Mountain, the highest in the Indochinese Peninsula, is known as the roof of Indochina. It offers stunning scenery and beautiful landscapes, ideal for trekking and cable car rides."
+    },
+    {
+        "context_index": 32,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Adventure"
+    },
+    {
+        "context_index": 33,
+        "question": "What is the name of the attraction?",
+        "answer": "Silver Waterfall"
+    },
+    {
+        "context_index": 33,
+        "question": "What is the location of the attraction?",
+        "answer": "QL4D, San Sả Hồ, Sa Pa, Lào Cai, Vietnam"
+    },
+    {
+        "context_index": 33,
+        "question": "What are the timings of the attraction?",
+        "answer": "Open 24 hours"
+    },
+    {
+        "context_index": 33,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND20,000"
+    },
+    {
+        "context_index": 33,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 33,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 33,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 33,
+        "question": "Describe the attraction in brief?",
+        "answer": "Silver Waterfall is a mesmerizing waterfall with white water cascading down a giant slope. The sunlight makes the water appear silver, offering stunning views ideal for hiking."
+    },
+    {
+        "context_index": 33,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 34,
+        "question": "What is the name of the attraction?",
+        "answer": "Hoang Lien National Park"
+    },
+    {
+        "context_index": 34,
+        "question": "What is the location of the attraction?",
+        "answer": "Lao Cai, Vietnam"
+    },
+    {
+        "context_index": 34,
+        "question": "What are the timings of the attraction?",
+        "answer": "Open 24 hours"
+    },
+    {
+        "context_index": 34,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND5"
+    },
+    {
+        "context_index": 34,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 34,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 34,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 34,
+        "question": "Describe the attraction in brief?",
+        "answer": "Hoang Lien National Park, situated at 3,000 m above sea level, is important for ecotourism and scientific research. It boasts extensive forests and exotic wildlife, ideal for trekking expeditions."
+    },
+    {
+        "context_index": 34,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 35,
+        "question": "What is the name of the attraction?",
+        "answer": "Da Nang"
+    },
+    {
+        "context_index": 35,
+        "question": "What is the location of the attraction?",
+        "answer": "Da Nang, Vietnam"
+    },
+    {
+        "context_index": 35,
+        "question": "What are the timings of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 35,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND40,000"
+    },
+    {
+        "context_index": 35,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 35,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 35,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 35,
+        "question": "Describe the attraction in brief?",
+        "answer": "Danang – the fourth largest city in Vietnam – is known for its quirky bridge, museum, stunning beaches, fascinating restaurants, and dazzling nightlife."
+    },
+    {
+        "context_index": 35,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach, Urban"
+    },
+    {
+        "context_index": 36,
+        "question": "What is the name of the attraction?",
+        "answer": "Nha Trang"
+    },
+    {
+        "context_index": 36,
+        "question": "What is the location of the attraction?",
+        "answer": "Khanh Hoa Province, Vietnam"
+    },
+    {
+        "context_index": 36,
+        "question": "What are the timings of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 36,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND600,000 per person (adults) for the activities"
+    },
+    {
+        "context_index": 36,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 36,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 36,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 36,
+        "question": "Describe the attraction in brief?",
+        "answer": "Nha Trang is a coastal destination with a crescent-shaped beach and turquoise bay dotted with small islands. It is known for its Po Nagar Tower, scuba diving center, stunning beaches, and cool, comfortable climate."
+    },
+    {
+        "context_index": 36,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach, Natural"
+    },
+    {
+        "context_index": 37,
+        "question": "What is the name of the attraction?",
+        "answer": "Lan Chau Island"
+    },
+    {
+        "context_index": 37,
+        "question": "What is the location of the attraction?",
+        "answer": "Near Cua Lo beach, Nghe An, Vietnam"
+    },
+    {
+        "context_index": 37,
+        "question": "What are the timings of the attraction?",
+        "answer": "Open throughout the day"
+    },
+    {
+        "context_index": 37,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 37,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 37,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 37,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 37,
+        "question": "Describe the attraction in brief?",
+        "answer": "Lan Chau Island, also known as Ru Coc (toad) island, is known for its tranquil blue waters, white sand beaches, steep cliffs, and rock formations."
+    },
+    {
+        "context_index": 37,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 38,
+        "question": "What is the name of the attraction?",
+        "answer": "Buon Ma Thuot"
+    },
+    {
+        "context_index": 38,
+        "question": "What is the location of the attraction?",
+        "answer": "Dak Lak Province, Vietnam"
+    },
+    {
+        "context_index": 38,
+        "question": "What are the timings of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 38,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 38,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 38,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 38,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 38,
+        "question": "Describe the attraction in brief?",
+        "answer": "Buon Ma Thuot, the coffee capital of Vietnam, is known for its pristine nature and rustic charm. It hosts the Biennial Coffee Festival and offers attractions like Yok Don National Park, waterfalls, and villages."
+    },
+    {
+        "context_index": 38,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Cultural"
+    },
+    {
+        "context_index": 39,
+        "question": "What is the name of the attraction?",
+        "answer": "Pu Luong Nature Reserve"
+    },
+    {
+        "context_index": 39,
+        "question": "What is the location of the attraction?",
+        "answer": "Bá Thước District, Thanh Hoa, Vietnam"
+    },
+    {
+        "context_index": 39,
+        "question": "What are the timings of the attraction?",
+        "answer": "Open all-day"
+    },
+    {
+        "context_index": 39,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 39,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 39,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 39,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 39,
+        "question": "Describe the attraction in brief?",
+        "answer": "Pu Luong Nature Reserve is known for its large number of rice paddies and stunning limestone panoramas. It offers activities like trekking, cycling, and exploring small villages."
+    },
+    {
+        "context_index": 39,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 40,
+        "question": "What is the name of the attraction?",
+        "answer": "Dalat"
+    },
+    {
+        "context_index": 40,
+        "question": "What is the location of the attraction?",
+        "answer": "Lam Dong Province, Dalat, Vietnam"
+    },
+    {
+        "context_index": 40,
+        "question": "What are the timings of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 40,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 40,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 40,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 40,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 40,
+        "question": "Describe the attraction in brief?",
+        "answer": "Dalat, located on the Lang Biang highlands, is known for its cool climate and stunning lakes, waterfalls, and lush green valleys. It offers a perfect holiday retreat."
+    },
+    {
+        "context_index": 40,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    },
+    {
+        "context_index": 41,
+        "question": "What is the name of the attraction?",
+        "answer": "Sand Dunes Of Mui Ne"
+    },
+    {
+        "context_index": 41,
+        "question": "What is the location of the attraction?",
+        "answer": "South China Sea, Southeast Vietnam, Vietnam"
+    },
+    {
+        "context_index": 41,
+        "question": "What are the timings of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 41,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "VND10,000 camps"
+    },
+    {
+        "context_index": 41,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 41,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 41,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 41,
+        "question": "Describe the attraction in brief?",
+        "answer": "Mui Ne is known for its spectacular white and red sand dunes, eroded by oceanic wind. It offers activities like sledging, quad biking, and buggy rides."
+    },
+    {
+        "context_index": 41,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural, Adventure"
+    },
+    {
+        "context_index": 42,
+        "question": "What is the name of the attraction?",
+        "answer": "Phu Quoc"
+    },
+    {
+        "context_index": 42,
+        "question": "What is the location of the attraction?",
+        "answer": "Kien Giang province, Vietnam"
+    },
+    {
+        "context_index": 42,
+        "question": "What are the timings of the attraction?",
+        "answer": "All-day"
+    },
+    {
+        "context_index": 42,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 42,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 42,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 42,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 42,
+        "question": "Describe the attraction in brief?",
+        "answer": "Phu Quoc is the largest island in Vietnam, located about 50 km from the mainland. It is known for its white sand beaches, clear waters, and serene environment."
+    },
+    {
+        "context_index": 42,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Beach, Natural"
+    },
+    {
+        "context_index": 43,
+        "question": "What is the name of the attraction?",
+        "answer": "Ninh Binh"
+    },
+    {
+        "context_index": 43,
+        "question": "What is the location of the attraction?",
+        "answer": "Red River Delta, Northern Vietnam"
+    },
+    {
+        "context_index": 43,
+        "question": "What are the timings of the attraction?",
+        "answer": "All-day"
+    },
+    {
+        "context_index": 43,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "NA"
+    },
+    {
+        "context_index": 43,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 43,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 43,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 43,
+        "question": "Describe the attraction in brief?",
+        "answer": "Ninh Binh is known for its lush green paddy fields, verdant mountains, and winding rivers. It is a typical Vietnamese rural scene and was the former capital of Vietnam."
+    },
+    {
+        "context_index": 43,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Natural"
+    }    
 ]
