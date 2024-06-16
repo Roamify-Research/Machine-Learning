@@ -16,7 +16,8 @@ def generate_qna(context_index, text):
     questions = [
         "What is the name of the attraction?",
         "What is the location of the attraction?",
-        "Describe the attraction in detail."
+        "Describe the attraction in detail.",
+        "What type of attraction is it? (e.g. historical, natural, amusement, beach)"
     ]
     answers = []
 
