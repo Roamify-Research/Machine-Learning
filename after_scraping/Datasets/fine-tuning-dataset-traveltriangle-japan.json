@@ -1,0 +1,47 @@
+[
+    {
+        "context_index": 0,
+        "question": "What is the name of the attraction?",
+        "answer": "Tokyo Disneyland, Tokyo Skytree, Tokyo DisneySea"
+    },
+    {
+        "context_index": 0,
+        "question": "What is the location of the attraction?",
+        "answer": "Tokyo, Japan"
+    },
+    {
+        "context_index": 0,
+        "question": "What are the timings of the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 0,
+        "question": "What is the entry fee of the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 0,
+        "question": "When was the attraction built?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 0,
+        "question": "Who built the attraction?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 0,
+        "question": "What is the price for two at the attraction in INR?",
+        "answer": "Not specified"
+    },
+    {
+        "context_index": 0,
+        "question": "Describe the attraction in brief?",
+        "answer": "Tokyo is the city that reflects the colors of Japan, renowned for its anime culture and world-class attractions. It offers a vibrant culinary scene and is considered one of the best places to visit in Japan for first-timers."
+    },
+    {
+        "context_index": 0,
+        "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
+        "answer": "Amusement"
+    }
+]
