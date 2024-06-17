@@ -15,7 +15,7 @@ stopwords = set(stopwords.words('english'))
 nlp_model = spacy.load('en_core_web_lg')
 
 # Read the dataset
-# data = open("traveltriangle.txt", "r").read()
+# data = open("../webscraped data/traveltriangle.txt", "r").read()
 data = open("../webscraped data/traveltriangle.txt", "r", encoding='utf-8').read()
 
 
@@ -154,8 +154,8 @@ trainer.save_model("./fine-tuned-bert-model")
 pipeline_model = pipeline("question-answering", model=model, tokenizer=tokenizer)
 
 # Write the processed data to file
-# write_file = open("../after_scraping/traveltriangle_after.txt", "w")
-write_file = open("../after_scraping/traveltriangle_after.txt", "w", encoding='utf-8')
+# write_file = open("../after_scraping/Initial/traveltriangle_after.txt", "w")
+write_file = open("../after_scraping/Initial/traveltriangle_after.txt", "w", encoding='utf-8')
 for id, attraction_data in attractions.items():
     # Create question-answer pairs
     questions = {
