@@ -5,7 +5,7 @@ import openai
 openai.api_key = 'your_api_key'
 
 # Load the input JSON file
-with open('after_scraping/Context-Data/fine-tuning-traveltriangle-goa.json', 'r', encoding='utf-8') as infile:
+with open('../after_scraping/Context-Data/fine-tuning-traveltriangle-goa.json', 'r', encoding='utf-8') as infile:
     input_data = json.load(infile)
 
 # Function to generate questions and answers
@@ -46,7 +46,7 @@ for context_index, text in input_data.items():
     qna_pairs.extend(generate_qna(context_index, text))
 
 # Save the Q&A pairs to an output JSON file
-with open('after_scraping/three_qs/fine-tuning-dataset-traveltriangle-goa.json', 'w', encoding='utf-8') as outfile:
+with open('../after_scraping/four_qs/fine-tuning-dataset-traveltriangle-goa.json', 'w', encoding='utf-8') as outfile:
     json.dump(qna_pairs, outfile, ensure_ascii=False, indent=4)
 
 print("Q&A pairs generated and saved to output JSON file.")

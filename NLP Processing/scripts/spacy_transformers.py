@@ -43,7 +43,8 @@ for index in range(len(sentences_processed)):
 
 # result = {}
 
-write_file = open("../after_scraping/Initial/traveltriangle_after-vietnam.txt", "w")
+# write_file = open("../after_scraping/Initial/traveltriangle_after-vietnam.txt", "w")
+write_file = open("../after_scraping/Initial/traveltriangle_after-vietnam.txt", "w", encoding='utf-8')
 
 json_data = {}
 context_id = 0
