@@ -1,43 +1,42 @@
-import nltk
-import spacy
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
-from transformers import AutoTokenizer, TFAutoModelForQuestionAnswering, Trainer, TrainingArguments, pipeline
+from transformers import AutoTokenizer, TFDistilBertForQuestionAnswering, TrainingArguments, Trainer
 from datasets import Dataset, load_metric
-import numpy as np
 import json
-# Download necessary NLTK resources
-nltk.download('punkt')
-nltk.download('stopwords')
+import pandas as pd
+import numpy as np
+import tensorflow as tf
+strategy = tf.distribute.MirroredStrategy()
+# Check TensorFlow and Transformers versions
+print(f"TensorFlow version: {tf.__version__}")
 
-# Load stopwords and spacy model
-stopwords = set(stopwords.words('english'))
-nlp_model = spacy.load('en_core_web_lg')
+# Tokenizer and model initialization for DistilBERT
+tokenizer = AutoTokenizer.from_pretrained("distilbert-base-uncased-distilled-squad")
+with strategy.scope():
+    model = TFDistilBertForQuestionAnswering.from_pretrained("distilbert-base-uncased-distilled-squad")
 
-# Read the dataset
-# data = open("../webscraped data/traveltriangle.txt", "r").read()
-# data = open("../webscraped data/traveltriangle.txt", "r", encoding='utf-8').read()
+# Read context data and questions
+context_data_files = [
+    "../NLP Processing/after_scraping/Context-Data/fine-tuning-traveltriangle-goa.json",
+    "../NLP Processing/after_scraping/Context-Data/fine-tuning-traveltriangle-japan.json",
+    "../NLP Processing/after_scraping/Context-Data/fine-tuning-traveltriangle-vietnam.json"
+]
+dataset_files = [
+    "../NLP Processing/after_scraping/four_qns/fine-tuning-dataset-traveltriangle-goa.json",
+    "../NLP Processing/after_scraping/four_qns/fine-tuning-dataset-traveltriangle-japan.json",
+    "../NLP Processing/after_scraping/four_qns/fine-tuning-dataset-traveltriangle-vietnam.json"
+]
 
+contexts = []
+questions_dataset = []
+answers_text = []
+answers_start = []
 
-# Preprocess the data using Spacy
-# data_processed = nlp_model(data)
-# sentences = [sent.text.strip() for sent in data_processed.sents]
-
-# Tokenizer and model initialization
-tokenizer = AutoTokenizer.from_pretrained("bert-large-uncased-whole-word-masking-finetuned-squad")
-model = TFAutoModelForQuestionAnswering.from_pretrained("bert-large-uncased-whole-word-masking-finetuned-squad")
-
-# Prepare dataset for question answering
-qa_dataset = {
-    'context': [],
-    'question': [],
-    'answers': {'text': [], 'answer_start': []}
-}
-context_data_files = ["../NLP Processing/after_scraping/Context-Data/fine-tuning-traveltriangle-goa.json", "../NLP Processing/after_scraping/Context-Data/fine-tuning-traveltriangle-japan.json", "../NLP Processing/after_scraping/Context-Data/fine-tuning-traveltriangle-vietnam.json"]
-dataset_files = ["../NLP Processing/after_scraping/four_qns/fine-tuning-dataset-traveltriangle-goa.json","../NLP Processing/after_scraping/four_qns/fine-tuning-dataset-traveltriangle-japan.json", "../NLP Processing/after_scraping/Previous Datasets/fine-tuning-dataset-traveltriangle-vietnam.json"]
-
+# Load context data
 context_data = {}
+for i, file_path in enumerate(context_data_files):
+    with open(file_path, "r") as file:
+        context_data[i] = json.load(file)
 
+# Define questions
 questions = [
     "What is the name of the attraction?",
     "What is the location of the attraction?",
@@ -45,37 +44,38 @@ questions = [
     "What type of attraction is it? (e.g. historical, natural, amusement, beach)"
 ]
 
-
-for i in range(len(context_data_files)):
-    context_data[i] = {}
-    with open(context_data_files[i], "r") as file:
-        context_data[i].update(json.load(file))
-    
-print(context_data.keys())
-print(context_data[0].keys())
-
-for i in range(len(dataset_files)):
-    with open(dataset_files[i], "r") as file:
+# Read dataset files
+for i, file_path in enumerate(dataset_files):
+    with open(file_path, "r") as file:
         dataset = json.load(file)
         for entry in dataset:
             id = entry['context_index']
             for question in questions:
-                if question == entry['question']:
-                    qa_dataset['context'].append(context_data[i][str(id)])
-                    qa_dataset['question'].append(question)
-                    qa_dataset['answers']['text'].append(entry["answer"])
-                    qa_dataset['answers']['answer_start'].append(0)
+                if question == entry['question'] and str(id) in context_data[i].keys():
+                    contexts.append(context_data[i][str(id)])
+                    questions_dataset.append(entry["question"])
+                    answers_text.append(entry["answer"])
+                    answers_start.append(0)
 
-# Create a Dataset object
-dataset = Dataset.from_dict(qa_dataset)
+# Create DataFrame
+df = pd.DataFrame({
+    'context': contexts,
+    'question': questions_dataset,
+    'answers_text': answers_text,
+    'answers_start': answers_start
+})
 
 # Tokenize the dataset
 def tokenize_function(examples):
     return tokenizer(examples['context'], examples['question'], truncation=True)
 
-tokenized_datasets = dataset.map(tokenize_function, batched=True)
+# Map tokenization function to dataset
+tokenized_datasets = Dataset.from_pandas(df).map(tokenize_function, batched=True)
 
-# Set up training arguments
+# Split dataset into training and evaluation
+tokenized_datasets = tokenized_datasets.train_test_split(test_size=0.1)
+
+# Training arguments
 training_args = TrainingArguments(
     output_dir='./results',
     evaluation_strategy="epoch",
@@ -86,69 +86,28 @@ training_args = TrainingArguments(
     weight_decay=0.01,
 )
 
-# Define data collator
-from transformers import DefaultDataCollator
-data_collator = DefaultDataCollator()
-
-# Define metric
+# Load metric
 metric = load_metric("squad")
 
+# Compute metrics function
 def compute_metrics(p):
     return metric.compute(predictions=np.argmax(p.predictions, axis=2), references=p.label_ids)
 
-# Create Trainer instance
-trainer = Trainer(
-    model=model,
-    args=training_args,
-    train_dataset=tokenized_datasets,
-    tokenizer=tokenizer,
-    data_collator=data_collator,
-    compute_metrics=compute_metrics,
-)
 
-# Train the model
-trainer.train()
+# Scope the Trainer within the strategy
+with strategy.scope():
+    # Initialize Trainer
+    trainer = Trainer(
+        model=model,
+        args=training_args,
+        train_dataset=tokenized_datasets['train'],
+        eval_dataset=tokenized_datasets['test'],
+        tokenizer=tokenizer,
+        compute_metrics=compute_metrics,
+    )
 
-# Save the model
-trainer.save_model("./fine-tuned-bert-model")
+    # Train the model
+    trainer.train()
 
-# # Use the fine-tuned model for question answering
-# pipeline_model = pipeline("question-answering", model=model, tokenizer=tokenizer)
-
-# # Write the processed data to file
-# # write_file = open("../after_scraping/Initial/traveltriangle_after.txt", "w")
-# write_file = open("../after_scraping/Initial/traveltriangle_after.txt", "w", encoding='utf-8')
-# for id, attraction_data in attractions.items():
-#     # Create question-answer pairs
-#     questions = {
-#         "name": "What is the name of the attraction?",
-#         "location": "What is the location of the attraction?",
-#         "timings": "What are the timings of the attraction?",
-#         "entry_fee": "What is the entry fee of the attraction?",
-#         "built_in": "When was the attraction built?",
-#         "built_by": "Who built the attraction?",
-#         "price_for_two": "What is the price for two at the attraction in INR?",
-#         "description": "Describe the attraction in brief?",
-#         "type": "What type of attraction is it? (e.g. historical, natural, amusement, beach)"
-#     }
-#     answers = {}
-#     for key, question in questions.items():
-#         if val[key.capitalize()]:
-#             answer = pipeline_model(question=question, context=val[key.capitalize()])
-#             answers[key] = answer['answer']
-#         else:
-#             answers[key] = "Not Found"
-    
-#     write_file.write(
-#         f"""
-#         Name: {answers['name']}
-#         Location: {answers['location']}
-#         Timings: {answers['timings']}
-#         Entry Fee: {answers['entry_fee']}
-#         Built In: {answers['built_in']}
-#         Built By: {answers['built_by']}
-#         Price For Two: {answers['price_for_two']}
-#         Description: {val['Description']}
-#         """
-#     )
-# write_file.close()
+# Save the fine-tuned model
+trainer.save_model("fine-tuned-distilbert-model")
