@@ -37,16 +37,36 @@ context_data_files = ["../NLP Processing/after_scraping/Context-Data/fine-tuning
 dataset_files = ["../NLP Processing/after_scraping/four_qns/fine-tuning-dataset-traveltriangle-goa.json","../NLP Processing/after_scraping/four_qns/fine-tuning-dataset-traveltriangle-japan.json", "../NLP Processing/after_scraping/Previous Datasets/fine-tuning-dataset-traveltriangle-vietnam.json"]
 
 context_data = {}
+
+questions = [
+    "What is the name of the attraction?",
+    "What is the location of the attraction?",
+    "Describe the attraction in detail.",
+    "What type of attraction is it? (e.g. historical, natural, amusement, beach)"
+]
+
+
 for i in range(len(context_data_files)):
     context_data[i] = {}
     with open(context_data_files[i], "r") as file:
         context_data[i].update(json.load(file))
     
+print(context_data.keys())
 print(context_data[0].keys())
 
+for i in range(len(dataset_files)):
+    with open(dataset_files[i], "r") as file:
+        dataset = json.load(file)
+        for entry in dataset:
+            id = entry['context_index']
+            for question in questions:
+                qa_dataset['context'].append(context_data[i][str(id)])
+                qa_dataset['question'].append(question)
+                qa_dataset['answers']['text'].append(entry["answer"])
+                qa_dataset['answers']['answer_start'].append(0)
 
-# # Create a Dataset object
-# dataset = Dataset.from_dict(qa_dataset)
+# Create a Dataset object
+dataset = Dataset.from_dict(qa_dataset)
 
 # # Tokenize the dataset
 # def tokenize_function(examples):
