@@ -60,56 +60,57 @@ for i in range(len(dataset_files)):
         for entry in dataset:
             id = entry['context_index']
             for question in questions:
-                qa_dataset['context'].append(context_data[i][str(id)])
-                qa_dataset['question'].append(question)
-                qa_dataset['answers']['text'].append(entry["answer"])
-                qa_dataset['answers']['answer_start'].append(0)
+                if question == entry['question']:
+                    qa_dataset['context'].append(context_data[i][str(id)])
+                    qa_dataset['question'].append(question)
+                    qa_dataset['answers']['text'].append(entry["answer"])
+                    qa_dataset['answers']['answer_start'].append(0)
 
 # Create a Dataset object
 dataset = Dataset.from_dict(qa_dataset)
 
-# # Tokenize the dataset
-# def tokenize_function(examples):
-#     return tokenizer(examples['context'], examples['question'], truncation=True)
+# Tokenize the dataset
+def tokenize_function(examples):
+    return tokenizer(examples['context'], examples['question'], truncation=True)
 
-# tokenized_datasets = dataset.map(tokenize_function, batched=True)
+tokenized_datasets = dataset.map(tokenize_function, batched=True)
 
-# # Set up training arguments
-# training_args = TrainingArguments(
-#     output_dir='./results',
-#     evaluation_strategy="epoch",
-#     learning_rate=2e-5,
-#     per_device_train_batch_size=16,
-#     per_device_eval_batch_size=16,
-#     num_train_epochs=3,
-#     weight_decay=0.01,
-# )
+# Set up training arguments
+training_args = TrainingArguments(
+    output_dir='./results',
+    evaluation_strategy="epoch",
+    learning_rate=2e-5,
+    per_device_train_batch_size=16,
+    per_device_eval_batch_size=16,
+    num_train_epochs=3,
+    weight_decay=0.01,
+)
 
-# # Define data collator
-# from transformers import DefaultDataCollator
-# data_collator = DefaultDataCollator()
+# Define data collator
+from transformers import DefaultDataCollator
+data_collator = DefaultDataCollator()
 
-# # Define metric
-# metric = load_metric("squad")
+# Define metric
+metric = load_metric("squad")
 
-# def compute_metrics(p):
-#     return metric.compute(predictions=np.argmax(p.predictions, axis=2), references=p.label_ids)
+def compute_metrics(p):
+    return metric.compute(predictions=np.argmax(p.predictions, axis=2), references=p.label_ids)
 
-# # Create Trainer instance
-# trainer = Trainer(
-#     model=model,
-#     args=training_args,
-#     train_dataset=tokenized_datasets,
-#     tokenizer=tokenizer,
-#     data_collator=data_collator,
-#     compute_metrics=compute_metrics,
-# )
+# Create Trainer instance
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    train_dataset=tokenized_datasets,
+    tokenizer=tokenizer,
+    data_collator=data_collator,
+    compute_metrics=compute_metrics,
+)
 
-# # Train the model
-# trainer.train()
+# Train the model
+trainer.train()
 
-# # Save the model
-# trainer.save_model("./fine-tuned-bert-model")
+# Save the model
+trainer.save_model("./fine-tuned-bert-model")
 
 # # Use the fine-tuned model for question answering
 # pipeline_model = pipeline("question-answering", model=model, tokenizer=tokenizer)
