@@ -3,12 +3,7 @@ import torch
 import json
 
 pipe = pipeline("text-generation", model="meta-llama/Meta-Llama-3-8B-Instruct")
-# if torch.backends.mps.is_available():
-#     device = torch.device("mps")
-#     print("MPS is available. Using MPS device.")
-# else:
-#     device = torch.device("cpu")
-#     print("MPS device not found. Using CPU.")
+
 def return_output(input):
 
     input = "Summarize: " + input
