@@ -50,7 +50,7 @@ json_data = {}
 context_id = 0
 for id, attraction_data in attractions.items():
     words = word_tokenize(attraction_data)
-    words = [w for w in words if w != ":" and w != "-" and w.lower() != "image" and w.lower() != "credit" and w.lower() != "source"]
+    words = [w for w in words if w.isalnum() and  w != ":" and w != "-" and w.lower() != "image" and w.lower() != "credit" and w.lower() != "source"]
     val = {"Location": "", "Timings": "", "Entry Fee": "", "Description": "", "Built By": "", "Built In": "", "Price For Two": ""}
     current = "Description"
     count = 0
