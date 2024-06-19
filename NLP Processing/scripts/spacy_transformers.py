@@ -4,6 +4,7 @@ import spacy
 import nltk
 from transformers import pipeline
 import json
+import roberta_pipeline, llama_pipeline
 nltk.download('punkt')
 nltk.download('stopwords')
 
@@ -11,14 +12,14 @@ nltk.download('stopwords')
 stopwords = set(stopwords.words('english'))
 nlp_model = spacy.load('en_core_web_lg')
 # data = open("../webscraped data/traveltriangle.txt", "r").read()
-data = open("../webscraped data/vietnam_traveltriangle.txt", "r", encoding='utf-8').read()
+data = open("../webscraped data/traveltriangle.txt", "r", encoding='utf-8').read()
 data_processed = nlp_model(data)
 
 sentences = [sent.text.strip() for sent in data_processed.sents]
 
 
 # summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
-pipeline_model = pipeline("question-answering", model="bert-large-uncased-whole-word-masking-finetuned-squad")
+# pipeline_model = pipeline("question-answering", model="bert-large-uncased-whole-word-masking-finetuned-squad")
 sentences_processed = []
 current_index = 0
 attractions = {}
@@ -44,8 +45,7 @@ for index in range(len(sentences_processed)):
 # result = {}
 
 # write_file = open("../after_scraping/Initial/traveltriangle_after-vietnam.txt", "w")
-write_file = open("../after_scraping/Initial/traveltriangle_after-vietnam.txt", "w", encoding='utf-8')
-
+write_file = open("../after_scraping/Initial/traveltriangle_after-goa.txt", "w", encoding='utf-8')
 json_data = {}
 context_id = 0
 for id, attraction_data in attractions.items():
@@ -54,6 +54,7 @@ for id, attraction_data in attractions.items():
     val = {"Location": "", "Timings": "", "Entry Fee": "", "Description": "", "Built By": "", "Built In": "", "Price For Two": ""}
     current = "Description"
     count = 0
+    attraction_data_llama = " ".join(words)
     while (count < len(words)):
         word = words[count].lower()
         if word == "location":
@@ -86,64 +87,66 @@ for id, attraction_data in attractions.items():
         
         count += 1
 
-    question1 = "What is the name of the attraction?"
-    name = pipeline_model(question=question1, context=str(val["Description"]))
+    name = roberta_pipeline.return_output("What is the name of the attraction?", val["Description"])
+
     if val["Location"]:
-        question2 = "What is the location of the attraction?"
-        location = pipeline_model(question=question2, context=val["Location"])
+        location = roberta_pipeline.return_output("What is the location of the attraction?", val["Location"])
     else:
-        location =  {"answer": "Not Found"}
+        location = None
 
     if val["Timings"]:
-        question3 = "What are the timings of the attraction?"
-        timings = pipeline_model(question=question3, context=val["Timings"])
+        timings = roberta_pipeline.return_output( "What are the timings of the attraction?", val["Timings"])
     else:
-        timings = {"answer": "Not Found"}
+        timings = None
+
     if val["Entry Fee"]:
-        question4 = "What is the entry fee of the attraction?"
-        entry_fee = pipeline_model(question=question4, context=val["Entry Fee"])
-        if "no" in entry_fee["answer"].lower():
-            entry_fee = {"answer": "No"}
+        entry_fee = roberta_pipeline.return_output("What is the entry fee of the attraction?", val["Entry Fee"])
+        if "no" in entry_fee.lower():
+            entry_fee = "No"
     else:
-        entry_fee =  {"answer": "Not Found"}
+        entry_fee =  None
 
     if val["Built In"]:
-        question5 = "When was the attraction built?"
-        built_in = pipeline_model(question=question5, context=val["Built In"])
+        built_in = roberta_pipeline.return_output("When was the attraction built?", val["Built In"])
     else:
-        built_in =  {"answer": "Not Found"}
+        built_in =  None
 
     if val["Built By"]:
-        question6 = "Who built the attraction?"
-        built_by = pipeline_model(question=question6, context=val["Built By"])
-
+        built_by = roberta_pipeline.return_output("Who built the attraction?", val["Built By"])
     else:
-        built_by =  {"answer": "Not Found"}
+        built_by =  None
 
     if val["Price For Two"]:
-        question7 = "What is the price for two at the attraction in inr?"
-        price_for_two = pipeline_model(question=question7, context=val["Price For Two"])
+        price_for_two = roberta_pipeline.return_output("What is the price for two at the attraction?",val["Price For Two"])
     else:
-        price_for_two =  {"answer": "Not Found"}
+        price_for_two =  None
 
-    write_file.write(
-f"""
-Name: {name['answer']}
-Location: {location['answer']}
-Timings: {timings['answer']}
-Entry Fee: {entry_fee['answer']}
-Built In: {built_in['answer']}
-Built By: {built_by['answer']}
-Price For Two: {price_for_two['answer']}
-Description: {val['Description']}
-""")
+    result = ""
+    result += f"Name: {name}\n"
+    if location:
+        result += f"Location: {location}.\n"
+    if timings:
+        result += f"Timings: {timings}.\n"
+    if entry_fee:
+        result += f"Entry Fee: {entry_fee}.\n"
+    if built_in:
+        result += f"{name} was built in {built_in}."
+    if built_by:
+        result += f"{name} was built by {built_by}."
+    if price_for_two:
+        result += f"The price for two at this attraction is {price_for_two}"
+    if val['Description']:
+        result += f"Description: {val['Description']}.\n\n"
     
-    json_data[str(context_id)] = attraction_data
+    
+    write_file.write(result)
+    
+    json_data[str(context_id)] = llama_pipeline.return_output(attraction_data_llama)
     context_id += 1
 
 
 
-with open("../after_scraping/Context-Data/fine-tuning-traveltriangle-vietnam.json", "w") as f:
+with open("../after_scraping/Context-Data/fine-tuning-traveltriangle-goa.json", "w") as f:
     json.dump(json_data, f, indent=4)
 
 write_file.close()
