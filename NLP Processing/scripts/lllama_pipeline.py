@@ -16,15 +16,21 @@ def return_output(input):
 
 
 files = [
+    'fine-tuning-bangalore_traveltriangle.json',
+    'fine-tuning-chennai_traveltriangle.json',
+    'fine-tuning-dehradun_traveltriangle.json',
     'fine-tuning-goa_traveltriangle.json',
+    'fine-tuning-hyderabad_traveltriangle.json',
     'fine-tuning-italy_traveltriangle.json',
     'fine-tuning-japan_traveltriangle.json',
     'fine-tuning-kerala_traveltriangle.json',
     'fine-tuning-lakshwadeep_traveltriangle.json',
-    'fine-tuning-makemytrip.json',
+    'fine-tuning-mysore_traveltriangle.json',
+    'fine-tuning-pune_traveltriangle.json',
     'fine-tuning-tn_traveltriangle.json',
     'fine-tuning-vietnam_traveltriangle.json'
 ]
+
 
 for i in files:
     data = json.load(open(f"../after_scraping/Context-Data/{i}", "r"))

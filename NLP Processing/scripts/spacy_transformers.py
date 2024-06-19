@@ -12,7 +12,7 @@ nltk.download('stopwords')
 stopwords = set(stopwords.words('english'))
 nlp_model = spacy.load('en_core_web_lg')
 # data = open("../webscraped data/traveltriangle.txt", "r").read()
-file_names = ['goa_traveltriangle', 'italy_traveltriangle', 'japan_traveltriangle', 'kerala_traveltriangle', 'lakshwadeep_traveltriangle', 'makemytrip', 'tn_traveltriangle', 'vietnam_traveltriangle']
+file_names = ['goa_traveltriangle', 'italy_traveltriangle', 'japan_traveltriangle', 'kerala_traveltriangle', 'lakshwadeep_traveltriangle',  'tn_traveltriangle', 'vietnam_traveltriangle', 'bangalore_traveltriangle', 'chennai_traveltriangle', 'dehradun_traveltriangle', 'hyderabad_traveltriangle', 'mumbai_traveltriangle', 'mysore_traveltriangle', 'pune_traveltriangle']
 for file_name in file_names:
     print(f"Executing {file_name}")
     data = open(f"../webscraped data/{file_name}.txt", "r", encoding='utf-8').read()
