@@ -1,6 +1,6 @@
 # Machine-Learning
 
-## Datasets
+## Recommendor System Datasets:
 
 - **Official Tourism Websites**: Each state in India typically has an official tourism website that provides detailed information about popular tourist attractions, including their history, visiting hours, and other relevant details.
 
@@ -35,3 +35,29 @@
     - [Sikkim Tourism](https://www.sikkimtourism.gov.in/)
     - [Andaman and Nicobar Tourism](https://www.andamantourism.gov.in/)
     - [Lakshadweep Tourism](https://www.lakshadweeptourism.com/)
+
+
+## NLP Datasets:
+
+- **[Travel Triangle Website](https://traveltriangle.com)**: To gather comprehensive travel information, we utilized web scraping techniques on various Travel Triangle links, focusing on specific cities, states, and countries. For Bangalore, Chennai, Dehradun, Hyderabad, Mumbai, Mysore, and Pune, we extracted detailed data on the best places to visit, ensuring up-to-date recommendations for tourists. Similarly, for countries like Italy and Japan, as well as specific regions in Vietnam, Goa, Kerala, Lakshadweep, North East India, Tamil Nadu, and Vancouver, we gathered valuable insights into top tourist attractions. This approach allowed us to compile a rich dataset, providing travelers with accurate and relevant information to enhance their travel planning and experiences.
+
+<!-- Old ones -->
+- [Italy1](https://www.easemytrip.com/blog/places-in-italy)
+- [Italy2](https://travel.usnews.com/rankings/best-places-to-visit-in-italy/)
+- [Japan1](https://traveltriangle.com/blog/best-places-to-visit-in-japan/)
+- [Vietnam1](https://traveltriangle.com/blog/places-to-visit-in-vietnam/)
+- [Goa](https://goa-tourism.org.in/places-to-visit-in-goa)
+- [Kerala](https://traveltriangle.com/blog/best-places-to-visit-in-kerala/)
+- [Lakshadweep](https://traveltriangle.com/blog/places-to-visit-in-lakshadweep/)
+- [North East](https://traveltriangle.com/blog/43-places-to-visit-when-travelling-to-north-east/)
+- [Tamil Nadu](https://traveltriangle.com/blog/best-tourist-places-in-tamil-nadu/)
+- [Vancouver](https://www.lonelyplanet.com/canada/vancouver/attractions)
+
+<!-- New ones -->
+- [Bangalore](https://traveltriangle.com/blog/places-to-visit-in-bangalore/)
+- [Chennai](https://traveltriangle.com/blog/places-to-visit-in-chennai/)
+- [Dehradun](https://traveltriangle.com/blog/places-to-visit-in-dehradun-in-june/)
+- [Hyderabad](https://traveltriangle.com/blog/places-to-visit-in-hyderabad/)
+- [Mumbai](https://traveltriangle.com/blog/places-to-visit-in-mumbai/)
+- [Mysore](https://traveltriangle.com/blog/best-places-to-visit-in-mysore/)
+- [Pune](https://traveltriangle.com/blog/places-to-visit-in-pune-in-june/)
