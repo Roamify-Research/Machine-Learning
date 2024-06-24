@@ -12,12 +12,12 @@ import os
 stopwords = set(stopwords.words('english'))
 nlp_model = spacy.load('en_core_web_lg')
 # data = open("../webscraped data/traveltriangle.txt", "r").read()
-files = os.listdir("../webscraped data/Europe")
+files = os.listdir("../webscraped data/Muthuraj Dataset")
 files = [file.split(".")[0] for file in files]
 print(files)
 for file_name in files:
     print(f"Executing {file_name}")
-    data = open(f"../webscraped data/Europe/{file_name}.txt", "r", encoding='utf-8').read()
+    data = open(f"../webscraped data/Muthuraj Dataset/{file_name}.txt", "r", encoding='utf-8').read()
     data_processed = nlp_model(data)
 
     sentences = [sent.text.strip() for sent in data_processed.sents]
@@ -50,7 +50,7 @@ for file_name in files:
     # result = {}
 
     # write_file = open("../after_scraping/Initial/traveltriangle_after-vietnam.txt", "w")
-    write_file = open(f"../after_scraping/Initial/Europe/{file_name}_after.txt", "w", encoding='utf-8')
+    write_file = open(f"../after_scraping/Initial/Muthuraj Dataset/{file_name}_after.txt", "w", encoding='utf-8')
     json_data = {}
     context_id = 0
     for id, attraction_data in attractions.items():
@@ -60,7 +60,7 @@ for file_name in files:
         current = "Description"
         count = 0
         attraction_data_llama = " ".join(words)
-        while (count < len(words)):
+        while (count < len(words) - 2):
             word = words[count].lower()
             if word == "location":
                 current = "Location"
@@ -151,7 +151,7 @@ for file_name in files:
 
 
 
-    with open(f"../after_scraping/Context-Data/Europe/fine-tuning-{file_name}.json", "w") as f:
+    with open(f"../after_scraping/Context-Data/Muthuraj Dataset/fine-tuning-{file_name}.json", "w") as f:
         json.dump(json_data, f, indent=4)
 
     write_file.close()
