@@ -7,15 +7,17 @@ import roberta_pipeline
 import json
 nltk.download('punkt')
 nltk.download('stopwords')
-
+import os
 
 stopwords = set(stopwords.words('english'))
 nlp_model = spacy.load('en_core_web_lg')
 # data = open("../webscraped data/traveltriangle.txt", "r").read()
-file_names = ['goa_traveltriangle', 'italy_traveltriangle', 'japan_traveltriangle', 'kerala_traveltriangle', 'lakshwadeep_traveltriangle',  'tn_traveltriangle', 'vietnam_traveltriangle', 'bangalore_traveltriangle', 'chennai_traveltriangle', 'dehradun_traveltriangle', 'hyderabad_traveltriangle', 'mumbai_traveltriangle', 'mysore_traveltriangle', 'pune_traveltriangle']
-for file_name in file_names:
+files = os.listdir("../webscraped data/Europe")
+files = [file.split(".")[0] for file in files]
+print(files)
+for file_name in files:
     print(f"Executing {file_name}")
-    data = open(f"../webscraped data/{file_name}.txt", "r", encoding='utf-8').read()
+    data = open(f"../webscraped data/Europe/{file_name}.txt", "r", encoding='utf-8').read()
     data_processed = nlp_model(data)
 
     sentences = [sent.text.strip() for sent in data_processed.sents]
@@ -48,7 +50,7 @@ for file_name in file_names:
     # result = {}
 
     # write_file = open("../after_scraping/Initial/traveltriangle_after-vietnam.txt", "w")
-    write_file = open(f"../after_scraping/Initial/{file_name}_after.txt", "w", encoding='utf-8')
+    write_file = open(f"../after_scraping/Initial/Europe/{file_name}_after.txt", "w", encoding='utf-8')
     json_data = {}
     context_id = 0
     for id, attraction_data in attractions.items():
@@ -149,7 +151,7 @@ for file_name in file_names:
 
 
 
-    with open(f"../after_scraping/Context-Data/fine-tuning-{file_name}.json", "w") as f:
+    with open(f"../after_scraping/Context-Data/Europe/fine-tuning-{file_name}.json", "w") as f:
         json.dump(json_data, f, indent=4)
 
     write_file.close()
