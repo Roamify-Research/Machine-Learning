@@ -4,8 +4,8 @@ def return_output():
     files = os.listdir("../after_scraping/Context-Data/Muthuraj Dataset")
     
     for file in files:
-        data = json.load(open(f"../after_scraping/Context-Data/Europe/{file}", "r"))
-        write_file =  open(f"../after_scraping/Manual Summarized/Europe/{file}", "w")
+        data = json.load(open(f"../after_scraping/Context-Data/Muthuraj Dataset/{file}", "r"))
+        write_file =  open(f"../after_scraping/Manual Summarized/Muthuraj Dataset/{file}", "w")
 
 
         json_data = {}
