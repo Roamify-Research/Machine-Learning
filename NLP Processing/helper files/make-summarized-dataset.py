@@ -24,12 +24,12 @@ with open('../after_scraping/Fine-Tuning-Datasets/tuning_summarized_data.json', 
             for id in dataset:
                 l.append(dataset[id])
 
-    # muthuraj_items = os.listdir(f'{directory_path}/Muthuraj Dataset')
-    # for item in muthuraj_items:
-    #     with open(f'{directory_path}/Muthuraj Dataset/{item}', 'r') as f:
-    #         dataset = json.load(f)
-    #         for id in dataset:
-    #             l.append(dataset[id])
+    muthuraj_items = os.listdir(f'{directory_path}/Muthuraj Dataset')
+    for item in muthuraj_items:
+        with open(f'{directory_path}/Muthuraj Dataset/{item}', 'r') as f:
+            dataset = json.load(f)
+            for id in dataset:
+                l.append(dataset[id])
 
     json.dump(l, file, indent=4)
     print(len(l))
