@@ -1,6 +1,12 @@
 # **Roamify:** _Machine Learning_
 
-## Recommendor System Datasets:
+1. NLP Processing
+2. LLMs
+3. Recommendor System
+
+## Datasets:
+
+### Recommendor System Datasets:
 
 - **Official Tourism Websites**: Each state in India typically has an official tourism website that provides detailed information about popular tourist attractions, including their history, visiting hours, and other relevant details.
 
@@ -37,7 +43,7 @@
     - [Lakshadweep Tourism](https://www.lakshadweeptourism.com/)
 
 
-## NLP Datasets:
+### NLP Datasets:
 
 - **[Travel Triangle Website](https://traveltriangle.com)**: To gather comprehensive travel information, we utilized web scraping techniques on various Travel Triangle links, focusing on specific cities, states, and countries. For Bangalore, Chennai, Dehradun, Hyderabad, Mumbai, Mysore, and Pune, we extracted detailed data on the best places to visit, ensuring up-to-date recommendations for tourists. Similarly, for countries like Italy and Japan, as well as specific regions in Vietnam, Goa, Kerala, Lakshadweep, North East India, Tamil Nadu, and Vancouver, we gathered valuable insights into top tourist attractions. This approach allowed us to compile a rich dataset, providing travelers with accurate and relevant information to enhance their travel planning and experiences.
 
