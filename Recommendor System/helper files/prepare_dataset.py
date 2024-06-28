@@ -1,8 +1,10 @@
-import csv
 import pandas as pd
 import numpy as np
-users = ['Noel','Harsh', 'Vikranth','Muthuraj','Armaan']
+import csv
 import random
+
+users = ['Noel','Harsh', 'Vikranth','Muthuraj','Armaan']
+
 def return_attractions():
     attractions_data = pd.read_csv('../datasets/indian_attractions.csv', usecols=['Name', 'Rating', 'Visits', 'Historical', 'Natural', 'Amusement', 'Beach'])
     attractions = []
