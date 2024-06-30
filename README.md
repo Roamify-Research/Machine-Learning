@@ -1,5 +1,7 @@
 # **Roamify:** _Machine Learning_
 
+[Hugging Face](https://huggingface.co/Roamify)
+
 <! -- Need to fix the file structure -->
 
 1. NLP Processing
