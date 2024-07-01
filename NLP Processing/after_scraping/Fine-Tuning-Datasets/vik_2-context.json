@@ -1,0 +1,25 @@
+[
+    {
+        "context": "Bangalore Palace Winit deshpande for Wikimedia Commons Built by Chamaraja Wodeyar in the year 1887 Bangalore Palace is an inspired design by England s Windsor Castle and is one of the best tourist places in Bangalore The evocative palace comprises fortified arches towers architecture and green lawns along with sophisticated wood carvings in the interior It is where the royal family still resides at the present This architectural creation is nothing less than an epitome The palace has earned foundations that have been attributed to the Wodeyars of Mysore Location Vasanth Nagar BengaluruTimings Sunday to Monday from 10 00 AM to 5 00 PMEntry Fee INR 230 for Indians INR 460 for foreigners Must Read New Year Party In Bangalore",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Bangalore Palace",
+                "answer_start": 0,
+                "answer_end": 16
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Sunday to Monday from 10:00 AM to 5:00 PM",
+                "answer_start": 322,
+                "answer_end": 364
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "INR 230",
+                "answer_start": 385,
+                "answer_end": 392
+            }
+        ]
+    }
+]
