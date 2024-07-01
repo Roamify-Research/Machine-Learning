@@ -2344,5 +2344,73 @@
                 "answer_end": 650
             }
         ]
+    },
+    {
+        "context": "Aga Khan Palace The fabulous Aga Khan Royal residence is set in a tranquil lush 6 plot It is built in the 18th century by Sultan Aga Khan III This has been the principal royal residence It currently constitutes the Gandhi quit India movement collectibles This has also a room where Mahatma used to live for a brief period Photographs and compositions show minute details of his phenomenal life Both Kasturba Gandhi the Mahatma s significant other lived here for an elaborative time If you are more of a follower of Gandhi and want to grasp the different aspects on which Gandhi tried to live then this is the preferable place to opt for You ll discover their places of worship in a peaceful nursery to the back Where Pune Nagar Rd Kalyani NagarTimings 30pmEntry Fees 300",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Aga Khan Palace",
+                "answer_start": 0,
+                "answer_end": 14
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "30pm",
+                "answer_start": 585,
+                "answer_end": 589
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "300",
+                "answer_start": 600,
+                "answer_end": 603
+            }
+        ]
+    },
+    {
+        "context": "Raja Dinkar Kelkar Museum Raja Dinkar Kelkar Museum is abode to the limited collection of Dr D G Kelkar 1896 1990 He is also known as Kaka Dr Kelkar had committed his collections to the memory of his lone child Raja who passed away prematurely It is a collection that is around collectibles which reflect the regular day to day existence of India A declaration to man s imaginative soul The Gallery contains collectibles such as antiquities which incorporates relics like Lights Palanquins Cut Woodwork Tin product Stones Hookahs Locks Spittoons Instruments Scaled down Artistic creations Glass Canvases lime holders Unpredictably Cut Wooden Entryways and Windows Old Residences Puppets Bronzes arms and armors ivory kitchen utensils material and so on If you want to take a look at antique collectibles then this is an ideal spot Where No Kamal Kunj Bajirao Rd Natu Baag Shukrawar Peth Pune Maharashtra 411002Timings Fees",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Raja Dinkar Kelkar Museum",
+                "answer_start": 0,
+                "answer_end": 26
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not specified",
+                "answer_start": 620,
+                "answer_end": 632
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not specified",
+                "answer_start": 633,
+                "answer_end": 645
+            }
+        ]
+    },{
+        "context": "Sinhagad Fort Sinhagad is also known as Kondana which is a pride possession of the southwestern locals of Pune This post was the one to help Maharashtra during the old fights If you are a fan of history and want to know something about our culture then do visit this fort The fort has a height of around 1312 m above sea level Sinhagad has got its very own very quick inclines to shield it from all sides It will provide you some quite adventurous experiences The sight of those inclines is surreal You can get a feeling of proudness after visiting this place as this is related to our culture from the historic period Opting this place for an outing can provide you a good time as well as help you to increase your thirst to know about history Where Sinhagad Ghat Road Thoptewadi Maharashtra 411025Timings 5 AM 6 PMEntry Fees Free of cost",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Sinhagad Fort",
+                "answer_start": 0,
+                "answer_end": 12
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "5 AM 6 PM",
+                "answer_start": 593,
+                "answer_end": 603
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Free of cost",
+                "answer_start": 614,
+                "answer_end": 626
+            }
+        ]
     }
 ]
