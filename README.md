@@ -2,8 +2,6 @@
 
 [Hugging Face](https://huggingface.co/Roamify)
 
-<! -- Need to fix the file structure -->
-
 1. NLP Processing
 2. LLMs
 3. Recommendor System
