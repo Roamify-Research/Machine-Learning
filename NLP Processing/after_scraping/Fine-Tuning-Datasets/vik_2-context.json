@@ -2413,5 +2413,350 @@
                 "answer_end": 626
             }
         ]
+    },
+    {
+        "context": "Grand Canyon Renowned worldwide for its magnificence Grand Canyon offers breathtaking vistas that will definitely cast a spell on you One of the top places to visit in Arizona this landscape has been carved out by the Colorado River As you stand on the rim of Grand Canyon you will be able to enjoy incredible views of rocks that are formed like magic You will encounter fossilized remains of various plants and animals where you go Interestingly you can hike down into the Grand Canyon or opt for a helicopter flight if you want to have a closer look of this God s own creativity Must Read Arizona Honeymoon 8 Romantic Places Where You Can Escape With Your Partner Looking To Book An International Holiday Book memorable holidays on TravelTriangle with verified travel agents for domestic and international destinations Trip to Sri Lanka at Rs Plan Your Vacation Today Book Now Trip to Singapore at Rs Get Quotes From Local Experts Book Now Mauritius Holiday Starting at Rs Talk to Our Experts Today Book Nowk Maldives Honeymoon Trip at Rs Pay with easy EMI Option Book Now Europe Trip at Rs All Inclusive Deals Book Now Vacation in Dubai at Rs Book Now Book Now Hong Kong Holiday at Rs Money Safe Guarantee Book Now Thailand Holiday at Rs Flights Excluded Book Now See more at TRAVELTRIANGLE COM Visit Website",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Grand Canyon",
+                "answer_start": 0,
+                "answer_end": 12
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Sedona One of the best places to see in Arizona Sedona enjoys a beautiful setting with scintillating red sandstone mountains and buttes Astounding travelers from all over the world this place is considered as an extremely spiritual site and is famous for its energy vortexes You will find plenty of shops here selling alternative medicines and there is also a spa for you to keep all your tiredness at bay If you are an adventure junkie then don t miss to partake in cycling hiking or swimming in the serene waters",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Sedona",
+                "answer_start": 0,
+                "answer_end": 6
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Phoenix Nestled amidst a desert and an area that is famously known as the Valley of the Sun Phoenix has so much to offer This economic and cultural heart of the state boasts a multitude of entertaining museums as well as theatres If you are an art lover you will definitely admire this urban destination With plenty of shopping options it allures travelers to go on a shopping spree Apart from this you can also check out some of the best restaurants and bars and gorge on global delicacies If you are visiting Phoenix we bet you will never have even a single dull moment Suggested Read 10 Best American Road Trips For An Unforgettable Journey In The Land Of Enchanting Sceneries",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Phoenix",
+                "answer_start": 0,
+                "answer_end": 7
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Havasu Falls Located near the isolated village called Supai Havasu Falls is a waterfall that flows through Havasupai land in the Havasu Canyon One of the best places to visit in Arizona in summer this mesmerizing waterfall comprises one cataract that plunges about 120 feet into a natural swimming pool The USP of this waterfall lies in its water that marvelously compliments its background of the red canyon wall You can either opt for a helicopter ride a horse ride or a 13 km hike to reach this beautiful place",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Havasu Falls",
+                "answer_start": 0,
+                "answer_end": 12
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Antelope Canyon If you are looking for the best places to visit in Arizona then this should definitely be on your checklist The distorted and twisted cracks of Antelope Canyon will make you believe that nature is a designer itself While wandering around the sandstone walls you will encounter sunbeams beautifully sneaking their way along the walls and adorning the walls with sparkling lights Indeed a treat to eyes Antelope Canyon that is quickly nicknamed as The Crack The Corkscrew Each of them takes pride in their unique look and impresses its visitors like anything Suggested Read 14 Awesome New Year Parties In USA That You Must Be A Part Of Planning your holiday but confused about where to go These travel stories help you find your best trip ever Real travel stories Real stays Handy tips to help you make the right choice Ramya Narrates The Story Of 6 Girls On An Extraordinary Trip To Thailand Bangkok Phi Phi Krabi Why should guys have all the fun Read More Sandeep Illustrates On The Best Activities For A Family Trip To Mauritius Water sports Cocktail parties And unlimited fun at Casela Read More Nisarg Ca Stop Praising His Honeymoon Trip To Maldives There was snorkeling sightseeing luxury comfort much more Read More Sabyacsachi Romantic Trip Proves Europe To Be The Mother Of All Vacations For Art Culture Luxury more Read More Srishti Talks Of Her Amazing Trip To Singapore With Her Mother Niece A destination for ages indeed Read More Old Sridhar Tells How He Beat The Odds Took A Solo Trip To Dubai Desert safari Burj Khalifa Welcoming locals Tell me more Read More Not Adventure Lovers Saurabh Family Trip Proves Hong Kong To Still Be Full Of Fun Your kids will love Disney Land Ocean Park Read More Ravi Tale Of A Sri Lanka Family Tour Is All You Need To Know About Ramayana Tour For the love of Ramayana Travel Read More See more at TRAVELTRIANGLE COM Visit Website",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Antelope Canyon",
+                "answer_start": 0,
+                "answer_end": 15
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Saguaro National Park Adding unique charm to Arizona tourist attractions is Saguaro National Park that encompasses about acres of the Sonoran desert in Tucson You ll be quite astounded to see the renowned saguaro cacti up close While the cacti offer you a sight to behold there are several other ways that you can be impressed with this place Various historic sights prehistoric petroglyphs and beautiful wildlife will make your trip to Arizona worthwhile Also within the boundary of the park you can also indulge in many adventurous activities such as hiking picnicking and hiking as well",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Saguaro National Park",
+                "answer_start": 0,
+                "answer_end": 19
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Monument Valley Famous for being the backdrop for a variety of western movies such as Forrest Gump Jurassic World Fallen Kingdom Wild America Monument Valley is one of the iconic attractions in Arizona Straddling the border between Utah and Arizona the site is adorned with spiked rock formations sand dunes and stone spires buttes Nestled in the heart of the valley is the Monument Valley Navajo Tribal Park that comprises a visitor center If you want to explore the area like a pro then opt for a guided tour which will take you to back to the history of this place Suggested Read 10 Casinos In USA To Try Your Luck And Roll The Dice",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Monument Valley",
+                "answer_start": 0,
+                "answer_end": 15
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Tombstone Offering a contemporary look to an Old West town Tombstone is a famous historic site You will find stages gunfights in the streets and characters wandering while donning period costumes Recreating the glittery days of petite Arizona town the property features various hotels souvenir shops restaurants salons and entertainment hubs You will get to see the town s history is some of the historical sites such as Boothill Graveyard Tombstone Courthouse State Historic Park and O K Corral While getting immersed in history you will have a hard time to leave this place",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Tombstone",
+                "answer_start": 0,
+                "answer_end": 9
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Hoover Dam Touted as one of the best engineering marvels Hoover Dam is nestled between Nevada and Arizona on the Colorado River This colossal concrete dam was constructed to control flooding provide irrigated water and also to produce electricity There is also a visitor center where you can learn all about the dam and can also take an elevator ride in the canyon wall to witness the power plant To satiate your hunger pangs it also has a cafe where you will find many food options Suggested Read 11 Halloween Parties In USA You Should Attend To Shake Things Up",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Hoover Dam",
+                "answer_start": 0,
+                "answer_end": 10
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Lake Powell One of the best reservoirs Lake Powell is situated on the border between Utah and Arizona It was established when the construction of the Glen Canyon Dam led to the flooding of the Glen Canyon Now it s considered as one of the top Arizona destinations If adventure is in your mind then you must visit this destination and take part in various activities such as hiking jet skiing fishing waterskiing and boating All in all an day if promised to you if you choose to come here Further Read 10 Hot Springs In USA Which Will Give You Relaxing Spa Like Experience Amidst The Nature Aren t you fascinated enough by the charms of Arizona If yes then plan a trip to USA with your friends and folks and witness the wonderful surprises this place has got for you Grand Canyon Sedona Hoover Dam Monument Valley Antelope Canyon and the list goes on and on and on With numerous places to visit in Arizona we bet you will have to extend your vacation For our editorial codes of conduct and copyright disclaimer please click here Frequently Asked Questions about Places to visit in Arizona What are the best places to visit in Arizona in March Grand Canyon Sedona Phoenix Havasu Falls Antelope Canyon Saguaro National Park Monument Valley Tombstone Hoover Dam Lake Powell etc are the best places to visit in Arizona in March What are the best places to camp in Arizona Organ Pipe Cactus National Monument The Grand Canyon Lake Powell Glen Canyon National Recreation Area Gilbert Ray Campground etc are the best places for camping in Arizona What are the best places to visit in Arizona Grand Canyon Sedona Monument Valley Phoenix Hoover Dam Glen Canyon Sedona Vermilion Cliffs National Monument Montezuma Castle National Monument Tucson Petrified Forest National etc are the best tourist attractions in Arizona What are the best adventures to indulge in Arizona Hiking the Grand Canyon riding horses around the legendary landscape of Sedona exploring the Petrified Forest unravelling the ghost towns exploring secret ancient cliff dwellings and ruins standing in a shaft of light in Antelope Canyon etc are the best adventures to indulge in Arizona Which is the best waterfall in Arizona Beaver Falls Bridal Wreath Falls Cibecue Falls Deer Creek Falls Fossil Creek Waterfall Grand Falls Havasu Falls Madera Canyon Waterfall etc are the popular waterfalls in Arizona What shall I eat in Arizona Burritos Chimichangas Sonoran hot dogs Eegee Tequila sunrise Cheese crisps Prickly Pear Navajo Tacos etc are the famous food and drink to try in Arizona Is there any beach in Arizona Yes Centennial Beach Buckskin Mountain State Park Lake Havasu Beaches Windsor Beach Tempe Beach Park etc are the best beaches in Arizona What places would tourists visit if they went to Arizona Tourists visiting Arizona would likely explore the Grand Canyon experience the vibrant arts scene of Sedona and immerse themselves in the cultural attractions of Phoenix including the Desert Botanical Garden and Heard Museum People Also Read Places To Visit In USA Places To Visit In Tampa Places To Visit In San Francisco Looking To Book A Holiday Package Book memorable holidays on TravelTriangle with verified travel agents for domestic and international destinations Spellbinding Cochin Family Tour Package Rs Plan your trip today Book Now Himachal Family Tour Package Rs Get quotes from multiple travel experts Book Now Exciting Andaman Family Trip Rs Compare customize quotes before booking Book Now Gangtok Darjeeling Tour Package Rs Have Questions Talk to our travel experts today Book Now Wonderful Goa Family Package Rs Best prices guaranteed Book Now Riveting Rajasthan Vacation Package Rs EMI option available Book Now Enchanting Uttarakhand Tour Package Rs Explore best destinations with our experts Book Now Delightful South Weekend Tour Package Rs Thrilling weekend full of fun Book Now Marvelous Gujarat Tour Package Rs Talk to our experts today Book Now See more at TRAVELTRIANGLE COM Visit Website PREVIOUS POSTNEXT POST Category Arizona Places To Visit USA Follow Us On Recent Posts Chaukhandi Stupa Is An Interesting Spot For Your Next Trip To Varanasi In 2024 Exploring The Mysteries Of Samudra Koop Which Is A Sacred Well In Allahabad To Visit In 2024 A Comprehensive Guide To The Enchanting Beauty Of Dashashwamedh Ghat To Explore In 2024 A Pilgrim s Guide To Dwarka s Divine Temple Of Shree Dwarkadhish Temple To Explore In 2024 Experience The Spiritual Splendor Of Kalachakra Temple In Mcleodganj In 2024 A Trip To Vishram Ghat For A Serene Escape From Hustle And Bustle Trending Blogs 20 Mysterious Places In India To Visit In 2024 More Bizarre Than The Bermuda Triangle Social Score 10 Scariest Roads In India That Are A Driver s Nightmare Social Score 101 Places To Visit In India Before You Turn 30 in 2024 Social Score 35 Exotic Places To Visit In December In India 2024 To Enjoy A Surreal Vacation Social Score 60 Best Honeymoon Destinations In India In 2024 Social Score 95 Best Honeymoon Destinations In The World In 2023 For A Romantic Escape Social Score Best Places To Visit In India By Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Best Places To Visit Outside India By Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec TravelTriangle Blog USA Top 10 Places To Visit In Arizona For An Vacay Packages By ThemeTour PackagesHoneymoon PackagesFamily PackagesBudget Tour PackagesLuxury Tour PackagesAdventure Tour PackagesGroup Tour PackagesDomestic Tour PackagesKerala Tour PackagesGoa Tour PackagesAndaman Tour PackagesSikkim Tour PackagesHimachal Tour PackagesUttarakhand Tour PackagesRajasthan Tour PackagesPackages From Top CitiesTour Packages From DelhiTour Packages From MumbaiTour Packages From BangaloreTour Packages From ChennaiTour Packages From KolkataTour Packages From HyderabadTour Packages From AhmedabadDomestic Tourism GuideKerala TourismGoa TourismSikkim TourismAndaman TourismHimachal TourismUttarakhand TourismRajasthan TourismTop Domestic HotelsHotels in KeralaHotels in GoaHotels in SikkimHotels in AndamanHotels in HimachalHotels in UttarakhandHotels in Rajasthan Our Story About us Team We are hiring Get Inspired Testimonials Blog Travelogues Policies Terms and Conditions Privacy Policy More FAQs Contact Us RSS Feeds Corporate Office Holiday Triangle Travel Private Limited Address Plot No 52 3rd Floor Batra House Sector 32 Gurugram Haryana Landline 1800 123 5555 1800 123 5555 customercare traveltriangle com All rights reserved 2024 index europe Attractions Attraction Grand Canyon Attraction Sedona Attraction Phoenix Attraction Havasu Falls Attraction Antelope Canyon Attraction Saguaro National Park Attraction Monument Valley Attraction Tombstone Attraction Hoover Dam Attraction Lake Powell",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Lake Powell",
+                "answer_start": 0,
+                "answer_end": 10
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Majuli Majuli is not only the world s most abundant freshwater land but it is a visual spectacle to withhold It is an island with a total area of 1250 square kilometers Tourists from not only India but all around the world visit there since it is listed in UNESCO s world heritage site The entire area is not only mesmerizingly fantastic but it offers you a glimpse into the life of the tribal people living out there People love to visit there in June because the island becomes even more spectacular amid the Assam rain Places to visit in Majuli Majuli has some exciting sightseeing spots located out there including Kalambari Satra Garmur Tengapania and many more How to get to the Majuli islands Majuli is located 20 km from Jorhat and you can visit Jorhat without any problem since it not only has a railway station but an airport as well From Jorhat you will have to get a ferry to travel to Majuli Must Read Temples In Assam For A Spiritual Awakening In The Northeast Looking To Book A Holiday Package Spellbinding Cochin Family Tour Package Rs Plan your trip today Book Now Himachal Family Tour Package Rs Get quotes from multiple travel experts Book Now Exciting Andaman Family Trip Rs Compare customize quotes before booking Book Now Gangtok Darjeeling Tour Package Rs Have Questions Talk to our travel experts today Book Now Wonderful Goa Family Package Rs Best prices guaranteed Book Now Riveting Rajasthan Vacation Package Rs EMI option available Book Now Enchanting Uttarakhand Tour Package Rs Explore best destinations with our experts Book Now Delightful South Weekend Tour Package Rs Thrilling weekend full of fun Book Now Marvelous Gujarat Tour Package Rs Talk to our experts today Book Now See more at TRAVELTRIANGLE COM Visit Website",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Majuli",
+                "answer_start": 0,
+                "answer_end": 6
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Hajo Hajo is quite sacred for the people of Hindu Muslim and Buddhist religion The place is immensely holy and is entirely secular as well You will be surprised to find shrines and idols of Shiva Vishnu Buddha and Muslim saints at the same time and same place Hajo is famous among the tourists across the world since a temple out there Hayagriya Madhava mandir is known as the place where Buddhadev attained Nirvana Powa Mecca mosque located in Hajo is responsible for its popularity among the people of the Muslim community If you visit Hajo in June you will be surprised by the lush greenery that surrounds the entire area and the comfortable weather accompanying it Places to visit in Hajo You will have to visit some sacred and vital areas in Hajo In contrast you visit out there including Hajo Powa Mecca Hayagriva Mahadeva Temple Kedareswar temple Kameswari temple and many more How to get to Hajo Hajo can easily be reached from any part in India since it is located a mere 25 km from Guwahati You can get a rental cab and visit there without any problem Suggested Read 33 Tourist Places In Assam Unveiling The Hidden Charm Of The",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Hajo",
+                "answer_start": 0,
+                "answer_end": 4
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Nalbari Nalbari is quite popular among nature lovers since it is situated at the base of the Eastern Himalayas and hence is surrounded by mountains With paddy fields forests Brahmaputra river the area is visually stunning Apart from natural beauty this place is quite famous for the number of essential temples located out there You will also get to witness the life of the local people living out there while you visit over there Many people prefer to go there in June because due to the rainfall the temperature drops a lot and they can explore the area quite comfortably Places to visit in Nalbari Some famous sites in Nalbari are visited throughout the year including Buddhist temple Hari Mandir Billeswar temple Daulashal temple and many more How to get to Nalbari The nearest railway station and airport from Nalbari is located in Guwahati and the distance between them is 72 km You can reach Nalbari by getting a rented cab from Guwahati Suggested Read Beautiful Hill Stations In Assam To Rejuvenate Your Senses Planning your holiday but confused about where to go These travel stories help you find your best trip ever Nikhil Recites A Tale Of 11 Friends Who Went From Bengaluru To Ladakh Bengaluru Delhi Leh Ladakh Leh Delhi Amristsar Chandigarh Bengaluru Read More Pranav Took A Solo Trip To Andaman It Was Truly Wonderful A backpacker guide to the predominant Honeymoon destination Read More Shivani Talks Of Her Trip To Mcleodganj Dalhousie With Her Husband And Friends Sunset views Monasteries Bhagsunath falls And amazing street food Read More Kanika Proves That Traveling With An Infant To Kerala Is Totally Safe Wonderful Beaches Backwaters Spas More Take me there now please Read More Here Why Aakanksha Trip To Manali Changed Her Idea About Group Tours Ideal long weekend getaway from Delhi Is it Read More Isha Elaborates On How She Went Solo To Kasol Returned With Lots Of Friends And tales of her exciting Kheerganga Chalal trek Read More Prasham Account Of A Goa Tour Proves That Goa Is More Than A Party Destination Adventure sightseeing beach tours and it does stop there Read More Bhavya Gives An Extensive Account Of His Jaisalmer Trip With Friends Desert safari haunted Kuldhara village Gadisar Lake There more Read More Ashish Tells Why Kashmir Turned Out To Be A Winter Wonderland For His Family For Gondolas Shikaras and plenty of snow Read More Arunav Ca Stop Praising His Adventurous Trip To Sikkim Darjeeling With Friends For adventure in Air on Land and in Water Read More Avneet Describes Her Trip To Spiti With A Group Of Strangers That Became Friends Sightseeing Monasteries Trekking And beauty all along Read More See more at TRAVELTRIANGLE COM Visit Website",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Nalbari",
+                "answer_start": 0,
+                "answer_end": 7
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Karimganj Karimganj is one of the most important towns in Assam and it is quite different than other big cities in India It is quiet devoid of pollution and visually beautiful The maximum area of Karimganj is filled with wetlands and paddy fields and hence it is quite essential for the agricultural production of Assam In June Karimganj gets more beautiful since the entire area gets covered with the lush greenery of the forest The weather also becomes quite comfortable since the summers are pretty hot out there If you visit there you will be able to witness its border with Bangladesh Places to visit in Karimganj Karimganj does not have a scarcity of sightseeing spots for its tourists Some of them are Chhatachura Range Duhalia range Malegarh Crematorium Adamail range and many more How to get to Karimganj Karimganj can be reached via flights through its nearest airport that is located in Shillong Suggested Read 15 Best Assam Food Options For The Foodies Traveling To North East",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Karimganj",
+                "answer_start": 0,
+                "answer_end": 9
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
+    },
+    {
+        "context": "Jorhat Jorhat is yet another important city of Assam that is famous not only for its natural beauty and cultural significance but because of its tea gardens as well The town is mainly based on tea plantations and there are 135 of them Most tourists visit there to witness the spectacular beauty of the tea gardens If you are planning to visit Assam in June do not forget to explore Jorhat because the view and the weather is gorgeous in that month Also the river island Majuli is located quite close to Jorhat and many people stay there to explore the island quite efficiently Places to visit in Jorhat Apart from Majuli there are other popular sightseeing spots in Jorhat as well including Hoollongapar Gibbon Wildlife Sanctuary Dhekiakhowa BorNamghar Nimati Ghat Cinnamon tea garden and many more How to get to Jorhat Jorhat can be reached quite easily via trains flights and roads since there are airports and railway stations Suggested Read Ketan s Trip To Assam And Meghalaya An Adventurous Escapade Into An Untouched Paradise Although it must be said that Assam should be avoided in July or August since there is a possibility of landslides and floods during those months Though in June you will not have any problem since the rainfall is quite less whereas the weather is quite cold These places appear to be quite safe for the people to visit and enjoy a great time So now when you plan a vacation in Assam make sure to enjoy a time like never before amidst the surreal beauty of the place Disclaimer TravelTriangle claims no for images featured on our blog site unless otherwise noted All visual content is copyrighted to its respectful owners We try to link back to original sources whenever possible If you own the rights to any of the images and do not wish them to appear on TravelTriangle please contact us and they will be promptly removed We believe in providing proper attribution to the original author artist or photographer Please Note Any information published by TravelTriangle in any form of content is not intended to be a substitute for any kind of medical advice and one must not take any action before consulting a professional medical expert of their own choice Frequently Asked Questions About Places To Visit In Assam In June What are some of the most visited places in Assam in June Although you might experience rainfall in June you will have a marvelous time enjoying the June rain in the places in Assam including Majuli Hajo Silchar Jorhat and many more Can one visit Kaziranga National Park in Assam in June No Sadly Kaziranga national park remains closed in June to avoid the monsoon The park reopens in November every year What is the average temperature of Jorhat in June The average maximum and minimum temperature in Jorhat is 32 and 25 degrees Celsius respectively in June It is one of the most visited places in Assam in June How can one reach Silchar in June Silchar can easily be reached anywhere from India since it is connected to Guwahati and Kolkata via roads trains and flights The railway station is connected to Guwahati via numerous trains What are the top places to visit in Karimganj in Assam during June Karimganj is quite popular among tourists to visit in June because of the spectacular visual sceneries and comfortable weather You must visit some of the most places like Chahta Chura range Duhalia range Kushiara river and many more Is it safe to visit Nalbari in Assam in June Nalbari is quite hot but in June the temperature drops off quite a lot due to the arrival of the monsoon You can visit Nalbari in June but do not go there in July or August because the area is prone to landslides and you may face problems visiting there What is the distance between Guwahati to Silchar The total distance between Silchar and Guwahati is 300 km Looking To Book An International Holiday Trip to Sri Lanka at Rs Plan Your Vacation Today Book Now Trip to Singapore at Rs Get Quotes From Local Experts Book Now Mauritius Holiday Starting at Rs Talk to Our Experts Today Book Nowk Maldives Honeymoon Trip at Rs Pay with easy EMI Option Book Now Europe Trip at Rs All Inclusive Deals Book Now Vacation in Dubai at Rs Book Now Book Now Hong Kong Holiday at Rs Money Safe Guarantee Book Now Thailand Holiday at Rs Flights Excluded Book Now See more at TRAVELTRIANGLE COM Visit Website People Also Read Places To Visit In Thekkady Places To Visit In Bharatpur Best Places To Visit In Ranikhet PREVIOUS POSTNEXT POST Category Assam Places To Visit Follow Us On Recent Posts Chaukhandi Stupa Is An Interesting Spot For Your Next Trip To Varanasi In 2024 Exploring The Mysteries Of Samudra Koop Which Is A Sacred Well In Allahabad To Visit In 2024 A Comprehensive Guide To The Enchanting Beauty Of Dashashwamedh Ghat To Explore In 2024 A Pilgrim s Guide To Dwarka s Divine Temple Of Shree Dwarkadhish Temple To Explore In 2024 Experience The Spiritual Splendor Of Kalachakra Temple In Mcleodganj In 2024 A Trip To Vishram Ghat For A Serene Escape From Hustle And Bustle Trending Blogs 20 Mysterious Places In India To Visit In 2024 More Bizarre Than The Bermuda Triangle Social Score 10 Scariest Roads In India That Are A Driver s Nightmare Social Score 101 Places To Visit In India Before You Turn 30 in 2024 Social Score 35 Exotic Places To Visit In December In India 2024 To Enjoy A Surreal Vacation Social Score 60 Best Honeymoon Destinations In India In 2024 Social Score 95 Best Honeymoon Destinations In The World In 2023 For A Romantic Escape Social Score Best Places To Visit In India By Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Best Places To Visit Outside India By Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec TravelTriangle Blog India North East Assam 5 Handpicked Places To Visit In Assam In June Which One Must Definitely Explore And Enjoy The Surreal Views Packages By ThemeTour PackagesHoneymoon PackagesFamily PackagesBudget Tour PackagesLuxury Tour PackagesAdventure Tour PackagesGroup Tour PackagesDomestic Tour PackagesKerala Tour PackagesGoa Tour PackagesAndaman Tour PackagesSikkim Tour PackagesHimachal Tour PackagesUttarakhand Tour PackagesRajasthan Tour PackagesPackages From Top CitiesTour Packages From DelhiTour Packages From MumbaiTour Packages From BangaloreTour Packages From ChennaiTour Packages From KolkataTour Packages From HyderabadTour Packages From AhmedabadDomestic Tourism GuideKerala TourismGoa TourismSikkim TourismAndaman TourismHimachal TourismUttarakhand TourismRajasthan TourismTop Domestic HotelsHotels in KeralaHotels in GoaHotels in SikkimHotels in AndamanHotels in HimachalHotels in UttarakhandHotels in Rajasthan Our Story About us Team We are hiring Get Inspired Testimonials Blog Travelogues Policies Terms and Conditions Privacy Policy More FAQs Contact Us RSS Feeds Corporate Office Holiday Triangle Travel Private Limited Address Plot No 52 3rd Floor Batra House Sector 32 Gurugram Haryana Landline 1800 123 5555 1800 123 5555 customercare traveltriangle com All rights reserved 2024 index europe Attractions No attractions found",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Jorhat",
+                "answer_start": 0,
+                "answer_end": 6
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Opening hours are not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Entry fee is not mentioned in the context.",
+                "answer_start": -1,
+                "answer_end": -1
+            }
+        ]
     }
 ]
