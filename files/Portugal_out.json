@@ -1,0 +1,198 @@
+[
+    {
+      "summary": "St George's Castle is one of the best attractions defining Portugal travel, located near Alfama on the crown of a hill. Its battlements, museums, and stunning archaeology make it a must-visit in Lisbon. Location: R de Santa Cruz do Castelo, Lisboa, Portugal. Entry fee: INR 700 for adults, INR 400 for children.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "St George's Castle"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": {
+            "adults": "INR 700",
+            "children": "INR 400"
+          }
+        }
+      ]
+    },
+    {
+      "summary": "Jeronimos Monastery in Lisbon is a UNESCO World Heritage Site, reflecting the rich history and culture of Portugal. Location: Praça do Império, Lisboa, Portugal. Entry fee: INR 800 for adults, with special discounts available on the official website.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Jeronimos Monastery"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "INR 800 for adults, with special discounts available on the official website"
+        }
+      ]
+    },
+    {
+      "summary": "The Lisbon Oceanarium is one of the largest aquariums in Europe, a great place to visit with family. Location: Esplanada Dom Carlos I, Lisboa, Portugal. Entry fee: INR 800 on average, varying for age groups with family packages available.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "The Lisbon Oceanarium"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "INR 800 on average, differs for age groups, family packages also available"
+        }
+      ]
+    },
+    {
+      "summary": "Monserrate Palace is renowned for its beautiful gardens, ideal for a romantic stroll in Sintra, Portugal. Location: Sintra, Portugal. Entry fee: INR 700 for adults, INR 400 for children.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Monserrate Palace"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": {
+            "adults": "INR 700",
+            "children": "INR 400"
+          }
+        }
+      ]
+    },
+    {
+      "summary": "Sintra National Palace, with its distinctive conical chimneys, is the oldest surviving palace in Portugal. Location: Largo Rainha Dona Amélia, Sintra, Portugal. Entry fee: NA.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Sintra National Palace"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "No Entry fee"
+        }
+      ]
+    },
+    {
+      "summary": "The News Museum in Lisbon showcases the role of news media and communications in the modern world. Location: R de Santa Cruz do Castelo, Lisboa, Portugal. Entry fee: NA.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "News Museum"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "No Entry fee"
+        }
+      ]
+    },
+    {
+      "summary": "Évora Cathedral features an impressive weathered granite façade and imposing bell towers, a historic landmark in Évora, Portugal. Location: Largo do Marquês de Marialva, Évora, Portugal. Entry fee: NA.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Évora Cathedral"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "No Entry fee"
+        }
+      ]
+    },
+    {
+      "summary": "Porto Bridge offers guided tours for adventurers to scale its lofty heights safely, a landmark in Porto, Portugal. Location: PTE Luís I, Porto, Portugal. Entry fee: NA.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Porto Bridge"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "No Entry fee"
+        }
+      ]
+    },
+    {
+      "summary": "Cais da Ribeira in Porto is known for its charming riverside quarters and is a famous meeting point in Portugal. Location: Cais da Ribeira, Porto, Portugal. Entry fee: NA.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Cais da Ribeira"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "No Entry fee"
+        }
+      ]
+    },
+    {
+      "summary": "Roman Temple in Évora, also known as the Temple of Diana, is a popular historical site in Portugal. Location: Largo do Conde de Vila Flor, Évora, Portugal. Entry fee: INR 700 for adults, INR 400 for children.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Roman Temple"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": {
+            "adults": "INR 700",
+            "children": "INR 400"
+          }
+        }
+      ]
+    },
+    {
+      "summary": "Sortelha, a medieval village in Portugal, offers a glimpse into medieval times with its historic charm. Location: R do Encontro 2, Sortelha, Portugal. Entry fee: NA.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Medieval village"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "No Entry fee"
+        }
+      ]
+    }
+]  

@@ -1,0 +1,104 @@
+[
+    {
+        "summary": "Zurich, Switzerland's largest city, is renowned for its rich cultural scene with over 50 museums and 100 galleries. It offers luxury shopping on Bahnhofstrasse, vibrant nightlife with international DJs, and scenic boat rides on Lake Zurich.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Zurich"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Lucerne, known for its medieval architecture, hosts the Chapel Bridge and Water Tower. It offers breathtaking train rides to Mount Pilatus and is easily accessible via Switzerland's excellent rail network.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Lucerne"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Bern, the capital city of Switzerland, is known for its historic old town, a UNESCO World Heritage Site. It features the Bear Pits and offers extensive shopping under its arcades.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Bern"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Jungfrau, a top tourist destination, offers scenic train rides to Jungfraujoch, known as the Top of Europe. It features skiing, ice museums, and breathtaking views of the Eiger and Monch mountains.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Jungfrau"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Geneva, Switzerland's diplomatic hub, hosts numerous international organizations. It offers activities like boating on Lake Geneva and adventure sports like ziplining through forest canopies.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Geneva"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Lugano, often referred to as the Monte Carlo of Switzerland, is located on Lake Lugano in the south. It offers classical music festivals, boat rides, and stunning views from Mount San Salvatore.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Lugano"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    }
+]

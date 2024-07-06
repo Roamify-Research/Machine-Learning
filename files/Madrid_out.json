@@ -1,0 +1,390 @@
+[
+    {
+      "summary": "Buen Retiro Park in Madrid is a serene retreat spanning 350 acres, ideal for peace and quiet amidst royal gardens. Activities include boating and art exhibitions, making it a must-visit spot. Located at Plaza de la Independencia 7, 28001 Madrid. Open from April to September, 6 am to midnight, and October to March, 6 am to 10 pm. Entry is free.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Buen Retiro Park"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "April to September: 6 am to midnight; October to March: 6 am to 10 pm"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+          "answer": "No entry fee"
+        }
+      ]
+    },
+    {
+      "summary": "Palacio de Cristal, located within Buen Retiro Park, is a stunning glass and metal structure. It hosts public exhibitions showcasing flora and fauna. Found at Paseo República de Cuba 4, 28009 Madrid. Open Monday to Sunday, 10 am to 10 pm. Entry fee is 10 Euros or INR 750 per person.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Palacio de Cristal"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "Monday to Sunday, 10 am to 10 pm"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+          "answer": "10 Euros or INR 750 per person"
+        }
+      ]
+    },
+    {
+      "summary": "Puerta de Alcalá, a historic gate in Madrid, served as the main entrance to the city in the 16th century. Located at Plaza de la Independencia 1, 28001 Madrid. Open 24 hours daily. Entry is free.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Puerta de Alcalá"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "Open 24 hours daily"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+          "answer": "No entry fee"
+        }
+      ]
+    },
+    {
+      "summary": "Market Of San Miguel, near Plaza Mayor in Madrid, is a vibrant covered market offering a variety of local foods and drinks. Located at Plaza de San Miguel, 28005 Madrid. Open Sunday to Wednesday, 10 am to midnight; Thursday to Saturday, 10 am to 2 am. Entry is free.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Market Of San Miguel"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "Sunday to Wednesday, 10 am to midnight; Thursday to Saturday, 10 am to 2 am"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+          "answer": "No entry fee"
+        }
+      ]
+    },
+    {
+      "summary": "La Puerta del Sol is a historic square in Madrid, known for landmarks like the Casa de Correos clock and the Bear and Strawberry Tree Statue. Located at C Mayor C Alcala, 28013 Madrid. Entry is free.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "La Puerta del Sol"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+          "answer": "No entry fee"
+        }
+      ]
+    },
+    {
+      "summary": "Plaza de España is a bustling square in Madrid, featuring landmarks like Torre de Madrid and statues of Miguel de Cervantes Saavedra. Located at Western end of the Gran Via, Plaza de España, 28008 Madrid. Open 24 hours daily. Entry is free.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Plaza de España"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "Open 24 hours daily"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+          "answer": "No entry fee"
+        }
+      ]
+    },
+    {
+      "summary": "Las Ventas is a famous bullring in Madrid, offering bullfights and tours. Located at Calle de Alcalá 237, 28028 Madrid. Open Friday to Monday, 6 am to 10:30 pm; Closed on Tuesday, Wednesday, Thursday. Entry fees vary.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Las Ventas"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "Friday to Monday, 6 am to 10:30 pm; Closed on Tuesday, Wednesday, Thursday"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+          "answer": "Standard rate: 12.90 Euros or INR 970 per person; For Students: 9.90 Euros or INR 745 per student; Kids under 12 years: 5.90 Euros or INR 445; Kids under 5 years: Free. Guided tours available."
+        }
+      ]
+    },
+    {
+      "summary": "The Madrid Zoo Aquarium is a popular attraction featuring a wide variety of animals and marine life. Located at Casa de Campo, 28011 Madrid. Open Sunday to Wednesday, 10:30 am to 8:30 pm; Thursday to Saturday, 10:30 am until midnight. Entry fees vary.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "The Madrid Zoo Aquarium"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "Sunday to Wednesday, 10:30 am to 8:30 pm; Thursday to Saturday, 10:30 am until midnight"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+          "answer": "Online Tickets: Adult: 17.90 Euros or INR 1345 per person; Kid: 15.90 Euros or INR 1195 per person; Seniors/Disabled people plus free companion/Large family: 15.90 Euros or INR 1195 per person; Large family junior: 13.50 Euros or INR 1015 per person; Under 3 years: Free. Ticket Office: Adult: 23.30 Euros or INR 1750 per person; Kid: 18.90 Euros or INR 1420 per person; Seniors/Disabled people plus free companion/Large family: 18.90 Euros or INR 1420 per person; Large family junior: 13.70 Euros or INR 1030 per person; Under 3 years: Free."
+        }
+      ]
+    },  
+    {
+          "summary": "Royal Palace of Madrid was built on the site of the Moorish Castle destroyed in 1734 by fire. It's a main aspect of Madrid Spain sightseeing, surrounded by old city walls. Location: Calle de Bailén, 28071 Madrid. Timings: April to September 10 am to 8 pm; October to March 10 am to 6 pm. Entry Fee: 15 Euros or INR 1125 with a guide, 11 Euros or INR 825 without a guide, 6 Euros or INR 450 for senior citizens, students, and free for kids below 5 years.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "Royal Palace of Madrid"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Calle de Bailén, 28071 Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "April to September: 10 am to 8 pm; October to March: 10 am to 6 pm"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: 15 Euros or INR 1125 with a guide, 11 Euros or INR 825 without a guide, 6 Euros or INR 450 for senior citizens, students, and free for kids below 5 years."
+            }
+          ]
+        },
+        {
+          "summary": "Museo Nacional Del Prado is a historical site for the National Museum of History, housing world-renowned masterpieces from artists like Rembrandt, Goya, Velázquez, and more. Location: Paseo del Prado, 28014 Madrid. Timings: Monday to Saturday 10 am to 8 pm; Sundays 10 am to 7 pm. Entry Fee: 24 Euros or INR 1800 with a guide, 15 Euros or INR 1125 per person, 5 Euros or INR 565 for senior citizens and youth cardholders, free entry for youth below 18 years and students.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "Museo Nacional Del Prado"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Paseo del Prado, 28014 Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "Monday to Saturday: 10 am to 8 pm; Sundays: 10 am to 7 pm"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: 24 Euros or INR 1800 with a guide, 15 Euros or INR 1125 per person, 5 Euros or INR 565 for senior citizens and youth cardholders, free entry for youth below 18 years and students."
+            }
+          ]
+        },
+        {
+          "summary": "Temple of Debod, originally from Egypt, is one of the unique places in Madrid, saved and relocated to Parque del Oeste. Location: Calle Ferraz 1, 28008 Madrid. Timings: Tuesday to Friday 10 am to 2 pm and 6 pm to 8 pm; Saturday, Sunday 9:30 am to 8 pm. Entry Fee: Free.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "Temple of Debod"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Calle Ferraz 1, 28008 Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "Tuesday to Friday: 10 am to 2 pm and 6 pm to 8 pm; Saturday, Sunday: 9:30 am to 8 pm"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: Free"
+            }
+          ]
+        },
+        {
+          "summary": "Royal Chapel of St Anthony of La Florida in Madrid houses works of Francisco Goya, portraying the life of St Anthony. Goya's remains are also here. Location: Glorieta San Antonio de la Florida 4, 28008 Madrid. Timings: Tuesday to Sunday am to pm. Guided tours Monday to Friday am to pm. Entry Fee: Free.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "Royal Chapel of St Anthony of La Florida"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Glorieta San Antonio de la Florida 4, 28008 Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "Tuesday to Sunday: am to pm; Guided tours Monday to Friday: am to pm"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: Free"
+            }
+          ]
+        },
+        {
+          "summary": "Museo Nacional Centro de Arte Reina Sofía in Madrid showcases modern and contemporary artworks, including Picasso's Guernica. Location: Calle de Santa Isabel 52, 28012 Madrid. Timings: Mondays and Wednesday to Saturday 10 am to 9 pm; Sundays 10 am to 7 pm. Entry Fee: 10 Euros or INR 750 per person.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "Museo Nacional Centro de Arte Reina Sofía"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Calle de Santa Isabel 52, 28012 Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "Mondays and Wednesday to Saturday: 10 am to 9 pm; Sundays: 10 am to 7 pm"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: 10 Euros or INR 750 per person"
+            }
+          ]
+        },
+        {
+          "summary": "Teatro Real, Madrid's Royal Theatre, hosts opera, music, dance performances. Offers tours in multiple languages. Location: Plaza de Isabel II, 28013 Madrid. Timings: Guided Tours Monday to Sunday 10:30 am to 1 pm; Artistic Tours Monday to Sunday 9:30 am onwards; Technical Tours Monday to Sunday 10 am onwards. Entry Fee: Guided Tours 8 Euros or INR 600 per adult, 6 Euros or INR 450 for seniors; Artistic Tours 12 Euros or INR 900 per adult, 10 Euros or INR 750 for seniors; Technical Tours 16 Euros or INR 1200 per adult.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "Teatro Real"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Plaza de Isabel II, 28013 Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "Guided Tours: Monday to Sunday 10:30 am to 1 pm; Artistic Tours: Monday to Sunday 9:30 am onwards; Technical Tours: Monday to Sunday 10 am onwards"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: Guided Tours 8 Euros or INR 600 per adult, 6 Euros or INR 450 for seniors; Artistic Tours 12 Euros or INR 900 per adult, 10 Euros or INR 750 for seniors; Technical Tours 16 Euros or INR 1200 per adult."
+            }
+          ]
+        },
+        {
+          "summary": "Círculo de Bellas Artes in Madrid is a private institution known for arts and cultural events. Offers skyline views from rooftop and authentic cuisine at rooftop restaurant. Location: Calle de Alcalá 42, 28014 Madrid. Timings: Tuesday 5 pm to 8:30 pm; Wednesday to Sunday 11 am to 1:30 pm and 5 pm to 7 pm. Entry Fee: 1 Euro or INR 75 per person, 3 Euros or INR 225 per person for rooftop entrance.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "Círculo de Bellas Artes"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Calle de Alcalá 42, 28014 Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "Tuesday: 5 pm to 8:30 pm; Wednesday to Sunday: 11 am to 1:30 pm and 5 pm to 7 pm"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: 1 Euro or INR 75 per person, 3 Euros or INR 225 per person for rooftop entrance."
+            }
+          ]
+        },
+        {
+          "summary": "Barrio de La Latina in Madrid offers narrow streets, spacious squares, and Islamic walls, ideal for tapas, shopping, and nightlife. Location: Plaza de la Cebada, 28005 Madrid. Timings: Open 24 hours. Entry Fee: Free.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "Barrio de La Latina"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Plaza de la Cebada, 28005 Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "Open 24 hours"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: Free"
+            }
+          ]
+        },
+        {
+          "summary": "Plaza Mayor in Madrid is a famous square with classic architecture, home to Casa de la Panadería. Location: Calle Gerona 4, 28012 Madrid. Timings: Monday to Sunday: 24 hours. Entry Fee: Free.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "Plaza Mayor"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Calle Gerona 4, 28012 Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "Monday to Sunday: 24 hours"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: Free"
+            }
+          ]
+        },
+        {
+          "summary": "The Royal Site of San Lorenzo de El Escorial is a historical monument showcasing Spanish Renaissance architecture. Location: Av Juan de Borbón y Battemberg, 28200 San Lorenzo de El Escorial, Madrid. Timings: April to September 10 am to 8 pm; October to March 10 am to 6 pm. Entry Fee: 10 Euros or INR 750 per person, free for kids below 5 years.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "The Royal Site of San Lorenzo de El Escorial"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Av Juan de Borbón y Battemberg, 28200 San Lorenzo de El Escorial, Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "April to September: 10 am to 8 pm; October to March: 10 am to 6 pm"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: 10 Euros or INR 750 per person, free for kids below 5 years."
+            }
+          ]
+        },
+        {
+          "summary": "Catedral de Sta Maria la Real de la Almudena in Madrid is a prominent diocese, known for its architecture and historical significance. Location: Calle de Bailén 10, 28013 Madrid. Timings: July to August: Monday to Sunday 10 am to 9 pm; September to June: Monday to Sunday 9 am to 8:30 pm. Entry Fee: Free entry to the cathedral; museum entry costs 6 Euros or INR 450 per person.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "Catedral de Sta Maria la Real de la Almudena"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Calle de Bailén 10, 28013 Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "July to August: Monday to Sunday 10 am to 9 pm; September to June: Monday to Sunday 9 am to 8:30 pm"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: Entry to the cathedral is free; museum entry costs 6 Euros or INR 450 per person."
+            }
+          ]
+        },
+        {
+          "summary": "Plaza de Cibeles in Madrid is home to the iconic Cibeles Fountain and the Cybele Palace, surrounded by notable buildings. Location: Calle Alcala y Paseo de Recoletos, 28014 Madrid. Timings: Tuesday to Sunday 10 am to 8 pm. Entry Fee: 2 Euros or INR 150 per person.",
+          "questions": [
+            {
+              "question": "What is the name of this attraction?",
+              "answer": "Plaza de Cibeles"
+            },
+            {
+              "question": "Where is it located?",
+              "answer": "Calle Alcala y Paseo de Recoletos, 28014 Madrid"
+            },
+            {
+              "question": "What are the opening hours of this attraction?",
+              "answer": "Tuesday to Sunday: 10 am to 8 pm"
+            },
+            {
+              "question": "What is the entry fee of this attraction? If there is no entry fee, mention 'No entry fee'.",
+              "answer": "Entry Fee: 2 Euros or INR 150 per person"
+            }
+          ]
+        }
+]      

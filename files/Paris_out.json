@@ -1,0 +1,528 @@
+[{
+    "summary": "Eiffel Tower, located at Champ de Mars, 5 Av Anatole France, 75007 Paris, France, is a lattice tower made of wrought iron and a cultural icon of France. Built in 1889, it offers panoramic views from three levels with restaurants and shops on the lower floors.",
+    "questions": [
+        {
+            "question": "What is the name of this attraction?",
+            "answer": "Eiffel Tower"
+        },
+        {
+            "question": "What are the opening hours of this attraction?",
+            "answer": "Early September: 9 am to 12 midnight; Rest of the year: am to pm"
+        },
+        {
+            "question": "What are the entry fees of this attraction?",
+            "answer": "Entry Fee to the Eiffel Tower for kids below 4 years is free"
+        }
+    ]
+},
+{
+    "summary": "The Louvre, located at 75001 Paris, France, is the world's most visited art museum and gallery, housed in a royal fort. It features sections like Egyptian antiquities, Greek and Roman art, and medieval artifacts.",
+    "questions": [
+        {
+            "question": "What is the name of this attraction?",
+            "answer": "The Louvre"
+        },
+        {
+            "question": "What are the opening hours of this attraction?",
+            "answer": "Wednesday and Friday: 9 am to 10:30 pm; Other days: 9 am to 6 pm; Closed on Tuesday"
+        },
+        {
+            "question": "What are the entry fees of this attraction?",
+            "answer": "Entry fee not specified"
+        }
+    ]
+},
+{
+    "summary": "Notre Dame Cathedral, located at Cathedral of Paris, 6 Parvis Place II, is a famous Roman Catholic cathedral known for its Gothic architecture, sculptures, and gargoyles. It is a popular tourist attraction with no entry fee.",
+    "questions": [
+        {
+            "question": "What is the name of this attraction?",
+            "answer": "Notre Dame Cathedral"
+        },
+        {
+            "question": "What are the opening hours of this attraction?",
+            "answer": "8 am to pm"
+        },
+        {
+            "question": "What are the entry fees of this attraction?",
+            "answer": "No Entry fee"
+        }
+    ]
+},
+{
+    "summary": "Arc De Triomphe, located at Pl Charles de Gaulle, 75008 Paris, is a triumphal arch honoring the imperial army. It features sculptures, carvings, and engraved victory tales, attracting thousands of tourists annually.",
+    "questions": [
+        {
+            "question": "What is the name of this attraction?",
+            "answer": "Arc De Triomphe"
+        },
+        {
+            "question": "What are the opening hours of this attraction?",
+            "answer": "April to September: 10 am to 11 pm; October to March: 10 am to pm; Closed on Monday"
+        },
+        {
+            "question": "What are the entry fees of this attraction?",
+            "answer": "8"
+        }
+    ]
+},
+{
+    "summary": "Montmartre, located at Montmartre, 75018 Paris, is a hillock known for the Basilica and the bustling Square of Tertre. It has inspired artists like Claude Monet and Pablo Picasso, making it a top destination for art lovers.",
+    "questions": [
+        {
+            "question": "What is the name of this attraction?",
+            "answer": "Montmartre"
+        },
+        {
+            "question": "What are the opening hours of this attraction?",
+            "answer": "May to September: am to 8 pm; October to April: 9 am to pm"
+        },
+        {
+            "question": "What are the entry fees of this attraction?",
+            "answer": "None Charges need to be paid for audio and video guides"
+        }
+    ]
+},
+{
+    "summary": "Palace Of Versailles, located at Place d Armes, 78000 Versailles, is a symbol of French supremacy with landscaped gardens, exotic décor, and extensive artwork. It is a UNESCO World Heritage Site and requires an entry fee.",
+    "questions": [
+        {
+            "question": "What is the name of this attraction?",
+            "answer": "Palace Of Versailles"
+        },
+        {
+            "question": "What are the opening hours of this attraction?",
+            "answer": "9 am to pm"
+        },
+        {
+            "question": "What are the entry fees of this attraction?",
+            "answer": "Entry fee or on the days of the Musical Fountains and Garden shows"
+        }
+    ]
+},
+{
+    "summary": "Palais Garnier, located at Pl de l Opéra, 75009 Paris, is an opera house known for its mesmerizing ballet shows and grand architecture. It features wooden carvings, paintings, and artwork, making it a top attraction in Paris.",
+    "questions": [
+        {
+            "question": "What is the name of this attraction?",
+            "answer": "Palais Garnier"
+        },
+        {
+            "question": "What are the opening hours of this attraction?",
+            "answer": "September to June: 10 am to 4:30 pm; July to August: 10 am to pm"
+        },
+        {
+            "question": "What are the entry fees of this attraction?",
+            "answer": "Suggested Read Temple Of Love Paris"
+        }
+    ]
+},
+{
+    "summary": "Quartier Latin, located in the Latin Quarter of Paris, is known for its educational institutions and picturesque Luxembourg Park. It is a popular tourist attraction with no entry fee.",
+    "questions": [
+        {
+            "question": "What is the name of this attraction?",
+            "answer": "Quartier Latin"
+        },
+        {
+            "question": "What are the opening hours of this attraction?",
+            "answer": "Summer: 7 am to 1 hour before sunset; Winter: 8 am to 1 hour before sunset"
+        },
+        {
+            "question": "What are the entry fees of this attraction?",
+            "answer": "None"
+        }
+    ]
+},
+{
+    "summary": "Moulin Rouge, located at 82 Bd de Clichy, 75018 Paris, is a vintage and classic cabaret venue famous as the birthplace of French Cancan. It features a nicely decorated and extravagant cabaret house with sizzling music and romantic décor, making it one of the best places to go in Paris at night.",
+    "questions": [
+        {
+            "question": "What is the name of this attraction?",
+            "answer": "Moulin Rouge"
+        },
+        {
+            "question": "What are the opening hours of this attraction?",
+            "answer": "9 pm to 1 am"
+        },
+        {
+            "question": "What are the entry fees of this attraction?",
+            "answer": "Suggested Read Honeymoon In Paris"
+        }
+    ]
+},
+{
+    "summary": "Disneyland, located at Bd de Parc, 77700 Coupvray, is a vibrant and bustling amusement park famous for its fun rides, shows, and character interactions. It is a popular destination for families and requires an entry fee.",
+    "questions": [
+        {
+            "question": "What is the name of this attraction?",
+            "answer": "Disneyland"
+        },
+        {
+            "question": "What are the opening hours of this attraction?",
+            "answer": "10 am to 11 pm"
+        },
+        {
+            "question": "What are the entry fees of this attraction?",
+            "answer": "A ticket for one day costs €00 for adults and €00 for kids. Besides daily tickets, there are annual passes and holiday packages."
+        }
+    ]
+},
+{
+    "summary": "Place De La Concorde, located at 75008 Paris, is the largest square in France, originally built to honor King Louis XV. It features fountains and statues, including the Statue of Liberty, making it a bustling attraction in Paris.",
+    "questions": [
+        {
+            "question": "What is the name of this attraction?",
+            "answer": "Place De La Concorde"
+        },
+        {
+            "question": "What are the opening hours of this attraction?",
+            "answer": "Throughout the day"
+        },
+        {
+            "question": "What are the entry fees of this attraction?",
+            "answer": "None"
+        }
+    ]
+},
+{
+        "summary": "As a perfect and glorious example of architecture, the former residence of the king of France is now a beautiful chapel with marvelous décor and displays. A restored national historic monument, it is mostly visited by history enthusiasts and photographers and is considered one of the places to visit in Paris. The chapel is known to house several Christian relics, including Christ's thorn acquired by Saint Louis. You can witness all of these precious possessions only at the Sainte Chapelle.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Sainte Chapelle"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "10 am to 6 pm"
+            },
+            {
+                "question": "What are the entry fees of this attraction?",
+                "answer": "Entry fee required"
+            }
+        ]
+    },
+    {
+        "summary": "Centre Pompidou, perched in the Beaubourg area, is a fascinating and complex structure designed with superb intelligence and expertise. Also known as Pompidou Centre, this building houses a library, a museum, and a center for music and acoustic research. It is also the venue for several renowned exhibitions in France organized every year. The collection of vintage as well as contemporary art here is truly amazing.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Centre Pompidou"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "11 am to 10 pm"
+            },
+            {
+                "question": "What are the entry fees of this attraction?",
+                "answer": "Entry fee required"
+            }
+        ]
+    },
+    {
+        "summary": "Musée d'Orsay is one of the most popular museums in Paris, displaying magnificent artwork and sculptures. Paintings of eminent artists like Berthe Morisot, Jean Auguste Dominique Ingres, Eugène Carrière, Johan Barthold Jongkind, etc., are showcased here for visitors. The place is a hot favorite amongst art enthusiasts, culture followers, and history buffs. Thus, it is truly one of the most famous tourist places in Paris.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Musée d'Orsay"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "9 am to 6 pm (open till 9 pm on Thursdays, closed on Mondays)"
+            },
+            {
+                "question": "What are the entry fees of this attraction?",
+                "answer": "None"
+            }
+        ]
+    },
+    {
+        "summary": "Basilica of the Sacré-Cœur, atop Montmartre, is a stunning tourist destination in Paris. Reflecting nationalist themes, this Basilica has immense spiritual significance. The portico arches and walls showcase nationalist themes, while the garden area for meditation and fountain are perfect for solemn serenity and mental peace.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Basilica of the Sacré-Cœur"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "6 am to 10:30 pm"
+            },
+            {
+                "question": "What are the entry fees of this attraction?",
+                "answer": "Entry fee required"
+            }
+        ]
+    },
+    {
+        "summary": "Tuileries Garden is one of the most romantic places to visit in Paris, located next to the Louvre. It offers a beautiful French formal garden design and a small amusement park, making it ideal for travelers on vacation with their families.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Tuileries Garden"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "7 am to 9 pm"
+            },
+            {
+                "question": "What are the entry fees of this attraction?",
+                "answer": "Free"
+            }
+        ]
+    },
+    {
+        "summary": "Musée de l'Orangerie, situated in the west corner of the Tuileries Garden, is an ideal destination for art lovers in Paris. Renowned for displaying Monet's famous water lilies murals and other masterpieces by artists like Picasso and Renoir, this gallery is a must-visit.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Musée de l'Orangerie"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "9 am to 6 pm"
+            },
+            {
+                "question": "What are the entry fees of this attraction?",
+                "answer": "9 Euros"
+            }
+        ]
+    },
+    {
+        "summary": "The Pantheon, nestled in the dynamic Latin Quarter, houses a crypt that contains the tombs of famous French figures like Victor Hugo, Marie Curie, and Voltaire. It is one of the most important places to visit in Paris, offering a glimpse into the lively student neighborhood of the Latin Quarter.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Pantheon"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "10 am to 6 pm"
+            },
+            {
+                "question": "What are the entry fees of this attraction?",
+                "answer": "5 for Adults, 3 for Teenagers, free for Children"
+            }
+        ]
+    },
+    {
+        "summary": "Jardin du Luxembourg, located on the left bank of the River Seine, is a beautiful park in Paris ideal for family picnics and serene walks. It features lush green surroundings and the Palais du Luxembourg, making it a great place to escape the bustling city life.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Jardin du Luxembourg"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "7 am to one hour before sunset"
+            },
+            {
+                "question": "What are the entry fees of this attraction?",
+                "answer": "Free"
+            }
+        ]
+    },
+    {
+        "summary": "Saint-Germain-des-Prés, located along the River Seine, is a Parisian neighborhood known for its galleries, upscale shops, trendy cafes, restaurants, and vibrant nightlife. It offers a lot to explore and enjoy, making it a memorable spot to visit in Paris.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Saint-Germain-des-Prés"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "9 am to 10 am, 11 am to 5 pm, 7 pm (Sundays only)"
+            },
+            {
+                "question": "What are the entry fees of this attraction?",
+                "answer": "Free"
+            }
+        ]
+    },
+    {
+        "summary": "Musée Picasso, a tribute to Pablo Picasso's work, houses over 5,000 works and tens of thousands of archive pieces. It offers a unique collection showcasing Picasso's creative process through drawings, sculptures, and engravings, making it a must-visit for art enthusiasts.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Musée Picasso"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "9:30 am to 6 pm"
+            },
+            {
+                "question": "What are the entry fees of this attraction?",
+                "answer": "12.50 euros (free entry on the first Sunday of every month)"
+            }
+        ]
+    },
+    {
+            "summary": "Musee Rodin is dedicated to the French sculptor Auguste Rodin, showcasing extraordinary works like The Kiss, The Thinker, and The Gates of Hell. It's a must-visit for art enthusiasts looking to appreciate sculpting in Paris.",
+            "questions": [
+                {
+                    "question": "What is the name of this attraction?",
+                    "answer": "Musee Rodin"
+                },
+                {
+                    "question": "What are the opening hours of this attraction?",
+                    "answer": "10 am to 5 pm"
+                },
+                {
+                    "question": "What are the entry fees of this attraction?",
+                    "answer": "12 Euros"
+                }
+            ]
+        },
+        {
+            "summary": "Le Marais offers medieval streets filled with small shops, cafes, galleries, and restaurants, making it a vibrant neighborhood to explore in Paris. It's known for its cultural richness and is ideal for a leisurely afternoon.",
+            "questions": [
+                {
+                    "question": "What is the name of this attraction?",
+                    "answer": "Le Marais"
+                },
+                {
+                    "question": "What are the opening hours of this attraction?",
+                    "answer": "24 hours"
+                },
+                {
+                    "question": "What are the entry fees of this attraction?",
+                    "answer": "Free"
+                }
+            ]
+        },
+        {
+            "summary": "Galeries Lafayette offers a luxurious shopping experience in Paris, featuring top brands like Hermes, Chanel, and Louis Vuitton. The grand department store in Opera is renowned for its stunning architecture and upscale shopping.",
+            "questions": [
+                {
+                    "question": "What is the name of this attraction?",
+                    "answer": "Galeries Lafayette"
+                },
+                {
+                    "question": "What are the opening hours of this attraction?",
+                    "answer": "8 am to 8 pm"
+                },
+                {
+                    "question": "What are the entry fees of this attraction?",
+                    "answer": "Free"
+                }
+            ]
+        },
+        {
+            "summary": "The Catacombs of Paris house a vast collection of bones and ossuaries, offering a unique underground experience. It's an ideal spot for adventure lovers and history enthusiasts exploring Paris.",
+            "questions": [
+                {
+                    "question": "What is the name of this attraction?",
+                    "answer": "Catacombs of Paris"
+                },
+                {
+                    "question": "What are the opening hours of this attraction?",
+                    "answer": "10 am to 8 pm"
+                },
+                {
+                    "question": "What are the entry fees of this attraction?",
+                    "answer": "29 Euros for adults, 5 Euros for children"
+                }
+            ]
+        },
+        {
+            "summary": "The Seine River is a central feature of Paris, spanning 777 km and lined with iconic landmarks like the Eiffel Tower and Louvre Museum. It's perfect for sightseeing and enjoying the vibrant atmosphere of the city.",
+            "questions": [
+                {
+                    "question": "What is the name of this attraction?",
+                    "answer": "Seine River"
+                },
+                {
+                    "question": "What are the opening hours of this attraction?",
+                    "answer": "NA"
+                },
+                {
+                    "question": "What are the entry fees of this attraction?",
+                    "answer": "Free"
+                }
+            ]
+        },
+        {
+                "summary": "Île de la Cité, at the center of Paris, is one of the city's two remaining islands. It holds historical significance as the birthplace of Paris. The island features medieval buildings and houses the Mémorial des Martyrs de la Déportation memorial. It's a must-visit for its historical importance and unique architecture.",
+                "questions": [
+                    {
+                        "question": "What is the name of this attraction?",
+                        "answer": "Île de la Cité"
+                    },
+                    {
+                        "question": "What are the opening hours of this attraction?",
+                        "answer": "9 am to 1 pm, Monday to Friday"
+                    },
+                    {
+                        "question": "What are the entry fees of this attraction?",
+                        "answer": "13 Euros"
+                    }
+                ]
+            },
+            {
+                "summary": "Musée Jacquemart-André is a privately curated museum housed in a historic mansion in the 8th arrondissement of Paris. It showcases a collection of art collected by Édouard André and Nélie Jacquemart. The museum is renowned for its architectural beauty and impressive art collection.",
+                "questions": [
+                    {
+                        "question": "What is the name of this attraction?",
+                        "answer": "Musée Jacquemart-André"
+                    },
+                    {
+                        "question": "What are the opening hours of this attraction?",
+                        "answer": "10 am"
+                    },
+                    {
+                        "question": "What are the entry fees of this attraction?",
+                        "answer": "Between"
+                    }
+                ]
+            },
+            {
+                "summary": "Le Manoir de Paris offers a thrilling haunted house experience spread across 1000m². It brings Parisian legends to life with 23 rooms of horror, including animatronics and eerie decorations. It's a unique attraction ideal for those seeking a spooky adventure in Paris.",
+                "questions": [
+                    {
+                        "question": "What is the name of this attraction?",
+                        "answer": "Le Manoir de Paris"
+                    },
+                    {
+                        "question": "What are the opening hours of this attraction?",
+                        "answer": "6 pm to 10 pm, open only on weekends"
+                    },
+                    {
+                        "question": "What are the entry fees of this attraction?",
+                        "answer": "Adults 10 to 15 years old and Fast Pass at"
+                    }
+                ]
+            },
+            {
+                "summary": "The Louis Vuitton Foundation, owned by the LVMH group, promotes art and culture in Paris. It's known for its striking architecture and hosts a collection of contemporary art. The foundation also features temporary exhibitions showcasing works by renowned artists.",
+                "questions": [
+                    {
+                        "question": "What is the name of this attraction?",
+                        "answer": "Louis Vuitton Foundation"
+                    },
+                    {
+                        "question": "What are the opening hours of this attraction?",
+                        "answer": "11 pm"
+                    },
+                    {
+                        "question": "What are the entry fees of this attraction?",
+                        "answer": "2"
+                    }
+                ]
+            },
+            {
+                "summary": "Pont Alexandre III is celebrated as one of the most beautiful bridges in the world. Built for the 1900 Exposition Universelle, it connects Les Invalides and the Grand Palais. The bridge commemorates the alliance between Russia and France and is admired for its ornate design.",
+                "questions": [
+                    {
+                        "question": "What is the name of this attraction?",
+                        "answer": "Pont Alexandre III Bridge"
+                    },
+                    {
+                        "question": "What are the opening hours of this attraction?",
+                        "answer": "NA"
+                    },
+                    {
+                        "question": "What are the entry fees of this attraction?",
+                        "answer": "Free"
+                    }
+                ]
+            }
+]

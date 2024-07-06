@@ -1,0 +1,564 @@
+[
+    {
+        "summary": "Brussels, the capital city of Belgium and the administrative capital of the European Union, is renowned for its museums, palaces, chapels, and mansions. It offers a vibrant nightlife with numerous cafes, pubs, restaurants, and shopping arcades. Key attractions include Grand Palace, Atomium, Mini Europe, Mannekin Pis, and Tintin Museum.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Brussels"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fees of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Bruges, a picturesque medieval town, is known for its historic buildings, canals, and the title 'Venice of the North.' It features stunning palaces, chapels, and mansions reflecting Viking history. Key attractions include Grote Market Square, Belfry Tower, and Gruuthuse Mansion.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Bruges"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fees of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Ghent, a quaint and serene town, is famous for its historical sites, medieval structures, and churches. It is a favorite destination for art lovers and history buffs. Key attractions include St. Bavo's Cathedral, Gravensteen, Belfry of Ghent, and Saint Nicholas Church.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Ghent"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fees of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Antwerp, known as the food capital of Belgium, showcases a mix of vintage architectural wonders and modern art galleries and museums. It is also the diamond district of Belgium. Key attractions include Plantin Moretus Museum, Rubenshuis, Museum aan de Stroom, and Antwerp Zoo.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Antwerp"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fees of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Ardennes is a hilly destination popular among adventure enthusiasts for trekking, camping, and biking. It boasts thick forests, cliffs, caves, and diverse wildlife. Key attractions include Castle of Bouillon and Labyrinth of Barvaux.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Ardennes"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fees of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Tournai, located at the border of Belgium, is known for housing one of the most beautiful cathedrals in the world. It attracts art lovers and history buffs with its museums and art galleries. Key attractions include The Belfry of Tournai, Folklore Museum, Musee d'Histoire Naturelle et Vivarium, and Notre Dame Cathedral in Tournai.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Tournai"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fees of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Dinant, situated by the banks of the Meuse River in the Namur province, is known for its natural caves and rich wildlife reserves. It is home to famous caves such as Caves of Han and the Grotto of Dinant. Key attractions include Collegiate Church of Notre Dame, La Citadelle, Bridge Adolphe Sax Statue, and Parc de Furfooz.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Dinant"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fees of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Leuven is famous for its Belgian breweries, marketplaces, street-side pubs, cafes, churches, and galleries. It is home to the world's oldest Catholic university. Key attractions include Town Hall, Botanical Garden Kruidtuin, University Library Bell Tower, and Saint Peter's Church.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Leuven"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fees of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Mons, the capital of Hainaut province, features a large cobblestone square, Grand Palace, and town hall. It is known for the sweet tunes of the town's Belfry bells. Key attractions include Collegiate Church of Jacques Du Broeucq, alabaster statues, and Van Gogh House.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Mons"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fees of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Mechelen, close to Antwerp, is famous for boat tours and brewery tours. Visitors can climb the massive tower of St. Rumbold's Cathedral to enjoy views of the Antwerp port. Key attractions include Brouwerij Het Anker, St. Rumbold's Cathedral, and Provincial Groendomein Vrijbroekpark.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Mechelen"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fees of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "De Haan, located in northern Belgium, is known for its picturesque beach lined with restaurants, cafes, and bars. It features fine white sand and a vibrant nightlife. Key attractions include Belle Époque, Villa Savoyarde, Spioenkop, La Potinière, and Astridpark.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "De Haan"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fees of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Durbuy, enchanting with old-world charm, features cobblestone lanes and cottages draped in flowers. Key attractions include Rue des Récollets, Amblève, Topiary Park, and Cave Comblain. Accommodations range from Azur En Ardenne to Hotel Victoria.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Durbuy"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Arlon, rich in history with Celtic, Roman, and Gaullish settlements, boasts attractions like St Donatus Church and the Archaeological Museum of Arlon. Accommodations include La ferme d’a Yaaz and Van Der Valk Luxembourg Arlon.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Arlon"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Beguinage, communities created by women in the thirteenth century dedicated to God, features attractions like the Princely Beguinage Ten Wijngaerde. Accommodations include Thon Hotel Bristol Stephanie, 9 Hotel Central, and The Dominican.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Beguinage"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Genk, known for parks, nature reserves, and coal mining history, features attractions like Bokrijk Museum, Hoge Kempen National Park, and the old coalmines of André Dumont. Accommodations range from Carbon Hotel to Green Hotel.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Genk"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "High Fens-Eifel Nature Park, a heaven for nature lovers with rare flora and fauna, features forested mountains and picturesque villages. Accommodations include Hôtel des Bains, Wellness Hostel, Malmedy Youth Hostel, and Au Chat rme des Blanches Pierres.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "High Fens-Eifel Nature Park"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Hoge Kempen National Park, Belgium's first national park, features lakes, pine woods, and heathland. Key attractions include information kiosks, cafeterias, hiking, and mountain biking. Accommodations range from Arte Hotel to Hashotel.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Hoge Kempen National Park"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Knokke, a coastal town known for its mudflats, sandy beach, and rich history, features attractions like the For Freedom Museum, The Zwin, Zwin Nature Park, and Knokke Casino. Accommodations include Hotel Adagio, Villa Verdi, and Manoir du Dragon.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Knokke"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Kortrijk, with its historic center featuring market squares, churches, and shopping areas, boasts attractions like the Broel Towers, Lys, and the béguinage of Courtrai. Accommodations include Hotel Messeyne, Parkhotel, and Bootel Ahoi.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Kortrijk"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "La Roche-en-Ardenne, an attractive town with museums and animal parks, features attractions like the WWII Museum Ardenne, Ham Museum, and Pottery. Accommodations include Hotel Beau Rivage, Domaine de I'Alu, and Hotel Les Arcades.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "La Roche-en-Ardenne"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Liege, with its vibrant nightlife, top-class museums, and churches, features attractions like Montagne de Bueren, Curtius Museum, Parc de la Boverie, and St Paul’s Cathedral. Accommodations range from Hotel Neuvice to Crowne Plaza Liège.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Liege"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Malmedy, a small town with historical centers and hiking/biking trails, features attractions like the Baugnez 44 Historical Centre, Malmundarium, and hiking trails. Accommodations include La Ferme du Pere Eugene, Hotel La Forge, and Terrasses de Malmedy 2.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Malmedy"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Zwin, a nature reserve famous for its bird species and plants, features attractions like the Zwin Nature Park and Zoo.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Zwin"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Zwin, a nature reserve famous for its bird species and plants, features attractions like the Zwin Nature Park and Zoo.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Zwin"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Ostend, one of the largest cities on the Belgian coast, is known for its strategic port location and popularity among tourists. The city features gorgeous sandy beaches, the Atlantic Wall Open Air Museum, and Gothic architecture like the Church of St Petrus and St Paulus. Exploring Ostend by walking through narrow streets around Het Visschersplein and enjoying local markets is recommended.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Ostend"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Rochefort, in the Belgian province, is famous for its cafes, shops, and top-class churches. The city is home to a gem of a cave system and is easy to explore with almost everything on the main street. Rochefort is also known for its famous Trappist beer.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Rochefort"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Namur, located at the confluence of the Meuse and Sambre rivers, is famous for its high-rise citadel overlooking the city. The medieval fortress, once Europe’s mightiest, now attracts tourists with its charm, gardens, and breathtaking views.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Namur"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Spa, a town in the Ardennes mountains, is famous for its mineral springs and as the birthplace of the word 'spa.' It also hosts the annual Belgian Grand Prix in the nearby village of Francorchamps and is the origin of the famous Spa mineral water.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Spa"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Bastogne, close to the Luxembourg border, is significant for history lovers and patriots. It is known for the Battle of the Bulge and has many memorials, including the Wood of Peace, dedicated to American veterans and others who died in the battle.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Bastogne"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Hasselt, a Flemish city, is known for its villas and small communes like Spalbeek and Wimmertingen. It offers boat rides on the Demer river and Albert Canal, making it a must-see destination in Belgium.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Hasselt"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Ypres, in the western Flanders region, is known for its World War I battlefields, war museums, and memorials. Despite the destruction during the war, important buildings like St Martin’s Cathedral remain. The city is a top place to visit in Belgium in winter.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Ypres"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "Charleroi, a modern city in Hainaut, is known for its rich art scene. It features City Hall, St Christopher’s Church, and the Museum of Fine Arts. The city also offers excellent Belgian food at its restaurants and cafes.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Charleroi"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    },
+    {
+        "summary": "The Meuse Valley, in southern Belgium, offers lush countryside and beautiful scenery. Visitors can enjoy boating trips, hiking, cycling, and trekking. The valley is situated between the towns of Dinant and Namur.",
+        "questions": [
+            {
+                "question": "What is the name of this attraction?",
+                "answer": "Meuse Valley"
+            },
+            {
+                "question": "What are the opening hours of this attraction?",
+                "answer": "Not mentioned"
+            },
+            {
+                "question": "What is the entry fee of this attraction?",
+                "answer": "Not mentioned"
+            }
+        ]
+    }
+]                                                                                    
+    

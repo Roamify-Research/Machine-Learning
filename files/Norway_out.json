@@ -1,0 +1,172 @@
+[
+    {
+      "summary": "The Norwegian National Opera and Ballet House is a modern architectural marvel rising from the water, featuring three lavishly designed stages: the Main House, the Second House, and the Studio. Its majestic windows offer glimpses of its fancy interiors, making it a top tourist attraction in Norway. Location: Kirsten Flagstands Pl 1, Oslo. Opening hours: 10 AM - 8 PM.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "The Norwegian National Opera and Ballet House"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "10 AM - 8 PM"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "NA"
+        }
+      ]
+    },
+    {
+      "summary": "Tusenfryd Amusement Park is one of the most famous amusement parks in the world, featuring over 30 attractions including SpeedMonster, SuperSplash, ThunderCoaster, and SpaceShot. It also includes BadeFryd, a water park with pools, a river, and exciting waterslides. Location: Vinterbro, Norway. Opening hours: 6 PM.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Tusenfryd Amusement Park"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "6 PM"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "INR 1700"
+        }
+      ]
+    },
+    {
+      "summary": "Akershus Fortress, built in 1299 under King Hakon the Fifth, is a historic fortress that defended Oslo from numerous sieges. It now hosts concerts and ceremonies, making it a must-visit on any Norway sightseeing tour. Location: Festningsplassen 1, Oslo 0015, Norway. Opening hours: AM - 6 PM.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Akershus Fortress"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "AM - 6 PM"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "NA"
+        }
+      ]
+    },
+    {
+      "summary": "Tromso University Museum showcases local facts and exhibits the famous Northern Lights. It's a fascinating place to visit in Norway. Location: Lars Thoringsvei 10, Tromso 9037, Norway. Opening hours: 10 AM - PM.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Tromso University Museum"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "10 AM - PM"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "NA"
+        }
+      ]
+    },
+    {
+      "summary": "Arctic Cathedral is renowned for its striking modern architecture and magnificent stained glass window depicting the resurrection of Jesus Christ. Location: Hans Nilsens veg 41, Tromsdalen. Opening hours: 1 PM - 6 PM. Entry fee: INR 423.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Arctic Cathedral"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "1 PM - 6 PM"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "INR 423"
+        }
+      ]
+    },
+    {
+      "summary": "The Science Center of Northern Norway houses the largest Norwegian planetarium and offers close-up views of the Northern Lights. Visitors can explore various topics related to climate, environment, and energy. Location: Hansine Hansens veg 17, Tromsø 9019, Norway. Opening hours: 4 PM. Entry fee: INR 1017.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "The Science Center of Northern Norway"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "4 PM"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "INR 1017"
+        }
+      ]
+    },
+    {
+      "summary": "Tromsø Botanic Garden features a unique collection of Northern Norway's flora, including vibrant flowers like purple saxifrage and yellow cushion plants. It's a must-visit for nature enthusiasts. Flowering season: May to October. Location: 9006 Tromsø, Norway.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Tromsø Botanic Garden"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "NA"
+        }
+      ]
+    },
+    {
+      "summary": "Bryggen Hanseatic Wharf in Bergen is famous for its narrow streets, antique wooden houses, eateries, studios, and workshops. The Bryggen Museum nearby showcases artifacts from the 14th century. Location: Bryggen, 5003 Bergen, Norway. Opening hours: 9 AM - 4 PM.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Bryggen Hanseatic Wharf"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "9 AM - 4 PM"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "NA"
+        }
+      ]
+    },
+    {
+      "summary": "Bergenhus Fortress, dating back to the 16th century, guards Bergen's harbor. The Bergenhus Fortress Museum inside highlights the role of women and resistance groups during German attacks. Location: Vågen, 5003 Bergen, Norway. Opening hours: 11 AM.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Bergenhus Fortress"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "11 AM"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "NA"
+        }
+      ]
+    },
+    {
+      "summary": "Bergen's Royal Residence, Hakon's Hall, built in the 13th century, showcases Bergen's historical power and fortifications. Location: Gamlehaugvegen 10, 5230 Paradis, Norway.",
+      "questions": [
+        {
+          "question": "What is the name of this attraction?",
+          "answer": "Bergen's Royal Residence"
+        },
+        {
+          "question": "What are the opening hours of this attraction?",
+          "answer": "NA"
+        },
+        {
+          "question": "What is the entry fee of this attraction? If there is no Entry fee, mention 'No Entry fee'",
+          "answer": "NA"
+        }
+      ]
+    }
+]  
