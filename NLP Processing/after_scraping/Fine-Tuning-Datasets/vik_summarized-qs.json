@@ -5704,7 +5704,7 @@
         "questions": [
             {
                 "question": "Rate the historical significance of this attraction from 1 - 5.",
-                "answer": 2
+                "answer": 1
             },
             {
                 "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
@@ -5720,7 +5720,7 @@
             },
             {
                 "question": "Rate the architectural significance of this attraction from 1 - 5.",
-                "answer": 2
+                "answer": 1
             }
         ]
     }
