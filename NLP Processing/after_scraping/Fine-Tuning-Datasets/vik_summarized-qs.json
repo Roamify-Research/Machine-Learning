@@ -13498,5 +13498,1255 @@
                 "answer": 3
             }
         ]
+    },
+    {
+        "summary": "Dam Square, an iconic landmark in Amsterdam, is home to the Royal Palace, New Church, and Madame Tussauds Wax Museums, and is a great starting point for sightseeing.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Jordaan, a vibrant district in Amsterdam, offers fine dining, shopping, pubs, eateries, and boutiques, providing endless shopping and eating experiences.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Amsterdam Dungeon offers a historical and fictional experience with tunnels, labyrinths, torture chambers, and characters, providing a unique adventure.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Leidseplein Square is known for its nightlife, offering a range of bars, pubs, theatres, comedy shows, and street performers.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Torensluis Bridge, one of Amsterdam's oldest and biggest bridges, is ideal for afternoon strolls, exhibitions, and art shows.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Bloemen Market, the world's biggest floating flower market, reflects Amsterdam's vibrant culture and offers a unique shopping experience.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Rembrandt House Museum, where the Dutch painter Rembrandt lived and worked, displays his works and contemporary art pieces.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Oude Kerk, one of Amsterdam's oldest buildings, was a Parish church and is now a peaceful place for meditation and spiritual tours.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Muiden Castle, a medieval castle known for its picturesque beauty, offers great views and guided tours, open to the public only on weekends.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Artis Zoo, one of Europe's oldest zoos, features diverse wildlife and unique displays, along with Micropia and a planetarium.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Albert Cuyp Market offers fresh food, clothes, souvenirs, and local items, providing a unique shopping experience and interaction with locals.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "De Negen Straatjes, or The Nine Streets, is a charming destination with historical architecture, ideal for photography and shopping.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Concertgebouw, a recently refurbished building, offers free music and impressive performances, known for its amazing acoustics.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Stedelijk Museum houses almost 90k artworks, including pieces by Picasso, Rothko, Monet, and Warhol, along with temporary exhibitions of contemporary art.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Het Schip, designed by architect Michel de Klerk in 1919, is a residential building and an icon of the Amsterdamse School architecture movement.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "De Hortus Botanicus, one of the world's oldest botanical gardens, opened in 1638 and houses over 4,000 species, including palm houses, greenhouses, and a butterfly house.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "St. George's Castle, located near Alfama in Lisbon, is one of the best attractions in Portugal with battlements, museums, and stunning archaeology. Location: R de Santa Cruz do Castelo, Lisboa, Portugal. Entry fee: INR 700 for adults, INR 400 for children.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Jeronimos Monastery, a UNESCO World Heritage Site in Lisbon, reflects the rich history and culture of the region. Location: Praça do Império, Lisboa, Portugal. Entry fee: INR 800 for adults, with special discounts available on the official website.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "The Lisbon Oceanarium, one of the largest aquariums in Europe, is a great place to visit in Portugal, especially for young adults and families. Location: Esplanada Dom Carlos I, Lisboa, Portugal. Entry fee: INR 800 on average, varies for age groups, family packages available.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Monserrate Palace, known for its beautiful gardens, is a must-visit for honeymooners in Portugal. Location: Sintra, Portugal. Entry fee: INR 700 for adults, INR 400 for children.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Sintra National Palace, distinguished by its conical chimneys, is the oldest surviving palace in Portugal, built for King João I in the 14th century. Location: Largo Rainha Dona Amélia, Sintra, Portugal. Entry fee: NA.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "The News Museum in Lisbon, located in the same building as the Toy Museum, exhibits the role of news media and communications in the modern world. Location: R de Santa Cruz do Castelo, Lisboa, Portugal. Entry fee: NA.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Evora Cathedral, with its austere exterior and impressive interiors, has a weathered granite façade dating back to 1204 and resembles a fortress. Location: Largo do Marquês de Marialva, Évora, Portugal. Entry fee: NA.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Porto Bridge is a must-visit in Portugal, offering guided tours for participants to safely scale the heights with harnesses and lifelines. Location: PTE Luis I, Porto, Portugal. Entry fee: NA.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Cais da Ribeira in Porto is a beautiful riverside quarter with narrow winding streets, alleyways, and arcades, known as the Riverfront Square, a popular meeting point for youngsters. Location: Cais da Ribeira, Porto, Portugal. Entry fee: NA.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "The Roman Temple, also known as the Temple of Diana, is a famous religious site in Portugal and a crowd puller. Location: Largo do Conde de Vila Flor, Évora, Portugal. Entry fee: INR 700 for adults, INR 400 for children.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Sortelha is a medieval village in Portugal that displays the true essence of medieval times. The village is dominated by a castle that offers a great vibe for history buffs. Location: R do Encontro 2, Sortelha, Portugal. Entry fee: NA.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Dubrovnik, often referred to as the Pearl of the Adriatic, is a UNESCO World Heritage site known for its late Renaissance architecture and historical significance. Location: Southern part of the Croatian coast.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Hvar, known as the island of lavender, is famous for its vineyards, lavender fields, and Renaissance architecture. Location: The Adriatic Sea off the Dalmatian coast.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Zagreb, the capital city of Croatia, is a cultural hub known for its museums, art galleries, and lakeside discos. Location: Northwest Croatia.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Trogir is a UNESCO-protected historic city known for its Romanesque, Baroque, and Renaissance architecture. Location: A small island between the Croatian mainland and the island of Ciovo.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Split, the second-largest city in Croatia, is a cultural hub with picturesque beaches, bars, and wineries. Location: Adriatic coast, central Dalmatia.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Zadar is an unexplored region with rich history and beauty, well-connected by various modes of transportation. Location: Adriatic Sea.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Korčula, a Croatian island known for its olive groves, pine forests, vineyards, and preserved folklore, offers coves, sandy beaches, and traditional ceremonies. Location: Central Dalmatia.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Rovinj, situated on a hilly peninsula by the sea, is a Mediterranean fishing port known for its romantic old town feel and modern tourist attractions. Location: North Adriatic Sea.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Pula, located in the Istrian peninsula, is known for its Roman amphitheater and architectural beauty influenced by Roman ruins and Italian culture. Location: Istarska, Croatia.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Vis, the farthest island in the Adriatic Sea, is an offbeat destination known for its unspoiled location, stone buildings, and lively nightlife. Location: Near the island of Korcula in the Adriatic Sea.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "The Norwegian National Opera & Ballet in Oslo features three lavishly designed stages and majestic windows offering glimpses of its interiors. Location: Kirsten Flagstands Pl 1, Oslo. Timings: 10 AM to 8 PM.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Tusenfryd Amusement Park, located in Winterbro, Norway, features over 30 attractions including SpeedMonster, SuperSplash, ThunderCoaster, and SpaceShot. Location: Winterbro, Norway. Timings: Until 6 PM. Entry fee: INR 1700.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Akershus Fortress in Oslo, constructed in 1299 by King Hakon V, is a must-visit for history buffs. It has withstood many sieges and hosts concerts and ceremonies. Location: Festningsplassen 1, Oslo 0015, Norway. Timings: Until 6 PM.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Tromso University Museum in Norway showcases local Sami culture and exhibits about the Northern Lights. Location: Lars Thoringsvei 10, Tromso 9037, Norway. Timings: From 10 AM.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "The Arctic Cathedral in Tromsdalen, Norway, is known for its modern architecture and majestic stained glass window depicting the resurrection of Jesus Christ. Location: Hans Nilsens veg 41, Tromsdalen. Timings: 1 PM to 6 PM. Entry fee: INR 423.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "The Science Center of Northern Norway in Tromsø houses the largest Norwegian planetarium, offering close-up views of the Northern Lights and exhibits on climate, environment, and energy. Location: Hansine Hansens veg 17, 9019 Tromsø. Timings: Until 4 PM. Entry fee: INR 1017.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Tromsø Botanic Garden in Norway features a unique collection of Northern Norway's flora, with the flowering season from May to October. Location: 9006 Tromsø, Norway.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Colorful Bryggen Hanseatic Wharf in Bergen, Norway, is famous for its narrow streets, antique wooden houses, eateries, studios, workshops, and the Bryggen Museum with artifacts from the 14th century. Location: Bryggen 5003, Bergen, Norway. Timings: 9 AM to 4 PM.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Bergenhus Fortress in Bergen, Norway, has dominated Bergen Harbor since the 16th century and features a museum highlighting women's contributions and resistance groups during German attacks. Location: Vågen 5003, Bergen, Norway. Timings: From 11 AM.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "The Hakon Hall in Bergen was constructed for King Hakon Hakonsson in the 13th century and has been extended over time. Location: Gamlehaugvegen 10, 5230 Paradis.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Bratislava Castle is a beautiful ethereal castle located on a plateau in Bratislava, Slovakia. Built in the 10th century, this ancient rectangular building is surrounded by four long towers and offers a spectacular view of the city from the top. It is ideal for tourists interested in arts and culture. The castle's location is 811 06 Bratislava, Slovakia. Contact: 114 44.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Spiš Castle, located in the eastern part of Slovakia, is one of the largest castles in Europe, dating back to the 12th century and spread over 10 acres. It is renowned for its Gothic, Romanesque, and Renaissance architecture. In 1993, it was designated as a UNESCO World Heritage Site. The castle's location is 053 61 Žehra, Slovakia. Contact: 13 36.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "St. Martin's Cathedral in Bratislava, opened in 1452, is one of the oldest churches in Europe and is situated at the western border of Bratislava Castle. Inspired by Gothic architecture, it is historically significant for hosting coronations of Hungarian monarchs and Queen Maria Theresa. A golden crown atop the cathedral adds to its beauty. The location is Rudnayovo námestie 1, 811 01 Bratislava, Slovakia. Contact: 313 59.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
     }
 ]
