@@ -12998,5 +12998,505 @@
                 "answer": 5
             }
         ]
+    },
+    {
+        "summary": "The Bohemian Switzerland National Park, established in 2000, covers 80 km² and is connected to the Saxon Switzerland National Park in Germany. Location: Malostranske Namesti, Praha 1, Prague 11800, Czechia.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 1
+            }
+        ]
+    },
+    {
+        "summary": "Konopiste Castle, founded in 1300, is a Gothic castle inspired by French medieval fortification architecture. It was the home of Archduke Franz Ferdinand. Location: Konopiště 1, Benešov, Czechia.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "The Sedlec Ossuary, a chapel adorned with bones of nearly forty thousand people, features a chandelier containing all human bones. Location: Zamecka 279, Kutna Hora 284 03, Czechia.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Rijksmuseum, built in 1809, houses Dutch art and antiques in over 250 rooms, along with a vast library of books and manuscripts.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Anne Frank House, a popular tourist spot, is where Anne Frank and her family hid during WWII. It displays her diary and history.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Van Gogh Museum displays over 200 paintings, 500 drawings, and 700 letters by Van Gogh, attracting 5 million visitors annually.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Begijnhof, originally a Béguinage, features two churches and a secluded garden, offering a peaceful experience.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Amsterdam's West Church, known for its Renaissance and Gothic architecture, became famous after Queen Beatrix's wedding in 1966.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Vondelpark, Amsterdam's most popular park, features restaurants, cafés, a skate rental shop, a theater, and a rose garden with over 70 types of roses.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Heineken Brewery, started in 1864, offers tours to understand beer-making and a VIP tour to taste different beer types with cheese.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Red Light District, famous for its nightlife, features numerous bars and is popular for locally brewed beer.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Royal Palace of Amsterdam, located in Dam Square, is a historic site used for royal functions and open to visitors.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Bike City in Jordaan offers bike rentals for sightseeing, allowing visitors to explore Amsterdam's scenic paths.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Museum for Dutch Film Lovers, located on the waterfront, archives Dutch films and hosts screenings for international and Dutch films.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "The Rozentheater in Amsterdam offers comedy performances and interactive shows, providing a night of laughter and entertainment.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "De Bakkerswinkel, a quaint café on one of Amsterdam's oldest streets, is known for its quiche, brioche puddings, cakes, and coffee.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Flower Market, known as Bloemenmarkt, is a vibrant and fragrant market on Singel canal, offering fresh flowers, tulip bulbs, and Dutch souvenirs.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Canal Belt, a UNESCO World Heritage site since 2011, features beautiful neighborhoods, houses, and cafés. It offers boating tours and peaceful strolls.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Keukenhof, known as the Garden of Europe, is one of the world's largest flower gardens, located in South Holland, and famous for its tulip exhibitions.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Efteling Park, an amusement park in Amsterdam, offers theme rides based on fairy tales and legends, attracting many tourists daily.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
     }
 ]
