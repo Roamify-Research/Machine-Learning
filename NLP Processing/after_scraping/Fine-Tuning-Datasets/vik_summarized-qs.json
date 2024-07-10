@@ -14748,5 +14748,755 @@
                 "answer": 5
             }
         ]
+    },
+    {
+        "summary": "Slovak Paradise National Park, located in eastern Slovakia, is one of the country's nine national parks and was established in 1988 to conserve wildlife and natural reserves. The park features beautiful lakes, waterfalls, canyons, and dense forests with rich flora and fauna. Visitors can enjoy hiking or peaceful strolls in nature. Contact: 20 10.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Grassalkovich Palace, located in Bratislava and opened in 1760, is the residence of Slovakia's President. Inspired by Baroque summer palace design, it features authentic European architectural style. A French garden in front of the palace adds to its attractiveness for tourists. The location is Hodžovo námestie, 811 06 Bratislava, Slovakia. Contact: 20 10.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Aquapark Tatralandia, located in Liptovský Mikuláš, Slovakia, offers thrilling water rides and slides for those seeking fun and adventure beyond historical sites. The park features well-maintained facilities and warm, welcoming staff. There are also food stalls serving amazing delicacies. The location is Ráztocká 21, 031 05 Liptovský Mikuláš, Slovakia. Contact: 915 834 644.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Demänovská Cave of Liberty, a karst cave discovered in 1921, is one of Slovakia's famous natural sites. Open to the public since 1924, the cave's entrance is located at an altitude of 870 meters in the Low Tatras. Slovakia is home to over 100 caves beneath its mountain landscapes. Contact: 915 834 644.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Old Town Hall, built in the 14th century, is a massive complex in Slovakia featuring a famous museum that showcases the ancient era. The architecture is influenced by Gothic, Gothic Revival, and Renaissance Revival styles. It is an ideal place for history enthusiasts. The location is Hlavné námestie 811 01 Staré Mesto, Slovakia. Contact: 008 47.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Devín Castle, located in Devín, a borough of Bratislava, Slovakia, is inspired by Gothic architecture and rich in historical and cultural artifacts. The upper floors feature a permanent exhibition called Architectural Development of Devín Castle, showcasing ancient art, sculptures, and paintings from the 11th to 19th centuries. The location is Muránská 841 10 Devín, Slovakia. Contact: 301 05.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Bojnice Castle, built in the 12th century in Bojnice, Slovakia, is a dreamlike castle reminiscent of Disney castles, surrounded by lush green trees and filled with liveliness. It features Gothic Revival architecture and awe-inspiring interiors. Note that it closes at 3 pm. The location is Zámok a okolie 1, 972 01 Bojnice, Slovakia. Contact: 06 33.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Štrbské Pleso, located in the High Tatras, Slovakia, is a tourist spot known for its natural beauty and mountain lake views. It is the second largest lake in Slovakia, offering a peaceful and less crowded environment, ideal for winter visits and those seeking tranquility.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Michael's Gate, located in Bratislava, Slovakia, is one of the oldest town buildings with seven floors. It houses various local and international food stalls, pubs, and clubs, reflecting a rich cultural blend. The place closes at 6 pm, so it's best to visit early. The location is Michalská ulica 22, 811 03 Bratislava, Slovakia. Contact: 330 44.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Košice is a beautiful city near the Hungary border, making it one of the top places to visit in Slovakia. Dating back to the medieval period, it boasts attractions like St Elisabeth's Cathedral and Spiš Castle. For families, the Košice Zoo is a great option. Slovakia offers diverse tourist spots, including hilly mountains, rivers, and ancient caves.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Big Ben, the iconic clock tower near Westminster Abbey in central London, is a UNESCO World Heritage Site and a major tourist attraction in the United Kingdom. Designed by Augustus Pugin, it stands about 100 meters tall. Timings: 10 AM to 6 PM. Location: Westminster, London SW1A 0AA, UK.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "The London Eye, located on the River Thames, is a giant Ferris wheel offering panoramic views of London. Standing at almost 140 meters tall with 32 capsules, it is a popular spot for tourists, especially couples. Timings: 10 AM to 8 PM. Location: Lambeth, London SE1 7PB, UK.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Stonehenge, near Amesbury, England, is a Neolithic site dating back to 3000 BC. It is a UNESCO World Heritage Site and remains a mystery regarding its purpose. The site is surrounded by various neolithic burial grounds and monuments. Timings: 9 AM to 5 PM. Location: Amesbury, Salisbury SP4 7DE, UK.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Hyde Park, one of the four royal parks in London, is located near Kensington Palace and was once a hunting ground in the late 1600s. It is now a major cultural site, known for hosting music concerts and reclaiming free speech. Timings: 5 AM to 12 AM. Location: London, UK.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Loch Ness and the Scottish Highlands are known for their natural beauty and historical significance. Loch Ness, a deep freshwater lake, is famous for the legend of the monster Nessie. The Scottish Highlands feature lush green mountains and are popular for outdoor activities. Location: Scotland.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Dunluce Castle, a medieval castle in Northern Ireland, is located on a cliff with steep falls on both sides. Built around the late 1600s, it offers a rugged feel and is ideal for a winter weekend visit. Timings: 10 AM to 4 PM. Location: 87 Dunluce Rd, Bushmills BT57 8UY, UK.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Trafford Centre, located in Manchester, is a famous shopping destination with numerous outlets, food joints, and cafes. It is easily accessible by train and is a haven for shopaholics. Timings: 10 AM to 10 PM. Location: Regent Cres, Stretford, Manchester M17 8AA, UK.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Windsor Castle, located in Berkshire, is the residence of the British royal family. Built in the 11th century and renovated over time, it represents the British monarchy and Gothic architecture. Timings: 10 AM to 5 PM. Location: Windsor SL4 1NJ, UK.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Giant's Causeway, a natural phenomenon made of basalt columns, is located on the shores of Northern Ireland. It is a UNESCO World Heritage Site and offers free entry. Most columns are hexagonal, with some having five, seven, or eight sides. Timings: 9 AM to 5 PM. Location: 44 Causeway Rd, Bushmills BT57 8SU, UK.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "The Peak District National Park in England is a great weekend getaway destination. Visitors can rent cottages, go camping, biking, hill walking, and stargazing. Timings: All year round. Location: Derbyshire, England.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Cheddar Gorge in the Mendip Hills, Somerset, is a destination for outdoor enthusiasts offering mountain climbing and sky diving. It is regarded as a natural wonder and is famous for its cheese. Timings: All year round. Location: Mendip Hills, Somerset, England.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "The Orkney Islands in Scotland are a great destination for wildlife enthusiasts, offering sightings of whales, seals, and puffins. Visitors can also see the Northern Lights here. Timings: May to September. Location: Scotland, United Kingdom.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Pembrokeshire, the only coastal National Park in the UK, is a picturesque village in Wales. It is a popular spot for nature enthusiasts, offering hiking and water sports. Timings: All year round. Location: Wales, United Kingdom.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "The Cotswolds in central England offers stunning landscapes, charming villages, and cozy local pubs. It is ideal for a rural vacation and offers hiking and mountain biking opportunities. Timings: All year round. Location: England, United Kingdom.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Old Town Edinburgh is a historic city full of culture and stories, making it a great place to visit in the UK during winter. The city features buildings, forts, and alleyways dating back hundreds of years. Key attractions include Edinburgh Castle and the Royal Mile. Timings: All year round. Location: Old Town, Edinburgh.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Budapest, Hungary's capital, showcases historic buildings alongside modern architecture. Key attractions include Buda Castle, the Great Synagogue, and the Hungarian State Opera House. The city is famous for cruises on the Danube River, Hungarian cuisine, and performances at the Opera House.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Szentendre, located 20 km from Budapest, is a picturesque town known for its colorful Baroque houses, cobbled streets, and numerous galleries and museums. It is famous for its artistic atmosphere and is a popular getaway for tourists.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Eger, situated on the Eger River, is known for its historical architecture influenced by the Turkish invasion and its renowned red wine, Bikaver. Key attractions include Eger Castle, the Cathedral Basilica, and the Valley of Beautiful Women.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Esztergom, a historical city, is notable for its Christian influence, housing Hungary's largest church, the Esztergom Basilica. It was the country's capital from the 10th to the 13th centuries. The city is known for its rich collection of Christian relics and historical museums.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Debrecen, Hungary's second-largest city, is known for its unique history and as the gateway to the great plains and Hortobagy National Park. Key attractions include the Calvinist College, the Great Church, and the Deri Museum. It's famous for its Flower Carnival and local cuisine.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
     }
 ]
