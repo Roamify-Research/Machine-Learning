@@ -1,7 +1,7 @@
 [
     {
-        "summary": "Budapest is the shining capital of Hungary, blending historic ancient buildings with modern architectural wonders. It is a UNESCO World Heritage Site, offering a paradise for foodies and boasting attractions like Buda Castle, Great Synagogue, and Parliament.",
-        "questions": [
+    "context": "Budapest The shining capital of Hungary2 Szentendre An artistic getaway in a quaint town3 Eger A town with a bloody history and wine4 Esztergom A peek into the history of Hungary5 Debrecen An expedition to the great grasslands of Hungary6 Tihany A historical village with picturesque views7 Lake Balaton A sojourn into nature with lakes and forests8 Aggtelek A walk through mysterious caves9 Lillafured A hike up to the mountains10 Sopron Wander in an ancient city with a colourful history11 Tapolca A picturesque resort town with caves12 Tokaj Stroll through dreamy vineyards13 Pecs For heritage by day and entertainment by night14 Holloko Relive history at the UNESCO World Heritage Site15 Visegrad Of Renaissance monuments and skiing16 Hortobagy for amazing sunsets17 Siofok Move over nightclubs day clubs are here to stay Budapest The shining capital of Hungary Wikipedia Budapest is one of the places to visit in Hungary to understand the country s history and progress in the modern times Historic ancient buildings stand regally alongside the modern architectural wonders No wonder the length of Banks of the Danube River Royal Castle Quarter and Andrassy Avenue has been deemed a UNESCO World Heritage Site It s also a paradise for foodies In fact other than Hungarian cuisine you re sure to find a lot of Indian restaurants in Budapest Places to visit Buda Castle or Royal Palace Great Synagogue Basilica of St Stephen Parliament Memento Park Hungarian State Opera House House of Terror Famous for Cruise over Danube River Hungarian cuisine Performances at Budapest Opera House Tip Do not change money in the streets It s against the law and there are chances you can be cheated Must Read Hotels in Hungary Europe Holiday Packages On TravelTriangle Explore the most beautiful places to visit in Europe from Paris to the Venice canals and from the Greek islands to the Swiss Alps Book customized packages by expert agents on TravelTriangle Inclusive of airport transfers cab resort sightseeing and meals Best holiday experience Guaranteed Book Now Magnificent Switzerland Holiday Package Rs Plan your trip today Book Now Magnificent Europe Tour Package Rs Get quotes from multiple travel experts Book Now France Switzerland Tour Package Rs Compare customize quotes before booking Book Now Scintillating Spain Portugal Tour Rs Have Questions Talk to our travel experts today Book Now 6 Country Europe Tour Package Rs Best prices guaranteed EMI option available Book Now See more at TRAVELTRIANGLE COM Visit Website",
+            "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Budapest"
@@ -17,8 +17,8 @@
         ]
     },
     {
-        "summary": "Szentendre, also known as St. Andrews, is a picturesque town near Budapest known for its Baroque houses, galleries, and museums. Visitors can enjoy a boat ride in the afternoon to explore the town effectively.",
-        "questions": [
+        "context": "Szentendre An artistic getaway in a quaint town Henryleester for Pixabay Szentendre or St Andrews is a mere 20 KM away from the city of Budapest is one of the best places to see in Hungary near Budapest The picturesque town is every tourist s favourite and looks absolutely magical with cobbled streets lined with colorful Baroque houses Lot of galleries museums and stores keep visitors occupied Places to visit Art Mill Belgrade Cathedral Hungarian Open Air Museum Ferenczy Karoly Museum Blagoveschensk Church Famous for Museums Artists colony with galleries cafe Tip If you re short on time take a boat ride to Szentendre in the afternoon since it takes twice as long to travel upstream to the town in the morning",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Szentendre"
@@ -34,8 +34,8 @@
         ]
     },
     {
-        "summary": "Eger, situated on the Eger River, showcases Turkish influence in its architecture due to historical invasions. It is famous for its Castle, Cathedral, and the Valley of Beautiful Women known for producing Hungary's best red wine, Bikaver.",
-        "questions": [
+        "context": "Eger A town with a bloody history and wine Pxhere Located on the Eger River Eger is one of the top places to visit in Hungary Visitors witness the remnants of the Turkish invasion which influenced the architecture of the town A short distance away is the Valley of Beautiful Women which produces Hungary s best red wine known as Bikaver or Bull s Blood Places to visit Eger Castle Cathedral Basilica of St John the Apostle Magic Tower Lyceum County Hall Kossuth Lajos Utca Famous for Vineyards of Eger Baroque and architecture of the city Tip Don t forget to stop by at the churches for the most stunning sights Suggested Read Things To Do In Hungary",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Eger"
@@ -51,8 +51,8 @@
         ]
     },
     {
-        "summary": "Esztergom is known for its historical significance as a Christian center in Hungary, featuring the largest church in the country, Esztergom Basilica, and a museum with extensive Christian relics.",
-        "questions": [
+        "context": "Esztergom A peek into the history of Hungary Pxhere Esztergom is among the best places to visit in Hungary to see the influence of Christianity on the country It has the largest church of Hungary the Esztergom Basilica and its museum has the largest collection of Christian relics The city was also the capital of Hungary between the 10th and 13th centuries Places to visit Esztergom Basilica Christian Museum Castle Museum Danube Museum Famous for Interiors of the Esztergom Basilica Museum with Christian relics Tip The Esztergom Cathedral is closed in the winters so plan your trip accordingly",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Esztergom"
@@ -68,8 +68,8 @@
         ]
     },
     {
-        "summary": "Debrecen, the second largest city in Hungary, serves as a gateway to the great plains and Hortobagy National Park. It is famous for its Great Church, Deri Museum, and the annual Flower Carnival.",
-        "questions": [
+        "context": "Debrecen An expedition to the great grasslands of Hungary Wikimedia Commons Debrecen is among the popular places to visit in Hungary and is also the second largest city after Budapest While it has a unique history of its own it is more popular for being the gateway to the great plains of Hungary and especially as the base for a visit to the Hortobagy National Park Places to visit Calvinist College Great Church Deri Museum Timar Haz Centre of Modern Contemporary Art Famous for Day trip to Horotbagyi National Park Flower Carnival in August Lake Fancsika Tip Stop by at the local food joints for an authentic lunch of thick beef soup and pasta Suggested Read Hungary Nightlife",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Debrecen"
@@ -85,8 +85,8 @@
         ]
     },
     {
-        "summary": "Tihany, a historical village in the Lake Balaton region, is known for its Abbey and picturesque views. It offers attractions like Benedictine Abbey, Lavender House, and is a hotspot for birdwatching.",
-        "questions": [
+        "context": "Tihany A historical village with picturesque views Pxhere Tihany is a tiny village located in the Lake Balaton region with a rich history One of the top places to visit in Hungary outside Budapest Tihany is known for its Abbey where the first records of Hungarian language are found The functioning church is thronged by visitors throughout the year Places to visit Benedictine Abbey Church Lavender House Folk Museum Benedictine Abbey Museum Famous for Lavender Garden Bird watching at Inner Lake Outer Lake Loczy Nature Trail Tip Visit the church in the evening hours to escape the throngs of the crowd",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Tihany"
@@ -102,8 +102,8 @@
         ]
     },
     {
-        "summary": "Lake Balaton, known as the Hungarian Sea, is a natural beauty with a 197 KM shoreline surrounded by resort towns and forests. It offers attractions like Herend Porcelain Factory, Festetics Palace, and hosts the Balaton Sound Festival.",
-        "questions": [
+        "context": "Lake Balaton A sojourn into nature with lakes and forests Wikipedia The Lake Balaton is undoubtedly one of the best places to visit in Hungary The lake also dubbed as the Hungarian Sea has a long shoreline of 197 KM which is in fact circuited by a cycle path which visitors can cycle on The lake is surrounded by resort towns and has beautiful forests especially in the Balaton Uplands National Park Places to visit Herend Porcelain Factory Festetics Palace Famous for Szigliget Fortress Heviz Spa Balaton Sound Festival Tip Getting to Lake Balaton by public transport is affordable and reliable but make sure you consult the official timetables of buses and trains before you start planning your day Suggested Read Places To Visit In Budapest",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Lake Balaton"
@@ -119,8 +119,8 @@
         ]
     },
     {
-        "summary": "Aggtelek, a village known for the UNESCO World Heritage Site Aggtelek and Slovak Karst, features spectacular caves like the Baradla Cave with stunning stalactite formations.",
-        "questions": [
+        "context": "Aggtelek A walk through mysterious caves Wikimedia Commons Aggtelek is a village that is the gateway to the popular UNESCO World Heritage Site of Aggtelek and Slovak Karst One of the most interesting places to visit in Hungary Aggtelek s Baradle Cave has the most stunning stalactite formations Especially the cavern Giant s Hall is spectacular and a treat for nature lovers Places to visit Aggtelek Cave System Famous for Baradla Cave Rakoczi Barlang Cave Tip Arrive early to escape the crowd",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Aggtelek"
@@ -136,8 +136,8 @@
         ]
     },
     {
-        "summary": "Lillafured, nestled in the Bukk Mountains, is known for its natural beauty and serves as a base to explore Bukk National Park. It offers attractions like Lillafured Waterfall, Lake Hamori, and Anna Cave.",
-        "questions": [
+        "context": "Lillafured A hike up to the mountains Wikimedia Commons The Bukk Mountains are one of the most beautiful places to visit in Hungary Lillafured is the perfect place as a base to visit the Bukk National Park The park has more than caves beautiful freshwater lakes and thick woods ideal for hiking The Lillafured waterfall is also the highest waterfall in Hungary Places to visit Bukk National Park Lillafured Waterfall Lake Hamori Anna Cave Famous for Trekking in Bukk National Park Miskolc Zoo Tip Cave bathing is the most popular thing to do among tourists Suggested Read Shopping In Budapest",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Lillafured"
@@ -153,8 +153,8 @@
         ]
     },
     {
-        "summary": "Sopron, an ancient city with a rich history influenced by various cultures, features attractions like Lake Neusiedl, Firewatch Tower, and Harrer Chocolate Factory.",
-        "questions": [
+        "context": "Sopron Wander in an ancient city with a colourful history Shutterstock Sopron has witnessed history through the ages and one of the most historic places to visit in Hungary Europe It settled by the Celts Romans Germans Avars Slavs and Magyars each of whom left their imprint on the culture and architecture of the city While the city has expanded its inner town Belvaros is still charming and a delight to wander Places to visit Lake Neusiedl Storno House Firewatch Tower Old Synagogue Harrer Chocolate Factory Famous for National Park with Lake Ferto Fire Tower with 200 steps Tip Take a stroll on Sopron s cobbled streets",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Sopron"
@@ -170,8 +170,8 @@
         ]
     },
     {
-        "summary": "Tapolca, known for its unique underground lake cave, offers attractions like Lake Cave and the Little Princess Statue. It's a picturesque town ideal for exploring natural wonders.",
-        "questions": [
+        "context": "Tapolca A picturesque resort town with caves Wikimedia Commons Not many towns or cities have a vast underground cave but Tapolca does It is the beautiful underground Lake Cave that features Tapolca among the famous places to visit in Hungary Located right in the middle of the town the lake cave is open to the public and is also famous for its medicinal properties what is Hungary famous for Amidst the splendor of its landscapes and the warmth of its people one might ponder What is Hungary famous for Places to visit Lake Szent Gyorgy Hill Lake Cave Famous for Little Princess Statue Kotenger Tip Do not visit the caves alone In fact you ll find that all guides pertaining to Europe travel tips discourage travelers from engaging in this practice Suggested Read Things To Do In Budapest",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Tapolca"
@@ -187,8 +187,9 @@
         ]
     },
     {
-        "summary": "Tokaj, at the heart of Hungary's wine country, is renowned for its vineyards and sweet wines. It offers attractions like Tokaj Museum, wine tasting tours, and scenic views of the Zemplen Hills.",
+        "context": "Tokaj Stroll through dreamy vineyards Pxhere Tokaj is at the center of the wine country and among the best places to travel in Hungary to sample the best wines The tiny town is filled with pretty houses and offers excellent views of the Zemplen Hills Perfect for wine connoisseurs Tokaj has been producing sweet wines since the 15th century Places to visit Tokaj Museum Wine Tasting Tours Vineyards Famous for UNESCO World Heritage Tokaj Wine Region Sarospatak Castle Tip There s no dress code for wine tastings but we suggest you give the white outfit a miss",        
         "questions": [
+
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Tokaj"
@@ -204,8 +205,8 @@
         ]
     },
     {
-        "summary": "Pecs, a vibrant city in Hungary, offers a blend of heritage sites and modern attractions. It features landmarks like Zsolnay Cultural Centre, Mosque Church, and is known for its lively nightlife.",
-        "questions": [
+        "context": "Pecs For heritage by day and entertainment by night Pxhere Pecs is one of the most popular places to visit in Hungary next only to Budapest With a pleasant climate through the year it is thronged by visitors who come to see the ancient architectural landmarks Drawing many young backpackers and travelers the city offers an exciting nightlife and top tourist attractions in Hungary Places to visit Zsolnay Cultural Centre Mosque Church Csontvary Museum Modern Hungarian Gallery Zsolnay Porcelain Museum Famous for Trekking at Mecsek Mosque of Pasha Qasim St Peter and Paul Cathedral Tip Photography is allowed at Mosque of Pasha Qasim but you should refrain from taking pictures of worshippers during prayer time Suggested Read Activities For Summer holidays In Europe",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Pecs"
@@ -221,8 +222,8 @@
         ]
     },
     {
-        "summary": "Holloko, a UNESCO World Heritage Site, is a historic village known for its unique architecture and cultural significance. It features attractions like Holloko Castle, Church of St. Martin, and Village Museum.",
-        "questions": [
+        "context": "Holloko Relive history at the UNESCO World Heritage Site Wikimedia Commons Often featuring among the top 10 best places to visit in Hungary Holloko is a living piece of history The tiny village has just two streets but is deemed as a UNESCO World Heritage Site thanks to its unique architecture The houses are built in a technique known as wattle and daub that uses sticks and clay or mud Places to visit Holloko Castle Church of St Martin Village Museum Guzsalyas Paloc Doll Museum Postal Museum Famous for Paloc Babamuzeum Hollokoi Falumuzeum Tip You are likely to find greeters at the Church of St Martin so be prepared to shake hands with someone when you enter",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Holloko"
@@ -238,8 +239,8 @@
         ]
     },
     {
-        "summary": "Visegrad, located in the Danube Bend, is known for its Renaissance monuments and scenic beauty. It offers attractions like Matyas Kiraly Museum, Zugfozde Palinka Museum, and artisan workshops.",
-        "questions": [
+        "context": "Visegrad Of Renaissance monuments and skiing Visegrad is a quaint castle town situated in Pest County Hungary It is in the north of Budapest on the bank of the Danube in the Danube Bend Roughly people live in this remote town The destination is known for the remains of the Early Renaissance summer palace of the late King Matthias Corvinus and the ancient citadel Visegrad emerges as one of the most unique places to visit in Hungary weaving together history culture and natural beauty of the ancient buildings as well as artisan workshops to create an unforgettable memories Places to visit Matyas Kiraly Museum Zugfozde Palinka Museum Famous for History and Architecture Tip The best way to really enjoy Visegrad is to take a hike Suggested Read Hotels In Budapest",
+                "questions": [
             {
                 "question": "What is the name of this attraction?",
                 "answer": "Visegrad"
