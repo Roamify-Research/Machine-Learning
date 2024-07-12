@@ -15498,5 +15498,1705 @@
                 "answer": 3
             }
         ]
+    },
+    {
+        "summary": "Tihany, a historical village in the Lake Balaton region, is known for the Benedictine Abbey, which holds the first records of the Hungarian language. The village attracts visitors with its scenic views, lavender gardens, and bird watching at Inner and Outer Lakes.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Lake Balaton, known as the Hungarian Sea, is a top destination with a 197 km shoreline, resort towns, and beautiful forests in Balaton Uplands National Park. It's famous for cycling, the Heviz Spa, and the Balaton Sound Festival.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Aggtelek, a village known for its stunning stalactite formations, is the gateway to the UNESCO World Heritage Site of Aggtelek and Slovak Karst. The Baradle Cave, especially the Giant's Hall, is a major attraction for nature lovers.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Lillafured, located in the Bukk Mountains, is an ideal base for visiting Bukk National Park. Known for its beautiful lakes, thick woods, and the highest waterfall in Hungary, it offers excellent hiking opportunities and attractions like Anna Cave and the Miskolc Zoo.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Sopron, a city with a rich historical legacy, has been influenced by Celts, Romans, Germans, Avars, Slavs, and Magyars. Key attractions include Lake Neusiedl, Firewatch Tower, and the Old Synagogue. The inner town, Belvaros, retains its charming appeal.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Tapolca, a picturesque resort town, is famous for its underground Lake Cave, known for its beauty and medicinal properties. Key attractions include Lake Szent Gyorgy Hill and the Little Princess Statue.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Tokaj, located in Hungary's wine country, is known for its beautiful vineyards and sweet wines, produced since the 15th century. The town offers excellent views of the Zemplen Hills and attractions like the Tokaj Museum and Sarospatak Castle.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Pecs, a popular destination in Hungary, is known for its ancient architectural landmarks and vibrant nightlife. Key attractions include the Zsolnay Cultural Centre, Mosque of Pasha Qasim, and the Modern Hungarian Gallery.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Holloko, a UNESCO World Heritage Site, is a tiny village known for its unique wattle and daub architecture. Key attractions include Holloko Castle, the Church of St Martin, and the Village Museum.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Visegrad, a castle town in Pest County, Hungary, is known for the remains of the Early Renaissance summer palace of King Matthias Corvinus and its ancient citadel. It offers a unique blend of history, culture, and natural beauty.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Hortobagy, known as the plainest plain in Europe, is famous for its iconic sunsets, unique flora and fauna, and the horsemanship of Hungarian cowboys. Key attractions include the Nine Holed Bridge and the National Herdsmen Competition.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Siofok, a popular holiday resort town on Lake Balaton's south coast, attracts numerous visitors during the summer. Key attractions include the Villa Jokai, Museum of Egg, and Water Tower. It's famous for the Coke Club and the Galerius Thermal Spa and Wellness Centre.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Baku, the capital of Azerbaijan, blends the old walled city of Icheri Seher with modern skyscrapers like the Flame Towers. It offers attractions like the Museum of Contemporary Art and local markets.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Astara, located in the Astara Rayon district, is a picturesque city bordered by Iran. It features forests, mountains, cafes, restaurants, and a museum showcasing regional artifacts.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Sheki, at the foothills of the Southern Greater Caucasus Mountain, is one of the oldest Caucasus settlements. Known for silk textiles and embroidery, it features ancient mosques, castles, and palaces.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Quba, located in the northeast of Azerbaijan, is a cultural destination. The ancient mountain town lies across the Qudailchay river, near ancient villages, with mountains in the backdrop.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Goyazan Mountain, located in the Qazak district, stands at 857.9 meters above sea level. Surrounded by fields and plains, it offers picturesque views and trekking opportunities.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Mud Volcanoes in Baku are a unique natural phenomenon known for their healing qualities. Located in the desert area by the Caspian Sea, they are a must-visit despite being hard to reach.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Lake Goygol, located in the lower Caucasus mountains, is surrounded by dense forests. Created by a 12th-century earthquake, it is a beautiful and newly opened public attraction in Azerbaijan.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Absheron National Park, located at the southeastern tip of the Absheron peninsula, is home to diverse flora and fauna. It attracts wildlife lovers throughout the year.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Basilica Of The Sagrada Familia is one of Barcelona's top attractions, known for its gothic architecture and 18 spindly towers. The church depicts key events in Jesus's life and has a stunning interior. Located at 401 Carrer de Mallorca, it is open from 9 AM to 7 PM with an entry fee starting at 14 Euro.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Casa Mila, also known as La Pedrera, is a remarkable architectural piece by Antoni Gaudi with curved facades, beautiful balconies, and unique rounded windows. Located at 261-265 Carrer de Provenca, it houses the cultural center Fundacio Catalunya and is open from 9 AM to 9 PM with an entry fee of 21 Euro.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Palau De La Musica Catalana is an opera hall designed by Lluis Domenech i Montaner, embodying Catalan Modernism. It features detailed mosaic work and a glass ceiling that illuminates the hall with natural light. Located at Calle Palau de la Musica, it is open from 10 AM to 3:30 PM with an entry fee starting at 16 Euro.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Barri Gotic, or the Gothic Quarter, is Barcelona's oldest and liveliest area, featuring ancient Roman structures, picturesque plazas, restaurants, and cafes. Located between the streets of Laietana and Rambla, it is open 24/7 with no entry fee.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Casa Batllo, designed by Antoni Gaudi, is known for its fairy tale-like fa\u00e7ade and unusual shape. Also called Casa del Drac, it was the townhouse of the Batll\u00f3 family. Located at 43 Passeig de Gracia, it is open from 9 AM to 9 PM with an entry fee starting at 22 Euro.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Casa Vicens, designed by Antoni Gaudi, is a UNESCO World Heritage site located in Gracia. Built as a summer residence for the Vicens family between 1883 and 1885, it now serves as a museum. Located at Carrer de Les Carolines, it is open from 10 AM to 8 PM with an entry fee starting at 12.50 Euro.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Montjuic Castle, located at 66 Carretera de Montjuic, offers excellent panoramic views and houses museums with a collection of Catalan arts. Situated at an elevation of 213 meters, it is a must-visit for families. The castle is open from 10 AM to 8 PM with an entry fee of 3 Euro.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Museu d'Art Contemporani de Barcelona (MACBA) is a top contemporary art museum showcasing modern era art pieces. Designed by Richard Meier, it opened in 1995 and hosts numerous exhibitions. Located at 1 Placa dels Angels, it is open from 11 AM to 7:30 PM with an entry fee of 11 Euro.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Picasso Museum in Barcelona offers a rare chance to see the earlier works of Pablo Picasso and understand his relationship with the city. Located at Carrer Montcada, it is open from 9 AM to 7 PM with an entry fee starting at 7 Euro.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Museu d'Historia de Catalunya highlights Barcelona's rich historical background with paintings, sculptures, and relics. Located at Placa Pau Villa, it is open from 10 AM to 7 PM with an entry fee of 8 Euro.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Park Guell is an ideal family destination, sprawling over 42 acres with greenery and swirling pathways. Located at Carrer d'Olot, it is open from 8 AM to 9 PM with an entry fee of 10 Euro.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Parc de la Ciutadella, located at the heart of Barcelona, is a popular gathering point featuring the Barcelona Zoo and Catalan Parliament. It is open from 10 AM to 10 PM with free entry.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Sofia, the capital city of Bulgaria, blends ancient and modern elements, with 2000-year-old churches, municipal buildings, and cathedrals alongside modern museums, art galleries, parks, and boulevards. Key attractions include Boyana Church, Alexander Nevsky Cathedral, Ivan Vazov National Theatre, and the National Museum of Military History.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Varna, a resort town overlooking the Black Sea, offers a mix of history and modern beach life. Key attractions include Roman baths, the Dormition of the Mother of God Cathedral, Baroque Opera House, and the Cathedral of the Assumption of the Virgin.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Plovdiv, a historical city built around seven hills along the Maritsa River, is rich in ancient fortresses, amphitheaters, churches, cobbled stone roads, and vintage houses. Must-see sites include the Plovdiv Roman Stadium, Roman Amphitheater, Staria Grad, and the Ethnographic Museum.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Rila Monastery, located in the Rila Mountains, is Bulgaria's largest and most popular Eastern Orthodox Monastery. Founded in the 10th century, this UNESCO World Heritage Site features Mamluk, Byzantine, and Romanesque architectural styles. Visitors can also explore the Rila National Park and Medi Valley Winery.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Nesebar, a town on the Black Sea coast, is known for its ancient ruins and stunning beaches. The old part of Nesebar features fortifications and Roman baths, and the 11th-century St. Stephen Church with its altarpiece and murals. Visitors can also enjoy beaches, water sports, seafood, and a beachfront water park.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Veliko Tarnovo, known as the 'City of Tsars,' is a historic town in central Bulgaria. It features the Yantra River, three surrounding hills, and was once the capital of the Second Bulgarian Empire. Key attractions include Tsaravets Fortress, the Monastery of the Holy Transfiguration of God, and Forty Martyrs Church.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Bansko, at the foothills of the Pirin Mountains, is Bulgaria's premier skiing destination. It offers numerous ski and snowboard areas, the longest skiing season in Bulgaria, vibrant nightlife, and hosts the annual Bansko Jazz Festival. Must-see spots include Vihren Peak and Todorka.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Sozopol, an ancient coastal town on the Black Sea coast, features Bronze Age relics, an ancient fortress, and archaeological evidence of a Christian complex. Known for its beaches and nightlife, it hosts the annual Apollonia Art and Film Festival. Key attractions include St. Thomas Island and the Castle of Ravadinovo.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Koprivshtitsa, a historic town with colorful houses, cobblestone streets, and lively public squares, is set against the Sredna Gora Mountains and the Topolnita River. It is known for folk festivals and carnivals. Must-see sites include Oslekov House and Dimcho Debelyanov House.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Burgas, bordered by the sea and several lakes, is a popular destination in Bulgaria. Known for its beaches, restaurants, and summer theatre performances, key attractions include the Church of Saint Cyril, Sea Garden, Lake Burgas, and St. Anastasia Island.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Sunny Beach is a vibrant destination with nightclubs, beach shacks, restaurants, and water sports. The dazzling beaches feature loungers, umbrellas, yachts, and a water park. Must-see attractions include Action Aquapark and Luna Park.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Belogradchik, on the northern slopes of the Balkan Mountains, is known for its unique sandstone and limestone rock formations. The area also features an ancient fort, caves, and museums. Key attractions include Magura Cave and Kaleto Fortress.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Pamporovo, a popular ski resort in the Rhodope Mountains, is lined with pine forests and offers skiing and snowboarding in winter, and hiking and camping in summer. Must-see spots include the Pamporovo Ski Resort and Spree Skiing School.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Ruse, located on the right bank of the Danube, is an important river port with over 300 buildings, earning it the nickname 'Little Vienna.' Key attractions include Liberty Square, Friendship Bridge, and Sveta Troitsa Cathedral.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Hisarya, located at the edge of the Sredna Gora mountain range, is known for its relics of Roman walls, gates, baths, and theatres. It is named after the Turkish word 'Hissar,' meaning fort or castle. Must-see sites include the Thracian Temple and Mineral Spring.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Arbanasi, a quaint village 5 kilometers from Veliko Tarnovo, offers amazing views of Veliko Tarnovo and Tsarevets. It features streets and old houses surrounded by National Revival style buildings. Key attractions include Nativity Church and Konstantsalieva House.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Pobiti Kamani, Bulgaria's only desert, is located 20 km west of Varna. It features fascinating sand dunes and rock formations up to 7 meters high, which are hollow inside and appear as if stuck in the sand. Must-see sites include the Stone Forest and Quarry in Beloslav.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Kaliakra, located along the Black Sea Coast, is a historical site with a legend of forty people jumping from the cliff to avoid capture by the Ottomans. The medieval fortress offers stunning views. Must-see sites include Cape Kaliakra and Castello di Kaliakra.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Balchik, a popular family destination near the northern Black Sea Coast, features attractions such as the summer residence of Romanian Queen Marie of Edinburgh and the famous botanical gardens. Must-see sites include the Palace of Balchik and Balchik Beach.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Kazanlak, also known as the Valley of Roses, is an attractive tourist destination featuring tombstones of Thracian kings. It is a UNESCO World Heritage Site. Must-see sites include the Museum of Roses and the Thracian Tomb of Kazanlak.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Etara, an open-air museum in Bulgaria, is located on the northern edge of the Bulgarka Nature Park. It showcases Bulgarian customs, craftsmanship, and culture. The museum features numerous restaurants where visitors can enjoy the finest Bulgarian cuisine. Must-see sites include Karadzica and Sokolski Monastery.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "The Eiffel Tower, built in 1889, is a cultural icon of France and the tallest structure in Paris. Visitors can explore three levels featuring restaurants, shops, and panoramic views. It's one of the top tourist attractions in Paris, located at Champ de Mars, 5 Av Anatole France, 75007 Paris, France. The tower is open from 9 am to midnight until early September, and from 9 am to 11 pm for the rest of the year. Entry is free for children below 4 years.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "The Louvre, located in the heart of Paris, is the world's most visited and popular art museum. It features sections on Egyptian, Oriental, Islamic, Greek, and Roman art, as well as medieval artifacts. The museum is open from 9 am to 10:30 pm on Wednesdays and Fridays, and from 9 am to 6 pm on other days, except Tuesday when it is closed.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Notre Dame Cathedral, a famous Roman Catholic cathedral in Paris, is renowned for its Gothic architecture, sculptures, and gargoyles. It attracts many visitors with its unique charm and historical significance. Located at Cathedral of Paris, 6 Parvis Place, it is open from 8 am to 6:45 pm. Entry is free.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "The Arc De Triomphe, built in honor of the 19th-century imperial army, is one of Paris' most famous landmarks. Known for its sculptures, pillar carvings, and engraved victory tales, it attracts thousands of tourists annually. Located at Place Charles de Gaulle, it is open from 10 am to 11 pm from April to September, and from 10 am to 10:30 pm from October to March, closed on Mondays. Entry fee is 8 Euros.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Montmartre, a hillock in northern Paris, is famous for its Basilica and bustling Square of Tertre. This artistic hub has inspired notable artists like Claude Monet, Pablo Picasso, and Vincent van Gogh. Located at Montmartre, 75018 Paris, it is open from May to September from 8 am to 8 pm, and from October to April from 9 am to 6 pm. Entry is free, though audio and video guides have charges.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "The Palace of Versailles, built as an emblem of French Supremacy, is a World Heritage Site and one of the most popular places in Paris. It features landscaped gardens, exotic decor, and Renaissance-era artwork. Located at Place d'Armes, 78000 Versailles, it is open from 9 am to 6:30 pm. Entry fee varies, especially on days of the Musical Fountains and Garden shows.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Palais Garnier, also known as Op\u00e9ra Garnier, is a famous opera house in Paris, known for its stunning wooden carvings, paintings, and artwork. It mainly stages ballet shows. Located at Place de l'Op\u00e9ra, 75009 Paris, it is open from 10 am to 4:30 pm from September to June, and from 10 am to 5:30 pm from July to August.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Quartier Latin, located on the bank of the Seine, is a top tourist attraction in Paris. It is home to renowned educational institutions and Luxembourg Park, known for its picturesque fountains and sports championships. The park is open from 7 am to 1 hour before sunset in summer and from 8 am to 1 hour before sunset in winter. Entry is free.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Moulin Rouge, located at the base of Montmartre, is a classic cabaret venue and the birthplace of the French Cancan. Known for its sizzling music and romantic decor, it is one of the best places to visit in Paris at night. Located at 82 Bd de Clichy, 75018 Paris, it is open from 9 pm to 1 am.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Disneyland Paris is a vibrant and popular amusement park, loved by both kids and adults. Known for its fun rides, shows, and character meet-and-greets, it offers a full day of entertainment. Located at Bd de Parc, 77700 Coupvray, it is open from 10 am to 11 pm. One-day tickets cost around 100 Euros for adults and 90 Euros for kids, with options for annual passes and holiday packages.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Place de la Concorde is the largest square in France, built to honor King Louis XV's recovery. It features a statue of freedom known as Libert\u00e9, surrounded by fountains and other figures. Located at 75008 Paris, it is open throughout the day with no entry fee.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Sainte Chapelle, formerly the residence of the King of France, is now a beautiful chapel with marvelous decor and display. It houses several Christian relics, including Christ's thorn. Located at 10 Bd du Palais, 75001 Paris, it is open from 9 am to 6 pm.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Centre Pompidou, located in the Beaubourg area, is a fascinating complex housing a library, museum, and center for music and acoustic research. It hosts several renowned exhibitions annually. Located at Place Georges Pompidou, 75004 Paris, it is open from 11 am to 10 pm.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Musee d'Orsay, one of Paris' most popular museums, displays magnificent artwork and sculptures by artists like Berthe Morisot, Jean Auguste Dominique Ingres, and Eug\u00e8ne Carri\u00e8re. Located at Esplanade Val\u00e9ry Giscard d'Estaing, 75007 Paris, it is open from 9:30 am to 6 pm daily, and until 9 pm on Thursdays. Closed on Mondays. Entry is free.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "The Basilica atop Montmartre is a stunning tourist destination in Paris with immense spiritual significance. It features nationalist themes and a garden for meditation and peace. Located at Parvis du 35 rue du Chevalier de la Barre, 75018 Paris, it is open from 6 am to 10:30 pm. Photography is strictly banned inside.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
     }
 ]
