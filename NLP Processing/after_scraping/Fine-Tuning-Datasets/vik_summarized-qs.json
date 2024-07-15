@@ -17198,5 +17198,1205 @@
                 "answer": 4
             }
         ]
+    },
+    {
+        "summary": "Tuileries Garden, located next to the Louvre, is one of the most romantic places in Paris. Visitors enjoy the afternoon sun and the French formal garden design. It also has a small amusement park, ideal for families. Located at Place de la Concorde, 75001 Paris, it is open from 7 am to 9 pm. Entry is free.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Musée de l'Orangerie, located in the west corner of Tuileries Garden, is an ideal destination for art lovers in Paris. It is renowned for Monet's eight murals of water lilies and other masterpieces by Picasso and Renoir. Located at Jardin Tuileries, 75001 Paris, France, it is open from 9 am to 6 pm. Entry fee is 9 Euros.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "The Pantheon, located in the dynamic Latin Quarter, houses the tombs of famous French figures such as Victor Hugo, Marie Curie, and Voltaire. It is an important place to visit in Paris. The Latin Quarter is known for its bookstores, bistros, and cafes. Located in Paris, it is open from 10 am to 6 pm. Entry fee is 5 Euros for adults, 3 Euros for teenagers, and free for children.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Jardin du Luxembourg, located on the left bank of the River Seine, is a beautiful park in Paris ideal for a family picnic. Its lush green surroundings offer a serene break from the busy city life. The park also houses the Palais du Luxembourg. Located at 75006 Paris, France, it is open from 7 am to one hour before sunset. Entry is free.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Saint Germain des Pres, located along the River Seine, is known for its galleries, upscale shops, trendy cafes, and restaurants. It offers a lot to explore, including a thriving nightlife. Located at 3 place, 75006 Paris, it is open from 9 am to 10 am, 11 am to 5 pm, and at 7 pm only on Sunday. Entry is free.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Musee Picasso, located at 5 Rue de Thorigny, 75003 Paris, houses over 5000 works and tens of thousands of archive pieces by Pablo Picasso. It showcases the creative process of the Spanish cubist master. The museum is open from 9:30 am to 6 pm. Entry fee is 12.50 Euros, and free on the first Sunday of every month.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Musee Rodin, located at 77 Rue de Varenne, 75007 Paris, is dedicated to French sculptor Auguste Rodin. It features works such as The Kiss, The Thinker, and The Gates of Hell. Open from 10 am to 5:45 pm, entry fee is 12 Euros. It's a must-visit for art lovers to appreciate Rodin's extraordinary works.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Le Marais, with its medieval streets, unique shops, hip cafes, trendy galleries, and restaurants, is a must-visit neighborhood in Paris. It offers a great place to spend a cozy afternoon with loved ones. Open 24 hours, entry is free.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Galeries Lafayette, located in the posh Opera neighborhood, offers an ultimate shopping experience in Paris. Featuring top brands like Hermes, Chanel, and Louis Vuitton, it consists of three blocks of buildings. Visitors can also enjoy a great view of the city from the top floor. Located at Boulevard Haussmann, Paris, it is open from 9:30 am to 8:30 pm. Entry is free.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "The Catacombs of Paris, formed in the 18th century, hold a vast collection of bones and ossuaries under the city. Over 6 million people were moved to the ossuary. Located at 1 Avenue du Colonel Henri, 75014 Paris, it is open from 10 am to 8:30 pm. Entry fee is 29 Euros for adults and 5 Euros for children. It is an ideal spot for adventure lovers.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "The Seine River is one of the most beautiful and popular places in Paris. It runs 777 km and is the heart of the city. Many famous monuments, including the Eiffel Tower and Louvre Museum, are located along its banks. It offers sightseeing, shopping, dining, and a vibrant atmosphere. Entry is free.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Île de la Cité is the historic center of Paris and one of the only two remaining isles in the city. It is home to many 16th-century canon houses and a memorial for those deported to Nazi concentration camps. Located at Île de la Cité, 75004 Paris, it is open from 9 am to 1 pm, Monday to Friday. Entry fee is 13 Euros.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Musée Jacquemart-André, located at 158 Bd Haussmann, 75008 Paris, is a privately curated museum under the Institut de France. It was designed by Henri Parent and houses the art collection of Édouard André and Nélie Jacquemart. It is open from 10 am to 6 pm. Entry fee varies.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Le Manoir de Paris, located at 18 Rue de Paradis, 75010 Paris, is a haunted house spread over 1000m². It features 30 artists bringing 14 Parisian legends to life, with 23 rooms offering different levels of horror. It is open only on weekends from 6 pm to 10 pm. Entry fee varies for adults and children.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Louis Vuitton Foundation, located at 8 Av du Mahatma Gandhi, 75116 Paris, is owned by the LVMH group and aims to promote art and culture. Known for its striking design of glass and steel, it houses a collection of contemporary and modern art and hosts temporary exhibitions throughout the year. Open from 11 am. Entry fee varies.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Pont Alexandre III Bridge, considered one of the most beautiful bridges in the world, connects Les Invalides and its foundation stone was laid in 1896. It was built for the 1900 Exposition Universelle. The bridge commemorates the 1892 alliance between Russia and France, named after Russian Tsar Alexander III. Located at Cours la Reine, Quai d'Orsay, 75008 Paris, it is open throughout the day.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Tallinn, the top spot to visit in Estonia, features Toompea with its preserved ancient ambience, cobblestone streets, and 15th-century buildings. It offers a view of the bustling Old City and is perfect for history lovers. Explore Europe with customized packages on TravelTriangle.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Lahemaa National Park, an hour's drive from the capital, is a must-visit with attractions like Viru Bog and Sagadi Manor. The park is ideal for day trips and offers a scenic walk to explore its natural beauty.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Saaremaa, an 8000-year-old island with a rich history, is a top destination in Estonia. Visitors explore medieval castles in Kuressaare and enjoy hiking, birdwatching, and sightseeing, especially around the scenic Sorve Peninsula.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Tartu, Estonia's intellectual hub and oldest city, is famous for the University of Tartu. Its city center features 18th-century buildings, and the unique 'soup neighborhood' with quirky street names makes it a must-visit.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Narva Castle, also known as Hermann Castle, is a historic site in Narva, Estonia. Despite WWII bombings, the 13th-century castle stands with handicraft workshops and a museum, offering stunning views of the Russian side of the river.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Parnu, a coastal resort city where the Parnu River meets the Gulf of Riga, is famous for its beautiful beach with white sand dunes. Known as the summer capital of Estonia, it also features the Vee Park indoor water park.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Rakvere Castle, located in northern Estonia, is a historic site where daily activities resemble a cosplay event. Visitors can see knights, alchemists, and tour an ancient wine cellar. Shenkenberg Tavern offers an authentic dining experience.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Hiiumaa, an island in Estonia, is ideal for relaxation and quiet days. Accessible by plane or ferry, it features the country's tallest lighthouse, the 19th-century cast-iron Tahkuna Lighthouse.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Soomaa National Park, formed over 10,000 years ago from melting glaciers, is a fascinating destination in Estonia. Popular for canoeing, the park is home to various wildlife, including deer and golden eagles. Spring is the best time to visit.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Viljandi, a small city in southern Estonia with a 2600-year history, features the 16th-century Viljandi Order Castle ruins. It hosts Estonia's largest annual folk music festival every July, attracting around 20,000 visitors.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Lake Peipus, one of Western Europe's largest lakes, lies on the Russia-Estonia border. It's a popular holiday spot with mansions, traditional markets, lighthouses, and cottages, ideal for family picnics and fishing.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Matsalu National Park, located on the East Atlantic Flyway, is a key destination for birdwatchers. The park preserves various migrating, nesting, and molting birds, including endangered species like the eagle. A must-visit for nature lovers.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Vienna, home to grand palaces and museums, is a cultural and historical hub. Walk along the Ringstrasse Boulevard to see royal buildings like the Hofburg Imperial Palace. Enjoy coffee at Vienna's cozy cafes and marvel at architectural marvels like Schonbrunn Palace and St. Stephen's Cathedral. The Vienna Opera House is a must-visit for art and history enthusiasts.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Salzburg, the birthplace of Mozart and the setting for 'The Sound of Music,' is a charming city with green meadows and historical buildings. The old town, Aldsten, is a UNESCO World Heritage Site, and Hohensalzburg fortress is Europe's last preserved castle. The summer Salzburger Festspiele offers a grand cultural extravaganza. Ideal for architecture, nature, and music enthusiasts.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Innsbruck, an idyllic alpine town, offers a blend of cultural heritage and adventure. Explore the old town and Goldenes Dachl, or visit the Tyrolean Folk Art Museum. Known for world-renowned ski resorts, Innsbruck also offers hiking, bungee jumping, and funicular rides up Nordkette mountain. It's ideal for adventure, architecture, and cultural experiences.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Salzkammergut, a picturesque resort area near Salzburg, features 76 stunning lakes, alpine ranges, charming villages, and luxurious spa towns. Highlights include the fairy tale village Hallstatt, Lake Hallstatt, Salzwelten salt lake, and the Ice Cave on Dachstein Mountain. Bad Ischl and St. Wolfgang are other popular spots. Ideal for nature, culture, spas, and adventure.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Graz, Austria's second largest city, is known for its well-preserved old town, numerous museums, baroque buildings, and a forested hill offering panoramic views. It is also a culinary delight with local specialties like pumpkin seed oil. Ideal for history, food, and education enthusiasts. Graz is accessible via direct trains from Vienna.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Worthersee, a popular summer destination in Austria, offers activities like swimming, boating, and canoeing on its beautiful lake. Visit the colorful Griffen Stalactite cave, the 12th-century Cathedral of Gurk, and Gmund, the birthplace of Porsche. Ideal for adventure and nature enthusiasts. The train journey from Vienna to Worthersee takes about 5 hours.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Bad Gastein, a spa town in the High Tauern Mountains, is known for its healing hot springs and pure mountain air. It attracts skiing enthusiasts in winter and offers hiking, biking, and spectacular views like the Gastein waterfall. The town also features open studios, workshops, jazz shows, culinary delights, and vibrant nightlife.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Bregenz, located on Lake Constance's eastern edge, offers stunning views of the Swiss and German Alps. Enjoy the lake promenade, cable car rides up Pfander Mountain, and the annual Bregenz festival with opera performances. The city's architecture, history, and art can be explored in its museums and buildings. Ideal for nature and culture enthusiasts.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Wachau Valley, along the Danube River, is a UNESCO World Heritage site known for its cultural significance, natural beauty, and world-renowned white wines. The valley features baroque monasteries, castles, and fortresses, making it ideal for wine connoisseurs, architecture, and history enthusiasts. Accessible via train from Vienna to Melk, followed by a bus ride.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Zell Am See, known for its pristine blue lake and Salzburg mountains, offers stunning natural beauty and relaxation. Ideal for visiting in March, activities include cycling, swimming, and enjoying scenic views. The town's cafes and St. Hippolyte's Church provide additional charm. Accessible via a two-hour train ride from Salzburg.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "summary": "Hoher Dachstein, the second highest mountain in the Northern Alps, offers breathtaking views from its peak. Adventure activities include a suspension bridge, skywalk, rock climbing, and an ice palace. Ideal for adventure and nature lovers, it is located at the border of Upper Austria, Styria, and Salzburg.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Krimml Waterfalls, Austria's highest waterfall, offers a scenic 4 km hiking trail with multiple observation platforms. The hike takes about 1.5 hours to reach the top tier of the waterfall. Ideal for nature and adventure enthusiasts, it is located 50 km from Innsbruck. Nearby attractions include Water Worlds Krimml and Krimml Museum.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "summary": "Vorarlberg, located in Western Austria, is known for its alpine landscapes and adventure ski resorts. The region is home to Lake Constance and the capital, Bregenz. Popular activities include hiking, trekking, and cable car rides. Vorarlberg also features interesting museums and picturesque gorges, making it ideal for sightseeing and hiking.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Tyrol, located in Western Austria, is known for its ski resorts, historic sites, and exciting museums. Key attractions include Ambras Castle, Ehrenberg Castle, and Kufstein Fortress. Innsbruck, the capital, features gothic churches and traditional buildings. Tyrol hosts famous winter festivals and is ideal for exploring natural beauty and historical relevance.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 1
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Carinthia, in Southern Austria, features the highest mountain, Grossglockner, and offers stunning natural beauty with lakes and alpine forests. Highlights include the medieval Hochosterwitz Castle and Renaissance buildings in Klagenfurt. Ideal for sightseeing and history enthusiasts, Carinthia is accessible via direct trains from Graz to Neuhaus.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Styria, a southern state in Austria, is known for its wines, castles, and forested mountains. The Gesäuse National Park and Herberstein Zoo feature rare wildlife species. Baroque buildings add to the region's charm. Ideal for sightseeing and wildlife, Styria is accessible via direct trains between Graz and Vienna.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Burgenland, in Eastern Austria, is known for its 18th-century castles, vineyards, and Seewinkel National Park. Highlights include Familypark, Neusiedlersee, Dorfmuseum, and Schloss Esterhazy. Ideal for sightseeing and wildlife, Burgenland is accessible via direct buses from Vienna. The region offers a mix of history and natural beauty.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Hallstatt, a picturesque town by Hallstatt Lake, offers scenic views and adventurous activities like rock climbing, hiking, and boating. Attractions include the Beinhaus bone house, ice caves, and salt caves. Ideal for history, architecture, and adventure seekers, Hallstatt is accessible via a train from Salzburg and a local train.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 3
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "summary": "Mostviertel, in lower Austria, features rolling meadows, rugged peaks, and Europe's largest pear orchards. This scenic region offers a mix of landscapes, museums, and monuments, making it ideal for skiing enthusiasts and history lovers. Accessible via direct buses, it includes attractions like Donauradweg, Hagenbachklamm, and Tulln.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "summary": "Alpbach, one of 's most beautiful winter destinations, is known for skiing, sledding, and its Alpine tradition. The village features picturesque wooden farmhouses, scenic cattle fields, and skilled craftsmanship. Ideal for history, architecture, and adventure seekers, Alpbach is located 50 km from Innsbruck, accessible by private or public transport.",
+        "questions": [
+            {
+                "question": "Rate the historical significance of this attraction from 1 - 5.",
+                "answer": 4
+            },
+            {
+                "question": "Rate the natural features and scenic views present at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the types of amusement activities available at this attraction from 1 - 5.",
+                "answer": 5
+            },
+            {
+                "question": "Rate the condition and appeal of the beaches at this attraction from 1 - 5.",
+                "answer": 2
+            },
+            {
+                "question": "Rate the architectural significance of this attraction from 1 - 5.",
+                "answer": 4
+            }
+        ]
     }
 ]
