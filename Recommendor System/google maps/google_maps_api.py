@@ -2,8 +2,8 @@ import googlemaps
 import requests
 import json
 
-gmaps = googlemaps.Client(key="AIzaSyARWQ8zbkPU5X0xX7zZEAySW8OxQTQAyVc")
-api_key = "AIzaSyARWQ8zbkPU5X0xX7zZEAySW8OxQTQAyVc"
+gmaps = googlemaps.Client(key="your_api_key")
+api_key = "your_api_key"
 def search_nearby_places():
     url = "https://places.googleapis.com/v1/places:searchNearby"
     headers = {
@@ -31,7 +31,7 @@ def search_nearby_places():
 # params = {
 #     "fields": "name,rating,formatted_phone_number",
 #     "place_id": "ChIJQbc2YxC6vzsRkkDzYv-H-Oo",
-#     "key": "AIzaSyARWQ8zbkPU5X0xX7zZEAySW8OxQTQAyVc"
+#     "key": "your_api_key"
 # }
 
 # response = requests.get(base_url, params=params)

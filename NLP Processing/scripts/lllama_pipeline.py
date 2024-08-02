@@ -3,7 +3,7 @@ import torch
 import json
 
 model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
-hf_token = "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"  # Your Hugging Face token
+hf_token = "your_huggingface_token"  # Your Hugging Face token
 
 # Load the text generation pipeline with specified settings
 pipe = transformers.pipeline(

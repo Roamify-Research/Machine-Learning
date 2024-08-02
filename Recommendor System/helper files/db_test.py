@@ -1,9 +1,9 @@
 import pymysql
 import pandas as pd
 
-hostname = 'sql12.freesqldatabase.com'
-user = 'sql12711667'
-password = 'vmrGDRbZvm'
+hostname = 'your_hostname'
+user = 'your_user'
+password = 'your_password'
 
 db = pymysql.connections.Connection(
     host = hostname,
