@@ -15,9 +15,6 @@ Welcome to the official repository of Roamify Machine Learning research. This re
   - [LLM's Overview](#llms-overview)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Results](#results)
-- [Usage](#usage)
-  - [Installation](#installation)
-  - [Running the Models](#running-the-models)
 - [Contributors](#contributors)
 - [Citing This Work](#citing-this-work)
 - [Acknowledgements](#acknowledgements)
@@ -188,7 +185,7 @@ For generating detailed and personalized travel itineraries, we used the **Ollam
 
 By combining these models, we achieved significant improvements in the accuracy and relevance of travel recommendations, showcasing the potential of advanced machine learning techniques in the travel recommendation domain.
 
-### Evaluation Metrics
+## Evaluation Metrics
 
 #### Question Answering Models
 
@@ -239,24 +236,6 @@ Initially, we trained question-answering models to extract relevant details from
 Our experiments revealed that while T5 performs summarization tasks faster than LLaMA-3, it is sometimes less elaborate. Given our use case's priority on speed, we selected T5 for the summarization task. The combination of T5 for initial summarization and LLaMA for elaboration proved to be the most effective. For efficient itinerary generation, we employed Ollama, built on LLaMA 3.1.
 
 Overall, the T5-LLaMA combination ensured both speed and detail in summarization, while Ollama provided accurate and coherent travel itineraries.
-
-## Usage
-
-### Installation
-
-To install the necessary dependencies, run:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Running the Models
-
-To train and evaluate the models, use the following command:
-
-```bash
-python main.py
-```
 
 ## Citing This Work
 
