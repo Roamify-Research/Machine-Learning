@@ -2,8 +2,6 @@
 
 ## _Changing the Way World Travels_
 
-Welcome to the official repository of Roamify Machine Learning research. This repository contains the code and documentation for our innovative approach to providing personalized travel recommendations using advanced machine learning techniques.
-
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![PyTorch](https://img.shields.io/badge/pytorch-1.8.1-red.svg?logo=pytorch)](https://pytorch.org/)
 [![CUDA](https://img.shields.io/badge/cuda-11.0-green.svg)](https://developer.nvidia.com/cuda-toolkit)
@@ -11,6 +9,8 @@ Welcome to the official repository of Roamify Machine Learning research. This re
 [![sk-learn](https://img.shields.io/badge/scikit-learn-grey.svg?logo=scikit-learn)](https://scikit-learn.org/stable/whats_new.html)
 [![Hugging Face](https://img.shields.io/badge/huggingface-transformers-yellow.svg?logo=huggingface)](https://huggingface.co/transformers/)
 [![Simple Transformers](https://img.shields.io/badge/simple-transformers-orange.svg)](https://simpletransformers.ai/)
+
+Welcome to the official repository of Roamify Machine Learning research. This repository contains the code and documentation for our innovative approach to providing personalized travel recommendations using advanced machine learning techniques.
 
 ## Table of Contents
 
