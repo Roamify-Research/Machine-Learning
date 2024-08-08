@@ -12,7 +12,6 @@ Welcome to the official repository of Roamify Machine Learning research. This re
 [![Hugging Face](https://img.shields.io/badge/huggingface-transformers-yellow.svg?logo=huggingface)](https://huggingface.co/transformers/)
 [![Simple Transformers](https://img.shields.io/badge/simple-transformers-orange.svg)](https://simpletransformers.ai/)
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
