@@ -3,3 +3,4 @@ __pycache__
 NLP-Processing/myenv/
 NLP-Processing/nlp-env/
 NLP-Processing/nlp-en/
+.mypy_cache
