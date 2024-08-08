@@ -1,8 +1,14 @@
-# Datasets
+### Roamify Datasets
 
-### Recommendor System Datasets:
+Welcome to the dataset documentation for Roamify, our comprehensive machine learning project designed to provide personalized travel recommendations. This document outlines the various datasets we have collected and utilized for both our Recommender System and NLP processing tasks.
 
-- **Official Tourism Websites**: Each state in India typically has an official tourism website that provides detailed information about popular tourist attractions, including their history, visiting hours, and other relevant details.
+---
+
+## Recommender System Datasets
+
+Our recommender system leverages official tourism websites from various states and countries to gather detailed and accurate information about popular tourist attractions. Below are the primary sources we have used:
+
+- **Official Tourism Websites**: Detailed information from each state in India, including history, visiting hours, and other relevant details.
 
     - [Incredible India](https://www.incredibleindia.org/)
     - [Andhra Pradesh Tourism](https://aptourism.gov.in/)
@@ -36,64 +42,67 @@
     - [Andaman and Nicobar Tourism](https://www.andamantourism.gov.in/)
     - [Lakshadweep Tourism](https://www.lakshadweeptourism.com/)
 
+---
 
-### NLP Datasets:
+## NLP Datasets
 
-- **[Travel Triangle Website](https://traveltriangle.com)**: To gather comprehensive travel information, we utilized web scraping techniques on various Travel Triangle links, focusing on specific cities, states, and countries. For Bangalore, Chennai, Dehradun, Hyderabad, Mumbai, Mysore, and Pune, we extracted detailed data on the best places to visit, ensuring up-to-date recommendations for tourists. Similarly, for countries like Italy and Japan, as well as specific regions in Vietnam, Goa, Kerala, Lakshadweep, North East India, Tamil Nadu, and Vancouver, we gathered valuable insights into top tourist attractions. This approach allowed us to compile a rich dataset, providing travelers with accurate and relevant information to enhance their travel planning and experiences.
+To enrich our travel information database, we utilized web scraping techniques to extract data from the Travel Triangle website. This enabled us to gather comprehensive details on the best places to visit across various cities, states, and countries, ensuring our recommendations are up-to-date and relevant.
 
-<!-- Old ones -->
-- [Italy1](https://www.easemytrip.com/blog/places-in-italy)
-- [Italy2](https://travel.usnews.com/rankings/best-places-to-visit-in-italy/)
-- [Japan1](https://traveltriangle.com/blog/best-places-to-visit-in-japan/)
-- [Vietnam1](https://traveltriangle.com/blog/places-to-visit-in-vietnam/)
-- [Goa](https://goa-tourism.org.in/places-to-visit-in-goa)
-- [Kerala](https://traveltriangle.com/blog/best-places-to-visit-in-kerala/)
-- [Lakshadweep](https://traveltriangle.com/blog/places-to-visit-in-lakshadweep/)
-- [North East](https://traveltriangle.com/blog/43-places-to-visit-when-travelling-to-north-east/)
-- [Tamil Nadu](https://traveltriangle.com/blog/best-tourist-places-in-tamil-nadu/)
-- [Vancouver](https://www.lonelyplanet.com/canada/vancouver/attractions)
+- **[Travel Triangle Website](https://traveltriangle.com)**: Detailed travel information for specific cities, states, and countries.
 
-<!-- New ones -->
-- [Bangalore](https://traveltriangle.com/blog/places-to-visit-in-bangalore/)
-- [Chennai](https://traveltriangle.com/blog/places-to-visit-in-chennai/)
-- [Dehradun](https://traveltriangle.com/blog/places-to-visit-in-dehradun-in-june/)
-- [Hyderabad](https://traveltriangle.com/blog/places-to-visit-in-hyderabad/)
-- [Mumbai](https://traveltriangle.com/blog/places-to-visit-in-mumbai/)
-- [Mysore](https://traveltriangle.com/blog/best-places-to-visit-in-mysore/)
-- [Pune](https://traveltriangle.com/blog/places-to-visit-in-pune-in-june/)
+### Links for Specific Locations:
 
-<!-- Europe -->
+- **India**
+  - [Bangalore](https://traveltriangle.com/blog/places-to-visit-in-bangalore/)
+  - [Chennai](https://traveltriangle.com/blog/places-to-visit-in-chennai/)
+  - [Dehradun](https://traveltriangle.com/blog/places-to-visit-in-dehradun-in-june/)
+  - [Hyderabad](https://traveltriangle.com/blog/places-to-visit-in-hyderabad/)
+  - [Mumbai](https://traveltriangle.com/blog/places-to-visit-in-mumbai/)
+  - [Mysore](https://traveltriangle.com/blog/best-places-to-visit-in-mysore/)
+  - [Pune](https://traveltriangle.com/blog/places-to-visit-in-pune-in-june/)
 
-- [Amsterdam](https://traveltriangle.com/blog/places-to-visit-in-amsterdam/)
-- [Greece](https://traveltriangle.com/blog/places-to-visit-in-greece/)
-- [Barcelona](https://traveltriangle.com/blog/places-to-visit-in-barcelona/)
-- [Serbia](https://traveltriangle.com/blog/places-to-visit-in-serbia/)
-- [Berlin](https://traveltriangle.com/blog/places-to-visit-in-berlin/)
-- [Bulgaria](https://traveltriangle.com/blog/places-to-visit-in-bulgaria/)
-- [Belgium](https://traveltriangle.com/blog/places-to-visit-in-belgium/)
-- [Switzerland](https://traveltriangle.com/blog/places-to-visit-in-switzerland-in-june/)
-- [Hungary](https://traveltriangle.com/blog/places-to-visit-in-hungary/)
-- [Paris](https://traveltriangle.com/blog/places-to-visit-in-paris/)
-- [Denmark](https://traveltriangle.com/blog/places-to-visit-in-denmark/)
-- [Ireland](https://traveltriangle.com/blog/places-to-visit-in-ireland/)
-- [Armenia](https://traveltriangle.com/blog/places-to-visit-in-armenia/)
-- [Frankfurt](https://traveltriangle.com/blog/places-to-visit-in-frankfurt/)
-- [Azerbaijan](https://traveltriangle.com/blog/places-to-visit-in-azerbaijan/)
-- [Slovakia](https://traveltriangle.com/blog/places-to-visit-in-slovakia/)
-- [Finland](https://traveltriangle.com/blog/places-to-visit-in-finland/)
-- [United Kingdom](https://traveltriangle.com/blog/places-to-visit-in-united-kingdom/)
-- [Luxembourg](https://traveltriangle.com/blog/places-to-visit-in-luxembourg/)
-- [Madrid](https://traveltriangle.com/blog/places-to-visit-in-madrid/)
-- [Portugal](https://traveltriangle.com/blog/places-to-visit-in-portugal/)
-- [Norway](https://traveltriangle.com/blog/places-to-visit-in-norway/)
-- [Romania](https://traveltriangle.com/blog/places-to-visit-in-romania/)
-- [Czechia](https://traveltriangle.com/blog/places-to-visit-in-czechia/)
-- [Greenland](https://traveltriangle.com/blog/places-to-visit-in-greenland/)
-- [Croatia](https://traveltriangle.com/blog/places-to-visit-in-croatia/)
-- [Sweden](https://traveltriangle.com/blog/places-to-visit-in-sweden/)
-- [Seville](https://traveltriangle.com/blog/places-to-visit-in-seville/)
-- [Albania](https://traveltriangle.com/blog/places-to-visit-in-albania/)
-- [Estonia](https://traveltriangle.com/blog/places-to-visit-in-estonia/)
-- [Austria](https://traveltriangle.com/blog/places-to-visit-in-austria/)
-- [Valencia](https://traveltriangle.com/blog/places-to-visit-in-valencia/)
-- [Poland](https://traveltriangle.com/blog/places-to-visit-in-poland/)
+- **Countries and Regions**
+  - [Italy](https://travel.usnews.com/rankings/best-places-to-visit-in-italy/)
+  - [Japan](https://traveltriangle.com/blog/best-places-to-visit-in-japan/)
+  - [Vietnam](https://traveltriangle.com/blog/places-to-visit-in-vietnam/)
+  - [Goa](https://goa-tourism.org.in/places-to-visit-in-goa)
+  - [Kerala](https://traveltriangle.com/blog/best-places-to-visit-in-kerala/)
+  - [Lakshadweep](https://traveltriangle.com/blog/places-to-visit-in-lakshadweep/)
+  - [North East India](https://traveltriangle.com/blog/43-places-to-visit-when-travelling-to-north-east/)
+  - [Tamil Nadu](https://traveltriangle.com/blog/best-tourist-places-in-tamil-nadu/)
+  - [Vancouver](https://www.lonelyplanet.com/canada/vancouver/attractions)
+
+- **Europe**
+  - [Amsterdam](https://traveltriangle.com/blog/places-to-visit-in-amsterdam/)
+  - [Greece](https://traveltriangle.com/blog/places-to-visit-in-greece/)
+  - [Barcelona](https://traveltriangle.com/blog/places-to-visit-in-barcelona/)
+  - [Serbia](https://traveltriangle.com/blog/places-to-visit-in-serbia/)
+  - [Berlin](https://traveltriangle.com/blog/places-to-visit-in-berlin/)
+  - [Bulgaria](https://traveltriangle.com/blog/places-to-visit-in-bulgaria/)
+  - [Belgium](https://traveltriangle.com/blog/places-to-visit-in-belgium/)
+  - [Switzerland](https://traveltriangle.com/blog/places-to-visit-in-switzerland-in-june/)
+  - [Hungary](https://traveltriangle.com/blog/places-to-visit-in-hungary/)
+  - [Paris](https://traveltriangle.com/blog/places-to-visit-in-paris/)
+  - [Denmark](https://traveltriangle.com/blog/places-to-visit-in-denmark/)
+  - [Ireland](https://traveltriangle.com/blog/places-to-visit-in-ireland/)
+  - [Armenia](https://traveltriangle.com/blog/places-to-visit-in-armenia/)
+  - [Frankfurt](https://traveltriangle.com/blog/places-to-visit-in-frankfurt/)
+  - [Azerbaijan](https://traveltriangle.com/blog/places-to-visit-in-azerbaijan/)
+  - [Slovakia](https://traveltriangle.com/blog/places-to-visit-in-slovakia/)
+  - [Finland](https://traveltriangle.com/blog/places-to-visit-in-finland/)
+  - [United Kingdom](https://traveltriangle.com/blog/places-to-visit-in-united-kingdom/)
+  - [Luxembourg](https://traveltriangle.com/blog/places-to-visit-in-luxembourg/)
+  - [Madrid](https://traveltriangle.com/blog/places-to-visit-in-madrid/)
+  - [Portugal](https://traveltriangle.com/blog/places-to-visit-in-portugal/)
+  - [Norway](https://traveltriangle.com/blog/places-to-visit-in-norway/)
+  - [Romania](https://traveltriangle.com/blog/places-to-visit-in-romania/)
+  - [Czechia](https://traveltriangle.com/blog/places-to-visit-in-czechia/)
+  - [Greenland](https://traveltriangle.com/blog/places-to-visit-in-greenland/)
+  - [Croatia](https://traveltriangle.com/blog/places-to-visit-in-croatia/)
+  - [Sweden](https://traveltriangle.com/blog/places-to-visit-in-sweden/)
+  - [Seville](https://traveltriangle.com/blog/places-to-visit-in-seville/)
+  - [Albania](https://traveltriangle.com/blog/places-to-visit-in-albania/)
+  - [Estonia](https://traveltriangle.com/blog/places-to-visit-in-estonia/)
+  - [Austria](https://traveltriangle.com/blog/places-to-visit-in-austria/)
+  - [Valencia](https://traveltriangle.com/blog/places-to-visit-in-valencia/)
+  - [Poland](https://traveltriangle.com/blog/places-to-visit-in-poland/)
