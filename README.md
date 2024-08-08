@@ -116,6 +116,8 @@ Machine Learning/
 
 The data used for fine-tuning the models was collected from various online travel platforms, focusing on popular tourist destinations. The datasets included detailed descriptions, locations, types of attractions, and user reviews. The data was pre-processed to remove any noise and irrelevant information, ensuring high-quality input for the models.
 
+For more detailed information about the datasets, please refer to our [Dataset Documentation](dataset.md).
+
 We created two datasets for fine-tuning, each with a different purpose:
 
 1. **Summarization Dataset**: This dataset was utilized to refine the LLaMA-3 and Flan-T5 models. It comprised two components: context and summary. The context pertained to the data obtained by web scraping, while the summary was a concise translation of the text that was both grammatically correct and succinct.
