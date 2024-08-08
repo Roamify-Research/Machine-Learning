@@ -15,7 +15,6 @@ Welcome to the official repository of Roamify Machine Learning research. This re
   - [LLM's Overview](#llms-overview)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Results](#results)
-- [Contributors](#contributors)
 - [Citing This Work](#citing-this-work)
 - [Acknowledgements](#acknowledgements)
 
