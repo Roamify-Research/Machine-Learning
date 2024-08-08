@@ -169,4 +169,3 @@ Name: salt city
 Location: europe.
 Entry Fee: 3 or 4 days.
 Description: phalodi jodhpur nestled in the phalodi tehsil in jodhpur phalodi is popularly known as the salt city owing to its numerous salt industries the town further features several notable historic structures namely phalodi fort lal niwas and more while visiting jodhpur you must spend a day or two in this town .
-

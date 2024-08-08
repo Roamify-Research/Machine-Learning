@@ -57,4 +57,3 @@ Name: barcelona zoo
 Location: 21 passeig de picasso.
 Entry Fee: rs pay.
 Description: parc de la ciutadella located at the heart of barcelona parc de la ciutadella has always been one of the most famous gathering points of the city since its inception in 1877 when it opened it served only as a normal park for the local people however now it houses the famous barcelona zoo and the catalan parliament numerous people also come here during the day for exercising and walking .
-

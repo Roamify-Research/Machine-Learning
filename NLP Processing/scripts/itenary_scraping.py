@@ -1,4 +1,4 @@
-itenary  = """
+itenary = """
 
 *Day 1: India Gate, Lotus Temple*
 
@@ -33,12 +33,12 @@ import nltk
 import re
 from nltk.tokenize import sent_tokenize, word_tokenize
 
-nltk.download('punkt')
+nltk.download("punkt")
 
 days_dict = {}
 
 # Use regular expression to find all day headings and their respective content
-matches = re.findall(r'\*([^*]+)\*\n(.*?)(?=\n\*|$)', itenary, re.DOTALL)
+matches = re.findall(r"\*([^*]+)\*\n(.*?)(?=\n\*|$)", itenary, re.DOTALL)
 
 # Iterate over matches and store them in the dictionary
 for match in matches:

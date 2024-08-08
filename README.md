@@ -1,4 +1,5 @@
 # **Roamify: Roaming Redefined**
+
 ## _Changing the Way World Travels_
 
 Welcome to the official repository of Roamify Machine Learning research. This repository contains the code and documentation for our innovative approach to providing personalized travel recommendations using advanced machine learning techniques.
@@ -108,7 +109,7 @@ Machine Learning/
 ## Research Objectives
 
 1. **Finding the Most Suitable LLM for Summarizing and Cleaning Web Scrapes**: Identify and evaluate various large language models (LLMs) to determine which model performs best in summarizing and cleaning web-scraped data, ensuring the highest accuracy and relevance of travel information.
-3. **Determining the Impact of User Preferences on Itinerary Planning**: Investigate how user preferences for different types of attractions (e.g., historical, amusement, natural) influence the planning of itineraries, and develop models that can effectively incorporate these preferences to provide more relevant and personalized travel suggestions.
+2. **Determining the Impact of User Preferences on Itinerary Planning**: Investigate how user preferences for different types of attractions (e.g., historical, amusement, natural) influence the planning of itineraries, and develop models that can effectively incorporate these preferences to provide more relevant and personalized travel suggestions.
 
 ## Methodology
 
@@ -123,11 +124,12 @@ We created two datasets for fine-tuning, each with a different purpose:
 1. **Summarization Dataset**: This dataset was utilized to refine the LLaMA-3 and Flan-T5 models. It comprised two components: context and summary. The context pertained to the data obtained by web scraping, while the summary was a concise translation of the text that was both grammatically correct and succinct.
 
    **Sample data entry:**
-   - **Context**: 
+
+   - **Context**:
      ```
      Bangalore Palace Winit Deshpande for Wikimedia Commons Built by Chamaraja Wodeyar in the year 1887, Bangalore Palace is an inspired design by England’s Windsor Castle and is one of the best tourist places in Bangalore. The evocative palace comprises fortified arches, towers, architecture, and green lawns along with sophisticated wood carvings in the interior. It is where the royal family still resides at present. This architectural creation is nothing less than an epitome. The palace has earned foundations that have been attributed to the Wodeyars of Mysore. Location: Vasanth Nagar, Bengaluru. Timings: Sunday to Monday from 10:00 AM to 5:00 PM. Entry Fee: INR 230 for Indians, INR 460 for foreigners. Must Read: New Year Party In Bangalore.
      ```
-   - **Summary**: 
+   - **Summary**:
      ```
      Bangalore Palace, built by Chamaraja Wodeyar in 1887, is inspired by England’s Windsor Castle and features fortified arches, towers, green lawns, and intricate wood carvings. Located in Vasanth Nagar, it remains a residence for the royal family and is a prime tourist attraction in Bangalore, open daily with an entry fee.
      ```
@@ -135,13 +137,13 @@ We created two datasets for fine-tuning, each with a different purpose:
 2. **Question-Answering Dataset**: This dataset was utilized to refine question-answering models, specifically BERT, DistilBERT, and RoBERTa. It included six specific questions designed to extract significant insights from the processed scraped data.
 
 **Data Preparation Steps**:
+
 - **Tokenization**: Text data was tokenized using the respective model tokenizers.
 - **Cleaning**: Non-ASCII characters, HTML tags, and extra whitespace were removed.
 - **Normalization**: Text was converted to lowercase, and punctuation was standardized.
 - **Splitting**: The data was split into training and evaluation sets with a typical ratio of 80:20.
 
 These preprocessing steps ensured that the data fed into the models was clean, well-organized, and suitable for training and evaluation, ultimately contributing to the models' performance in generating and fine-tuning travel itineraries.
-
 
 ### NLP Overview
 
@@ -159,12 +161,12 @@ To clear junk from the scraped data, our algorithm involved several stages:
 
 By following these procedures, we ensured that the data was thoroughly cleaned, well-organized, and ready for further analysis and model development.
 
-
 ### LLM's overview
 
 #### Question Answering Models
 
 Initially, we utilized various models for the question answering task to address inquiries pertaining to the context presented in the dataset. The main goal was to obtain important insights and precise replies from the processed scraped data. The specific models employed were:
+
 - **BERT**: Known for its bidirectional training approach, which considers context from both directions.
 - **RoBERTa**: An optimized version of BERT with improved training methods.
 - **DistilBERT**: A distilled version of BERT that retains most of its performance while being smaller and faster.
@@ -174,6 +176,7 @@ These models were fine-tuned to handle questions such as identifying the name, l
 #### Text-to-Text Generation Models
 
 For the text-to-text generation task, specifically summarization, we optimized the following models to produce precise and succinct summaries of the provided text:
+
 - **T5**: A versatile model that treats all NLP tasks as a text-to-text problem, allowing it to generate coherent and contextually accurate text.
 - **Llama-3**: A large language model with sophisticated language understanding and generation capabilities, particularly effective for detailed and personalized text generation.
 
@@ -192,25 +195,25 @@ By combining these models, we achieved significant improvements in the accuracy 
 We evaluated the performance of our question answering models, BERT, DistilBERT, and RoBERTa, by measuring their training and evaluation loss across three epochs. The results are summarized in the tables below:
 
 **Epoch 1**
-| Model       | Train Loss | Eval Loss |
+| Model | Train Loss | Eval Loss |
 |-------------|-------------|-----------|
-| DistilBERT  | 1.9549      | -2.0043   |
-| RoBERTa     | 1.6825      | -2.6740   |
-| BERT        | 6.3657      | 0.2002    |
+| DistilBERT | 1.9549 | -2.0043 |
+| RoBERTa | 1.6825 | -2.6740 |
+| BERT | 6.3657 | 0.2002 |
 
 **Epoch 2**
-| Model       | Train Loss | Eval Loss |
+| Model | Train Loss | Eval Loss |
 |-------------|-------------|-----------|
-| DistilBERT  | 2.6524      | -4.5488   |
-| RoBERTa     | 0.7623      | -4.2015   |
-| BERT        | 6.2629      | 0.0262    |
+| DistilBERT | 2.6524 | -4.5488 |
+| RoBERTa | 0.7623 | -4.2015 |
+| BERT | 6.2629 | 0.0262 |
 
 **Epoch 3**
-| Model       | Train Loss | Eval Loss |
+| Model | Train Loss | Eval Loss |
 |-------------|-------------|-----------|
-| DistilBERT  | 1.2276      | -5.2743   |
-| RoBERTa     | 0.7708      | -4.4541   |
-| BERT        | 5.6464      | 0.0586    |
+| DistilBERT | 1.2276 | -5.2743 |
+| RoBERTa | 0.7708 | -4.4541 |
+| BERT | 5.6464 | 0.0586 |
 
 These metrics indicate the training and evaluation performance of the models, highlighting areas for further improvement.
 
@@ -220,7 +223,6 @@ For the text-to-text generation task, specifically summarization, we evaluated T
 
 **Context:**
 Cubbon Park Sarangib for Pixabay Situated over a sprawling 300 acres of land the park was constructed by Richard Sankey This massive green park along with lawns deserves a special mention Offering statues of famous personalities the park is one among the popular places to visit in Bangalore with friends Location Kas- turba Road Behind High Court of Karnataka Ambed- kar Veedhi Sampangi Rama Nagara BangaloreTimings Open on all daysEntry Fee No entry fee Suggested Read Resorts Near Bangalore
-
 
 **T5 Output:**
 Cubbon Park, a sprawling 300 acres of land, is a popular place to visit in Bangalore with friends. Offering statues of famous personalities, it is a popular place to visit with friends.
@@ -237,7 +239,6 @@ Initially, we trained question-answering models to extract relevant details from
 Our experiments revealed that while T5 performs summarization tasks faster than LLaMA-3, it is sometimes less elaborate. Given our use case's priority on speed, we selected T5 for the summarization task. The combination of T5 for initial summarization and LLaMA for elaboration proved to be the most effective. For efficient itinerary generation, we employed Ollama, built on LLaMA 3.1.
 
 Overall, the T5-LLaMA combination ensured both speed and detail in summarization, while Ollama provided accurate and coherent travel itineraries.
-
 
 ## Usage
 
@@ -271,7 +272,6 @@ If you use our code or models in your research, please cite our paper:
 }
 ``` -->
 
-
 ```
 @inproceedings{roamifyredefined2024,
   title={Roamify: Roaming Redefined},
@@ -280,8 +280,6 @@ If you use our code or models in your research, please cite our paper:
   organization={IIIT Delhi, Computer Science Engineering Dept}
 }
 ```
-
-
 
 ## Acknowledgements
 

@@ -4,43 +4,75 @@ from nltk.tokenize import word_tokenize
 import pandas as pd
 import googlemaps
 
-nltk.download('punkt')
-nltk.download('stopwords')
+nltk.download("punkt")
+nltk.download("stopwords")
 
-stop_words = set(stopwords.words('english'))
-custom_stopwords = {'please', 'specify', 'country', 'state', 'want', 'visit'}
+stop_words = set(stopwords.words("english"))
+custom_stopwords = {"please", "specify", "country", "state", "want", "visit"}
 stop_words.update(custom_stopwords)
 
-states = ['Andhra Pradesh', 'Arunachal Pradesh', 'Assam', 'Bihar', 'Chhattisgarh', 'Goa', 'Gujarat', 'Haryana',
-          'Himachal Pradesh', 'Jharkhand', 'Karnataka', 'Kerala', 'Madhya Pradesh', 'Maharashtra', 'Manipur',
-          'Meghalaya', 'Mizoram', 'Nagaland', 'Odisha', 'Punjab', 'Rajasthan', 'Tamil Nadu', 'Telangana',
-          'Tripura', 'Uttar Pradesh', 'Uttarakhand', 'West Bengal', 'Delhi', 'Sikkim', 'Andaman and Nicobar', 'Lakshadweep']
+states = [
+    "Andhra Pradesh",
+    "Arunachal Pradesh",
+    "Assam",
+    "Bihar",
+    "Chhattisgarh",
+    "Goa",
+    "Gujarat",
+    "Haryana",
+    "Himachal Pradesh",
+    "Jharkhand",
+    "Karnataka",
+    "Kerala",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Odisha",
+    "Punjab",
+    "Rajasthan",
+    "Tamil Nadu",
+    "Telangana",
+    "Tripura",
+    "Uttar Pradesh",
+    "Uttarakhand",
+    "West Bengal",
+    "Delhi",
+    "Sikkim",
+    "Andaman and Nicobar",
+    "Lakshadweep",
+]
 
 states_lower = [state.lower() for state in states]
 
-df = pd.read_csv('datasets/indian_attractions.csv')
+df = pd.read_csv("datasets/indian_attractions.csv")
 
-gmaps = googlemaps.Client(key='YOUR_GOOGLE_API_KEY')
+gmaps = googlemaps.Client(key="YOUR_GOOGLE_API_KEY")
+
 
 def filter_input():
     user_input = input()
     return user_input
 
+
 def get_place_details(place_name, state):
     place_query = f"{place_name}, {state}, India"
     places_result = gmaps.places(query=place_query)
-    if places_result['status'] == 'OK':
-        place_details = places_result['results'][0]
+    if places_result["status"] == "OK":
+        place_details = places_result["results"][0]
         return {
-            'name': place_details['name'],
-            'address': place_details.get('formatted_address'),
-            'rating': place_details.get('rating'),
-            'user_ratings_total': place_details.get('user_ratings_total'),
-            'types': place_details.get('types'),
-            'url': place_details.get('url')
+            "name": place_details["name"],
+            "address": place_details.get("formatted_address"),
+            "rating": place_details.get("rating"),
+            "user_ratings_total": place_details.get("user_ratings_total"),
+            "types": place_details.get("types"),
+            "url": place_details.get("url"),
         }
     else:
         return None
+
 
 def operations(sentence):
     tokenized_words = word_tokenize(sentence)
@@ -65,30 +97,39 @@ def operations(sentence):
         print("No valid number of days found in your input.")
 
     if location_found:
-        attractions = df[df['state'].str.lower() == state_name.lower()]
+        attractions = df[df["state"].str.lower() == state_name.lower()]
         if not attractions.empty:
-            top_visited = attractions.sort_values(by='visits', ascending=False).head(3)
+            top_visited = attractions.sort_values(by="visits", ascending=False).head(3)
             for idx, row in top_visited.iterrows():
-                place_details = get_place_details(row['name'], state_name)
+                place_details = get_place_details(row["name"], state_name)
                 if place_details:
-                    print(f"Name: {place_details['name']}, Address: {place_details['address']}, Visits: {row['visits']}, Rating: {place_details['rating']}")
+                    print(
+                        f"Name: {place_details['name']}, Address: {place_details['address']}, Visits: {row['visits']}, Rating: {place_details['rating']}"
+                    )
                 else:
-                    print(f"Name: {row['name']}, Visits: {row['visits']}, Rating: {row['rating']}")
+                    print(
+                        f"Name: {row['name']}, Visits: {row['visits']}, Rating: {row['rating']}"
+                    )
 
-            top_rated = attractions.sort_values(by='rating', ascending=False).head(3)
+            top_rated = attractions.sort_values(by="rating", ascending=False).head(3)
             for idx, row in top_rated.iterrows():
-                place_details = get_place_details(row['name'], state_name)
+                place_details = get_place_details(row["name"], state_name)
                 if place_details:
-                    print(f"Name: {place_details['name']}, Address: {place_details['address']}, Visits: {row['visits']}, Rating: {place_details['rating']}")
+                    print(
+                        f"Name: {place_details['name']}, Address: {place_details['address']}, Visits: {row['visits']}, Rating: {place_details['rating']}"
+                    )
                 else:
-                    print(f"Name: {row['name']}, Visits: {row['visits']}, Rating: {row['rating']}")
+                    print(
+                        f"Name: {row['name']}, Visits: {row['visits']}, Rating: {row['rating']}"
+                    )
         else:
             print(f"No attractions found for {state_name}.")
+
 
 print("\nType 'exit' to quit the program.\n")
 while True:
     user_input = filter_input()
-    if user_input.lower() == 'exit':
+    if user_input.lower() == "exit":
         print("Exiting the program.")
         break
     operations(user_input)

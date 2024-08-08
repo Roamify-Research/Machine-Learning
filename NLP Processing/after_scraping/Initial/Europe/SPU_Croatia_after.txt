@@ -37,4 +37,3 @@ Description: pula suggested read 50 amazing travel experiences around the world 
 Name: vis tripadvisor
 Location: europe.
 Description: vis tripadvisor vis is the farthest island in the adriatic sea it is one of the offbeat places to visit in croatia owing to its unspoiled .
-
