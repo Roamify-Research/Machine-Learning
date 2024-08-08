@@ -5,19 +5,24 @@ import nltk
 from langchain.chains import SequentialChain
 from langchain.steps import Step
 
-nltk.download('punkt')
-nltk.download('stopwords')
+nltk.download("punkt")
+nltk.download("stopwords")
 
-nlp_model = spacy.load('en_core_web_lg')
-qa_pipeline = pipeline("question-answering", model="bert-large-uncased-whole-word-masking-finetuned-squad")
+nlp_model = spacy.load("en_core_web_lg")
+qa_pipeline = pipeline(
+    "question-answering", model="bert-large-uncased-whole-word-masking-finetuned-squad"
+)
+
 
 def process_text(file_path):
-    with open(file_path, "r", encoding='utf-8') as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         data = f.read()
     return nlp_model(data)
 
+
 def extract_sentences(data_processed):
     return [sent.text.strip() for sent in data_processed.sents]
+
 
 def split_sentences(sentences):
     sentences_processed = []
@@ -27,6 +32,7 @@ def split_sentences(sentences):
             s_ = i.split(".")
             sentences_processed.extend(s_)
     return sentences_processed
+
 
 def parse_attractions(sentences_processed):
     attractions = {}
@@ -40,15 +46,26 @@ def parse_attractions(sentences_processed):
                 attractions[current_index] = ""
         else:
             if current_index != 0:
-                attractions[current_index] += (sentence + " ")
+                attractions[current_index] += sentence + " "
     return attractions
+
 
 def tokenize_and_clean(attraction_data):
     words = word_tokenize(attraction_data)
     return [w for w in words if w not in [":", "-", "image", "credit", "source"]]
 
+
 def create_empty_template():
-    return {"Location": "", "Timings": "", "Entry Fee": "", "Description": "", "Built By": "", "Built In": "", "Price For Two": ""}
+    return {
+        "Location": "",
+        "Timings": "",
+        "Entry Fee": "",
+        "Description": "",
+        "Built By": "",
+        "Built In": "",
+        "Price For Two": "",
+    }
+
 
 def fill_template(words):
     val = create_empty_template()
@@ -62,24 +79,37 @@ def fill_template(words):
             current = "Timings"
         elif word == "entry" and words[count + 1].lower() == "fee":
             current = "Entry Fee"
-            count += 2; continue
+            count += 2
+            continue
         elif word == "fee":
             current = "Entry Fee"
-        elif word == "price" and words[count + 1].lower() == "for" and words[count + 2].lower() == "two":
+        elif (
+            word == "price"
+            and words[count + 1].lower() == "for"
+            and words[count + 2].lower() == "two"
+        ):
             current = "Price For Two"
-            count += 3; continue
+            count += 3
+            continue
         elif word == "built" and words[count + 1].lower() == "by":
             current = "Built By"
-            count += 2; continue
+            count += 2
+            continue
         elif word == "built-in":
             current = "Built In"
-        elif word == "how" and words[count + 1].lower() == "to" and words[count + 2].lower() == "reach":
+        elif (
+            word == "how"
+            and words[count + 1].lower() == "to"
+            and words[count + 2].lower() == "reach"
+        ):
             current = "Location"
-            count += 3; continue
+            count += 3
+            continue
         else:
-            val[current] += (word + " ")
+            val[current] += word + " "
         count += 1
     return val
+
 
 def ask_questions(val):
     questions = {
@@ -89,22 +119,49 @@ def ask_questions(val):
         "entry_fee": "What is the entry fee of the attraction?",
         "built_in": "When was the attraction built?",
         "built_by": "Who built the attraction?",
-        "price_for_two": "What is the price for two at the attraction in inr?"
+        "price_for_two": "What is the price for two at the attraction in inr?",
     }
     answers = {}
-    answers["name"] = qa_pipeline(question=questions["name"], context=str(val["Description"]))
-    answers["location"] = qa_pipeline(question=questions["location"], context=val["Location"]) if val["Location"] else {"answer": "Not Found"}
-    answers["timings"] = qa_pipeline(question=questions["timings"], context=val["Timings"]) if val["Timings"] else {"answer": "Not Found"}
-    answers["entry_fee"] = qa_pipeline(question=questions["entry_fee"], context=val["Entry Fee"]) if val["Entry Fee"] else {"answer": "Not Found"}
+    answers["name"] = qa_pipeline(
+        question=questions["name"], context=str(val["Description"])
+    )
+    answers["location"] = (
+        qa_pipeline(question=questions["location"], context=val["Location"])
+        if val["Location"]
+        else {"answer": "Not Found"}
+    )
+    answers["timings"] = (
+        qa_pipeline(question=questions["timings"], context=val["Timings"])
+        if val["Timings"]
+        else {"answer": "Not Found"}
+    )
+    answers["entry_fee"] = (
+        qa_pipeline(question=questions["entry_fee"], context=val["Entry Fee"])
+        if val["Entry Fee"]
+        else {"answer": "Not Found"}
+    )
     if "no" in answers["entry_fee"]["answer"].lower():
         answers["entry_fee"] = {"answer": "No"}
-    answers["built_in"] = qa_pipeline(question=questions["built_in"], context=val["Built In"]) if val["Built In"] else {"answer": "Not Found"}
-    answers["built_by"] = qa_pipeline(question=questions["built_by"], context=val["Built By"]) if val["Built By"] else {"answer": "Not Found"}
-    answers["price_for_two"] = qa_pipeline(question=questions["price_for_two"], context=val["Price For Two"]) if val["Price For Two"] else {"answer": "Not Found"}
+    answers["built_in"] = (
+        qa_pipeline(question=questions["built_in"], context=val["Built In"])
+        if val["Built In"]
+        else {"answer": "Not Found"}
+    )
+    answers["built_by"] = (
+        qa_pipeline(question=questions["built_by"], context=val["Built By"])
+        if val["Built By"]
+        else {"answer": "Not Found"}
+    )
+    answers["price_for_two"] = (
+        qa_pipeline(question=questions["price_for_two"], context=val["Price For Two"])
+        if val["Price For Two"]
+        else {"answer": "Not Found"}
+    )
     return answers
 
+
 def write_results(file_path, attractions, qa_pipeline):
-    with open(file_path, "w", encoding='utf-8') as write_file:
+    with open(file_path, "w", encoding="utf-8") as write_file:
         for id, attraction_data in attractions.items():
             words = tokenize_and_clean(attraction_data)
             val = fill_template(words)
@@ -122,18 +179,33 @@ def write_results(file_path, attractions, qa_pipeline):
                 """
             )
 
-data_processing_step = Step(process_text, inputs=["file_path"], outputs=["data_processed"])
-sentence_extraction_step = Step(extract_sentences, inputs=["data_processed"], outputs=["sentences"])
-sentence_splitting_step = Step(split_sentences, inputs=["sentences"], outputs=["sentences_processed"])
-attraction_parsing_step = Step(parse_attractions, inputs=["sentences_processed"], outputs=["attractions"])
-result_writing_step = Step(write_results, inputs=["file_path", "attractions", "qa_pipeline"])
 
-pipeline = SequentialChain(steps=[
-    data_processing_step,
-    sentence_extraction_step,
-    sentence_splitting_step,
-    attraction_parsing_step,
-    result_writing_step
-])
+data_processing_step = Step(
+    process_text, inputs=["file_path"], outputs=["data_processed"]
+)
+sentence_extraction_step = Step(
+    extract_sentences, inputs=["data_processed"], outputs=["sentences"]
+)
+sentence_splitting_step = Step(
+    split_sentences, inputs=["sentences"], outputs=["sentences_processed"]
+)
+attraction_parsing_step = Step(
+    parse_attractions, inputs=["sentences_processed"], outputs=["attractions"]
+)
+result_writing_step = Step(
+    write_results, inputs=["file_path", "attractions", "qa_pipeline"]
+)
 
-pipeline({"file_path": "../webscraped data/traveltriangle.txt", "qa_pipeline": qa_pipeline})
+pipeline = SequentialChain(
+    steps=[
+        data_processing_step,
+        sentence_extraction_step,
+        sentence_splitting_step,
+        attraction_parsing_step,
+        result_writing_step,
+    ]
+)
+
+pipeline(
+    {"file_path": "../webscraped data/traveltriangle.txt", "qa_pipeline": qa_pipeline}
+)

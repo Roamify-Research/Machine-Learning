@@ -14,13 +14,13 @@ import pandas as pd
 
 
 # Load the dataset with error handling
-df = pd.read_csv('final-us.csv', on_bad_lines='skip')
+df = pd.read_csv("final-us.csv", on_bad_lines="skip")
 
 # Remove duplicates based on the 'Name' and 'City' columns
-df = df.drop_duplicates(subset=['Name', 'City'])
+df = df.drop_duplicates(subset=["Name", "City"])
 
 # Save the updated dataframe back to the same CSV file
-df.to_csv('final-us.csv', index=False)
+df.to_csv("final-us.csv", index=False)
 
 # Print the updated dataframe
 print(df)

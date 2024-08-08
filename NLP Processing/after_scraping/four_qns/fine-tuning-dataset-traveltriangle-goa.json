@@ -18,7 +18,7 @@
         "context_index": 0,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
-    },    
+    },
     {
         "context_index": 1,
         "question": "What is the name of the attraction?",
@@ -38,7 +38,7 @@
         "context_index": 1,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
-    },    
+    },
     {
         "context_index": 2,
         "question": "What is the name of the attraction?",
@@ -58,7 +58,7 @@
         "context_index": 2,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
-    },    
+    },
 
     {
         "context_index": 3,
@@ -79,7 +79,7 @@
         "context_index": 3,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
-    },    
+    },
     {
         "context_index": 4,
         "question": "What is the name of the attraction?",
@@ -99,7 +99,7 @@
         "context_index": 4,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
-    },    
+    },
     {
         "context_index": 5,
         "question": "What is the name of the attraction?",
@@ -111,7 +111,7 @@
         "question": "What is the location of the attraction?",
         "answer": "Corjuem, North Goa"
     },
-    
+
     {
         "context_index": 5,
         "question": "Describe the attraction in detail.",
@@ -121,7 +121,7 @@
         "context_index": 5,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical"
-    },    
+    },
     {
         "context_index": 6,
         "question": "What is the name of the attraction?",
@@ -181,7 +181,7 @@
         "context_index": 8,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical (Religious)"
-    },        
+    },
     {
         "context_index": 9,
         "question": "What is the name of the attraction?",
@@ -201,7 +201,7 @@
         "context_index": 9,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Historical (Religious)"
-    },    
+    },
     {
         "context_index": 10,
         "question": "What is the name of the attraction?",
@@ -261,7 +261,7 @@
         "context_index": 12,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Amusement (Restaurant)"
-    },    
+    },
     {
         "context_index": 13,
         "question": "What is the name of the attraction?",
@@ -321,7 +321,7 @@
         "context_index": 15,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Amusement (Restaurant)"
-    },    
+    },
     {
         "context_index": 16,
         "question": "What is the name of the attraction?",
@@ -361,7 +361,7 @@
         "context_index": 17,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Natural (Bird Sanctuary)"
-    }, 
+    },
     {
         "context_index": 18,
         "question": "What is the name of the attraction?",
@@ -541,7 +541,7 @@
         "context_index": 26,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Beach"
-    },    
+    },
     {
         "context_index": 27,
         "question": "What is the name of the attraction?",
@@ -701,7 +701,7 @@
         "context_index": 34,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Beach"
-    },    
+    },
     {
         "context_index": 35,
         "question": "What is the name of the attraction?",
@@ -1082,7 +1082,7 @@
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Cultural and educational site"
     },
-    {   
+    {
         "context_index": 54,
         "question": "What is the name of the attraction?",
         "answer": "Arvalem Waterfall"

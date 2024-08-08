@@ -53,4 +53,3 @@ Description: konopiste castle this intimidating castle was founded in 1300 by th
 Name: the sedlec ossuary
 Location: mcleodganj.
 Description: the sedlec ossuary the sedlec ossuary a tiny chapel in the cemetery of the church of all saints is adorned with bones of almost forty thousand people in the four bends of the chapel the biggest collection of bones is organised in the form of bells the most intriguing creations are the chandelier in the center of the nave which contains all the bones of the human body .
-

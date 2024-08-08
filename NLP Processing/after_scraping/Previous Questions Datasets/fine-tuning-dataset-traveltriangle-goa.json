@@ -748,7 +748,7 @@
         "context_index": 16,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Natural"
-    },    
+    },
     {
         "context_index": 17,
         "question": "What is the name of the attraction?",
@@ -2466,5 +2466,5 @@
         "context_index": 54,
         "question": "What type of attraction is it? (e.g. historical, natural, amusement, beach)",
         "answer": "Natural"
-    }    
+    }
 ]

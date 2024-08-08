@@ -4,28 +4,28 @@ import json
 
 gmaps = googlemaps.Client(key="your_api_key")
 api_key = "your_api_key"
+
+
 def search_nearby_places():
     url = "https://places.googleapis.com/v1/places:searchNearby"
     headers = {
-        'Content-Type': 'application/json',
-        'X-Goog-Api-Key': api_key,
-        'X-Goog-FieldMask': 'places.displayName'
+        "Content-Type": "application/json",
+        "X-Goog-Api-Key": api_key,
+        "X-Goog-FieldMask": "places.displayName",
     }
     payload = {
-        "includedTypes": ['point_of_interest'],
+        "includedTypes": ["point_of_interest"],
         "locationRestriction": {
             "circle": {
-                "center": {
-                    "latitude": 15.2993,
-                    "longitude": 74.1240
-                },
-                "radius": 1000
+                "center": {"latitude": 15.2993, "longitude": 74.1240},
+                "radius": 1000,
             }
-        }
+        },
     }
 
     response = requests.post(url, headers=headers, data=json.dumps(payload))
     print(response.json())
+
 
 # base_url = "https://maps.googleapis.com/maps/api/place/details/json"
 # params = {
