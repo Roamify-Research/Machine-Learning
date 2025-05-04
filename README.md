@@ -12,6 +12,8 @@
 
 Welcome to the official repository of Roamify Machine Learning research. This repository contains the code and documentation for our innovative approach to providing personalized travel recommendations using advanced machine learning techniques.
 
+[Wiki](https://deepwiki.com/Roamify-Research/Machine-Learning)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
