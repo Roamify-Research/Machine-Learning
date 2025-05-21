@@ -247,30 +247,3 @@ Initially, we trained question-answering models to extract relevant details from
 Our experiments revealed that while T5 performs summarization tasks faster than LLaMA-3, it is sometimes less elaborate. Given our use case's priority on speed, we selected T5 for the summarization task. The combination of T5 for initial summarization and LLaMA for elaboration proved to be the most effective. For efficient itinerary generation, we employed Ollama, built on LLaMA 3.1.
 
 Overall, the T5-LLaMA combination ensured both speed and detail in summarization, while Ollama provided accurate and coherent travel itineraries.
-
-## Citing This Work
-
-If you use our code or models in your research, please cite our paper:
-
-<!-- ```
-@inproceedings{roamifyredefined2024,
-  title={Roamify: Roaming Redefined},
-  author={Vikranth Udandarao, Harsh Mistry, Muthuraj Vairamuthu, Noel Tiju and Armaan Singh},
-  booktitle={Proceedings of the Top Conference on AI and Travel Technology},
-  year={2024},
-  organization={IIIT Delhi, Computer Science Engineering Dept}
-}
-``` -->
-
-```
-@inproceedings{roamifyredefined2024,
-  title={Roamify: Roaming Redefined},
-  author={Vikranth Udandarao, Harsh Mistry, Muthuraj Vairamuthu, Noel Tiju, Armaan Singh, and Dhruv Kumar},
-  year={2024},
-  organization={IIIT Delhi, Computer Science Engineering Dept}
-}
-```
-
-## Acknowledgements
-
-We would like to thank our academic institution, [IIIT Delhi](https://iiitd.ac.in/), and our guide, [Dr. Dhruv Kumar](https://kudhru.github.io/) for their support and contributions to this research.
